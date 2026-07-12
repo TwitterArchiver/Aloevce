@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1825592411529314304"
+      ],
+      "media_source_tweet_id": [
+        "1825592420366725129"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1825594145794068809",
+    "created_at": "2024-08-19T18:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T19:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825594145794068809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671223477284777984",
+          "start": 3,
+          "username": "JIk1618888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/siksdyjhwo",
+          "end": 134,
+          "expanded_url": "https://twitter.com/JIk1618888/status/1825592420366725129/photo/1",
+          "media_key": "3_1825592411529314304",
+          "start": 111,
+          "url": "https://t.co/SIKsDYjhWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825594145794068809",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825592420366725129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JIk1618888: 抽个奖吧！\n好久没出现了！\n我先说一下，杭州找模特或者想要做直播的！包吃住！有意向联系我！\n然后抽奖5.2抽10个！\n52抽4个！\nqqny跟丝袜随机抽！\n转发评论点赞关注！\n在杭州萧山！ https://t.co/SIKsDYjhWO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1825594145794068809].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1825594145794068809",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1825594145794068809"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1825592411529314304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVXOoDnagAA0dFe.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825592411529314304"
+          ]
+        },
+        "author_id": "1671223477284777984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1825592420366725129",
+        "created_at": "2024-08-19T17:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T18:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825592420366725129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/siksdyjhwo",
+              "end": 118,
+              "expanded_url": "https://twitter.com/JIk1618888/status/1825592420366725129/photo/1",
+              "media_key": "3_1825592411529314304",
+              "start": 95,
+              "url": "https://t.co/SIKsDYjhWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825592420366725129",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "抽个奖吧！\n好久没出现了！\n我先说一下，杭州找模特或者想要做直播的！包吃住！有意向联系我！\n然后抽奖5.2抽10个！\n52抽4个！\nqqny跟丝袜随机抽！\n转发评论点赞关注！\n在杭州萧山！ https://t.co/SIKsDYjhWO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17983,
+          "following_count": 2237,
+          "like_count": 52596,
+          "listed_count": 22,
+          "tweet_count": 18443
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T18:29:06.000Z",
+        "description": "情绪肉体维修师",
+        "id": "1671223477284777984",
+        "name": "JIk",
+        "pinned_tweet_id": "1794066704135311496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671223841107087360/Z-UyKCid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 366,
+          "like_count": 6,
+          "listed_count": 5,
+          "tweet_count": 2055
+        },
+        "username": "JIk1618888",
+        "verified": false
+      }
+    ]
+  }
+}
