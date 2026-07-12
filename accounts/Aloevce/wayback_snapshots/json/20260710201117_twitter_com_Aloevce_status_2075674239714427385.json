@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075674235117486081"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075674239714427385",
+    "created_at": "2026-07-10T20:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T21:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075674239714427385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N0Kbwg4qF5",
+          "end": 35,
+          "expanded_url": "https://x.com/Aloevce/status/2075674239714427385/photo/1",
+          "media_key": "3_2075674235117486081",
+          "start": 12,
+          "url": "https://t.co/N0Kbwg4qF5"
+        },
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/usagimm208/status/2075632514224509425",
+          "start": 36,
+          "url": "https://t.co/nz2VYqGnwv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075674239714427385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075632514224509425",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是 我只上线签个到 https://t.co/N0Kbwg4qF5 https://t.co/nz2VYqGnwv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_2075674235117486081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5GuC2bwAEx3zG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075674235117486081"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075674239714427385",
+        "created_at": "2026-07-10T20:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075674239714427385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0Kbwg4qF5",
+              "end": 35,
+              "expanded_url": "https://x.com/Aloevce/status/2075674239714427385/photo/1",
+              "media_key": "3_2075674235117486081",
+              "start": 12,
+              "url": "https://t.co/N0Kbwg4qF5"
+            },
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/usagimm208/status/2075632514224509425",
+              "start": 36,
+              "url": "https://t.co/nz2VYqGnwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075674239714427385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075632514224509425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是 我只上线签个到 https://t.co/N0Kbwg4qF5 https://t.co/nz2VYqGnwv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005739449058230272",
+        "conversation_id": "2075632514224509425",
+        "created_at": "2026-07-10T17:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075632514224509425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075632514224509425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阴阳师这个游戏特别无聊特别不好玩，马上玩了快十年也没玩明白，它对我唯一的作用就是欣赏一下皮肤和插画"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18047,
+          "following_count": 1957,
+          "like_count": 56408,
+          "listed_count": 23,
+          "media_count": 6884,
+          "tweet_count": 24170
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "无能系弱女オタク",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "そちゃ",
+        "pinned_tweet_id": "2058643879059190070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 50,
+          "like_count": 3015,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 1129
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}
