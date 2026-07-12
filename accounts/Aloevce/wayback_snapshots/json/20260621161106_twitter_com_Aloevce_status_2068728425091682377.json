@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2068728425091682377",
+    "created_at": "2026-06-21T16:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068728425091682377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/usagimm208/status/2068671916836315293",
+          "start": 6,
+          "url": "https://t.co/0c0hGZFhoK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068728425091682377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068671916836315293",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美女你是谁 https://t.co/0c0hGZFhoK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5288,
+        "height": 682,
+        "media_key": "13_2068671837677174784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068671837677174784/img/d-gxF9cDMEoZ0Bbj.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068671837677174784/vid/avc1/506x270/fIR-0NMoPqPdCr53.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068671837677174784/vid/avc1/674x360/K_TbCE0Hpra4I--r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068671837677174784/vid/avc1/1280x682/eRZfLjow_g06xrVq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068671837677174784/pl/K4xcsQZM8jYZsF5g.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2068728425091682377",
+        "created_at": "2026-06-21T16:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068728425091682377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/usagimm208/status/2068671916836315293",
+              "start": 6,
+              "url": "https://t.co/0c0hGZFhoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068728425091682377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068671916836315293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美女你是谁 https://t.co/0c0hGZFhoK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068671837677174784"
+          ]
+        },
+        "author_id": "2005739449058230272",
+        "conversation_id": "2068671916836315293",
+        "created_at": "2026-06-21T12:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068671916836315293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8z2FbGvL68",
+              "end": 34,
+              "expanded_url": "https://x.com/usagimm208/status/2068671916836315293/video/1",
+              "media_key": "13_2068671837677174784",
+              "start": 11,
+              "url": "https://t.co/8z2FbGvL68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068671916836315293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我今天出门的时候 https://t.co/8z2FbGvL68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18100,
+          "following_count": 1961,
+          "like_count": 56325,
+          "listed_count": 23,
+          "media_count": 6821,
+          "tweet_count": 24006
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "そちゃ",
+        "pinned_tweet_id": "2058643879059190070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 39,
+          "like_count": 2456,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

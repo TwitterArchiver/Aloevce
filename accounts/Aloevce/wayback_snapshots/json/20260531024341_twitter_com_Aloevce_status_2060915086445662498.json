@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2060915086445662498",
+    "created_at": "2026-05-31T02:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T03:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060915086445662498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uzupakapie/sta…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/uzupakapie/status/2060793661634347464",
+          "start": 118,
+          "url": "https://t.co/vu0gK5Ptht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060915086445662498",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060793661634347464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Sometimes I wish I was one of these rich city girl otakus who get their hair and nails done for every live they go to https://t.co/vu0gK5Ptht"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2060915086445662498",
+        "created_at": "2026-05-31T02:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060915086445662498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uzupakapie/sta…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/uzupakapie/status/2060793661634347464",
+              "start": 118,
+              "url": "https://t.co/vu0gK5Ptht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060915086445662498",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060793661634347464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Sometimes I wish I was one of these rich city girl otakus who get their hair and nails done for every live they go to https://t.co/vu0gK5Ptht"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670681671547465728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "2060793661634347464",
+        "created_at": "2026-05-30T18:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060793661634347464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060793661634347464",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 15852,
+          "like_count": 1234,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "Sometimes I wish I was one of these rich city girl otakus who get their hair and nails done for every live they go to"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18181,
+          "following_count": 1975,
+          "like_count": 56267,
+          "listed_count": 24,
+          "media_count": 6755,
+          "tweet_count": 23814
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T06:35:40.000Z",
+        "description": "島村卯月-P 🌸 ♡ I’ll do my best! ♡ 20 ⚢\n🇺🇸 Idolmaster fan ☆ Let’s make a kind world! \nmy love @akaringomystar 🩷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "akaringomystar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "luluzuki.straw.page",
+                "end": 23,
+                "expanded_url": "https://luluzuki.straw.page",
+                "start": 0,
+                "url": "https://t.co/aQZSImRSvD"
+              }
+            ]
+          }
+        },
+        "id": "1670681671547465728",
+        "location": "346 pro ♡ she/her",
+        "name": "lulu-p",
+        "pinned_tweet_id": "2038695031456911711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058585675385970689/TnnzgQgY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1651,
+          "like_count": 41566,
+          "listed_count": 11,
+          "media_count": 943,
+          "tweet_count": 11007
+        },
+        "url": "https://t.co/aQZSImRSvD",
+        "username": "uzupakapie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1822809487197024257"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1822809569225068818",
+    "created_at": "2024-08-12T01:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T02:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822809569225068818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zno5vb8x0b",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Aloevce/status/1822809569225068818/video/1",
+          "media_key": "7_1822809487197024257",
+          "start": 3,
+          "url": "https://t.co/Zno5VB8X0B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822809569225068818",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自证 https://t.co/Zno5VB8X0B"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1822809569225068818].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1822809569225068818",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1822809569225068818"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6431,
+        "height": 1264,
+        "media_key": "7_1822809487197024257",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1822809487197024257/pu/img/jTnlrdOoRc4MvcOb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822809487197024257/pu/vid/avc1/320x560/A6C2T-m7gvo76Xed.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822809487197024257/pu/vid/avc1/480x842/9N2xVP5dbAhyT77I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822809487197024257/pu/vid/avc1/720x1264/V-jMuFsPfkZYP7Qh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1822809487197024257/pu/pl/faiGBbGIMB94HfPu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17294,
+          "following_count": 2187,
+          "like_count": 52044,
+          "listed_count": 22,
+          "tweet_count": 18253
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

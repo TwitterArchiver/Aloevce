@@ -1,0 +1,131 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "16_1806278049329037312"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1806278087358722302",
+    "created_at": "2024-06-27T10:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T11:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806278087358722302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/4pwZGWNCMC",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Aloevce/status/1806278087358722302/photo/1",
+          "media_key": "16_1806278049329037312",
+          "start": 17,
+          "url": "https://t.co/4pwZGWNCMC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806278087358722302",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "寄了一百斤的东西回家，寄就一个字 https://t.co/4pwZGWNCMC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "16_1806278049329037312",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GREwUNfXwAAk_3N.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GREwUNfXwAAk_3N.mp4"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1806278049329037312"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1806278087358722302",
+        "created_at": "2024-06-27T10:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T11:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806278087358722302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4pwZGWNCMC",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Aloevce/status/1806278087358722302/photo/1",
+              "media_key": "16_1806278049329037312",
+              "start": 17,
+              "url": "https://t.co/4pwZGWNCMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806278087358722302",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "寄了一百斤的东西回家，寄就一个字 https://t.co/4pwZGWNCMC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795447835732881408/Lypwm-n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13961,
+          "following_count": 2212,
+          "like_count": 51852,
+          "listed_count": 18,
+          "tweet_count": 17775
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

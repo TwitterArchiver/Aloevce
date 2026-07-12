@@ -1,0 +1,211 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1813304315458813952"
+      ],
+      "media_source_tweet_id": [
+        "1813304322580713500"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1813323710495072766",
+    "created_at": "2024-07-16T21:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T22:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813323710495072766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671223477284777984",
+          "start": 3,
+          "username": "JIk1618888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/GIacjp6fTe",
+          "end": 72,
+          "expanded_url": "https://twitter.com/JIk1618888/status/1813304322580713500/photo/1",
+          "media_key": "3_1813304315458813952",
+          "start": 49,
+          "url": "https://t.co/GIacjp6fTe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813323710495072766",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813304322580713500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JIk1618888: 转发评论参与抽奖\n5.2。20个\n52。5个\n131.4。3个。 https://t.co/GIacjp6fTe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1813323710495072766].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1813323710495072766",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1813323710495072766"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1813304315458813952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSomquibAAAHfrA.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813304315458813952"
+          ]
+        },
+        "author_id": "1671223477284777984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1813304322580713500",
+        "created_at": "2024-07-16T20:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T21:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813304322580713500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/GIacjp6fTe",
+              "end": 56,
+              "expanded_url": "https://twitter.com/JIk1618888/status/1813304322580713500/photo/1",
+              "media_key": "3_1813304315458813952",
+              "start": 33,
+              "url": "https://t.co/GIacjp6fTe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813304322580713500",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "转发评论参与抽奖\n5.2。20个\n52。5个\n131.4。3个。 https://t.co/GIacjp6fTe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1812569352366866598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17574,
+          "following_count": 2195,
+          "like_count": 52088,
+          "listed_count": 21,
+          "tweet_count": 17964
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T18:29:06.000Z",
+        "description": "情绪肉体维修师",
+        "id": "1671223477284777984",
+        "name": "JIk",
+        "pinned_tweet_id": "1794066704135311496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671223841107087360/Z-UyKCid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 354,
+          "like_count": 6,
+          "listed_count": 4,
+          "tweet_count": 1959
+        },
+        "username": "JIk1618888",
+        "verified": false
+      }
+    ]
+  }
+}

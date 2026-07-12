@@ -1,0 +1,214 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1815725495176106392",
+    "created_at": "2024-07-23T12:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T13:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1815725495176106392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ellxz_/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Ellxz_/status/1796806574566158688",
+          "start": 6,
+          "url": "https://t.co/9qzCKOxHFA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815725495176106392",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796806574566158688",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这完全是我 https://t.co/9qzCKOxHFA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1815725495176106392",
+        "created_at": "2024-07-23T12:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T13:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815725495176106392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ellxz_/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Ellxz_/status/1796806574566158688",
+              "start": 6,
+              "url": "https://t.co/9qzCKOxHFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815725495176106392",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796806574566158688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这完全是我 https://t.co/9qzCKOxHFA"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796806569876979712"
+          ]
+        },
+        "author_id": "1759995002934177793",
+        "conversation_id": "1796806574566158688",
+        "created_at": "2024-06-01T07:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T08:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796806574566158688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/DusbJqUjyW",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Ellxz_/status/1796806574566158688/photo/1",
+              "media_key": "3_1796806569876979712",
+              "start": 0,
+              "url": "https://t.co/DusbJqUjyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796806574566158688",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 32213,
+          "like_count": 1068,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/DusbJqUjyW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17203,
+          "following_count": 2197,
+          "like_count": 52007,
+          "listed_count": 21,
+          "tweet_count": 18035
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T17:35:02.000Z",
+        "description": "会えます^ •̥ @•^੭ @amaidream_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "amaidream_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/egu1__?igsh=eD…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/egu1__?igsh=eDF4Z21wN3g0ZHQw&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/SIoURPaHd7"
+              }
+            ]
+          }
+        },
+        "id": "1759995002934177793",
+        "name": "𝕰",
+        "pinned_tweet_id": "1780879021922038082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760195473380671488/3XKJWF4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2582,
+          "following_count": 1065,
+          "like_count": 4862,
+          "listed_count": 6,
+          "tweet_count": 341
+        },
+        "url": "https://t.co/SIoURPaHd7",
+        "username": "Ellxz_",
+        "verified": false
+      }
+    ]
+  }
+}

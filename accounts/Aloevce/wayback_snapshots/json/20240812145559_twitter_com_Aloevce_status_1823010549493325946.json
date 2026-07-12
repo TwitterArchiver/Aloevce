@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1823010549493325946",
+    "created_at": "2024-08-12T14:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T15:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823010549493325946"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "蔷蔷广告位"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1279960565759148032",
+          "start": 3,
+          "username": "ovo36650578"
+        },
+        {
+          "end": 49,
+          "id": "1710657392751542272",
+          "start": 33,
+          "username": "YumikaHanashiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823010549493325946",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821526459204473247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovo36650578: ＃蔷蔷广告位\n称呼:宫香\n推特:@YumikaHanashiro\n企鹅:156654647\n价格:60up/h（仅文援）其他业务请咨询\n设定:喜欢被调教的m系雌奴，S也是S的起来呦！\n额外:缺钱…已老实求放过，宫香会比平时更卖力的服侍各位金主爸…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1823010549493325946].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1823010549493325946",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1823010549493325946"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821526451008761856",
+            "3_1821526456134184961"
+          ]
+        },
+        "author_id": "1279960565759148032",
+        "conversation_id": "1821526459204473247",
+        "created_at": "2024-08-08T12:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T13:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821526459204473247"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "蔷蔷广告位"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1710657392751542272",
+              "start": 16,
+              "username": "YumikaHanashiro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ylhuvoq3ov",
+              "end": 189,
+              "expanded_url": "https://twitter.com/ovo36650578/status/1821526459204473247/photo/1",
+              "media_key": "3_1821526451008761856",
+              "start": 166,
+              "url": "https://t.co/yLhuVOq3Ov"
+            },
+            {
+              "display_url": "pic.x.com/ylhuvoq3ov",
+              "end": 189,
+              "expanded_url": "https://twitter.com/ovo36650578/status/1821526459204473247/photo/1",
+              "media_key": "3_1821526456134184961",
+              "start": 166,
+              "url": "https://t.co/yLhuVOq3Ov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821526459204473247",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2076,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＃蔷蔷广告位\n称呼:宫香\n推特:@YumikaHanashiro\n企鹅:156654647\n价格:60up/h（仅文援）其他业务请咨询\n设定:喜欢被调教的m系雌奴，S也是S的起来呦！\n额外:缺钱…已老实求放过，宫香会比平时更卖力的服侍各位金主爸爸们，原味以及文爱都大特价，宫香穿了三天 !的原味袜袜和内内，各位真的不考虑嘛…QAQ https://t.co/yLhuVOq3Ov"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17374,
+          "following_count": 2192,
+          "like_count": 52200,
+          "listed_count": 22,
+          "tweet_count": 18314
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T02:09:19.000Z",
+        "description": "各位贵安~这里是文援墙，聚合所有喜爱文援和H的灵魂信念凝聚而成。首先声明!不许调戏蔷蔷!蔷蔷项目菜单一【文援运营咨询】【文援征集悬赏】 【挂人板】【定制文】给蔷蔷发的悬赏单请截图告知蔷蔷联系热线2375565349赞助、打赏私戳咱吧w",
+        "id": "1279960565759148032",
+        "location": "蔷蔷妙妙屋",
+        "name": "文援墙（蔷）",
+        "pinned_tweet_id": "1803092461952377312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591268153698287625/SCFEu44O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8839,
+          "following_count": 197,
+          "like_count": 2329,
+          "listed_count": 39,
+          "tweet_count": 4731
+        },
+        "username": "ovo36650578",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-07T14:05:11.000Z",
+        "description": "日常系的女子 基本不發色推 歡迎訂製女友",
+        "id": "1710657392751542272",
+        "location": "Taiwan",
+        "name": "日常系女子♡花城弓香",
+        "pinned_tweet_id": "1765204498375741832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801607491866005505/nSD14aYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 46,
+          "like_count": 119,
+          "listed_count": 2,
+          "tweet_count": 72
+        },
+        "username": "YumikaHanashiro",
+        "verified": false
+      }
+    ]
+  }
+}

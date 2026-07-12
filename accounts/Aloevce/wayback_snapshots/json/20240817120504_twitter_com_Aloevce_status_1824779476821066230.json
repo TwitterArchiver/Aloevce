@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1824776504275763451",
+    "created_at": "2024-08-17T12:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T13:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824779476821066230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1516359893678129156",
+          "start": 0,
+          "username": "BoltzmannXue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824779476821066230",
+    "in_reply_to_user_id": "1516359893678129156",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824778133087961290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoltzmannXue 加固了一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1824776504275763451",
+        "created_at": "2024-08-17T12:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T13:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824779476821066230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1516359893678129156",
+              "start": 0,
+              "username": "BoltzmannXue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824779476821066230",
+        "in_reply_to_user_id": "1516359893678129156",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824778133087961290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoltzmannXue 加固了一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516359893678129156",
+        "conversation_id": "1824776504275763451",
+        "created_at": "2024-08-17T11:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T12:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824778133087961290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824778133087961290",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824776504275763451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 不会再倒塌？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17867,
+          "following_count": 2225,
+          "like_count": 52512,
+          "listed_count": 22,
+          "tweet_count": 18406
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T10:15:59.000Z",
+        "description": "坚决支持中国共产党/从未关注某老师帐号/没有声援任何民间活动/岁静日子人/只看黄推不关注任何其他内容/点赞不代表本人看法 晶哥你摇了我吧😭",
+        "id": "1516359893678129156",
+        "name": "OP（你的互关）",
+        "pinned_tweet_id": "1808383906460455023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1576216186529796096/4B4sHyCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 240,
+          "like_count": 2407,
+          "listed_count": 1,
+          "tweet_count": 156
+        },
+        "username": "BoltzmannXue",
+        "verified": false
+      }
+    ]
+  }
+}

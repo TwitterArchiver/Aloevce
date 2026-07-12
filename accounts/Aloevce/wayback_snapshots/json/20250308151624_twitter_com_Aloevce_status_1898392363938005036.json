@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898392356023410688"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1898392363938005036",
+    "created_at": "2025-03-08T15:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T16:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898392363938005036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MRkSkDJBTA",
+          "end": 26,
+          "expanded_url": "https://x.com/Aloevce/status/1898392363938005036/photo/1",
+          "media_key": "3_1898392356023410688",
+          "start": 3,
+          "url": "https://t.co/MRkSkDJBTA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898392363938005036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "额呃 https://t.co/MRkSkDJBTA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_1898392356023410688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlhxyikXoAA81j9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898392356023410688"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1898392363938005036",
+        "created_at": "2025-03-08T15:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T16:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898392363938005036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRkSkDJBTA",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/1898392363938005036/photo/1",
+              "media_key": "3_1898392356023410688",
+              "start": 3,
+              "url": "https://t.co/MRkSkDJBTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898392363938005036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额呃 https://t.co/MRkSkDJBTA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17746,
+          "following_count": 2393,
+          "like_count": 54848,
+          "listed_count": 21,
+          "media_count": 5867,
+          "tweet_count": 20817
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

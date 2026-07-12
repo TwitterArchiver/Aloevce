@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1822892534445527203",
+    "created_at": "2024-08-12T07:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T08:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822892534445527203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XBrokensakiko/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/XBrokensakiko/status/1822890680940634228",
+          "start": 24,
+          "url": "https://t.co/ZpNtYPjMIt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822892534445527203",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822890680940634228",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "萌萌的Yumiko宝宝小红薯痘印我都灌注了😻😻 https://t.co/ZpNtYPjMIt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1822892534445527203",
+        "created_at": "2024-08-12T07:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T08:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822892534445527203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XBrokensakiko/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/XBrokensakiko/status/1822890680940634228",
+              "start": 24,
+              "url": "https://t.co/ZpNtYPjMIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822892534445527203",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822890680940634228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "萌萌的Yumiko宝宝小红薯痘印我都灌注了😻😻 https://t.co/ZpNtYPjMIt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822890667758010368"
+          ]
+        },
+        "author_id": "1544693277055520771",
+        "conversation_id": "1822890680940634228",
+        "created_at": "2024-08-12T06:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T07:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822890680940634228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ivdqofxldg",
+              "end": 63,
+              "expanded_url": "https://twitter.com/XBrokensakiko/status/1822890680940634228/photo/1",
+              "media_key": "3_1822890667758010368",
+              "start": 40,
+              "url": "https://t.co/IVDqOfxLdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822890680940634228",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想说下\n可爱女宝给我私信我都会回关的…就酱 感觉这个号都没有互关宝宝…….. https://t.co/IVDqOfxLdG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17345,
+          "following_count": 2188,
+          "like_count": 52084,
+          "listed_count": 22,
+          "tweet_count": 18269
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T14:42:43.000Z",
+        "description": "不知道第几季了！(o_0)",
+        "id": "1544693277055520771",
+        "location": "坟墓",
+        "name": "星星贴纸",
+        "pinned_tweet_id": "1779566202949386540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654098296846024704/5gUny8HA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17417,
+          "following_count": 7,
+          "like_count": 309,
+          "listed_count": 33,
+          "tweet_count": 78
+        },
+        "username": "XBrokensakiko",
+        "verified": false
+      }
+    ]
+  }
+}

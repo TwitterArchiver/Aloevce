@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2047825651131097313",
+    "created_at": "2026-04-24T23:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T00:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047825651131097313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/niger_original…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/niger_original/status/2047425573119795602",
+          "start": 32,
+          "url": "https://t.co/eL8iYGIoCq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047825651131097313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047425573119795602",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这到底咋开的woc我知道开了名字是因为推特号但是地区是怎么开的 https://t.co/eL8iYGIoCq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2047825651131097313",
+        "created_at": "2026-04-24T23:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047825651131097313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/niger_original…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/niger_original/status/2047425573119795602",
+              "start": 32,
+              "url": "https://t.co/eL8iYGIoCq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047825651131097313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047425573119795602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这到底咋开的woc我知道开了名字是因为推特号但是地区是怎么开的 https://t.co/eL8iYGIoCq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944155767650889730",
+        "conversation_id": "2046932400878530650",
+        "created_at": "2026-04-23T21:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T22:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047425573119795602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1735197570958491648",
+              "start": 0,
+              "username": "YifanZhang27927"
+            },
+            {
+              "end": 26,
+              "id": "1447499448649601025",
+              "start": 17,
+              "username": "LVTGW666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047425573119795602",
+        "in_reply_to_user_id": "1735197570958491648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 50080,
+          "like_count": 447,
+          "quote_count": 33,
+          "reply_count": 63,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046987668836503779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YifanZhang27927 @LVTGW666 姓名 张一凡\n性别 男 民族 汉\n出生 2009年05月05日\n住址 陕西省汉中市南郑区汉山镇石门村二组3083号\n公民身份号码 610721200905050012\n张一凡你住村里真的能找到上海的女朋友吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17856,
+          "following_count": 2324,
+          "like_count": 54590,
+          "listed_count": 21,
+          "media_count": 6601,
+          "tweet_count": 23122
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T22:03:57.000Z",
+        "description": "",
+        "id": "1944155767650889730",
+        "location": "Pulai, Johor",
+        "name": "loyia",
+        "pinned_tweet_id": "1979270706690167282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999639906356961280/0x-cJLCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "niger_original",
+        "verified": false
+      }
+    ]
+  }
+}

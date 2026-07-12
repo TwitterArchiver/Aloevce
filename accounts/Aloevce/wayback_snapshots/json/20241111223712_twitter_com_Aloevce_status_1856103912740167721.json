@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1856103876371365888"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1856103912740167721",
+    "created_at": "2024-11-11T22:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T23:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856103912740167721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MIHxIuQPMb",
+          "end": 27,
+          "expanded_url": "https://x.com/Aloevce/status/1856103912740167721/video/1",
+          "media_key": "7_1856103876371365888",
+          "start": 4,
+          "url": "https://t.co/MIHxIuQPMb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856103912740167721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "竹节虫 https://t.co/MIHxIuQPMb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5781,
+        "height": 1280,
+        "media_key": "7_1856103876371365888",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1856103876371365888/pu/img/Qbyz41cK4WuyUcLv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856103876371365888/pu/vid/avc1/320x568/Aj9KuMZ3O7tVNoM0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856103876371365888/pu/vid/avc1/480x852/gx9ud1fDjsODMXNz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856103876371365888/pu/vid/avc1/720x1280/0wtHmYZbLXmSKvPy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1856103876371365888/pu/pl/a7xqv-w_pR4Q196A.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1856103876371365888"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1856103912740167721",
+        "created_at": "2024-11-11T22:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T23:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856103912740167721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MIHxIuQPMb",
+              "end": 27,
+              "expanded_url": "https://x.com/Aloevce/status/1856103912740167721/video/1",
+              "media_key": "7_1856103876371365888",
+              "start": 4,
+              "url": "https://t.co/MIHxIuQPMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856103912740167721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "竹节虫 https://t.co/MIHxIuQPMb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17607,
+          "following_count": 2283,
+          "like_count": 53322,
+          "listed_count": 21,
+          "tweet_count": 19330
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

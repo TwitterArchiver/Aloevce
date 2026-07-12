@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1807039309926776832",
+        "3_1807039309935173632"
+      ],
+      "media_source_tweet_id": [
+        "1807039322610373097",
+        "1807039322610373097"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1865910763732316616",
+    "created_at": "2024-12-09T00:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T01:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865910763732316616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1077648113987272704",
+          "start": 3,
+          "username": "fssr666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bb6nK7nX52",
+          "end": 101,
+          "expanded_url": "https://x.com/fssr666/status/1807039322610373097/photo/1",
+          "media_key": "3_1807039309926776832",
+          "start": 78,
+          "url": "https://t.co/Bb6nK7nX52"
+        },
+        {
+          "display_url": "pic.x.com/Bb6nK7nX52",
+          "end": 101,
+          "expanded_url": "https://x.com/fssr666/status/1807039322610373097/photo/1",
+          "media_key": "3_1807039309935173632",
+          "start": 78,
+          "url": "https://t.co/Bb6nK7nX52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865910763732316616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807039322610373097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fssr666: 🔝2.0\n你好你好我是仿生死人  \n已经重来无数次还是拯救不了仿生逼子 07 欢迎互fo互转\n这一条转里抽两个52r 三个33r https://t.co/Bb6nK7nX52"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1865910763732316616].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1865910763732316616",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1865910763732316616"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_1807039309926776832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRPkraNaQAAAvbd.jpg",
+        "width": 881
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1807039309935173632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRPkraPaYAASbD5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1807039309926776832",
+            "3_1807039309935173632"
+          ]
+        },
+        "author_id": "1077648113987272704",
+        "conversation_id": "1807039322610373097",
+        "created_at": "2024-06-29T13:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T14:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807039322610373097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bb6nK7nX52",
+              "end": 88,
+              "expanded_url": "https://x.com/fssr666/status/1807039322610373097/photo/1",
+              "media_key": "3_1807039309926776832",
+              "start": 65,
+              "url": "https://t.co/Bb6nK7nX52"
+            },
+            {
+              "display_url": "pic.x.com/Bb6nK7nX52",
+              "end": 88,
+              "expanded_url": "https://x.com/fssr666/status/1807039322610373097/photo/1",
+              "media_key": "3_1807039309935173632",
+              "start": 65,
+              "url": "https://t.co/Bb6nK7nX52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807039322610373097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 75462,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "🔝2.0\n你好你好我是仿生死人  \n已经重来无数次还是拯救不了仿生逼子 07 欢迎互fo互转\n这一条转里抽两个52r 三个33r https://t.co/Bb6nK7nX52"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "404 No Found\n\n❓:https://t.co/EE8B1ewVqa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aloevce",
+                "end": 39,
+                "expanded_url": "https://ngl.link/aloevce",
+                "start": 16,
+                "url": "https://t.co/EE8B1ewVqa"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "location": "闪焰王牌",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1865076713211699392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17680,
+          "following_count": 2349,
+          "like_count": 53587,
+          "listed_count": 20,
+          "media_count": 5467,
+          "tweet_count": 19669
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-25T19:31:46.000Z",
+        "description": "#ddlg/07 🚪88 /520 /1314 高门有特殊福利可私信了解 小号@fssr0719",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "ddlg"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "fssr0719"
+              }
+            ]
+          }
+        },
+        "id": "1077648113987272704",
+        "location": "坐标广东",
+        "name": "Yone",
+        "pinned_tweet_id": "1807039322610373097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848739859562958849/3hdyISbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2841,
+          "following_count": 75,
+          "like_count": 261,
+          "listed_count": 6,
+          "media_count": 50,
+          "tweet_count": 231
+        },
+        "username": "fssr666",
+        "verified": false
+      }
+    ]
+  }
+}

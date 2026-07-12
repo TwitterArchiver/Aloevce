@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1883338355355832659",
+    "created_at": "2025-01-26T02:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T03:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883338355355832659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2749544384Y/st…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/2749544384Y/status/1883337244335100255",
+          "start": 22,
+          "url": "https://t.co/Vd1RgyxcUU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883338355355832659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883337244335100255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然发现我已经四年没碰过数学题了早忘光了🙀 https://t.co/Vd1RgyxcUU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1883338355355832659",
+        "created_at": "2025-01-26T02:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T03:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883338355355832659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2749544384Y/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/2749544384Y/status/1883337244335100255",
+              "start": 22,
+              "url": "https://t.co/Vd1RgyxcUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883338355355832659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883337244335100255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然发现我已经四年没碰过数学题了早忘光了🙀 https://t.co/Vd1RgyxcUU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867095514740658176",
+        "conversation_id": "1883337107747566011",
+        "created_at": "2025-01-26T02:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T03:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883337244335100255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883337244335100255",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883337107747566011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 你帮我写数学作业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1881182504969015531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17797,
+          "following_count": 2381,
+          "like_count": 54340,
+          "listed_count": 20,
+          "media_count": 5686,
+          "tweet_count": 20289
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T06:34:04.000Z",
+        "description": "06高三艺术生｜infj｜不聊黄｜只和有趣的人互｜不随便加v 女宝免🚪｜纯绿",
+        "id": "1867095514740658176",
+        "location": "有🚪",
+        "name": "止痛药",
+        "pinned_tweet_id": "1882658486791942300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883094777349947392/yQUzANkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 79,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 846
+        },
+        "username": "2749544384Y",
+        "verified": false
+      }
+    ]
+  }
+}

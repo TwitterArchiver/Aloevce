@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2064611958956204085",
+    "created_at": "2026-06-10T07:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064611958956204085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/usagimm208/status/2064542829221961984",
+          "start": 12,
+          "url": "https://t.co/05JSL6T2PY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064611958956204085",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064542829221961984",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天一量我腰围都76了 https://t.co/05JSL6T2PY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2064611958956204085",
+        "created_at": "2026-06-10T07:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064611958956204085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/usagimm208/status/2064542829221961984",
+              "start": 12,
+              "url": "https://t.co/05JSL6T2PY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064611958956204085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064542829221961984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天一量我腰围都76了 https://t.co/05JSL6T2PY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005739449058230272",
+        "conversation_id": "2064542829221961984",
+        "created_at": "2026-06-10T02:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064542829221961984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aloevce/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/aloevce/status/2064501727416782963",
+              "start": 13,
+              "url": "https://t.co/Vlf1vZL1ZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064542829221961984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064501727416782963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们腰围一样，我也好肥胖 https://t.co/Vlf1vZL1ZF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18144,
+          "following_count": 1972,
+          "like_count": 56312,
+          "listed_count": 24,
+          "media_count": 6783,
+          "tweet_count": 23911
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "暴食导致长胖10斤、每天还因为吃不饱而充满怨气的僵尸ぐる，皮下有双重人格随便切换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "小绿",
+        "pinned_tweet_id": "2058643879059190070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 32,
+          "like_count": 2032,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

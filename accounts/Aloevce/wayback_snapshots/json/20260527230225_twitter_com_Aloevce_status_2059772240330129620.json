@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2059772240330129620",
+    "created_at": "2026-05-27T23:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T00:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059772240330129620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Aloevce/status/2059770252200751418",
+          "start": 18,
+          "url": "https://t.co/ew2Y3AWG9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059772240330129620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059770252200751418",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ododod 又酒又od逃避现实中 https://t.co/ew2Y3AWG9u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2059772240330129620",
+        "created_at": "2026-05-27T23:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059772240330129620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Aloevce/status/2059770252200751418",
+              "start": 18,
+              "url": "https://t.co/ew2Y3AWG9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059772240330129620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059770252200751418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ododod 又酒又od逃避现实中 https://t.co/ew2Y3AWG9u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2059770252200751418",
+        "created_at": "2026-05-27T22:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059770252200751418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Aloevce/status/2059770156885098978",
+              "start": 17,
+              "url": "https://t.co/wVYivy35wP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059770252200751418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059770156885098978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的脑子里会反复重演那一天那一刻 https://t.co/wVYivy35wP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18184,
+          "following_count": 1975,
+          "like_count": 56207,
+          "listed_count": 24,
+          "media_count": 6742,
+          "tweet_count": 23749
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

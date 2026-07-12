@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1817498594703999102",
+    "created_at": "2024-07-28T09:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T10:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1817498594703999102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rorochan_99012…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/rorochan_990126/status/1817252501915381816",
+          "start": 6,
+          "url": "https://t.co/7qYISm6IX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817498594703999102",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817252501915381816",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完了我都有 https://t.co/7qYISm6IX3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1817498594703999102",
+        "created_at": "2024-07-28T09:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T10:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817498594703999102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rorochan_99012…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/rorochan_990126/status/1817252501915381816",
+              "start": 6,
+              "url": "https://t.co/7qYISm6IX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817498594703999102",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817252501915381816",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完了我都有 https://t.co/7qYISm6IX3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753348784573001728",
+        "conversation_id": "1817252501915381816",
+        "created_at": "2024-07-27T17:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T18:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817252501915381816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817252501915381816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 20880,
+          "like_count": 251,
+          "quote_count": 13,
+          "reply_count": 55,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "小知识：露阴癖、窥阴癖、sm、恋童都是精神障碍，属于性心理障碍（性变态）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17230,
+          "following_count": 2193,
+          "like_count": 52003,
+          "listed_count": 19,
+          "tweet_count": 18079
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "普通08年小女孩 / 溫和藍色 / 友🏳️‍⚧️🏳️‍🌈 / 按讚→已讀 / 喜歡所有正常交流的人",
+        "id": "1753348784573001728",
+        "location": "「因為那是我存在過的證明」",
+        "name": "Mobius' poison✟",
+        "pinned_tweet_id": "1817248606006751721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813949350487420928/US-lj5gY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 1034,
+          "like_count": 43492,
+          "listed_count": 4,
+          "tweet_count": 6476
+        },
+        "username": "rorochan_990126",
+        "verified": false
+      }
+    ]
+  }
+}

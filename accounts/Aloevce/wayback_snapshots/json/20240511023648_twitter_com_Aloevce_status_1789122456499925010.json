@@ -1,0 +1,127 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1789122324605886691",
+    "created_at": "2024-05-11T02:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T03:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789122456499925010"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1789122456499925010",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789122324605886691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "除了这两种感觉都是玩咖，不要阿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1789122324605886691",
+        "created_at": "2024-05-11T02:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T03:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789122456499925010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789122456499925010",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789122324605886691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除了这两种感觉都是玩咖，不要阿"
+      },
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1789122324605886691",
+        "created_at": "2024-05-11T02:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T03:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789122324605886691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789122324605886691",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么探探上的男仍都是锡纸烫、我认为男人只能有两种发型。1.长发男。2.三七分大背头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12899,
+          "following_count": 2252,
+          "like_count": 51696,
+          "listed_count": 18,
+          "tweet_count": 17309
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

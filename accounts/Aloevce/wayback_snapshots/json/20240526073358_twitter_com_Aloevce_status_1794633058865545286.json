@@ -1,0 +1,152 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1794633056458043392"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1794633058865545286",
+    "created_at": "2024-05-26T07:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T08:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794633058865545286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/c9ktovQB00",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Aloevce/status/1794633058865545286/photo/1",
+          "media_key": "3_1794633056458043392",
+          "start": 3,
+          "url": "https://t.co/c9ktovQB00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794633058865545286",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呼呼 https://t.co/c9ktovQB00"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1794633056458043392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOfRQaha8AALn9f.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794633056458043392"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1794633058865545286",
+        "created_at": "2024-05-26T07:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T08:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794633058865545286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/c9ktovQB00",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Aloevce/status/1794633058865545286/photo/1",
+              "media_key": "3_1794633056458043392",
+              "start": 3,
+              "url": "https://t.co/c9ktovQB00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794633058865545286",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呼呼 https://t.co/c9ktovQB00"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1793923054806175806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12820,
+          "following_count": 2236,
+          "like_count": 52135,
+          "listed_count": 19,
+          "tweet_count": 17479
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

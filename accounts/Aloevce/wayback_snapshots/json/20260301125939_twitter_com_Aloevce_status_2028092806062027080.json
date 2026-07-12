@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2028092806062027080",
+    "created_at": "2026-03-01T12:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T13:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028092806062027080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaomingmumu/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/xiaomingmumu/status/2028005903451230642",
+          "start": 2,
+          "url": "https://t.co/yPWqBDAbvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028092806062027080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028005903451230642",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/yPWqBDAbvn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2028092806062027080",
+        "created_at": "2026-03-01T12:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028092806062027080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomingmumu/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/xiaomingmumu/status/2028005903451230642",
+              "start": 2,
+              "url": "https://t.co/yPWqBDAbvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028092806062027080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028005903451230642",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/yPWqBDAbvn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919363955929362432",
+        "conversation_id": "2028005903451230642",
+        "created_at": "2026-03-01T07:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T08:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028005903451230642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028005903451230642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 21018,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得根本没必要纠结玩具粗细，因为我昨天费死劲塞进去调教棒的大头以后除了疼没什么额外的感觉，在里面的体感也不能说比小头更爽。只是让我更遭罪而已。我以后再也不会买直径超过3cm的入体玩具了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18389,
+          "following_count": 2291,
+          "like_count": 54633,
+          "listed_count": 22,
+          "media_count": 6513,
+          "tweet_count": 22708
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T12:10:10.000Z",
+        "description": "操死全世界｜匿名https://t.co/NXKVyy5G1i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inridscent",
+                "end": 31,
+                "expanded_url": "https://ngl.link/inridscent",
+                "start": 8,
+                "url": "https://t.co/NXKVyy5G1i"
+              }
+            ]
+          }
+        },
+        "id": "1919363955929362432",
+        "name": "一根烂棉签",
+        "pinned_tweet_id": "2007795599199142093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490886444429315/VErpiYVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 306,
+          "like_count": 12106,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 5949
+        },
+        "username": "xiaomingmumu",
+        "verified": false
+      }
+    ]
+  }
+}

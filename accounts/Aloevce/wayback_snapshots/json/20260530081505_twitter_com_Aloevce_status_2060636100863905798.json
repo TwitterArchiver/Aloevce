@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2060636100863905798",
+    "created_at": "2026-05-30T08:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060636100863905798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nightmarevialu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/nightmarevialuv/status/2060635995880730923",
+          "start": 10,
+          "url": "https://t.co/YZiwRvWea0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060636100863905798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060635995880730923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我家附近没有😭😭😭 https://t.co/YZiwRvWea0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2060636100863905798",
+        "created_at": "2026-05-30T08:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060636100863905798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nightmarevialu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/nightmarevialuv/status/2060635995880730923",
+              "start": 10,
+              "url": "https://t.co/YZiwRvWea0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060636100863905798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060635995880730923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我家附近没有😭😭😭 https://t.co/YZiwRvWea0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358441496609890304",
+        "conversation_id": "2060626620059123746",
+        "created_at": "2026-05-30T08:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060635995880730923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060635995880730923",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060626620059123746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 乐乐茶那个吗？真的挺好喝的，便宜还好喝，非常之推荐呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18180,
+          "following_count": 1975,
+          "like_count": 56248,
+          "listed_count": 24,
+          "media_count": 6750,
+          "tweet_count": 23799
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-07T15:44:34.000Z",
+        "description": "我喜欢看大家碎碎念/微量自残注意/不太会说话和交友/人生茫茫",
+        "id": "1358441496609890304",
+        "name": "人不吃饭不仅会饿还会死💧",
+        "pinned_tweet_id": "1403951017146818564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769733119614271488/Q5_w81VH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 77,
+          "like_count": 1190,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 725
+        },
+        "username": "nightmarevialuv",
+        "verified": false
+      }
+    ]
+  }
+}

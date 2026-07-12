@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2037893286195610074",
+    "created_at": "2026-03-28T14:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T15:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037893286195610074"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amamiya_kokoro…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/amamiya_kokoro/status/2034154034127601854",
+          "start": 4,
+          "url": "https://t.co/4iqzptpsyV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037893286195610074",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034154034127601854",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我又抄 https://t.co/4iqzptpsyV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 987,
+        "media_key": "3_2034152829812912128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrDOKfasAAhjWa.jpg",
+        "width": 1836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2037893286195610074",
+        "created_at": "2026-03-28T14:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037893286195610074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amamiya_kokoro…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/amamiya_kokoro/status/2034154034127601854",
+              "start": 4,
+              "url": "https://t.co/4iqzptpsyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037893286195610074",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034154034127601854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又抄 https://t.co/4iqzptpsyV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034152829812912128"
+          ]
+        },
+        "author_id": "1146300489832837125",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034154034127601854",
+        "created_at": "2026-03-18T06:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T07:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034154034127601854"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 112,
+              "tag": "ぽこあポケモン"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "ぽこポケ"
+            },
+            {
+              "end": 135,
+              "start": 127,
+              "tag": "pokopia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYgsgJAfsN",
+              "end": 159,
+              "expanded_url": "https://x.com/amamiya_kokoro/status/2034154034127601854/photo/1",
+              "media_key": "3_2034152829812912128",
+              "start": 136,
+              "url": "https://t.co/CYgsgJAfsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034154034127601854",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 88279,
+          "like_count": 3579,
+          "quote_count": 7,
+          "reply_count": 28,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "ぽこあ配信🐾\n今日もみてくれてありがとう✨\n\nうみべの公園のキッチンカーハウス(動画参考にしてます！)には、ミミッキュとゾロア兄弟に住んでもらったよ🏠\n\n配信終わりに少しだけ町開放してるので\nよかったらあそびにきてね～👋\n\n#ぽこあポケモン #ぽこポケ #pokopia https://t.co/CYgsgJAfsN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18166,
+          "following_count": 2305,
+          "like_count": 53921,
+          "listed_count": 22,
+          "media_count": 6552,
+          "tweet_count": 22729
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-03T06:11:48.000Z",
+        "description": "˗ˋˏ にじさんじ所属 ふわふわどらごんがーる🩵 ˎˊ˗  \n✦ᴘʀᴏғɪʟᴇ https://t.co/4Byv4FV8LU \n✦ғᴀɴᴀʀᴛ #絵こころ\n✦ᴛᴀɢ #あまみゃらいぶ #サムネみゃ\n✦sᴜʙ@amamya_sub\n✦ᴍᴀᴍ@shior2\n✦ᴄᴏɴᴛᴀᴄᴛ https://t.co/mJ8cMbbhq3",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 73,
+                "tag": "絵こころ"
+              },
+              {
+                "end": 92,
+                "start": 84,
+                "tag": "あまみゃらいぶ"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "サムネみゃ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "amamya_sub"
+              },
+              {
+                "end": 127,
+                "start": 120,
+                "username": "shior2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/Uuln6",
+                "end": 63,
+                "expanded_url": "http://x.gd/Uuln6",
+                "start": 40,
+                "url": "https://t.co/4Byv4FV8LU"
+              },
+              {
+                "display_url": "nijisanji.jp/contact",
+                "end": 160,
+                "expanded_url": "http://nijisanji.jp/contact",
+                "start": 137,
+                "url": "https://t.co/mJ8cMbbhq3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCkIim…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/PjXYGFdBl3"
+              }
+            ]
+          }
+        },
+        "id": "1146300489832837125",
+        "location": "ポケモンが好き",
+        "name": "天宮こころ🎐",
+        "pinned_tweet_id": "2036439851390964136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809637363762753539/UyEo6SBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751678,
+          "following_count": 808,
+          "like_count": 29580,
+          "listed_count": 11036,
+          "media_count": 4036,
+          "tweet_count": 23428
+        },
+        "url": "https://t.co/PjXYGFdBl3",
+        "username": "amamiya_kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

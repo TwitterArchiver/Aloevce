@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2059077903804244462",
+    "created_at": "2026-05-26T01:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059077903804244462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aoling1/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/aoling1/status/2058966837053084009",
+          "start": 23,
+          "url": "https://t.co/KzLv45w6LH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059077903804244462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058966837053084009",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "叫博雅云海汇 就是吃的要花钱 不过可以点外卖 https://t.co/KzLv45w6LH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2059077903804244462",
+        "created_at": "2026-05-26T01:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059077903804244462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoling1/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/aoling1/status/2058966837053084009",
+              "start": 23,
+              "url": "https://t.co/KzLv45w6LH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059077903804244462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058966837053084009",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "叫博雅云海汇 就是吃的要花钱 不过可以点外卖 https://t.co/KzLv45w6LH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1057176307551764480",
+        "conversation_id": "2058943504584257831",
+        "created_at": "2026-05-25T17:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058966837053084009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058966837053084009",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058943504584257831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 这是哪家 看着好爽😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18194,
+          "following_count": 1971,
+          "like_count": 56181,
+          "listed_count": 24,
+          "media_count": 6739,
+          "tweet_count": 23729
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-30T07:44:07.000Z",
+        "description": "les｜友跨顺女 | 有姐姐 @Fancy_is_fancy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "Fancy_is_fancy"
+              }
+            ]
+          }
+        },
+        "id": "1057176307551764480",
+        "location": "常盤木学園高等学校",
+        "name": "汤圆奶昔",
+        "pinned_tweet_id": "1815478576269205920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906907897298321408/hL_8hkT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5272,
+          "following_count": 984,
+          "like_count": 12037,
+          "listed_count": 20,
+          "media_count": 338,
+          "tweet_count": 2991
+        },
+        "username": "aoling1",
+        "verified": false
+      }
+    ]
+  }
+}

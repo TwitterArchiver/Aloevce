@@ -1,0 +1,152 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1788539446326923265"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1788539471228551238",
+    "created_at": "2024-05-09T12:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-09T13:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1788539471228551238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/YwOMbHx1T8",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Aloevce/status/1788539471228551238/photo/1",
+          "media_key": "3_1788539446326923265",
+          "start": 15,
+          "url": "https://t.co/YwOMbHx1T8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788539471228551238",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "暴雨。太古里。梅子酒。女人。 https://t.co/YwOMbHx1T8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1788539446326923265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNIrJn0XEAExpHL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788539446326923265"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1788539471228551238",
+        "created_at": "2024-05-09T12:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T13:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788539471228551238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YwOMbHx1T8",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Aloevce/status/1788539471228551238/photo/1",
+              "media_key": "3_1788539446326923265",
+              "start": 15,
+              "url": "https://t.co/YwOMbHx1T8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788539471228551238",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暴雨。太古里。梅子酒。女人。 https://t.co/YwOMbHx1T8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "评论罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12789,
+          "following_count": 2171,
+          "like_count": 51269,
+          "listed_count": 18,
+          "tweet_count": 17209
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

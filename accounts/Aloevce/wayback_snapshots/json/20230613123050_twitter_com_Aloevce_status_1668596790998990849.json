@@ -1,0 +1,171 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1668596790998990849",
+    "created_at": "2023-06-13T12:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2023-06-13T13:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1668596790998990849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1051149161725227009",
+          "start": 3,
+          "username": "yintu_YT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1668596790998990849",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1668596517844959233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yintu_YT: X是我唯一的女性朋友，她细腻，开朗，像淡蓝色的宝石，闪闪发光。与她相反，我卑劣，虚伪，从不真诚待人，性格阴暗，我这样的人居然能和她成为朋友，难以置信。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1668596790998990849",
+        "created_at": "2023-06-13T12:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-13T13:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1668596790998990849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1051149161725227009",
+              "start": 3,
+              "username": "yintu_YT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1668596790998990849",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1668596517844959233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yintu_YT: X是我唯一的女性朋友，她细腻，开朗，像淡蓝色的宝石，闪闪发光。与她相反，我卑劣，虚伪，从不真诚待人，性格阴暗，我这样的人居然能和她成为朋友，难以置信。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1051149161725227009",
+        "conversation_id": "1668596517844959233",
+        "created_at": "2023-06-13T12:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-13T13:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1668596517844959233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1668596517844959233",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "X是我唯一的女性朋友，她细腻，开朗，像淡蓝色的宝石，闪闪发光。与她相反，我卑劣，虚伪，从不真诚待人，性格阴暗，我这样的人居然能和她成为朋友，难以置信。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "别视奸，谢谢",
+        "id": "1495662254544789506",
+        "name": "閃焰王牌",
+        "pinned_tweet_id": "1661582933260484609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651815650204205056/2zZXblhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 557,
+          "listed_count": 16,
+          "tweet_count": 3915
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-13T16:34:24.000Z",
+        "description": "你说女孩你不要上了文学的当，我说我心甘情愿在文学的陷阱里受伤，飞蛾扑火一样。\n\n无碎碎念：@NoPain_DieYoung\n我是未来，一个有精神病的缺爱b，嫉妒心极强，不极端的利己主义。\n不用太认识我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NoPain_DieYoung"
+              }
+            ]
+          }
+        },
+        "id": "1051149161725227009",
+        "location": "🚪68 男的过门再私信",
+        "name": "全自動愛不要未来",
+        "pinned_tweet_id": "1667855112528883713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661230908563939329/8W_Nhelz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 682,
+          "listed_count": 10,
+          "tweet_count": 511
+        },
+        "username": "yintu_YT",
+        "verified": false
+      }
+    ]
+  }
+}

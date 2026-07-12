@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968001544676425728",
+        "3_1968001544646955010",
+        "3_1968001544642760709",
+        "3_1968001544647004160"
+      ],
+      "media_source_tweet_id": [
+        "1968001552293191998",
+        "1968001552293191998",
+        "1968001552293191998",
+        "1968001552293191998"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1969665077079855122",
+    "created_at": "2025-09-21T07:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T08:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969665077079855122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1876377363854053376",
+          "start": 3,
+          "username": "woooocaonimabi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kLQ6DxpmU3",
+          "end": 89,
+          "expanded_url": "https://x.com/woooocaonimabi/status/1968001552293191998/photo/1",
+          "media_key": "3_1968001544676425728",
+          "start": 66,
+          "url": "https://t.co/kLQ6DxpmU3"
+        },
+        {
+          "display_url": "pic.x.com/kLQ6DxpmU3",
+          "end": 89,
+          "expanded_url": "https://x.com/woooocaonimabi/status/1968001552293191998/photo/1",
+          "media_key": "3_1968001544646955010",
+          "start": 66,
+          "url": "https://t.co/kLQ6DxpmU3"
+        },
+        {
+          "display_url": "pic.x.com/kLQ6DxpmU3",
+          "end": 89,
+          "expanded_url": "https://x.com/woooocaonimabi/status/1968001552293191998/photo/1",
+          "media_key": "3_1968001544642760709",
+          "start": 66,
+          "url": "https://t.co/kLQ6DxpmU3"
+        },
+        {
+          "display_url": "pic.x.com/kLQ6DxpmU3",
+          "end": 89,
+          "expanded_url": "https://x.com/woooocaonimabi/status/1968001552293191998/photo/1",
+          "media_key": "3_1968001544647004160",
+          "start": 66,
+          "url": "https://t.co/kLQ6DxpmU3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969665077079855122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968001552293191998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woooocaonimabi: 接河北和北京的线下我快要饿死了我想买很多裙子求🚪哥资助。\n过门请给我口令( ･᷄ὢ･᷅ ) https://t.co/kLQ6DxpmU3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2014,
+        "media_key": "3_1968001544676425728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0---lvbwAAdTcc.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1968001544646955010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0---loaEAI8J4M.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1968001544642760709",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0---lnaEAUSDto.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968001544647004160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0---loa0AAI_R0.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968001544676425728",
+            "3_1968001544646955010",
+            "3_1968001544642760709",
+            "3_1968001544647004160"
+          ],
+          "media_source_tweet_id": [
+            "1968001552293191998",
+            "1968001552293191998",
+            "1968001552293191998",
+            "1968001552293191998"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969665077079855122",
+        "created_at": "2025-09-21T07:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T08:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969665077079855122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1876377363854053376",
+              "start": 3,
+              "username": "woooocaonimabi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLQ6DxpmU3",
+              "end": 89,
+              "expanded_url": "https://x.com/woooocaonimabi/status/1968001552293191998/photo/1",
+              "media_key": "3_1968001544676425728",
+              "start": 66,
+              "url": "https://t.co/kLQ6DxpmU3"
+            },
+            {
+              "display_url": "pic.x.com/kLQ6DxpmU3",
+              "end": 89,
+              "expanded_url": "https://x.com/woooocaonimabi/status/1968001552293191998/photo/1",
+              "media_key": "3_1968001544646955010",
+              "start": 66,
+              "url": "https://t.co/kLQ6DxpmU3"
+            },
+            {
+              "display_url": "pic.x.com/kLQ6DxpmU3",
+              "end": 89,
+              "expanded_url": "https://x.com/woooocaonimabi/status/1968001552293191998/photo/1",
+              "media_key": "3_1968001544642760709",
+              "start": 66,
+              "url": "https://t.co/kLQ6DxpmU3"
+            },
+            {
+              "display_url": "pic.x.com/kLQ6DxpmU3",
+              "end": 89,
+              "expanded_url": "https://x.com/woooocaonimabi/status/1968001552293191998/photo/1",
+              "media_key": "3_1968001544647004160",
+              "start": 66,
+              "url": "https://t.co/kLQ6DxpmU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969665077079855122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968001552293191998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woooocaonimabi: 接河北和北京的线下我快要饿死了我想买很多裙子求🚪哥资助。\n过门请给我口令( ･᷄ὢ･᷅ ) https://t.co/kLQ6DxpmU3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968001544676425728",
+            "3_1968001544646955010",
+            "3_1968001544642760709",
+            "3_1968001544647004160"
+          ]
+        },
+        "author_id": "1876377363854053376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968001552293191998",
+        "created_at": "2025-09-16T17:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T18:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968001552293191998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLQ6DxpmU3",
+              "end": 69,
+              "expanded_url": "https://x.com/woooocaonimabi/status/1968001552293191998/photo/1",
+              "media_key": "3_1968001544676425728",
+              "start": 46,
+              "url": "https://t.co/kLQ6DxpmU3"
+            },
+            {
+              "display_url": "pic.x.com/kLQ6DxpmU3",
+              "end": 69,
+              "expanded_url": "https://x.com/woooocaonimabi/status/1968001552293191998/photo/1",
+              "media_key": "3_1968001544646955010",
+              "start": 46,
+              "url": "https://t.co/kLQ6DxpmU3"
+            },
+            {
+              "display_url": "pic.x.com/kLQ6DxpmU3",
+              "end": 69,
+              "expanded_url": "https://x.com/woooocaonimabi/status/1968001552293191998/photo/1",
+              "media_key": "3_1968001544642760709",
+              "start": 46,
+              "url": "https://t.co/kLQ6DxpmU3"
+            },
+            {
+              "display_url": "pic.x.com/kLQ6DxpmU3",
+              "end": 69,
+              "expanded_url": "https://x.com/woooocaonimabi/status/1968001552293191998/photo/1",
+              "media_key": "3_1968001544647004160",
+              "start": 46,
+              "url": "https://t.co/kLQ6DxpmU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968001552293191998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5545,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "接河北和北京的线下我快要饿死了我想买很多裙子求🚪哥资助。\n过门请给我口令( ･᷄ὢ･᷅ ) https://t.co/kLQ6DxpmU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18908,
+          "following_count": 2397,
+          "like_count": 55241,
+          "listed_count": 24,
+          "media_count": 6247,
+          "tweet_count": 21793
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T21:17:03.000Z",
+        "description": "私信过门",
+        "id": "1876377363854053376",
+        "location": "喵喵罂罂喵喵喵 🚪288门",
+        "name": "我想过的好一点",
+        "pinned_tweet_id": "1968001552293191998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968010792764338176/w480N7R5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2886,
+          "following_count": 78,
+          "like_count": 537,
+          "listed_count": 9,
+          "media_count": 84,
+          "tweet_count": 406
+        },
+        "username": "woooocaonimabi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1832259734143156224",
+        "3_1832259734080237568",
+        "3_1832259734289653760"
+      ],
+      "media_source_tweet_id": [
+        "1832259751914434984",
+        "1832259751914434984",
+        "1832259751914434984"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1832870006696067490",
+    "created_at": "2024-09-08T19:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T20:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832870006696067490"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 22,
+          "tag": "ちいかわファンアート"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1735580494669258752",
+          "start": 3,
+          "username": "ki_0_0_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aj0zdg4nry",
+          "end": 57,
+          "expanded_url": "https://twitter.com/ki_0_0_0/status/1832259751914434984/photo/1",
+          "media_key": "3_1832259734143156224",
+          "start": 34,
+          "url": "https://t.co/AJ0ZDg4nry"
+        },
+        {
+          "display_url": "pic.x.com/aj0zdg4nry",
+          "end": 57,
+          "expanded_url": "https://twitter.com/ki_0_0_0/status/1832259751914434984/photo/1",
+          "media_key": "3_1832259734080237568",
+          "start": 34,
+          "url": "https://t.co/AJ0ZDg4nry"
+        },
+        {
+          "display_url": "pic.x.com/aj0zdg4nry",
+          "end": 57,
+          "expanded_url": "https://twitter.com/ki_0_0_0/status/1832259751914434984/photo/1",
+          "media_key": "3_1832259734289653760",
+          "start": 34,
+          "url": "https://t.co/AJ0ZDg4nry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832870006696067490",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 503
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832259751914434984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ki_0_0_0: いろんなプルャ\n#ちいかわファンアート https://t.co/AJ0ZDg4nry"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_1832259734143156224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW1-hT3awAAXba9.jpg",
+        "width": 641
+      },
+      {
+        "height": 1172,
+        "media_key": "3_1832259734080237568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW1-hToasAA3sS7.jpg",
+        "width": 1147
+      },
+      {
+        "height": 600,
+        "media_key": "3_1832259734289653760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW1-hUaWIAAMuvW.jpg",
+        "width": 1322
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832259734143156224",
+            "3_1832259734080237568",
+            "3_1832259734289653760"
+          ],
+          "media_source_tweet_id": [
+            "1832259751914434984",
+            "1832259751914434984",
+            "1832259751914434984"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1832870006696067490",
+        "created_at": "2024-09-08T19:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T20:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832870006696067490"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 22,
+              "tag": "ちいかわファンアート"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1735580494669258752",
+              "start": 3,
+              "username": "ki_0_0_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aj0zdg4nry",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ki_0_0_0/status/1832259751914434984/photo/1",
+              "media_key": "3_1832259734143156224",
+              "start": 34,
+              "url": "https://t.co/AJ0ZDg4nry"
+            },
+            {
+              "display_url": "pic.x.com/aj0zdg4nry",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ki_0_0_0/status/1832259751914434984/photo/1",
+              "media_key": "3_1832259734080237568",
+              "start": 34,
+              "url": "https://t.co/AJ0ZDg4nry"
+            },
+            {
+              "display_url": "pic.x.com/aj0zdg4nry",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ki_0_0_0/status/1832259751914434984/photo/1",
+              "media_key": "3_1832259734289653760",
+              "start": 34,
+              "url": "https://t.co/AJ0ZDg4nry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832870006696067490",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 503
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832259751914434984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ki_0_0_0: いろんなプルャ\n#ちいかわファンアート https://t.co/AJ0ZDg4nry"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832259734143156224",
+            "3_1832259734080237568",
+            "3_1832259734289653760"
+          ]
+        },
+        "author_id": "1735580494669258752",
+        "conversation_id": "1832259751914434984",
+        "created_at": "2024-09-07T03:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T04:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832259751914434984"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 8,
+              "tag": "ちいかわファンアート"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aj0zdg4nry",
+              "end": 43,
+              "expanded_url": "https://twitter.com/ki_0_0_0/status/1832259751914434984/photo/1",
+              "media_key": "3_1832259734143156224",
+              "start": 20,
+              "url": "https://t.co/AJ0ZDg4nry"
+            },
+            {
+              "display_url": "pic.x.com/aj0zdg4nry",
+              "end": 43,
+              "expanded_url": "https://twitter.com/ki_0_0_0/status/1832259751914434984/photo/1",
+              "media_key": "3_1832259734080237568",
+              "start": 20,
+              "url": "https://t.co/AJ0ZDg4nry"
+            },
+            {
+              "display_url": "pic.x.com/aj0zdg4nry",
+              "end": 43,
+              "expanded_url": "https://twitter.com/ki_0_0_0/status/1832259751914434984/photo/1",
+              "media_key": "3_1832259734289653760",
+              "start": 20,
+              "url": "https://t.co/AJ0ZDg4nry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832259751914434984",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 159789,
+          "like_count": 5851,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 503
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "いろんなプルャ\n#ちいかわファンアート https://t.co/AJ0ZDg4nry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18033,
+          "following_count": 2259,
+          "like_count": 53008,
+          "listed_count": 22,
+          "tweet_count": 18828
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T08:40:22.000Z",
+        "description": "諸見里もろ実サブ垢 /AI学習転載無断使用×",
+        "id": "1735580494669258752",
+        "name": "諸見の里",
+        "pinned_tweet_id": "1826911293460422792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824017441498030080/pPY3BtSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10588,
+          "following_count": 8,
+          "like_count": 288,
+          "listed_count": 24,
+          "tweet_count": 138
+        },
+        "username": "ki_0_0_0",
+        "verified": false
+      }
+    ]
+  }
+}

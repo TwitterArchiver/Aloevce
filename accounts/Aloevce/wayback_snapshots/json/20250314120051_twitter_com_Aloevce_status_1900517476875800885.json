@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1900164905585492197",
+    "created_at": "2025-03-14T12:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T13:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900517476875800885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1855500577914101760",
+          "start": 0,
+          "username": "kittendo11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900517476875800885",
+    "in_reply_to_user_id": "1855500577914101760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900487989450698959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittendo11 木薯淀粉加牛奶做的麻薯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1900164905585492197",
+        "created_at": "2025-03-14T12:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T13:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900517476875800885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1855500577914101760",
+              "start": 0,
+              "username": "kittendo11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900517476875800885",
+        "in_reply_to_user_id": "1855500577914101760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900487989450698959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittendo11 木薯淀粉加牛奶做的麻薯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855500577914101760",
+        "conversation_id": "1900164905585492197",
+        "created_at": "2025-03-14T10:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T11:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900487989450698959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900487989450698959",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900164905585492197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 卧槽这什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17699,
+          "following_count": 2384,
+          "like_count": 54723,
+          "listed_count": 21,
+          "media_count": 5876,
+          "tweet_count": 20825
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T06:39:53.000Z",
+        "description": "168/110/ドm お金をください",
+        "id": "1855500577914101760",
+        "location": "🚪200/520/1314江浙沪接线下",
+        "name": "ひとみ",
+        "pinned_tweet_id": "1892253288277377037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880213493569449985/2Wlm6bAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5330,
+          "following_count": 117,
+          "like_count": 360,
+          "listed_count": 19,
+          "media_count": 27,
+          "tweet_count": 86
+        },
+        "username": "kittendo11",
+        "verified": false
+      }
+    ]
+  }
+}

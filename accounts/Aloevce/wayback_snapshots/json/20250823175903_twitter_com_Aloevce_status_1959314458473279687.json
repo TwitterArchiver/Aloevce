@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959314416354103299",
+        "3_1959314452324495360"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1959314458473279687",
+    "created_at": "2025-08-23T17:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T18:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959314458473279687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dIxm9mqFgO",
+          "end": 27,
+          "expanded_url": "https://x.com/Aloevce/status/1959314458473279687/photo/1",
+          "media_key": "3_1959314416354103299",
+          "start": 4,
+          "url": "https://t.co/dIxm9mqFgO"
+        },
+        {
+          "display_url": "pic.x.com/dIxm9mqFgO",
+          "end": 27,
+          "expanded_url": "https://x.com/Aloevce/status/1959314458473279687/photo/1",
+          "media_key": "3_1959314452324495360",
+          "start": 4,
+          "url": "https://t.co/dIxm9mqFgO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959314458473279687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小缅因 https://t.co/dIxm9mqFgO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959314416354103299",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzDiFK4WkAMsAPO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959314452324495360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzDiHQ4XMAAfKZQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959314416354103299",
+            "3_1959314452324495360"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1959314458473279687",
+        "created_at": "2025-08-23T17:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T18:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959314458473279687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dIxm9mqFgO",
+              "end": 27,
+              "expanded_url": "https://x.com/Aloevce/status/1959314458473279687/photo/1",
+              "media_key": "3_1959314416354103299",
+              "start": 4,
+              "url": "https://t.co/dIxm9mqFgO"
+            },
+            {
+              "display_url": "pic.x.com/dIxm9mqFgO",
+              "end": 27,
+              "expanded_url": "https://x.com/Aloevce/status/1959314458473279687/photo/1",
+              "media_key": "3_1959314452324495360",
+              "start": 4,
+              "url": "https://t.co/dIxm9mqFgO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959314458473279687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小缅因 https://t.co/dIxm9mqFgO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19065,
+          "following_count": 2412,
+          "like_count": 55453,
+          "listed_count": 23,
+          "media_count": 6228,
+          "tweet_count": 21763
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

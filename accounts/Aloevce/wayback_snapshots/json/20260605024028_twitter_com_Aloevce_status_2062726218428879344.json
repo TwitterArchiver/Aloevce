@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597570732032",
+          "name": "Multi-Purpose Department - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Don Quixote (ドン・キホーテ)",
+          "id": "1038147907264765954",
+          "name": "Don Quixote (ドン・キホーテ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "2062726218428879344",
+    "created_at": "2026-06-05T02:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062726218428879344"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bmz5_j/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/bmz5_j/status/2062434341494669375",
+          "start": 5,
+          "url": "https://t.co/6W4ElD1kgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062726218428879344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062434341494669375",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想购买 https://t.co/6W4ElD1kgs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1726,
+        "media_key": "3_2062434333462540288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ89GVqasAA4wu7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597570732032",
+              "name": "Multi-Purpose Department - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Don Quixote (ドン・キホーテ)",
+              "id": "1038147907264765954",
+              "name": "Don Quixote (ドン・キホーテ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2062726218428879344",
+        "created_at": "2026-06-05T02:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062726218428879344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bmz5_j/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bmz5_j/status/2062434341494669375",
+              "start": 5,
+              "url": "https://t.co/6W4ElD1kgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062726218428879344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062434341494669375",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想购买 https://t.co/6W4ElD1kgs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062434333462540288"
+          ]
+        },
+        "author_id": "1310549279618945025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597570732032",
+              "name": "Multi-Purpose Department - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Don Quixote (ドン・キホーテ)",
+              "id": "1038147907264765954",
+              "name": "Don Quixote (ドン・キホーテ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2062434341494669375",
+        "created_at": "2026-06-04T07:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062434341494669375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pj0hZf38yl",
+              "end": 48,
+              "expanded_url": "https://x.com/bmz5_j/status/2062434341494669375/photo/1",
+              "media_key": "3_2062434333462540288",
+              "start": 25,
+              "url": "https://t.co/pj0hZf38yl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062434341494669375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 633,
+          "impression_count": 514234,
+          "like_count": 6194,
+          "quote_count": 287,
+          "reply_count": 32,
+          "retweet_count": 705
+        },
+        "reply_settings": "everyone",
+        "text": "ちいかわドンキの準備してた！ぬいぐるみでっかいね https://t.co/pj0hZf38yl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18155,
+          "following_count": 1975,
+          "like_count": 56254,
+          "listed_count": 24,
+          "media_count": 6775,
+          "tweet_count": 23860
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-28T11:58:02.000Z",
+        "description": "お取引はツイフィをご確認ください",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/bmz5_j",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/bmz5_j",
+                "start": 0,
+                "url": "https://t.co/iH8sdPFEqA"
+              }
+            ]
+          }
+        },
+        "id": "1310549279618945025",
+        "name": "ぽん太",
+        "pinned_tweet_id": "1990543624388686135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752328179388481536/HU77ib25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 334,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 915,
+          "tweet_count": 3715
+        },
+        "url": "https://t.co/iH8sdPFEqA",
+        "username": "bmz5_j",
+        "verified": false
+      }
+    ]
+  }
+}

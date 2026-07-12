@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2052985799927271760",
+    "created_at": "2026-05-09T05:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052985799927271760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pyke2076/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/pyke2076/status/2052937418526044614",
+          "start": 16,
+          "url": "https://t.co/6UGI4tD3BT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052985799927271760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052937418526044614",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想偷薄荷结果没有。偷了两片藿香 https://t.co/6UGI4tD3BT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2052985799927271760",
+        "created_at": "2026-05-09T05:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052985799927271760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pyke2076/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/pyke2076/status/2052937418526044614",
+              "start": 16,
+              "url": "https://t.co/6UGI4tD3BT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052985799927271760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052937418526044614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想偷薄荷结果没有。偷了两片藿香 https://t.co/6UGI4tD3BT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2052792249985994854",
+        "created_at": "2026-05-09T02:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052937418526044614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052937418526044614",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052792249985994854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 藿香吗？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18260,
+          "following_count": 1980,
+          "like_count": 55617,
+          "listed_count": 24,
+          "media_count": 6655,
+          "tweet_count": 23408
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "bunny",
+        "pinned_tweet_id": "2043293076777742734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8326,
+          "following_count": 1192,
+          "like_count": 64909,
+          "listed_count": 8,
+          "media_count": 3031,
+          "tweet_count": 18528
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

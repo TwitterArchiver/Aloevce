@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2015193699131740640",
+    "created_at": "2026-01-24T22:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T23:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015193699131740640"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015193699131740640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于知道喝醉了为啥突然醒来难受睡不着觉了。。。。因为我下午喝了杯奶茶啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2015193699131740640",
+        "created_at": "2026-01-24T22:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T23:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015193699131740640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015193699131740640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于知道喝醉了为啥突然醒来难受睡不着觉了。。。。因为我下午喝了杯奶茶啊啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18484,
+          "following_count": 2299,
+          "like_count": 55475,
+          "listed_count": 23,
+          "media_count": 6483,
+          "tweet_count": 22623
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

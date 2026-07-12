@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988286806752681984"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1988286811219915079",
+    "created_at": "2025-11-11T16:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T17:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988286811219915079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/780QnILyf9",
+          "end": 34,
+          "expanded_url": "https://x.com/Aloevce/status/1988286811219915079/photo/1",
+          "media_key": "3_1988286806752681984",
+          "start": 11,
+          "url": "https://t.co/780QnILyf9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988286811219915079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有偏执症精神分裂症 https://t.co/780QnILyf9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988286806752681984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5fQUPwW4AARXEt.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988286806752681984"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1988286811219915079",
+        "created_at": "2025-11-11T16:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T17:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988286811219915079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/780QnILyf9",
+              "end": 34,
+              "expanded_url": "https://x.com/Aloevce/status/1988286811219915079/photo/1",
+              "media_key": "3_1988286806752681984",
+              "start": 11,
+              "url": "https://t.co/780QnILyf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988286811219915079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有偏执症精神分裂症 https://t.co/780QnILyf9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1983656746171429044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18492,
+          "following_count": 2385,
+          "like_count": 54732,
+          "listed_count": 24,
+          "media_count": 6295,
+          "tweet_count": 21999
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

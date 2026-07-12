@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2056458012408385593",
+    "created_at": "2026-05-18T19:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T20:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056458012408385593"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056458012408385593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已对ckw和永雏塔菲失去了热情，因为已成了时尚单品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2056458012408385593",
+        "created_at": "2026-05-18T19:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056458012408385593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056458012408385593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已对ckw和永雏塔菲失去了热情，因为已成了时尚单品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18224,
+          "following_count": 1971,
+          "like_count": 55932,
+          "listed_count": 24,
+          "media_count": 6703,
+          "tweet_count": 23595
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

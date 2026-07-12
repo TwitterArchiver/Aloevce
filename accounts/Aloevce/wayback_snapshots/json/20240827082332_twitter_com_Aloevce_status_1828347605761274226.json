@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1828347605761274226",
+    "created_at": "2024-08-27T08:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T09:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828347605761274226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NankyuSeiichi/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/NankyuSeiichi/status/1828347189329850740",
+          "start": 29,
+          "url": "https://t.co/l7Uhj5C8Yf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828347605761274226",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828347189329850740",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他自己非要试的我擦 千里迢迢让我去学校拿我还不想让他磕呢 https://t.co/l7Uhj5C8Yf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1828347605761274226",
+        "created_at": "2024-08-27T08:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T09:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828347605761274226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NankyuSeiichi/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/NankyuSeiichi/status/1828347189329850740",
+              "start": 29,
+              "url": "https://t.co/l7Uhj5C8Yf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828347605761274226",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828347189329850740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他自己非要试的我擦 千里迢迢让我去学校拿我还不想让他磕呢 https://t.co/l7Uhj5C8Yf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "1828341534359478383",
+        "created_at": "2024-08-27T08:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T09:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828347189329850740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828347189329850740",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828341534359478383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 为啥你要劝人磕…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18169,
+          "following_count": 2258,
+          "like_count": 52932,
+          "listed_count": 22,
+          "tweet_count": 18625
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙/自我毁灭/天要下雨/敬畏之心/幻觉游泳/以我为主/历史进程/道阻且长/就天知道",
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1823360232812142937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 286,
+          "like_count": 1520,
+          "listed_count": 1,
+          "tweet_count": 1226
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

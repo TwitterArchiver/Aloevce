@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1884699334207254822",
+    "created_at": "2025-01-29T20:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T21:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884699334207254822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7639xy_k/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/7639xy_k/status/1884692664848978255",
+          "start": 6,
+          "url": "https://t.co/gEmHATUEyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884699334207254822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884692664848978255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是这样 https://t.co/gEmHATUEyc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1884699334207254822",
+        "created_at": "2025-01-29T20:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T21:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884699334207254822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7639xy_k/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/7639xy_k/status/1884692664848978255",
+              "start": 6,
+              "url": "https://t.co/gEmHATUEyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884699334207254822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884692664848978255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是这样 https://t.co/gEmHATUEyc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733255083440357376",
+        "conversation_id": "1884692664848978255",
+        "created_at": "2025-01-29T19:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T20:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884692664848978255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884692664848978255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿就算我现在五百多个关注我也还是可以把单取我的人翻出来取关😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰王牌从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1883941576986276044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17801,
+          "following_count": 2399,
+          "like_count": 54542,
+          "listed_count": 20,
+          "media_count": 5743,
+          "tweet_count": 20479
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T22:40:22.000Z",
+        "description": "友好少数群体//互fo 【解除封印版本@TPR_luv】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "TPR_luv"
+              }
+            ]
+          }
+        },
+        "id": "1733255083440357376",
+        "location": "Anywhere",
+        "name": "曦夜少吃两口",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882183637191565312/KkVoIFXl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 552,
+          "like_count": 31018,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 3078
+        },
+        "username": "7639xy_k",
+        "verified": false
+      }
+    ]
+  }
+}

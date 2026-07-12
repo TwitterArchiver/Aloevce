@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2043018894072229901",
+    "created_at": "2026-04-11T17:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043018894072229901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Aloevce/status/2041592900396433694",
+          "start": 49,
+          "url": "https://t.co/LajsjoaB4J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043018894072229901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041592900396433694",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不用给我发私信了 我发不了私信 只能看着干着急。有事群里联系。除非谁能给我一个最新版推特安装包。 https://t.co/LajsjoaB4J"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2043018894072229901",
+        "created_at": "2026-04-11T17:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043018894072229901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Aloevce/status/2041592900396433694",
+              "start": 49,
+              "url": "https://t.co/LajsjoaB4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043018894072229901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041592900396433694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不用给我发私信了 我发不了私信 只能看着干着急。有事群里联系。除非谁能给我一个最新版推特安装包。 https://t.co/LajsjoaB4J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2041592900396433694",
+        "created_at": "2026-04-07T19:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041592900396433694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041592900396433694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1377,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子没有更新推特发不了私信。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17891,
+          "following_count": 2299,
+          "like_count": 54256,
+          "listed_count": 23,
+          "media_count": 6568,
+          "tweet_count": 22909
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972723570917683200"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1972723575166763209",
+    "created_at": "2025-09-29T18:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T19:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972723575166763209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IWI9R3Qalj",
+          "end": 30,
+          "expanded_url": "https://x.com/Aloevce/status/1972723575166763209/photo/1",
+          "media_key": "3_1972723570917683200",
+          "start": 7,
+          "url": "https://t.co/IWI9R3Qalj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972723575166763209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈妈姐姐级别 https://t.co/IWI9R3Qalj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972723570917683200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2CFosSWsAA2Unp.jpg",
+        "width": 1354
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972723570917683200"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1972723575166763209",
+        "created_at": "2025-09-29T18:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T19:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972723575166763209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWI9R3Qalj",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/1972723575166763209/photo/1",
+              "media_key": "3_1972723570917683200",
+              "start": 7,
+              "url": "https://t.co/IWI9R3Qalj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972723575166763209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈姐姐级别 https://t.co/IWI9R3Qalj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18864,
+          "following_count": 2394,
+          "like_count": 54939,
+          "listed_count": 24,
+          "media_count": 6254,
+          "tweet_count": 21825
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

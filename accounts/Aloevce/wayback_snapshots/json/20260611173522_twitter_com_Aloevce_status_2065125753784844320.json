@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2065125753784844320",
+    "created_at": "2026-06-11T17:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065125753784844320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__fanqie__/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/__fanqie__/status/2064967859583988145",
+          "start": 6,
+          "url": "https://t.co/R002287ICf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065125753784844320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064967859583988145",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈哈谢谢 https://t.co/R002287ICf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2064967852046888960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKg9Uh3bMAAdHLD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2065125753784844320",
+        "created_at": "2026-06-11T17:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065125753784844320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2064967859583988145",
+              "start": 6,
+              "url": "https://t.co/R002287ICf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065125753784844320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064967859583988145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈谢谢 https://t.co/R002287ICf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064967852046888960"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064967859583988145",
+        "created_at": "2026-06-11T07:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064967859583988145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y9wEUkSCoe",
+              "end": 23,
+              "expanded_url": "https://x.com/__fanqie__/status/2064967859583988145/photo/1",
+              "media_key": "3_2064967852046888960",
+              "start": 0,
+              "url": "https://t.co/y9wEUkSCoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064967859583988145",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 821533,
+          "like_count": 1381,
+          "quote_count": 8,
+          "reply_count": 351,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/y9wEUkSCoe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18138,
+          "following_count": 1970,
+          "like_count": 56337,
+          "listed_count": 24,
+          "media_count": 6789,
+          "tweet_count": 23931
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8025,
+          "following_count": 2772,
+          "like_count": 1584,
+          "listed_count": 17,
+          "media_count": 1703,
+          "tweet_count": 10070
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

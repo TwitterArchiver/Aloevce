@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1788792626583634329",
+    "created_at": "2024-05-10T04:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T05:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1788792626583634329"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1788792626583634329",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然闪焰王牌天天推上说想聘夫但是真正聘到了麻烦死= =总是异地恋、异地恋好烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1788792626583634329",
+        "created_at": "2024-05-10T04:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T05:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788792626583634329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788792626583634329",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然闪焰王牌天天推上说想聘夫但是真正聘到了麻烦死= =总是异地恋、异地恋好烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "评论罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12897,
+          "following_count": 2180,
+          "like_count": 51384,
+          "listed_count": 18,
+          "tweet_count": 17254
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

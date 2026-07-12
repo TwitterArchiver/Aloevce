@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2050310295344812387",
+    "created_at": "2026-05-01T20:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T21:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050310295344812387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oTuTok/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/oTuTok/status/2050019824865366112",
+          "start": 4,
+          "url": "https://t.co/fRg44NNeav"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050310295344812387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050019824865366112",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我哭了 https://t.co/fRg44NNeav"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2050310295344812387",
+        "created_at": "2026-05-01T20:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T21:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050310295344812387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oTuTok/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/oTuTok/status/2050019824865366112",
+              "start": 4,
+              "url": "https://t.co/fRg44NNeav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050310295344812387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050019824865366112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哭了 https://t.co/fRg44NNeav"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754766580297379840",
+        "conversation_id": "2050019824865366112",
+        "created_at": "2026-05-01T01:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T02:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050019824865366112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050019824865366112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6075,
+          "like_count": 142,
+          "quote_count": 7,
+          "reply_count": 21,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我长这么大，从来都没有体会过左手牵妈妈 右手牵爸爸的感觉，居然一直渴望有一位能紧握着我双手的恋人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18178,
+          "following_count": 1950,
+          "like_count": 55074,
+          "listed_count": 24,
+          "media_count": 6617,
+          "tweet_count": 23194
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:18:59.000Z",
+        "description": "🎚🩶ིྀ🪦",
+        "id": "1754766580297379840",
+        "location": "v188",
+        "name": "BlackStone",
+        "pinned_tweet_id": "2000882085930918343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765771028322791424/Lf6ihNhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14615,
+          "following_count": 90,
+          "like_count": 7449,
+          "listed_count": 24,
+          "media_count": 159,
+          "tweet_count": 3427
+        },
+        "username": "oTuTok",
+        "verified": false
+      }
+    ]
+  }
+}

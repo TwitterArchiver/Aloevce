@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1823251514783096832"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1823251517081596030",
+    "created_at": "2024-08-13T06:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T07:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823251517081596030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/abn6hcrxfd",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Aloevce/status/1823251517081596030/photo/1",
+          "media_key": "3_1823251514783096832",
+          "start": 6,
+          "url": "https://t.co/AbN6hCRxFD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823251517081596030",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也是神人了 https://t.co/AbN6hCRxFD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1329,
+        "media_key": "3_1823251514783096832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU19l7rW4AAejgi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823251514783096832"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1823251517081596030",
+        "created_at": "2024-08-13T06:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T07:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823251517081596030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/abn6hcrxfd",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Aloevce/status/1823251517081596030/photo/1",
+              "media_key": "3_1823251514783096832",
+              "start": 6,
+              "url": "https://t.co/AbN6hCRxFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823251517081596030",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是神人了 https://t.co/AbN6hCRxFD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17388,
+          "following_count": 2204,
+          "like_count": 52236,
+          "listed_count": 22,
+          "tweet_count": 18303
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

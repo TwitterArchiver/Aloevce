@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2008469766101516410",
+    "created_at": "2026-01-06T09:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T10:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008469766101516410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2007970120157774225",
+          "start": 4,
+          "url": "https://t.co/eByWPjHFGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008469766101516410",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007970120157774225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我老公 https://t.co/eByWPjHFGO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 929,
+        "media_key": "3_2007970082329423872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G92-JrTbcAAkdG3.jpg",
+        "width": 811
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2008469766101516410",
+        "created_at": "2026-01-06T09:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008469766101516410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2007970120157774225",
+              "start": 4,
+              "url": "https://t.co/eByWPjHFGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008469766101516410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007970120157774225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我老公 https://t.co/eByWPjHFGO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007970082329423872"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2007970120157774225",
+        "created_at": "2026-01-05T00:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T01:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007970120157774225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m6ZbkE0Xvp",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2007970120157774225/photo/1",
+              "media_key": "3_2007970082329423872",
+              "start": 0,
+              "url": "https://t.co/m6ZbkE0Xvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007970120157774225",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 339521,
+          "like_count": 5996,
+          "quote_count": 8,
+          "reply_count": 66,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/m6ZbkE0Xvp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18607,
+          "following_count": 2306,
+          "like_count": 55457,
+          "listed_count": 23,
+          "media_count": 6456,
+          "tweet_count": 22545
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30940,
+          "following_count": 352,
+          "like_count": 78,
+          "listed_count": 92,
+          "media_count": 9467,
+          "tweet_count": 9506
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

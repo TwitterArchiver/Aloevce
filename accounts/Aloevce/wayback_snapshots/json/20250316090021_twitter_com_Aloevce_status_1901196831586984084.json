@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1901175191214182467",
+    "created_at": "2025-03-16T09:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T10:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901196831586984084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1536245915559677952",
+          "start": 0,
+          "username": "A601993078"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901196831586984084",
+    "in_reply_to_user_id": "1536245915559677952",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901179215422394464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A601993078 👂🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1901175191214182467",
+        "created_at": "2025-03-16T09:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T10:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901196831586984084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1536245915559677952",
+              "start": 0,
+              "username": "A601993078"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901196831586984084",
+        "in_reply_to_user_id": "1536245915559677952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901179215422394464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A601993078 👂🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536245915559677952",
+        "conversation_id": "1901175191214182467",
+        "created_at": "2025-03-16T07:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T08:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901179215422394464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901179215422394464",
+        "in_reply_to_user_id": "1536245915559677952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901175191214182467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们要看的话，我梳理一下两年半的时间线发出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17702,
+          "following_count": 2386,
+          "like_count": 54685,
+          "listed_count": 21,
+          "media_count": 5883,
+          "tweet_count": 20834
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T07:15:52.000Z",
+        "description": "反咱喵，我的坚实反咱喵战友@gundanshaluan\n别视奸，王策尼玛。买烟可以私信找我要wx问价，便宜的很哇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "gundanshaluan"
+              }
+            ]
+          }
+        },
+        "id": "1536245915559677952",
+        "location": "山东下水道鼠鼠🐭集会",
+        "name": "连落星（卖烟🚬🀄）",
+        "pinned_tweet_id": "1897538656690458869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797646287577440256/Gx7FyMUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 1253,
+          "like_count": 92936,
+          "listed_count": 3,
+          "media_count": 6543,
+          "tweet_count": 26707
+        },
+        "username": "A601993078",
+        "verified": false
+      }
+    ]
+  }
+}

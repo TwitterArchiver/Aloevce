@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2075404445907914752"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2075404495450738879",
+    "created_at": "2026-07-10T02:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075404495450738879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bJoc9FLsGV",
+          "end": 41,
+          "expanded_url": "https://x.com/Aloevce/status/2075404495450738879/video/1",
+          "media_key": "7_2075404445907914752",
+          "start": 18,
+          "url": "https://t.co/bJoc9FLsGV"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/Aloevce/status/2074661060531953990",
+          "start": 42,
+          "url": "https://t.co/x2OgAzgoV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075404495450738879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074661060531953990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有一说一嘟嘟小狗喘可爱又可怜😭😭😭 https://t.co/bJoc9FLsGV https://t.co/x2OgAzgoV3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10986,
+        "height": 1280,
+        "media_key": "7_2075404445907914752",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075404445907914752/pu/img/az0JwjdwsySyf-96.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075404445907914752/pu/vid/avc1/320x568/JPmdIacHPGlBlLQj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075404445907914752/pu/vid/avc1/480x852/mQ60js2c9BIqDcF7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075404445907914752/pu/vid/avc1/720x1280/q0zS4Tp0V9TgOp4G.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075404445907914752/pu/pl/Fm2LOSXAC6mHkpOO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 3814,
+        "height": 1280,
+        "media_key": "7_2074661026726064128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074661026726064128/pu/img/Ef_20X2SKEnihycX.jpg",
+        "public_metrics": {
+          "view_count": 216
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074661026726064128/pu/vid/avc1/320x568/3REKzkD1pIlyUK8I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074661026726064128/pu/vid/avc1/480x852/t8oLC3q06Sz-qkk4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074661026726064128/pu/vid/avc1/720x1280/ty8kzwc4VzRNUQWe.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074661026726064128/pu/pl/VXOzXs08kQYsQ2K_.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075404445907914752"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2075404495450738879",
+        "created_at": "2026-07-10T02:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075404495450738879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJoc9FLsGV",
+              "end": 41,
+              "expanded_url": "https://x.com/Aloevce/status/2075404495450738879/video/1",
+              "media_key": "7_2075404445907914752",
+              "start": 18,
+              "url": "https://t.co/bJoc9FLsGV"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Aloevce/status/2074661060531953990",
+              "start": 42,
+              "url": "https://t.co/x2OgAzgoV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075404495450738879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074661060531953990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一说一嘟嘟小狗喘可爱又可怜😭😭😭 https://t.co/bJoc9FLsGV https://t.co/x2OgAzgoV3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074661026726064128"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2074661060531953990",
+        "created_at": "2026-07-08T01:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074661060531953990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v7g537Gach",
+              "end": 35,
+              "expanded_url": "https://x.com/Aloevce/status/2074661060531953990/video/1",
+              "media_key": "7_2074661026726064128",
+              "start": 12,
+              "url": "https://t.co/v7g537Gach"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Aloevce/status/2074655081396412840",
+              "start": 36,
+              "url": "https://t.co/w0HOZulZoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074661060531953990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1124,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074655081396412840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对象哥把我的猫弄应激了 https://t.co/v7g537Gach https://t.co/w0HOZulZoX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18049,
+          "following_count": 1956,
+          "like_count": 56380,
+          "listed_count": 23,
+          "media_count": 6878,
+          "tweet_count": 24152
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

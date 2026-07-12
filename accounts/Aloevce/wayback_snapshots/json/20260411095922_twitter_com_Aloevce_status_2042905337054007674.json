@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2042905337054007674",
+    "created_at": "2026-04-11T09:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042905337054007674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PfKmx/status/2…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/PfKmx/status/2041517584227688953",
+          "start": 13,
+          "url": "https://t.co/4kbevAlF32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042905337054007674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041517584227688953",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想抄这个。把大楼都铲了🙀 https://t.co/4kbevAlF32"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2041517517932552192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTtXbsbYAAgKyY.jpg",
+        "width": 1920
+      },
+      {
+        "duration_ms": 37000,
+        "height": 720,
+        "media_key": "13_2041517517949341696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041517517949341696/img/sZ4CNy2LvVmJ47h9.jpg",
+        "public_metrics": {
+          "view_count": 208394
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041517517949341696/vid/avc1/480x270/F3q-W5iNuuTzVkfl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041517517949341696/vid/avc1/640x360/g_hPfr4iVCAHRZNE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041517517949341696/vid/avc1/1280x720/gBITuM3QKKY_hAhp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041517517949341696/pl/9ZJ8mVdb2X93La36.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2042905337054007674",
+        "created_at": "2026-04-11T09:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042905337054007674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PfKmx/status/2…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/PfKmx/status/2041517584227688953",
+              "start": 13,
+              "url": "https://t.co/4kbevAlF32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042905337054007674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041517584227688953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想抄这个。把大楼都铲了🙀 https://t.co/4kbevAlF32"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041517517932552192",
+            "13_2041517517949341696"
+          ]
+        },
+        "author_id": "1718026092592955392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041517584227688953",
+        "created_at": "2026-04-07T14:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041517584227688953"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 93,
+              "tag": "ぽこあポケモン"
+            },
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "ぽこポケ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hfzkdH6fyS",
+              "end": 131,
+              "expanded_url": "https://x.com/PfKmx/status/2041517584227688953/video/1",
+              "media_key": "3_2041517517932552192",
+              "start": 108,
+              "url": "https://t.co/hfzkdH6fyS"
+            },
+            {
+              "display_url": "pic.x.com/hfzkdH6fyS",
+              "end": 131,
+              "expanded_url": "https://x.com/PfKmx/status/2041517584227688953/video/1",
+              "media_key": "13_2041517517949341696",
+              "start": 108,
+              "url": "https://t.co/hfzkdH6fyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041517584227688953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5929,
+          "impression_count": 609912,
+          "like_count": 15121,
+          "quote_count": 199,
+          "reply_count": 25,
+          "retweet_count": 1604
+        },
+        "reply_settings": "everyone",
+        "text": "自宅の後ろにオフィスビルが見えるのが嫌で違法改築したシルフカンパニー城、雰囲気最高かもしれない☺️\nキラキラうきしまの名に恥じないファンタジーな浮遊都市になったのではないでしょうか✨\n\n#ぽこあポケモン #ぽこポケ https://t.co/hfzkdH6fyS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17899,
+          "following_count": 2294,
+          "like_count": 54227,
+          "listed_count": 23,
+          "media_count": 6567,
+          "tweet_count": 22902
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T22:05:32.000Z",
+        "description": "好きなものいろいろ。Take That ⫩🇬🇧Westlife🇮🇪はなまるおばけ💮くまのがっこう🐻ポケモン🎮ミュージカル🎭ドラマ＆映画🎬 ぬい活はじめました（沼にハマりました）",
+        "id": "1718026092592955392",
+        "name": "な゜",
+        "pinned_tweet_id": "1995453387962196181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924003020372619264/kgyuECLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 178,
+          "like_count": 2205,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 539
+        },
+        "username": "PfKmx",
+        "verified": false
+      }
+    ]
+  }
+}

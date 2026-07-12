@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043592340368187899",
+    "created_at": "2026-04-13T07:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043592340368187899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mugi_cinderace…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/mugi_cinderace/status/2043314397913960719",
+          "start": 7,
+          "url": "https://t.co/oY5rUX5Npm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043592340368187899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043314397913960719",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "闪焰王牌厨！ https://t.co/oY5rUX5Npm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11166,
+        "height": 764,
+        "media_key": "13_2043314382567071744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043314382567071744/img/-7B4vC_KG21iufRw.jpg",
+        "public_metrics": {
+          "view_count": 113153
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043314382567071744/vid/avc1/320x338/RV4xBrpvxFjJd3z-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043314382567071744/vid/avc1/480x508/xAIIC7qWxvrdgRCA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043314382567071744/vid/avc1/720x764/TtBfx4SO1Ux0nTui.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043314382567071744/pl/GHrOqhQYmNuAqzrr.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043592340368187899",
+        "created_at": "2026-04-13T07:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043592340368187899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mugi_cinderace…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/mugi_cinderace/status/2043314397913960719",
+              "start": 7,
+              "url": "https://t.co/oY5rUX5Npm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043592340368187899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043314397913960719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "闪焰王牌厨！ https://t.co/oY5rUX5Npm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043314382567071744"
+          ]
+        },
+        "author_id": "1232528008352694274",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043314397913960719",
+        "created_at": "2026-04-12T13:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043314397913960719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksS8hBmjoN",
+              "end": 39,
+              "expanded_url": "https://x.com/mugi_cinderace/status/2043314397913960719/video/1",
+              "media_key": "13_2043314382567071744",
+              "start": 16,
+              "url": "https://t.co/ksS8hBmjoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043314397913960719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 595,
+          "impression_count": 256566,
+          "like_count": 9848,
+          "quote_count": 70,
+          "reply_count": 8,
+          "retweet_count": 774
+        },
+        "reply_settings": "everyone",
+        "text": "イケメンが添い寝しに来る神ゲー https://t.co/ksS8hBmjoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17817,
+          "following_count": 2296,
+          "like_count": 54307,
+          "listed_count": 21,
+          "media_count": 6568,
+          "tweet_count": 22934
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-26T04:50:24.000Z",
+        "description": "エースバーン♂ガチ恋勢▼cpはエス主だけ▼イラスト画像の無断転載、無断複製禁止Do not use my images without my permission▼Skeb: https://t.co/DsVlQeLl4v▼過激エス主:@mugi_fragola 🔥🐇:@buyi_cinderace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "mugi_fragola"
+              },
+              {
+                "end": 150,
+                "start": 135,
+                "username": "buyi_cinderace"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mugi_cinderace",
+                "end": 111,
+                "expanded_url": "https://skeb.jp/@mugi_cinderace",
+                "start": 88,
+                "url": "https://t.co/DsVlQeLl4v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/58997825",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/58997825",
+                "start": 0,
+                "url": "https://t.co/s9Hp7lQ91F"
+              }
+            ]
+          }
+        },
+        "id": "1232528008352694274",
+        "location": "ガラルとエオス島",
+        "name": "ウィーテ🫖",
+        "pinned_tweet_id": "1916071702255308825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909215839771152384/MWX7O48e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6450,
+          "following_count": 62,
+          "like_count": 7735,
+          "listed_count": 20,
+          "media_count": 1517,
+          "tweet_count": 11218
+        },
+        "url": "https://t.co/s9Hp7lQ91F",
+        "username": "mugi_cinderace",
+        "verified": false
+      }
+    ]
+  }
+}

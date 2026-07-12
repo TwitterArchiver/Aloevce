@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1952365406254969255",
+    "created_at": "2025-08-04T16:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T17:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952407985575071811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "989792932533223424",
+          "start": 0,
+          "username": "Kinodar_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952407985575071811",
+    "in_reply_to_user_id": "989792932533223424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952373630312370669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinodar_ 谢谢叔😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1952365406254969255",
+        "created_at": "2025-08-04T16:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T17:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952407985575071811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "989792932533223424",
+              "start": 0,
+              "username": "Kinodar_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952407985575071811",
+        "in_reply_to_user_id": "989792932533223424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952373630312370669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinodar_ 谢谢叔😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "989792932533223424",
+        "conversation_id": "1952365406254969255",
+        "created_at": "2025-08-04T14:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952373630312370669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952373630312370669",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952365406254969255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 看了眼，这份工作机会有，但不完美，尤其在薪资和长期发展上需要慎重考虑，建议和朋友多比较，不要因为人脉压力或初期氛围而草率决定。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19114,
+          "following_count": 2419,
+          "like_count": 55714,
+          "listed_count": 21,
+          "media_count": 6203,
+          "tweet_count": 21719
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-27T09:06:39.000Z",
+        "description": "男/已婚/37岁 日记推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kinodarz.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://kinodarz.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/DtKsP3fmqS"
+              }
+            ]
+          }
+        },
+        "id": "989792932533223424",
+        "location": "Shanghai",
+        "name": "Kinodar",
+        "pinned_tweet_id": "1688373772225818624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674684426016677889/4ziJHXk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 123,
+          "like_count": 10687,
+          "listed_count": 6,
+          "media_count": 1587,
+          "tweet_count": 7127
+        },
+        "url": "https://t.co/DtKsP3fmqS",
+        "username": "Kinodar_",
+        "verified": false
+      }
+    ]
+  }
+}

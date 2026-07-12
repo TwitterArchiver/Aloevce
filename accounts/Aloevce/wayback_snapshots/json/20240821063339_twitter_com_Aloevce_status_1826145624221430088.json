@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1825870341178007573",
+    "created_at": "2024-08-21T06:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T07:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826145624221430088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1625130433896914946",
+          "start": 0,
+          "username": "foxluvu4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826145624221430088",
+    "in_reply_to_user_id": "1625130433896914946",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826144349891232138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foxluvu4ever 狮萨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1825870341178007573",
+        "created_at": "2024-08-21T06:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T07:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826145624221430088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1625130433896914946",
+              "start": 0,
+              "username": "foxluvu4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826145624221430088",
+        "in_reply_to_user_id": "1625130433896914946",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826144349891232138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foxluvu4ever 狮萨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625130433896914946",
+        "conversation_id": "1825870341178007573",
+        "created_at": "2024-08-21T06:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T07:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826144349891232138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826144349891232138",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825870341178007573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce (o^^o)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18042,
+          "following_count": 2241,
+          "like_count": 52641,
+          "listed_count": 22,
+          "tweet_count": 18469
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T13:51:16.000Z",
+        "description": "叫我狐狸就行 死人一个 别对我有啥太大期望我会让你恨死我",
+        "id": "1625130433896914946",
+        "location": "太平洋深处",
+        "name": "(o^^o)",
+        "pinned_tweet_id": "1822495912423571874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826135026561593350/xGW4ZRt8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 14,
+          "like_count": 238,
+          "listed_count": 1,
+          "tweet_count": 55
+        },
+        "username": "foxluvu4ever",
+        "verified": false
+      }
+    ]
+  }
+}

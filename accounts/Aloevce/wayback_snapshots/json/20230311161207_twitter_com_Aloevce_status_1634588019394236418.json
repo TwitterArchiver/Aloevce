@@ -1,0 +1,129 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1634585857037602819",
+    "created_at": "2023-03-11T16:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2023-03-11T16:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1634588019394236418"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1634588019394236418",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1634586998047657985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点萌。当头像了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1634585857037602819",
+        "created_at": "2023-03-11T16:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-11T16:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1634588019394236418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1634588019394236418",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1634586998047657985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点萌。当头像了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1634585857037602819",
+        "created_at": "2023-03-11T16:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-11T16:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1634586998047657985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1634586998047657985",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1634586376833503232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鼻基底像我的人生一样塌陷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "别视奸，谢谢",
+        "id": "1495662254544789506",
+        "name": "エースバーン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1495849467026706434/ml-8TLLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 8,
+          "listed_count": 0,
+          "tweet_count": 362
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

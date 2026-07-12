@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2046575223026356450",
+    "created_at": "2026-04-21T13:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046575223026356450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Aloevce/status/1821267097198145717",
+          "start": 5,
+          "url": "https://t.co/KVVrxzKbK7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046575223026356450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821267097198145717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "令人怀念 https://t.co/KVVrxzKbK7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4483,
+        "height": 1264,
+        "media_key": "7_1821267057897287680",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1821267057897287680/pu/img/KxPBx3KtL2DZ3xwU.jpg",
+        "public_metrics": {
+          "view_count": 3382
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1821267057897287680/pu/vid/avc1/320x560/TENUSKCnslKEY88O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1821267057897287680/pu/vid/avc1/480x842/esyD2cgS9apOXvYz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1821267057897287680/pu/vid/avc1/720x1264/qk7EvxnHMmKt_tni.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1821267057897287680/pu/pl/Ct4mi8rgkZV7K7I1.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2046575223026356450",
+        "created_at": "2026-04-21T13:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046575223026356450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Aloevce/status/1821267097198145717",
+              "start": 5,
+              "url": "https://t.co/KVVrxzKbK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046575223026356450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821267097198145717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "令人怀念 https://t.co/KVVrxzKbK7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1821267057897287680"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1821267097198145717",
+        "created_at": "2024-08-07T19:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T20:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821267097198145717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BN85SSMQt7",
+              "end": 25,
+              "expanded_url": "https://x.com/Aloevce/status/1821267097198145717/video/1",
+              "media_key": "7_1821267057897287680",
+              "start": 2,
+              "url": "https://t.co/BN85SSMQt7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821267097198145717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15808,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额 https://t.co/BN85SSMQt7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17882,
+          "following_count": 2325,
+          "like_count": 54440,
+          "listed_count": 21,
+          "media_count": 6592,
+          "tweet_count": 23046
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

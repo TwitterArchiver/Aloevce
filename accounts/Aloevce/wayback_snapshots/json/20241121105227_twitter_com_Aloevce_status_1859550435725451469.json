@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1859550435725451469",
+    "created_at": "2024-11-21T10:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T11:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859550435725451469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Aloevce/status/1859502931675861460",
+          "start": 8,
+          "url": "https://t.co/pRYdPvkOdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859550435725451469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859502931675861460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我家狗回来了🙀 https://t.co/pRYdPvkOdy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1859550435725451469",
+        "created_at": "2024-11-21T10:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T11:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859550435725451469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Aloevce/status/1859502931675861460",
+              "start": 8,
+              "url": "https://t.co/pRYdPvkOdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859550435725451469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859502931675861460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我家狗回来了🙀 https://t.co/pRYdPvkOdy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1859502931675861460",
+        "created_at": "2024-11-21T07:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T08:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859502931675861460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1859502931675861460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家狗跑丢了🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17562,
+          "following_count": 2304,
+          "like_count": 53382,
+          "listed_count": 21,
+          "tweet_count": 19434
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

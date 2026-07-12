@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872568297864273920"
+      ],
+      "media_source_tweet_id": [
+        "1872568305489514537"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1872875413288210703",
+    "created_at": "2024-12-28T05:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T06:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872875413288210703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1279012765839929344",
+          "start": 3,
+          "username": "Sorani___Ao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hIMmWNnXmY",
+          "end": 53,
+          "expanded_url": "https://x.com/Sorani___Ao/status/1872568305489514537/photo/1",
+          "media_key": "3_1872568297864273920",
+          "start": 30,
+          "url": "https://t.co/hIMmWNnXmY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872875413288210703",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1050
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872568305489514537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorani___Ao: 泣きたい私は猫をかぶる。 https://t.co/hIMmWNnXmY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1883,
+        "media_key": "3_1872568297864273920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfyy8hPboAAEZk4.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872568297864273920"
+          ],
+          "media_source_tweet_id": [
+            "1872568305489514537"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1872875413288210703",
+        "created_at": "2024-12-28T05:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T06:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872875413288210703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1279012765839929344",
+              "start": 3,
+              "username": "Sorani___Ao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIMmWNnXmY",
+              "end": 53,
+              "expanded_url": "https://x.com/Sorani___Ao/status/1872568305489514537/photo/1",
+              "media_key": "3_1872568297864273920",
+              "start": 30,
+              "url": "https://t.co/hIMmWNnXmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872875413288210703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1050
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872568305489514537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorani___Ao: 泣きたい私は猫をかぶる。 https://t.co/hIMmWNnXmY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872568297864273920"
+          ]
+        },
+        "author_id": "1279012765839929344",
+        "conversation_id": "1872568305489514537",
+        "created_at": "2024-12-27T09:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T10:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872568305489514537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIMmWNnXmY",
+              "end": 36,
+              "expanded_url": "https://x.com/Sorani___Ao/status/1872568305489514537/photo/1",
+              "media_key": "3_1872568297864273920",
+              "start": 13,
+              "url": "https://t.co/hIMmWNnXmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872568305489514537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 438,
+          "impression_count": 207170,
+          "like_count": 8121,
+          "quote_count": 33,
+          "reply_count": 25,
+          "retweet_count": 1050
+        },
+        "reply_settings": "everyone",
+        "text": "泣きたい私は猫をかぶる。 https://t.co/hIMmWNnXmY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "额",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17715,
+          "following_count": 2353,
+          "like_count": 53706,
+          "listed_count": 20,
+          "media_count": 5530,
+          "tweet_count": 19831
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-03T11:23:12.000Z",
+        "description": "写真と言葉を紡ぎます。                                                            ご依頼はDMまでお願いします✉💭                  https://t.co/7Wa2VL1Mv3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "market.orilab.jp/user/633f7bb38…",
+                "end": 128,
+                "expanded_url": "https://market.orilab.jp/user/633f7bb389c7a",
+                "start": 105,
+                "url": "https://t.co/7Wa2VL1Mv3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sorani__ao/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sorani__ao/",
+                "start": 0,
+                "url": "https://t.co/S1VwGbEPwP"
+              }
+            ]
+          }
+        },
+        "id": "1279012765839929344",
+        "location": "青色の君が好き。",
+        "name": "空に青。",
+        "pinned_tweet_id": "1520694635051773952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1377538290560102401/A94JJtJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154417,
+          "following_count": 411,
+          "like_count": 86359,
+          "listed_count": 1181,
+          "media_count": 1856,
+          "tweet_count": 99318
+        },
+        "url": "https://t.co/S1VwGbEPwP",
+        "username": "Sorani___Ao",
+        "verified": true
+      }
+    ]
+  }
+}

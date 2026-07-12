@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938373841039810560"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1938373874527134090",
+    "created_at": "2025-06-26T23:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T00:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938373874527134090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Src9Fc7HyE",
+          "end": 27,
+          "expanded_url": "https://x.com/Aloevce/status/1938373874527134090/photo/1",
+          "media_key": "3_1938373841039810560",
+          "start": 4,
+          "url": "https://t.co/Src9Fc7HyE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938373874527134090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "画的是 https://t.co/Src9Fc7HyE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938373841039810560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuZ8vQ0WYAAXIds.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938373841039810560"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1938373874527134090",
+        "created_at": "2025-06-26T23:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T00:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938373874527134090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Src9Fc7HyE",
+              "end": 27,
+              "expanded_url": "https://x.com/Aloevce/status/1938373874527134090/photo/1",
+              "media_key": "3_1938373841039810560",
+              "start": 4,
+              "url": "https://t.co/Src9Fc7HyE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938373874527134090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画的是 https://t.co/Src9Fc7HyE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19088,
+          "following_count": 2390,
+          "like_count": 55336,
+          "listed_count": 20,
+          "media_count": 6121,
+          "tweet_count": 21432
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

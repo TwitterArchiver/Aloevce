@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1881240377367380027",
+    "created_at": "2025-01-20T07:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T08:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881240377367380027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/Aloevce/status/1881232166409158945",
+          "start": 71,
+          "url": "https://t.co/1lud0GoFwL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881240377367380027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881232166409158945",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "逐一手打id搜索了一遍，（不要小看有任务的女人，除了肝毕设什么都干得出来）还发现了一个除了关注我小号只关注了马斯克的人，你有什么目的我请问了 https://t.co/1lud0GoFwL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1881240377367380027",
+        "created_at": "2025-01-20T07:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T08:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881240377367380027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/Aloevce/status/1881232166409158945",
+              "start": 71,
+              "url": "https://t.co/1lud0GoFwL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881240377367380027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881232166409158945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "逐一手打id搜索了一遍，（不要小看有任务的女人，除了肝毕设什么都干得出来）还发现了一个除了关注我小号只关注了马斯克的人，你有什么目的我请问了 https://t.co/1lud0GoFwL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1881232166409158945",
+        "created_at": "2025-01-20T06:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T07:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881232166409158945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Aloevce/status/1881231272049365195",
+              "start": 45,
+              "url": "https://t.co/mmskD0gaNE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881232166409158945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881231272049365195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我重新审核一下，只关注小号的拉黑了，只关注小号的人看起来你也不喜欢我本体，我也不想给你看 https://t.co/mmskD0gaNE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1879847418914881656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17825,
+          "following_count": 2375,
+          "like_count": 54189,
+          "listed_count": 20,
+          "media_count": 5655,
+          "tweet_count": 20185
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

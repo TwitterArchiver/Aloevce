@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963719626015068160"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1963719630091845639",
+    "created_at": "2025-09-04T21:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T22:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963719630091845639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NEZNkgnRmt",
+          "end": 41,
+          "expanded_url": "https://x.com/Aloevce/status/1963719630091845639/photo/1",
+          "media_key": "3_1963719626015068160",
+          "start": 18,
+          "url": "https://t.co/NEZNkgnRmt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963719630091845639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前几天嗑大了买了一堆速食面我请问了 https://t.co/NEZNkgnRmt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963719626015068160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0CImHsXUAASbSa.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963719626015068160"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1963719630091845639",
+        "created_at": "2025-09-04T21:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T22:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963719630091845639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NEZNkgnRmt",
+              "end": 41,
+              "expanded_url": "https://x.com/Aloevce/status/1963719630091845639/photo/1",
+              "media_key": "3_1963719626015068160",
+              "start": 18,
+              "url": "https://t.co/NEZNkgnRmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963719630091845639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前几天嗑大了买了一堆速食面我请问了 https://t.co/NEZNkgnRmt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18993,
+          "following_count": 2407,
+          "like_count": 55416,
+          "listed_count": 24,
+          "media_count": 6236,
+          "tweet_count": 21778
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

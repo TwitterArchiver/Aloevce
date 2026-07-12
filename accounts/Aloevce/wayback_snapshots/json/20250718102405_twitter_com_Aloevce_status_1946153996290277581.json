@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946153951574810625",
+        "3_1946153972311470080"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1946153996290277581",
+    "created_at": "2025-07-18T10:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T11:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946153996290277581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1UiObQkMhD",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/1946153996290277581/photo/1",
+          "media_key": "3_1946153951574810625",
+          "start": 5,
+          "url": "https://t.co/1UiObQkMhD"
+        },
+        {
+          "display_url": "pic.x.com/1UiObQkMhD",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/1946153996290277581/photo/1",
+          "media_key": "3_1946153972311470080",
+          "start": 5,
+          "url": "https://t.co/1UiObQkMhD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946153996290277581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 240,
+      "like_count": 10,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈眼镜儿 https://t.co/1UiObQkMhD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946153951574810625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwIgtTHW4AEOdjO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1946153972311470080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwIgugXXMAANykz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946153951574810625",
+            "3_1946153972311470080"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1946153996290277581",
+        "created_at": "2025-07-18T10:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T11:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946153996290277581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UiObQkMhD",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/1946153996290277581/photo/1",
+              "media_key": "3_1946153951574810625",
+              "start": 5,
+              "url": "https://t.co/1UiObQkMhD"
+            },
+            {
+              "display_url": "pic.x.com/1UiObQkMhD",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/1946153996290277581/photo/1",
+              "media_key": "3_1946153972311470080",
+              "start": 5,
+              "url": "https://t.co/1UiObQkMhD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946153996290277581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈眼镜儿 https://t.co/1UiObQkMhD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "伪人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1942344432830873884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19118,
+          "following_count": 2402,
+          "like_count": 55707,
+          "listed_count": 21,
+          "media_count": 6170,
+          "tweet_count": 21592
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

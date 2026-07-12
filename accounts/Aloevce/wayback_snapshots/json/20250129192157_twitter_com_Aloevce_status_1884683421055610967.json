@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1884683421055610967",
+    "created_at": "2025-01-29T19:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T20:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884683421055610967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/Aloevce/status/1884681615831417109",
+          "start": 81,
+          "url": "https://t.co/9CoE4RmcOb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884683421055610967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884681615831417109",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（点进主页）（看头像看个签看置顶）（看照片翻推文）（？怎么长得那么清秀？）（？心思好细好像是女生）（看手好糙好像是男生？）（？真的有这么萌的男生吗？）（灌注了） https://t.co/9CoE4RmcOb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1884683421055610967",
+        "created_at": "2025-01-29T19:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T20:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884683421055610967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/Aloevce/status/1884681615831417109",
+              "start": 81,
+              "url": "https://t.co/9CoE4RmcOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884683421055610967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884681615831417109",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（点进主页）（看头像看个签看置顶）（看照片翻推文）（？怎么长得那么清秀？）（？心思好细好像是女生）（看手好糙好像是男生？）（？真的有这么萌的男生吗？）（灌注了） https://t.co/9CoE4RmcOb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1884681615831417109",
+        "created_at": "2025-01-29T19:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T20:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884681615831417109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884681615831417109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到几个雌雄难辨的人类。。。🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰王牌从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1883941576986276044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17799,
+          "following_count": 2399,
+          "like_count": 54527,
+          "listed_count": 20,
+          "media_count": 5743,
+          "tweet_count": 20472
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

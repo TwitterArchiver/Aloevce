@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2006307767158743091",
+    "created_at": "2025-12-31T10:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T11:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006310948899049971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "989792932533223424",
+          "start": 0,
+          "username": "Kinodar_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006310948899049971",
+    "in_reply_to_user_id": "989792932533223424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006309228370337856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinodar_ 哇塞哇塞谢谢叔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2006307767158743091",
+        "created_at": "2025-12-31T10:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006310948899049971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "989792932533223424",
+              "start": 0,
+              "username": "Kinodar_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006310948899049971",
+        "in_reply_to_user_id": "989792932533223424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006309228370337856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinodar_ 哇塞哇塞谢谢叔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "989792932533223424",
+        "conversation_id": "2006307767158743091",
+        "created_at": "2025-12-31T10:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006309228370337856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006309228370337856",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006307767158743091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 可好玩了，美的这款真的好用。涂层掉了之后让它售后也很方便 基本加热管不会坏的。\n\n其它牌子的就是备品太少了过个两年没售后了\n\n推荐一个烤鸡翅，盒马买奥尔良鸡翅粉、一汤勺料酒+半勺生抽+粉，冷藏腌制4小时以上，然后直接鸡皮面朝下用默认鸡翅档烤就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18638,
+          "following_count": 2322,
+          "like_count": 55426,
+          "listed_count": 23,
+          "media_count": 6443,
+          "tweet_count": 22473
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-27T09:06:39.000Z",
+        "description": "男/已婚/38岁 日记推 https://t.co/lTHzXm4cwc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kinodar",
+                "end": 36,
+                "expanded_url": "https://ngl.link/kinodar",
+                "start": 13,
+                "url": "https://t.co/lTHzXm4cwc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kinodarz.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://kinodarz.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/DtKsP3eOBk"
+              }
+            ]
+          }
+        },
+        "id": "989792932533223424",
+        "location": "Shanghai",
+        "name": "Kinodar",
+        "pinned_tweet_id": "1688373772225818624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005194038027436032/sbjch9Y7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 108,
+          "like_count": 15698,
+          "listed_count": 7,
+          "media_count": 1927,
+          "tweet_count": 8827
+        },
+        "url": "https://t.co/DtKsP3eOBk",
+        "username": "Kinodar_",
+        "verified": false
+      }
+    ]
+  }
+}

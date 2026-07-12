@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1916510055417213107",
+    "created_at": "2025-04-27T15:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T16:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916510055417213107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "static-play.kg.qq.com/node/G4Pbe4Qc0…",
+          "end": 28,
+          "expanded_url": "https://static-play.kg.qq.com/node/G4Pbe4Qc04/play_v2?s=MdrFU8MdegDEiM-5&shareuid=60989a8d2329308b&abtype=13&shareDescABType=1&topsource=a0_pn201001006_z11_u25786470_l0_t1745766529__&pageId=details_of_creations",
+          "start": 5,
+          "url": "https://t.co/jsQK1Cb9Sz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916510055417213107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁听我唱歌https://t.co/jsQK1Cb9Sz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1916510055417213107",
+        "created_at": "2025-04-27T15:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T16:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916510055417213107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "static-play.kg.qq.com/node/G4Pbe4Qc0…",
+              "end": 28,
+              "expanded_url": "https://static-play.kg.qq.com/node/G4Pbe4Qc04/play_v2?s=MdrFU8MdegDEiM-5&shareuid=60989a8d2329308b&abtype=13&shareDescABType=1&topsource=a0_pn201001006_z11_u25786470_l0_t1745766529__&pageId=details_of_creations",
+              "start": 5,
+              "url": "https://t.co/jsQK1Cb9Sz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916510055417213107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁听我唱歌https://t.co/jsQK1Cb9Sz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17554,
+          "following_count": 2375,
+          "like_count": 54431,
+          "listed_count": 19,
+          "media_count": 5979,
+          "tweet_count": 21037
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

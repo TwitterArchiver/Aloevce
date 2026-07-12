@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2047389918910156877",
+    "created_at": "2026-04-23T18:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047389918910156877"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047389918910156877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉我发推特的原因要追溯到我上学的时候脑子里天天胡思乱想。然后上初中的时候我给初恋天天写类似我发推特上的内容的日记然后交给他看。然后大学的时候玉玉的时候天天刷屏朋友圈被同学都删了，然后我就来发推特了。这里想发什么就发什么还有人回复。我的脑子什么时候才能停下来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2047389918910156877",
+        "created_at": "2026-04-23T18:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047389918910156877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047389918910156877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我发推特的原因要追溯到我上学的时候脑子里天天胡思乱想。然后上初中的时候我给初恋天天写类似我发推特上的内容的日记然后交给他看。然后大学的时候玉玉的时候天天刷屏朋友圈被同学都删了，然后我就来发推特了。这里想发什么就发什么还有人回复。我的脑子什么时候才能停下来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17851,
+          "following_count": 2339,
+          "like_count": 54534,
+          "listed_count": 21,
+          "media_count": 6600,
+          "tweet_count": 23117
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1925370120706109666",
+    "created_at": "2025-05-22T08:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T09:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925472298980528307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1094453901783293952",
+          "start": 0,
+          "username": "_cookie_bing"
+        },
+        {
+          "end": 25,
+          "id": "1363804005583888386",
+          "start": 14,
+          "username": "Lgasuiyuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925472298980528307",
+    "in_reply_to_user_id": "1094453901783293952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925462306311610383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_cookie_bing @Lgasuiyuno 别让孩子看见🤣看了又破防刷屏👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1925370120706109666",
+        "created_at": "2025-05-22T08:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T09:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925472298980528307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1094453901783293952",
+              "start": 0,
+              "username": "_cookie_bing"
+            },
+            {
+              "end": 25,
+              "id": "1363804005583888386",
+              "start": 14,
+              "username": "Lgasuiyuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925472298980528307",
+        "in_reply_to_user_id": "1094453901783293952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925462306311610383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_cookie_bing @Lgasuiyuno 别让孩子看见🤣看了又破防刷屏👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1094453901783293952",
+        "conversation_id": "1925370120706109666",
+        "created_at": "2025-05-22T08:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T09:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925462306311610383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            },
+            {
+              "end": 20,
+              "id": "1363804005583888386",
+              "start": 9,
+              "username": "Lgasuiyuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925462306311610383",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925370120706109666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce @Lgasuiyuno 为什么你性无能😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19212,
+          "following_count": 2391,
+          "like_count": 55271,
+          "listed_count": 19,
+          "media_count": 6043,
+          "tweet_count": 21242
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-10T04:31:58.000Z",
+        "description": "或许我早就死在了看向月亮的那个夜",
+        "id": "1094453901783293952",
+        "name": "cookie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721603552047661056/ZB2TEFoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 307,
+          "like_count": 1942,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2691
+        },
+        "username": "_cookie_bing",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T10:53:16.000Z",
+        "description": "......呜.......\n‖双相|精神疾病|目前饲养两只咪物一只汪物|♂|05-_-||这是我的日记|互关欢迎|od会发疯|开放式关系👁️女友@suyan_dog\n里森堡卢伦贝格精神病保护协会已死 驻马德里分会基金组织将永远纪念它✟✟✟✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "suyan_dog"
+              }
+            ]
+          }
+        },
+        "id": "1363804005583888386",
+        "location": "卢伦贝格",
+        "name": "✟罂粟花与堡协会✟",
+        "pinned_tweet_id": "1894923502891000237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863050008976637952/OaGJENLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 764,
+          "like_count": 8465,
+          "listed_count": 2,
+          "media_count": 1293,
+          "tweet_count": 10283
+        },
+        "username": "Lgasuiyuno",
+        "verified": false
+      }
+    ]
+  }
+}

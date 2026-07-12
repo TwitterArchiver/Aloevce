@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1856102557816443285",
+    "created_at": "2024-11-12T11:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T12:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856291919518712163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1127216828655161345",
+          "start": 0,
+          "username": "zerowt94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856291919518712163",
+    "in_reply_to_user_id": "1127216828655161345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856241926946861463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zerowt94 防止电动车上楼 居民楼没几户不挤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1856102557816443285",
+        "created_at": "2024-11-12T11:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T12:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856291919518712163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1127216828655161345",
+              "start": 0,
+              "username": "zerowt94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856291919518712163",
+        "in_reply_to_user_id": "1127216828655161345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856241926946861463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zerowt94 防止电动车上楼 居民楼没几户不挤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1127216828655161345",
+        "conversation_id": "1856102557816443285",
+        "created_at": "2024-11-12T07:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T08:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856241926946861463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856241926946861463",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856102557816443285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 这种地铁里放架子是为了什么？还嫌空间不够挤吗？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17560,
+          "following_count": 2285,
+          "like_count": 53334,
+          "listed_count": 21,
+          "tweet_count": 19334
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-11T14:20:09.000Z",
+        "description": "",
+        "id": "1127216828655161345",
+        "name": "zerowt94",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 62,
+          "like_count": 18,
+          "listed_count": 0,
+          "tweet_count": 53
+        },
+        "username": "zerowt94",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942394631162884096"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1942394635311346029",
+    "created_at": "2025-07-08T01:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T02:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942394635311346029"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A9xGnt3ZsV",
+          "end": 32,
+          "expanded_url": "https://x.com/Aloevce/status/1942394635311346029/photo/1",
+          "media_key": "3_1942394631162884096",
+          "start": 9,
+          "url": "https://t.co/A9xGnt3ZsV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942394635311346029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就这么一堆kry https://t.co/A9xGnt3ZsV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1942394631162884096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvTFoDQW8AAD2zQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942394631162884096"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1942394635311346029",
+        "created_at": "2025-07-08T01:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T02:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942394635311346029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9xGnt3ZsV",
+              "end": 32,
+              "expanded_url": "https://x.com/Aloevce/status/1942394635311346029/photo/1",
+              "media_key": "3_1942394631162884096",
+              "start": 9,
+              "url": "https://t.co/A9xGnt3ZsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942394635311346029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这么一堆kry https://t.co/A9xGnt3ZsV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "伪人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1942344432830873884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19122,
+          "following_count": 2460,
+          "like_count": 55636,
+          "listed_count": 21,
+          "media_count": 6155,
+          "tweet_count": 21540
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

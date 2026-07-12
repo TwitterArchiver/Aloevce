@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2015177973771714954",
+    "created_at": "2026-01-24T21:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T22:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015178548815016439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807068693010198528",
+          "start": 0,
+          "username": "IItaxue1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015178548815016439",
+    "in_reply_to_user_id": "1807068693010198528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015178074493702593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IItaxue1 宿醉睡不着ing😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2015177973771714954",
+        "created_at": "2026-01-24T21:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T22:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015178548815016439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807068693010198528",
+              "start": 0,
+              "username": "IItaxue1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015178548815016439",
+        "in_reply_to_user_id": "1807068693010198528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015178074493702593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IItaxue1 宿醉睡不着ing😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807068693010198528",
+        "conversation_id": "2015177973771714954",
+        "created_at": "2026-01-24T21:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T22:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015178074493702593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015178074493702593",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015177973771714954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 这个点都不睡吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18484,
+          "following_count": 2299,
+          "like_count": 55475,
+          "listed_count": 23,
+          "media_count": 6483,
+          "tweet_count": 22620
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T15:08:54.000Z",
+        "description": "线上清水人 ｜我是我自己生活的导演，我讨厌烂片",
+        "id": "1807068693010198528",
+        "name": "踏雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009320772716929024/WdxXA20V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 839,
+          "like_count": 4886,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 438
+        },
+        "username": "IItaxue1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2047158033017442722",
+    "created_at": "2026-04-23T08:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047224587285303765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479529920837476353",
+          "start": 0,
+          "username": "weiktuoer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047224587285303765",
+    "in_reply_to_user_id": "1479529920837476353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047219429503885638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiktuoer 不行对象哥姐姐叫钟什么玲🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2047158033017442722",
+        "created_at": "2026-04-23T08:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047224587285303765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479529920837476353",
+              "start": 0,
+              "username": "weiktuoer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047224587285303765",
+        "in_reply_to_user_id": "1479529920837476353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047219429503885638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiktuoer 不行对象哥姐姐叫钟什么玲🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479529920837476353",
+        "conversation_id": "2047158033017442722",
+        "created_at": "2026-04-23T07:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047219429503885638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047219429503885638",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047158033017442722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 钟灵毓秀，钟灵，钟毓，钟秀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17846,
+          "following_count": 2336,
+          "like_count": 54487,
+          "listed_count": 21,
+          "media_count": 6599,
+          "tweet_count": 23089
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T19:06:51.000Z",
+        "description": "云南cd｜坐标昆明｜166/55（在减肥了）｜喜欢可爱的裙子｜🚪69｜变成流浪小破猫了",
+        "id": "1479529920837476353",
+        "name": "☆keluoai☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997137308785823744/9oeSCDV6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 168,
+          "like_count": 1114,
+          "listed_count": 10,
+          "media_count": 126,
+          "tweet_count": 1306
+        },
+        "username": "weiktuoer",
+        "verified": false
+      }
+    ]
+  }
+}

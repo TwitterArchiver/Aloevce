@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1823007782104092763",
+    "created_at": "2024-08-12T14:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T15:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823007782104092763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Aloevce/status/1823006896506151313",
+          "start": 14,
+          "url": "https://t.co/QzzZ1RvbTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823007782104092763",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823006896506151313",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁借我一千五，我分十二期还 https://t.co/QzzZ1RvbTT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1823007782104092763",
+        "created_at": "2024-08-12T14:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T15:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823007782104092763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Aloevce/status/1823006896506151313",
+              "start": 14,
+              "url": "https://t.co/QzzZ1RvbTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823007782104092763",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823006896506151313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁借我一千五，我分十二期还 https://t.co/QzzZ1RvbTT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1823006896506151313",
+        "created_at": "2024-08-12T14:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T15:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823006896506151313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823006896506151313",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看上一条裙子一千五，好想买但是突然发现一分都没有了下半年还要买圣诞g 想找老公借结果发现刚花费三千堕胎老公也没米了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17375,
+          "following_count": 2192,
+          "like_count": 52202,
+          "listed_count": 22,
+          "tweet_count": 18311
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

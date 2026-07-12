@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2061454040790143068",
+    "created_at": "2026-06-01T14:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061454040790143068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2061411881856930035",
+          "start": 4,
+          "url": "https://t.co/5MKeWHlT3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061454040790143068",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061411881856930035",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我需要 https://t.co/5MKeWHlT3s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2061411858570235904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJubKd3bUAA6Qja.jpg",
+        "width": 1017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2061454040790143068",
+        "created_at": "2026-06-01T14:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061454040790143068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2061411881856930035",
+              "start": 4,
+              "url": "https://t.co/5MKeWHlT3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061454040790143068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061411881856930035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我需要 https://t.co/5MKeWHlT3s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061411858570235904"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2061411881856930035",
+        "created_at": "2026-06-01T11:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061411881856930035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LyIB2INCcB",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2061411881856930035/photo/1",
+              "media_key": "3_2061411858570235904",
+              "start": 0,
+              "url": "https://t.co/LyIB2INCcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061411881856930035",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 952,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LyIB2INCcB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18169,
+          "following_count": 1971,
+          "like_count": 56183,
+          "listed_count": 24,
+          "media_count": 6763,
+          "tweet_count": 23827
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36364,
+          "following_count": 373,
+          "like_count": 229,
+          "listed_count": 104,
+          "media_count": 14997,
+          "tweet_count": 15080
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

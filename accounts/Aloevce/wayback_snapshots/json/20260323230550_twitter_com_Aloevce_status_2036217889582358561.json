@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2036127180573544495",
+    "created_at": "2026-03-23T23:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T00:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036217889582358561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3177196842",
+          "start": 0,
+          "username": "tC8VBRSlaNaWIRZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036217889582358561",
+    "in_reply_to_user_id": "3177196842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036139219182297246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tC8VBRSlaNaWIRZ 我也没调时间前几天就出炎帝啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2036127180573544495",
+        "created_at": "2026-03-23T23:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T00:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036217889582358561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3177196842",
+              "start": 0,
+              "username": "tC8VBRSlaNaWIRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036217889582358561",
+        "in_reply_to_user_id": "3177196842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036139219182297246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tC8VBRSlaNaWIRZ 我也没调时间前几天就出炎帝啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3177196842",
+        "conversation_id": "2036127180573544495",
+        "created_at": "2026-03-23T17:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T18:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036139219182297246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036139219182297246",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036127180573544495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 好耶✌🏻\n神兽出率还挺低的，我玩这些天没调时间就遇到个超梦，现在在刷炎帝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18227,
+          "following_count": 2305,
+          "like_count": 54691,
+          "listed_count": 22,
+          "media_count": 6545,
+          "tweet_count": 22811
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-27T01:27:09.000Z",
+        "description": "蟹になりたい🦀",
+        "id": "3177196842",
+        "location": "Vancouver, British Columbia",
+        "name": "北公爵小三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/592501171589238784/hgphfiN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 505,
+          "like_count": 45697,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 10199
+        },
+        "username": "tC8VBRSlaNaWIRZ",
+        "verified": false
+      }
+    ]
+  }
+}

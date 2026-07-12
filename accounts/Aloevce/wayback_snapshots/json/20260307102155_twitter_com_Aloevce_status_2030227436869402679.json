@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2030227436869402679",
+    "created_at": "2026-03-07T10:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T11:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030227436869402679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Aloevce/status/2030050352825876548",
+          "start": 6,
+          "url": "https://t.co/eMunPa83lZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030227436869402679",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030050352825876548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给我玩爽了 https://t.co/eMunPa83lZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2030050347834880000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwwCSLbMAAuuvd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2030227436869402679",
+        "created_at": "2026-03-07T10:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030227436869402679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Aloevce/status/2030050352825876548",
+              "start": 6,
+              "url": "https://t.co/eMunPa83lZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030227436869402679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030050352825876548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我玩爽了 https://t.co/eMunPa83lZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030050347834880000"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2030050352825876548",
+        "created_at": "2026-03-06T22:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T23:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030050352825876548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2NI3v6zCm",
+              "end": 33,
+              "expanded_url": "https://x.com/Aloevce/status/2030050352825876548/photo/1",
+              "media_key": "3_2030050347834880000",
+              "start": 10,
+              "url": "https://t.co/i2NI3v6zCm"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Aloevce/status/2029784323243593866",
+              "start": 34,
+              "url": "https://t.co/YWuePLu6NX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030050352825876548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 569,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029784323243593866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "决定以原皮形态行动 https://t.co/i2NI3v6zCm https://t.co/YWuePLu6NX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18384,
+          "following_count": 2301,
+          "like_count": 54751,
+          "listed_count": 22,
+          "media_count": 6532,
+          "tweet_count": 22784
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1823014776026325177",
+    "created_at": "2024-08-12T15:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T16:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823014776026325177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1450297689061605376",
+          "start": 3,
+          "username": "o3ej9"
+        },
+        {
+          "end": 19,
+          "id": "1495662254544789506",
+          "start": 11,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823014776026325177",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823012957552304564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o3ej9: @Aloevce 她甚至不敢来评论区说一句话😹一直隔空骂，好有喜感，像躲在主人身后才敢叫得蠢狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1823014776026325177",
+        "created_at": "2024-08-12T15:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T16:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823014776026325177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1450297689061605376",
+              "start": 3,
+              "username": "o3ej9"
+            },
+            {
+              "end": 19,
+              "id": "1495662254544789506",
+              "start": 11,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823014776026325177",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823012957552304564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @o3ej9: @Aloevce 她甚至不敢来评论区说一句话😹一直隔空骂，好有喜感，像躲在主人身后才敢叫得蠢狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450297689061605376",
+        "conversation_id": "1822986001943335365",
+        "created_at": "2024-08-12T15:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T16:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823012957552304564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823012957552304564",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822986001943335365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 她甚至不敢来评论区说一句话😹一直隔空骂，好有喜感，像躲在主人身后才敢叫得蠢狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17412,
+          "following_count": 2192,
+          "like_count": 52201,
+          "listed_count": 22,
+          "tweet_count": 18316
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-19T03:08:25.000Z",
+        "description": "吐槽 含妈量极高",
+        "id": "1450297689061605376",
+        "name": "抠你泪骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779557777939308544/z44-OISj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 41,
+          "like_count": 2060,
+          "listed_count": 0,
+          "tweet_count": 3478
+        },
+        "username": "o3ej9",
+        "verified": false
+      }
+    ]
+  }
+}

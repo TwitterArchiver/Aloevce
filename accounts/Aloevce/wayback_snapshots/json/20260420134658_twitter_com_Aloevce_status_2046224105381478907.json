@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045929744156213248",
+        "3_2045929744143613952"
+      ],
+      "media_source_tweet_id": [
+        "2045929747499114637",
+        "2045929747499114637"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2046224105381478907",
+    "created_at": "2026-04-20T13:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046224105381478907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1425940596833783809",
+          "start": 3,
+          "username": "darthmamiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nm6sxeZvaX",
+          "end": 54,
+          "expanded_url": "https://x.com/darthmamiii/status/2045929747499114637/photo/1",
+          "media_key": "3_2045929744156213248",
+          "start": 31,
+          "url": "https://t.co/nm6sxeZvaX"
+        },
+        {
+          "display_url": "pic.x.com/nm6sxeZvaX",
+          "end": 54,
+          "expanded_url": "https://x.com/darthmamiii/status/2045929747499114637/photo/1",
+          "media_key": "3_2045929744143613952",
+          "start": 31,
+          "url": "https://t.co/nm6sxeZvaX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046224105381478907",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1278
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045929747499114637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @darthmamiii: amphy sits :3 https://t.co/nm6sxeZvaX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 376,
+        "media_key": "3_2045929744156213248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSaQzPWQAAkdLH.jpg",
+        "width": 499
+      },
+      {
+        "height": 831,
+        "media_key": "3_2045929744143613952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSaQzMWAAAqfCu.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045929744156213248",
+            "3_2045929744143613952"
+          ],
+          "media_source_tweet_id": [
+            "2045929747499114637",
+            "2045929747499114637"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2046224105381478907",
+        "created_at": "2026-04-20T13:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046224105381478907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1425940596833783809",
+              "start": 3,
+              "username": "darthmamiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nm6sxeZvaX",
+              "end": 54,
+              "expanded_url": "https://x.com/darthmamiii/status/2045929747499114637/photo/1",
+              "media_key": "3_2045929744156213248",
+              "start": 31,
+              "url": "https://t.co/nm6sxeZvaX"
+            },
+            {
+              "display_url": "pic.x.com/nm6sxeZvaX",
+              "end": 54,
+              "expanded_url": "https://x.com/darthmamiii/status/2045929747499114637/photo/1",
+              "media_key": "3_2045929744143613952",
+              "start": 31,
+              "url": "https://t.co/nm6sxeZvaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046224105381478907",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1278
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045929747499114637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @darthmamiii: amphy sits :3 https://t.co/nm6sxeZvaX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045929744156213248",
+            "3_2045929744143613952"
+          ]
+        },
+        "author_id": "1425940596833783809",
+        "conversation_id": "2045929747499114637",
+        "created_at": "2026-04-19T18:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045929747499114637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nm6sxeZvaX",
+              "end": 37,
+              "expanded_url": "https://x.com/darthmamiii/status/2045929747499114637/photo/1",
+              "media_key": "3_2045929744156213248",
+              "start": 14,
+              "url": "https://t.co/nm6sxeZvaX"
+            },
+            {
+              "display_url": "pic.x.com/nm6sxeZvaX",
+              "end": 37,
+              "expanded_url": "https://x.com/darthmamiii/status/2045929747499114637/photo/1",
+              "media_key": "3_2045929744143613952",
+              "start": 14,
+              "url": "https://t.co/nm6sxeZvaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045929747499114637",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 738,
+          "impression_count": 183430,
+          "like_count": 10771,
+          "quote_count": 99,
+          "reply_count": 29,
+          "retweet_count": 1278
+        },
+        "reply_settings": "everyone",
+        "text": "amphy sits :3 https://t.co/nm6sxeZvaX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17881,
+          "following_count": 2315,
+          "like_count": 54406,
+          "listed_count": 21,
+          "media_count": 6591,
+          "tweet_count": 23029
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T22:01:52.000Z",
+        "description": "🌼💥☄️ —— 𝐭𝐰𝐞𝐧𝐭𝐲𝟖 🪷 𝐬𝐰𝐞𝐞𝐭 𝐚𝐬 𝐡𝐨𝐧𝐞𝐲 ☺︎ | 𝐩𝐫𝐨𝐮𝐝 🇵🇷🇨🇴🇮🇹🇪🇸 | 𝐠𝐫𝐚𝐜𝐞 𝐮𝐩𝐨𝐧 𝐠𝐫𝐚𝐜𝐞 𖤣.𖥧.𖡼.⚘ 𝐥𝐮𝐤𝐞 𝟏:𝟑𝟕 ✞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/darthmamiii",
+                "end": 23,
+                "expanded_url": "http://throne.com/darthmamiii",
+                "start": 0,
+                "url": "https://t.co/M1DnbeFI1A"
+              }
+            ]
+          }
+        },
+        "id": "1425940596833783809",
+        "location": "📍 𝙝𝒐𝙚𝒏𝙣 𝙧𝒆𝙜𝒊𝙤𝒏 ⛰️",
+        "name": "𝓁𝓊𝓁𝓊 🧡💥",
+        "pinned_tweet_id": "2033639022514352344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028656901005656064/Bv0yphOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3732,
+          "following_count": 3157,
+          "like_count": 47062,
+          "listed_count": 24,
+          "media_count": 2812,
+          "tweet_count": 11601
+        },
+        "url": "https://t.co/M1DnbeFI1A",
+        "username": "darthmamiii",
+        "verified": true
+      }
+    ]
+  }
+}

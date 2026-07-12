@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997315924420972544"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1997246517921673525",
+    "created_at": "2025-12-06T14:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T15:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997315932025491747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1745443344514433024",
+          "start": 0,
+          "username": "dibaifeipo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Th7Nn5EoVm",
+          "end": 38,
+          "expanded_url": "https://x.com/Aloevce/status/1997315932025491747/photo/1",
+          "media_key": "3_1997315924420972544",
+          "start": 15,
+          "url": "https://t.co/Th7Nn5EoVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997315932025491747",
+    "in_reply_to_user_id": "1745443344514433024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997313026970759325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dibaifeipo 上号 https://t.co/Th7Nn5EoVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_1997315924420972544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fkQENX0AAogwO.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997315924420972544"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997246517921673525",
+        "created_at": "2025-12-06T14:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997315932025491747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1745443344514433024",
+              "start": 0,
+              "username": "dibaifeipo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Th7Nn5EoVm",
+              "end": 38,
+              "expanded_url": "https://x.com/Aloevce/status/1997315932025491747/photo/1",
+              "media_key": "3_1997315924420972544",
+              "start": 15,
+              "url": "https://t.co/Th7Nn5EoVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997315932025491747",
+        "in_reply_to_user_id": "1745443344514433024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997313026970759325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dibaifeipo 上号 https://t.co/Th7Nn5EoVm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745443344514433024",
+        "conversation_id": "1997246517921673525",
+        "created_at": "2025-12-06T14:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997313026970759325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997313026970759325",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997246517921673525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 火影单挑赢我就爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1983656746171429044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18461,
+          "following_count": 2386,
+          "like_count": 54622,
+          "listed_count": 24,
+          "media_count": 6333,
+          "tweet_count": 22147
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T13:52:04.000Z",
+        "description": "",
+        "id": "1745443344514433024",
+        "name": "迪拜肥婆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773317549880381440/BVX3Y5HB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "dibaifeipo",
+        "verified": false
+      }
+    ]
+  }
+}

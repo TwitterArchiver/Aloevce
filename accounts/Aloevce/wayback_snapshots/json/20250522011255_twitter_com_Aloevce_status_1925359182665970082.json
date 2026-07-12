@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1925359182665970082",
+    "created_at": "2025-05-22T01:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T02:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925359182665970082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/Aloevce/status/1925340786725466294",
+          "start": 41,
+          "url": "https://t.co/SBIyvMtwCM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925359182665970082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925340786725466294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有遇到一个富哥，我请问了，收到最贵的礼物还是现任哥我过生日送的七百块衣服😭😭😭 https://t.co/SBIyvMtwCM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2044,
+        "media_key": "3_1925340782468222976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrgvPaKXUAAq-zw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1925359182665970082",
+        "created_at": "2025-05-22T01:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T02:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925359182665970082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Aloevce/status/1925340786725466294",
+              "start": 41,
+              "url": "https://t.co/SBIyvMtwCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925359182665970082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925340786725466294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有遇到一个富哥，我请问了，收到最贵的礼物还是现任哥我过生日送的七百块衣服😭😭😭 https://t.co/SBIyvMtwCM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925340782468222976"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1925340786725466294",
+        "created_at": "2025-05-21T23:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T00:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925340786725466294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozRG9xJzG6",
+              "end": 45,
+              "expanded_url": "https://x.com/Aloevce/status/1925340786725466294/photo/1",
+              "media_key": "3_1925340782468222976",
+              "start": 22,
+              "url": "https://t.co/ozRG9xJzG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925340786725466294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 648,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "列个表格给前男友们综合能力排名，给我气笑了 https://t.co/ozRG9xJzG6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19194,
+          "following_count": 2391,
+          "like_count": 55210,
+          "listed_count": 19,
+          "media_count": 6042,
+          "tweet_count": 21235
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1940274782890791123",
+    "created_at": "2025-07-02T06:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T07:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940304195724386479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "613474927",
+          "start": 0,
+          "username": "PunchingCat"
+        },
+        {
+          "end": 23,
+          "id": "1419204447490568195",
+          "start": 13,
+          "username": "xiazaibot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940304195724386479",
+    "in_reply_to_user_id": "613474927",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940274782890791123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PunchingCat @xiazaibot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8034,
+        "height": 900,
+        "media_key": "7_1940274760140681216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1940274760140681216/pu/img/XK-77YZzi8mUO2Kk.jpg",
+        "public_metrics": {
+          "view_count": 3969
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940274760140681216/pu/vid/avc1/320x400/uOxWFToUa3iQaZpx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940274760140681216/pu/vid/avc1/480x600/NJ8YrKs_pcw5hd-y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940274760140681216/pu/vid/avc1/720x900/LlrHrN0S4OuQ1Qo8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1940274760140681216/pu/pl/fqSDOD1IPdteXhv3.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1940274782890791123",
+        "created_at": "2025-07-02T06:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T07:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940304195724386479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "613474927",
+              "start": 0,
+              "username": "PunchingCat"
+            },
+            {
+              "end": 23,
+              "id": "1419204447490568195",
+              "start": 13,
+              "username": "xiazaibot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940304195724386479",
+        "in_reply_to_user_id": "613474927",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940274782890791123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PunchingCat @xiazaibot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1940274760140681216"
+          ]
+        },
+        "author_id": "613474927",
+        "conversation_id": "1940274782890791123",
+        "created_at": "2025-07-02T05:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T06:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940274782890791123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/De9kewuZM3",
+              "end": 23,
+              "expanded_url": "https://x.com/PunchingCat/status/1940274782890791123/video/1",
+              "media_key": "7_1940274760140681216",
+              "start": 0,
+              "url": "https://t.co/De9kewuZM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940274782890791123",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 16361,
+          "like_count": 733,
+          "quote_count": 12,
+          "reply_count": 2,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/De9kewuZM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19075,
+          "following_count": 2378,
+          "like_count": 55411,
+          "listed_count": 20,
+          "media_count": 6134,
+          "tweet_count": 21484
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-20T14:15:13.000Z",
+        "description": "random cats from my camera roll to your 𝕏 feed :3 | dm for credit/removal • *i own no content posted*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "punchingcat.com",
+                "end": 23,
+                "expanded_url": "http://punchingcat.com",
+                "start": 0,
+                "url": "https://t.co/v4U8STUOKB"
+              }
+            ]
+          }
+        },
+        "id": "613474927",
+        "location": "litter box",
+        "name": "Punch Cat",
+        "pinned_tweet_id": "1933346836690948448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828145724963561472/CzV0LTLP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318850,
+          "following_count": 146,
+          "like_count": 5015,
+          "listed_count": 2474,
+          "media_count": 80909,
+          "tweet_count": 90211
+        },
+        "url": "https://t.co/v4U8STUOKB",
+        "username": "PunchingCat",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-25T07:55:01.000Z",
+        "description": "我是不知疲倦的機器人，提到我的ID，我會3分鐘內給你下載鏈接。 Mention me in any tweet that contains a video and will get a reply with download link in a few minutes. Powered by @zuolatech",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "zuolatech"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "down.zuo.la",
+                "end": 23,
+                "expanded_url": "https://down.zuo.la/",
+                "start": 0,
+                "url": "https://t.co/JS4a2tzPo4"
+              }
+            ]
+          }
+        },
+        "id": "1419204447490568195",
+        "location": "台灣🇹🇼",
+        "name": "下载视频机器人🤖",
+        "pinned_tweet_id": "1419345884379181061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420417959604854793/gASkl8FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209317,
+          "following_count": 21516,
+          "like_count": 4,
+          "listed_count": 197,
+          "media_count": 21,
+          "tweet_count": 376269
+        },
+        "url": "https://t.co/JS4a2tzPo4",
+        "username": "xiazaibot",
+        "verified": false
+      }
+    ]
+  }
+}

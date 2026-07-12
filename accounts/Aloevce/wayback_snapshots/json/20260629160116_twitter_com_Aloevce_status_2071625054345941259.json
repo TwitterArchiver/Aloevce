@@ -1,0 +1,618 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1235998170233991168",
+          "name": "Sneakers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "846810837301932032",
+          "name": "Shoes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1235998170233991168",
+          "name": "Sneakers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1248370550247849988",
+          "name": "Tokusatsu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296035544485392384",
+          "name": "Kaiju"
+        }
+      }
+    ],
+    "conversation_id": "2071625054345941259",
+    "created_at": "2026-06-29T16:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071625054345941259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fashionpressne…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/fashionpressnet/status/2071519062287622227",
+          "start": 7,
+          "url": "https://t.co/xYbCMhuT7u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071625054345941259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071519062287622227",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去啊一千六 https://t.co/xYbCMhuT7u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2071519056742805504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-Dm1KbcAAddZT.jpg",
+        "width": 900
+      },
+      {
+        "height": 563,
+        "media_key": "3_2071519058697334784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-Dm8cbMAAjOmf.jpg",
+        "width": 1000
+      },
+      {
+        "height": 563,
+        "media_key": "3_2071519060291137536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-DnCYasAAJUMC.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846810837301932032",
+              "name": "Shoes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296035544485392384",
+              "name": "Kaiju"
+            }
+          }
+        ],
+        "conversation_id": "2071625054345941259",
+        "created_at": "2026-06-29T16:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071625054345941259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fashionpressne…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/fashionpressnet/status/2071519062287622227",
+              "start": 7,
+              "url": "https://t.co/xYbCMhuT7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071625054345941259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071519062287622227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去啊一千六 https://t.co/xYbCMhuT7u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071519056742805504",
+            "3_2071519058697334784",
+            "3_2071519060291137536"
+          ]
+        },
+        "author_id": "168816611",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1255877953726017536",
+              "name": "Fashion magazines"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846810837301932032",
+              "name": "Shoes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296035544485392384",
+              "name": "Kaiju"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1355226807704768514",
+              "name": "Women's fashion magazines"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1462809912740745216",
+              "name": "Magazines"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Novelty",
+              "id": "845326060757512192",
+              "name": "Fashion Novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion Magazines and Publishers",
+              "id": "845337112400478208",
+              "name": "Fashion magazines and publishers"
+            }
+          }
+        ],
+        "conversation_id": "2071519062287622227",
+        "created_at": "2026-06-29T09:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071519062287622227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "キャンディ ストリッパー(Candy Stripper)の2026年秋コレクションから、“モンスター”モチーフの新作ウィメンズスニーカーが登場。2026年8月末より、キャンディ ストリッパー全店舗ほか...",
+              "display_url": "fashion-press.net/news/147908",
+              "end": 65,
+              "expanded_url": "https://www.fashion-press.net/news/147908",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2071519069527068672/3RztgLHK?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2071519069527068672/3RztgLHK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "キャンディ ストリッパーの“モンスター”スニーカー、ぷっくり爪つきで怪獣気分に",
+              "unwound_url": "https://www.fashion-press.net/news/147908",
+              "url": "https://t.co/UxpSoy3ueN"
+            },
+            {
+              "display_url": "pic.x.com/5JGU31XN7C",
+              "end": 89,
+              "expanded_url": "https://x.com/fashionpressnet/status/2071519062287622227/photo/1",
+              "media_key": "3_2071519056742805504",
+              "start": 66,
+              "url": "https://t.co/5JGU31XN7C"
+            },
+            {
+              "display_url": "pic.x.com/5JGU31XN7C",
+              "end": 89,
+              "expanded_url": "https://x.com/fashionpressnet/status/2071519062287622227/photo/1",
+              "media_key": "3_2071519058697334784",
+              "start": 66,
+              "url": "https://t.co/5JGU31XN7C"
+            },
+            {
+              "display_url": "pic.x.com/5JGU31XN7C",
+              "end": 89,
+              "expanded_url": "https://x.com/fashionpressnet/status/2071519062287622227/photo/1",
+              "media_key": "3_2071519060291137536",
+              "start": 66,
+              "url": "https://t.co/5JGU31XN7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071519062287622227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5275,
+          "impression_count": 1362408,
+          "like_count": 22564,
+          "quote_count": 1944,
+          "reply_count": 27,
+          "retweet_count": 4785
+        },
+        "reply_settings": "everyone",
+        "text": "キャンディ ストリッパーの“モンスター”スニーカー、ぷっくり爪つきで怪獣気分に - https://t.co/UxpSoy3ueN https://t.co/5JGU31XN7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18071,
+          "following_count": 1958,
+          "like_count": 56267,
+          "listed_count": 23,
+          "media_count": 6841,
+          "tweet_count": 24041
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-20T21:38:17.000Z",
+        "description": "「ファッションプレス」公式Xアカウント。ファッションを中心にグルメ、アート、映画、音楽などライフスタイルを紹介するメディア。 \n\n【インスタグラム】https://t.co/1xHbQKGob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/fashionpressjp/",
+                "end": 97,
+                "expanded_url": "https://www.instagram.com/fashionpressjp/",
+                "start": 74,
+                "url": "https://t.co/1xHbQKGob9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fashion-press.net",
+                "end": 23,
+                "expanded_url": "https://www.fashion-press.net/",
+                "start": 0,
+                "url": "https://t.co/phSET0vuC3"
+              }
+            ]
+          }
+        },
+        "id": "168816611",
+        "name": "Fashion Press",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/890882778878758913/U37FSz9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3401401,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 14621,
+          "media_count": 206766,
+          "tweet_count": 225891
+        },
+        "url": "https://t.co/phSET0vuC3",
+        "username": "fashionpressnet",
+        "verified": true
+      }
+    ]
+  }
+}

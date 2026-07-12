@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2072636074027864257",
+    "created_at": "2026-07-02T10:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072636074027864257"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/usagimm208/status/2072300071597801732",
+          "start": 5,
+          "url": "https://t.co/zWagZE9NeV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072636074027864257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072300071597801732",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "木有🥩色 https://t.co/zWagZE9NeV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18331,
+        "height": 1280,
+        "media_key": "13_2072299905281060864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072299905281060864/img/YciGz-2TyU_xjLLQ.jpg",
+        "public_metrics": {
+          "view_count": 21
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072299905281060864/vid/avc1/320x568/TUn4S81wamyLe78h.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072299905281060864/vid/avc1/480x852/sx6XAzaiHNrDqkSK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072299905281060864/vid/avc1/720x1280/yQgnUYhpOAER3D-8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072299905281060864/pl/KhCaEz3Gnl_-cutO.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2072636074027864257",
+        "created_at": "2026-07-02T10:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072636074027864257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/usagimm208/status/2072300071597801732",
+              "start": 5,
+              "url": "https://t.co/zWagZE9NeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072636074027864257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072300071597801732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "木有🥩色 https://t.co/zWagZE9NeV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072299905281060864"
+          ]
+        },
+        "author_id": "2005739449058230272",
+        "conversation_id": "2072300071597801732",
+        "created_at": "2026-07-01T12:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072300071597801732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1495662254544789506",
+              "start": 1,
+              "username": "Aloevce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJjQCmxGbR",
+              "end": 44,
+              "expanded_url": "https://x.com/usagimm208/status/2072300071597801732/video/1",
+              "media_key": "13_2072299905281060864",
+              "start": 21,
+              "url": "https://t.co/DJjQCmxGbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072300071597801732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@Aloevce 一起完成的塔菲杯子🥂 https://t.co/DJjQCmxGbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18061,
+          "following_count": 1952,
+          "like_count": 56272,
+          "listed_count": 22,
+          "media_count": 6845,
+          "tweet_count": 24048
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "无能系弱女オタク",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "そちゃ",
+        "pinned_tweet_id": "2058643879059190070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 45,
+          "like_count": 2758,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

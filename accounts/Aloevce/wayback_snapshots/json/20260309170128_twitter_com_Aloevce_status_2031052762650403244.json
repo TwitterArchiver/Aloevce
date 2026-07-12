@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2031052762650403244",
+    "created_at": "2026-03-09T17:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T18:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031052762650403244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xzuyyu/status/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/xzuyyu/status/2030697481567097225",
+          "start": 2,
+          "url": "https://t.co/WnNHc2kzng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031052762650403244",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030697481567097225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/WnNHc2kzng"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2030697474000629760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC58l_AXMAAHQcx.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2031052762650403244",
+        "created_at": "2026-03-09T17:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T18:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031052762650403244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xzuyyu/status/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/xzuyyu/status/2030697481567097225",
+              "start": 2,
+              "url": "https://t.co/WnNHc2kzng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031052762650403244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030697481567097225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/WnNHc2kzng"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030697474000629760"
+          ]
+        },
+        "author_id": "4471649296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030697481567097225",
+        "created_at": "2026-03-08T17:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T18:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030697481567097225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2r4jYLkj05",
+              "end": 51,
+              "expanded_url": "https://x.com/xzuyyu/status/2030697481567097225/photo/1",
+              "media_key": "3_2030697474000629760",
+              "start": 28,
+              "url": "https://t.co/2r4jYLkj05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030697481567097225",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 326,
+          "impression_count": 207368,
+          "like_count": 9230,
+          "quote_count": 109,
+          "reply_count": 67,
+          "retweet_count": 636
+        },
+        "reply_settings": "everyone",
+        "text": "Nobody talk to me, IM BUSY. https://t.co/2r4jYLkj05"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18374,
+          "following_count": 2299,
+          "like_count": 54752,
+          "listed_count": 22,
+          "media_count": 6533,
+          "tweet_count": 22788
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-13T15:37:33.000Z",
+        "description": "mom/wife/pokemon collector and player/🍃indulger/artist ✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vaultx.com/?ghref=25025:1…",
+                "end": 23,
+                "expanded_url": "https://www.vaultx.com?ghref=25025:1321306&discount=HALEY10",
+                "start": 0,
+                "url": "https://t.co/dt9TkyphFs"
+              }
+            ]
+          }
+        },
+        "id": "4471649296",
+        "location": "St. Louis",
+        "name": "haley 🍃",
+        "pinned_tweet_id": "1996199383293927908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983567351032266752/cqjv3xq-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4256,
+          "following_count": 761,
+          "like_count": 31721,
+          "listed_count": 11,
+          "media_count": 1332,
+          "tweet_count": 11240
+        },
+        "url": "https://t.co/dt9TkyphFs",
+        "username": "xzuyyu",
+        "verified": true
+      }
+    ]
+  }
+}

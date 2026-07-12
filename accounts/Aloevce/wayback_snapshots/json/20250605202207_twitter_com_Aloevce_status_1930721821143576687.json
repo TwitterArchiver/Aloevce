@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1930452122287649199",
+    "created_at": "2025-06-05T20:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T21:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930721821143576687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930721821143576687",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930452122287649199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqua_ 我高考也是在二中考的啊啊铨宝加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_1930452113899040770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GspX-DjasAIzN7i.jpg",
+        "width": 852
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930452113890652160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GspX-DhasAA8A2h.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1930452122287649199",
+        "created_at": "2025-06-05T20:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T21:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930721821143576687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930721821143576687",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930452122287649199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ 我高考也是在二中考的啊啊铨宝加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930452113899040770",
+            "3_1930452113890652160"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "1930452122287649199",
+        "created_at": "2025-06-05T02:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930452122287649199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kDLM6mbbtE",
+              "end": 31,
+              "expanded_url": "https://x.com/yqua_/status/1930452122287649199/photo/1",
+              "media_key": "3_1930452113899040770",
+              "start": 8,
+              "url": "https://t.co/kDLM6mbbtE"
+            },
+            {
+              "display_url": "pic.x.com/kDLM6mbbtE",
+              "end": 31,
+              "expanded_url": "https://x.com/yqua_/status/1930452122287649199/photo/1",
+              "media_key": "3_1930452113890652160",
+              "start": 8,
+              "url": "https://t.co/kDLM6mbbtE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930452122287649199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9134,
+          "like_count": 127,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《对自己好点》 https://t.co/kDLM6mbbtE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19185,
+          "following_count": 2396,
+          "like_count": 55478,
+          "listed_count": 20,
+          "media_count": 6088,
+          "tweet_count": 21351
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Mid & Sup｜🏳️‍⚧️｜前世17kfo @ryq59｜互fo4.6k寻回中｜如果我关注了你 说明你和@ryq59是互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 24,
+                "username": "ryq59"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "username": "ryq59"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "name": "你是想气死铨酱么🍥（二代目）",
+        "pinned_tweet_id": "1928106968264110539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924861960644132864/luB0Qkx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 1491,
+          "like_count": 11407,
+          "listed_count": 5,
+          "media_count": 234,
+          "tweet_count": 1354
+        },
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

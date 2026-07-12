@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963611990217142272"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1963611995216699402",
+    "created_at": "2025-09-04T14:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T15:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963611995216699402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LbKeDC9vU2",
+          "end": 44,
+          "expanded_url": "https://x.com/Aloevce/status/1963611995216699402/photo/1",
+          "media_key": "3_1963611990217142272",
+          "start": 21,
+          "url": "https://t.co/LbKeDC9vU2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963611995216699402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在吃。为啥我无法进入胜利女神国际服 https://t.co/LbKeDC9vU2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963611990217142272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Ams5GXMAAwxKd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963611990217142272"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1963611995216699402",
+        "created_at": "2025-09-04T14:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T15:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963611995216699402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbKeDC9vU2",
+              "end": 44,
+              "expanded_url": "https://x.com/Aloevce/status/1963611995216699402/photo/1",
+              "media_key": "3_1963611990217142272",
+              "start": 21,
+              "url": "https://t.co/LbKeDC9vU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963611995216699402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在吃。为啥我无法进入胜利女神国际服 https://t.co/LbKeDC9vU2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18983,
+          "following_count": 2407,
+          "like_count": 55416,
+          "listed_count": 24,
+          "media_count": 6235,
+          "tweet_count": 21777
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

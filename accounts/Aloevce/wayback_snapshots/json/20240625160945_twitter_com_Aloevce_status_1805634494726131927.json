@@ -1,0 +1,254 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1805634190240567296",
+        "3_1805634236386316288",
+        "3_1805634328220606464",
+        "3_1805634393806966784"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1805634494726131927",
+    "created_at": "2024-06-25T16:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T17:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805634494726131927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/j0QlfeXPIk",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Aloevce/status/1805634494726131927/photo/1",
+          "media_key": "3_1805634190240567296",
+          "start": 3,
+          "url": "https://t.co/j0QlfeXPIk"
+        },
+        {
+          "display_url": "pic.twitter.com/j0QlfeXPIk",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Aloevce/status/1805634494726131927/photo/1",
+          "media_key": "3_1805634236386316288",
+          "start": 3,
+          "url": "https://t.co/j0QlfeXPIk"
+        },
+        {
+          "display_url": "pic.twitter.com/j0QlfeXPIk",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Aloevce/status/1805634494726131927/photo/1",
+          "media_key": "3_1805634328220606464",
+          "start": 3,
+          "url": "https://t.co/j0QlfeXPIk"
+        },
+        {
+          "display_url": "pic.twitter.com/j0QlfeXPIk",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Aloevce/status/1805634494726131927/photo/1",
+          "media_key": "3_1805634393806966784",
+          "start": 3,
+          "url": "https://t.co/j0QlfeXPIk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805634494726131927",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好耍 https://t.co/j0QlfeXPIk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1805634190240567296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ7mureW0AAldYV.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1805634236386316288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ7mxXYXEAAgh59.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1805634328220606464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ7m2tfXIAAh9aZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1805634393806966784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ7m6h0XkAAgMkk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805634190240567296",
+            "3_1805634236386316288",
+            "3_1805634328220606464",
+            "3_1805634393806966784"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1805634494726131927",
+        "created_at": "2024-06-25T16:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T17:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805634494726131927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/j0QlfeXPIk",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Aloevce/status/1805634494726131927/photo/1",
+              "media_key": "3_1805634190240567296",
+              "start": 3,
+              "url": "https://t.co/j0QlfeXPIk"
+            },
+            {
+              "display_url": "pic.twitter.com/j0QlfeXPIk",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Aloevce/status/1805634494726131927/photo/1",
+              "media_key": "3_1805634236386316288",
+              "start": 3,
+              "url": "https://t.co/j0QlfeXPIk"
+            },
+            {
+              "display_url": "pic.twitter.com/j0QlfeXPIk",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Aloevce/status/1805634494726131927/photo/1",
+              "media_key": "3_1805634328220606464",
+              "start": 3,
+              "url": "https://t.co/j0QlfeXPIk"
+            },
+            {
+              "display_url": "pic.twitter.com/j0QlfeXPIk",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Aloevce/status/1805634494726131927/photo/1",
+              "media_key": "3_1805634393806966784",
+              "start": 3,
+              "url": "https://t.co/j0QlfeXPIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805634494726131927",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好耍 https://t.co/j0QlfeXPIk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795447835732881408/Lypwm-n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13993,
+          "following_count": 2212,
+          "like_count": 51883,
+          "listed_count": 18,
+          "tweet_count": 17758
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

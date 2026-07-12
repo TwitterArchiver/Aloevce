@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2053104317209424217",
+    "created_at": "2026-05-09T13:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053104317209424217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds0/status/2…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/hgds0/status/2053055489110593760",
+          "start": 4,
+          "url": "https://t.co/tAwSOfJr5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053104317209424217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053055489110593760",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我说话 https://t.co/tAwSOfJr5o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_2053055480046764032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3rFOBbQAADw1Z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2053104317209424217",
+        "created_at": "2026-05-09T13:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053104317209424217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds0/status/2…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/hgds0/status/2053055489110593760",
+              "start": 4,
+              "url": "https://t.co/tAwSOfJr5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053104317209424217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053055489110593760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说话 https://t.co/tAwSOfJr5o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053055480046764032"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053055489110593760",
+        "created_at": "2026-05-09T10:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053055489110593760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/umfuij6MZS",
+              "end": 43,
+              "expanded_url": "https://x.com/hgds0/status/2053055489110593760/photo/1",
+              "media_key": "3_2053055480046764032",
+              "start": 20,
+              "url": "https://t.co/umfuij6MZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053055489110593760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3641,
+          "like_count": 94,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我绞尽脑汁想出的高情商回复belike https://t.co/umfuij6MZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18262,
+          "following_count": 1981,
+          "like_count": 55644,
+          "listed_count": 24,
+          "media_count": 6657,
+          "tweet_count": 23418
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97391,
+          "following_count": 2459,
+          "like_count": 44110,
+          "listed_count": 145,
+          "media_count": 4148,
+          "tweet_count": 8543
+        },
+        "username": "hgds0",
+        "verified": false
+      }
+    ]
+  }
+}

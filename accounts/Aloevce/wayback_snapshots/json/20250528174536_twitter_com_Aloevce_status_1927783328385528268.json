@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927783300153712640"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1927783328385528268",
+    "created_at": "2025-05-28T17:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T18:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927783328385528268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ojP2jeWtGQ",
+          "end": 32,
+          "expanded_url": "https://x.com/Aloevce/status/1927783328385528268/photo/1",
+          "media_key": "3_1927783300153712640",
+          "start": 9,
+          "url": "https://t.co/ojP2jeWtGQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927783328385528268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 184,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近好喜欢窦靖童 https://t.co/ojP2jeWtGQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1927783300153712640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsDcspmXoAAf7mr.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927783300153712640"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1927783328385528268",
+        "created_at": "2025-05-28T17:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T18:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927783328385528268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojP2jeWtGQ",
+              "end": 32,
+              "expanded_url": "https://x.com/Aloevce/status/1927783328385528268/photo/1",
+              "media_key": "3_1927783300153712640",
+              "start": 9,
+              "url": "https://t.co/ojP2jeWtGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927783328385528268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近好喜欢窦靖童 https://t.co/ojP2jeWtGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19213,
+          "following_count": 2392,
+          "like_count": 55391,
+          "listed_count": 20,
+          "media_count": 6063,
+          "tweet_count": 21284
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

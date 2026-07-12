@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2060087780165005312"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2060087818995798166",
+    "created_at": "2026-05-28T19:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060087818995798166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MCmMB3oIrC",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/2060087818995798166/video/1",
+          "media_key": "7_2060087780165005312",
+          "start": 5,
+          "url": "https://t.co/MCmMB3oIrC"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Aloevce/status/2060083890065145930",
+          "start": 29,
+          "url": "https://t.co/VEwGgIPTU9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060087818995798166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060083890065145930",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赖赖克猫 https://t.co/MCmMB3oIrC https://t.co/VEwGgIPTU9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9292,
+        "height": 1280,
+        "media_key": "7_2060087780165005312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060087780165005312/pu/img/K8zdDiJMugTZrX0l.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060087780165005312/pu/vid/avc1/320x568/fRvXtFpvl2ODCa4e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060087780165005312/pu/vid/avc1/480x852/cS82AVoD23r5ghx9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060087780165005312/pu/vid/avc1/720x1280/Jf50RlfVGQVp9v5c.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060087780165005312/pu/pl/5kOz2xRUMI-_lwPg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2060083869433614336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbjXU0aUAAlPXa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060083886282137600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbjYTlaYAA-ri1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060083864081682432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbjXA4aUAAvgpD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060087780165005312"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2060087818995798166",
+        "created_at": "2026-05-28T19:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060087818995798166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCmMB3oIrC",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/2060087818995798166/video/1",
+              "media_key": "7_2060087780165005312",
+              "start": 5,
+              "url": "https://t.co/MCmMB3oIrC"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Aloevce/status/2060083890065145930",
+              "start": 29,
+              "url": "https://t.co/VEwGgIPTU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060087818995798166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060083890065145930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赖赖克猫 https://t.co/MCmMB3oIrC https://t.co/VEwGgIPTU9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060083869433614336",
+            "3_2060083886282137600",
+            "3_2060083864081682432"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060083890065145930",
+        "created_at": "2026-05-28T19:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060083890065145930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LiHjxUYTl",
+              "end": 29,
+              "expanded_url": "https://x.com/Aloevce/status/2060083890065145930/photo/1",
+              "media_key": "3_2060083869433614336",
+              "start": 6,
+              "url": "https://t.co/0LiHjxUYTl"
+            },
+            {
+              "display_url": "pic.x.com/0LiHjxUYTl",
+              "end": 29,
+              "expanded_url": "https://x.com/Aloevce/status/2060083890065145930/photo/1",
+              "media_key": "3_2060083886282137600",
+              "start": 6,
+              "url": "https://t.co/0LiHjxUYTl"
+            },
+            {
+              "display_url": "pic.x.com/0LiHjxUYTl",
+              "end": 29,
+              "expanded_url": "https://x.com/Aloevce/status/2060083890065145930/photo/1",
+              "media_key": "3_2060083864081682432",
+              "start": 6,
+              "url": "https://t.co/0LiHjxUYTl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060083890065145930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和老公溜达 https://t.co/0LiHjxUYTl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18180,
+          "following_count": 1975,
+          "like_count": 56229,
+          "listed_count": 24,
+          "media_count": 6746,
+          "tweet_count": 23770
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1988573131867357310",
+    "created_at": "2025-11-12T11:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T12:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988573131867357310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/id9qd24/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/id9qd24/status/1988260459791929467",
+          "start": 5,
+          "url": "https://t.co/qHTWs89d0c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988573131867357310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988260459791929467",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/qHTWs89d0c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1107,
+        "media_key": "3_1988260453299191808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5e4WRfbAAAaKgD.jpg",
+        "width": 870
+      },
+      {
+        "height": 1477,
+        "media_key": "3_1988260453320175616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5e4WRkbMAAXtsP.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1988573131867357310",
+        "created_at": "2025-11-12T11:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988573131867357310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/id9qd24/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/id9qd24/status/1988260459791929467",
+              "start": 5,
+              "url": "https://t.co/qHTWs89d0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988573131867357310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988260459791929467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/qHTWs89d0c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988260453299191808",
+            "3_1988260453320175616"
+          ]
+        },
+        "author_id": "1515252759888498689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988260459791929467",
+        "created_at": "2025-11-11T15:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T16:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988260459791929467"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pPAjxbUH3I",
+              "end": 42,
+              "expanded_url": "https://x.com/id9qd24/status/1988260459791929467/photo/1",
+              "media_key": "3_1988260453299191808",
+              "start": 19,
+              "url": "https://t.co/pPAjxbUH3I"
+            },
+            {
+              "display_url": "pic.x.com/pPAjxbUH3I",
+              "end": 42,
+              "expanded_url": "https://x.com/id9qd24/status/1988260459791929467/photo/1",
+              "media_key": "3_1988260453320175616",
+              "start": 19,
+              "url": "https://t.co/pPAjxbUH3I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988260459791929467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1491,
+          "impression_count": 1200898,
+          "like_count": 9884,
+          "quote_count": 635,
+          "reply_count": 126,
+          "retweet_count": 328
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "これ同一人物ガチか…😨 #自撮り界隈 https://t.co/pPAjxbUH3I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1983656746171429044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18486,
+          "following_count": 2385,
+          "like_count": 54733,
+          "listed_count": 24,
+          "media_count": 6295,
+          "tweet_count": 22001
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T08:56:48.000Z",
+        "description": "複数人入ってます",
+        "id": "1515252759888498689",
+        "name": "¸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879175116195876865/OXY9cudW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 0,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 223
+        },
+        "username": "id9qd24",
+        "verified": false
+      }
+    ]
+  }
+}

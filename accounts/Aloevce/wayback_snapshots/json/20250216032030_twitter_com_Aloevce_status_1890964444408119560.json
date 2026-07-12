@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890743348773912576",
+        "3_1890743344608972800"
+      ],
+      "media_source_tweet_id": [
+        "1890743351730679934",
+        "1890743351730679934"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1890964444408119560",
+    "created_at": "2025-02-16T03:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T04:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890964444408119560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1762930526326050816",
+          "start": 3,
+          "username": "kawaiikunaitt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p9kokKMtFn",
+          "end": 62,
+          "expanded_url": "https://x.com/kawaiikunaitt/status/1890743351730679934/photo/1",
+          "media_key": "3_1890743348773912576",
+          "start": 39,
+          "url": "https://t.co/p9kokKMtFn"
+        },
+        {
+          "display_url": "pic.x.com/p9kokKMtFn",
+          "end": 62,
+          "expanded_url": "https://x.com/kawaiikunaitt/status/1890743351730679934/photo/1",
+          "media_key": "3_1890743344608972800",
+          "start": 39,
+          "url": "https://t.co/p9kokKMtFn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890964444408119560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890743351730679934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawaiikunaitt: 友達にたくさん撮られたほんとにうれしい https://t.co/p9kokKMtFn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1890743348773912576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj1FDuEaAAAbRZN.jpg",
+        "width": 1151
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1890743344608972800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj1FDejaEAAH7zL.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890743348773912576",
+            "3_1890743344608972800"
+          ],
+          "media_source_tweet_id": [
+            "1890743351730679934",
+            "1890743351730679934"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1890964444408119560",
+        "created_at": "2025-02-16T03:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T04:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890964444408119560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1762930526326050816",
+              "start": 3,
+              "username": "kawaiikunaitt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9kokKMtFn",
+              "end": 62,
+              "expanded_url": "https://x.com/kawaiikunaitt/status/1890743351730679934/photo/1",
+              "media_key": "3_1890743348773912576",
+              "start": 39,
+              "url": "https://t.co/p9kokKMtFn"
+            },
+            {
+              "display_url": "pic.x.com/p9kokKMtFn",
+              "end": 62,
+              "expanded_url": "https://x.com/kawaiikunaitt/status/1890743351730679934/photo/1",
+              "media_key": "3_1890743344608972800",
+              "start": 39,
+              "url": "https://t.co/p9kokKMtFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890964444408119560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890743351730679934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawaiikunaitt: 友達にたくさん撮られたほんとにうれしい https://t.co/p9kokKMtFn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890743348773912576",
+            "3_1890743344608972800"
+          ]
+        },
+        "author_id": "1762930526326050816",
+        "conversation_id": "1890743351730679934",
+        "created_at": "2025-02-15T12:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T13:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890743351730679934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9kokKMtFn",
+              "end": 43,
+              "expanded_url": "https://x.com/kawaiikunaitt/status/1890743351730679934/photo/1",
+              "media_key": "3_1890743348773912576",
+              "start": 20,
+              "url": "https://t.co/p9kokKMtFn"
+            },
+            {
+              "display_url": "pic.x.com/p9kokKMtFn",
+              "end": 43,
+              "expanded_url": "https://x.com/kawaiikunaitt/status/1890743351730679934/photo/1",
+              "media_key": "3_1890743344608972800",
+              "start": 20,
+              "url": "https://t.co/p9kokKMtFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890743351730679934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 573,
+          "impression_count": 183685,
+          "like_count": 7013,
+          "quote_count": 39,
+          "reply_count": 9,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "友達にたくさん撮られたほんとにうれしい https://t.co/p9kokKMtFn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17806,
+          "following_count": 2425,
+          "like_count": 54849,
+          "listed_count": 20,
+          "media_count": 5825,
+          "tweet_count": 20710
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T19:59:34.000Z",
+        "description": "かわいい人生",
+        "id": "1762930526326050816",
+        "location": "不安定ハムスター",
+        "name": "名前変更できる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783796500117725186/lWpdQEpO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 998,
+          "like_count": 6795,
+          "listed_count": 6,
+          "media_count": 54,
+          "tweet_count": 634
+        },
+        "username": "kawaiikunaitt",
+        "verified": false
+      }
+    ]
+  }
+}

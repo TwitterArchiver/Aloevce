@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2047936087218135527",
+    "created_at": "2026-04-25T07:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047936087218135527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tufei299/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/tufei299/status/2047884170941313387",
+          "start": 9,
+          "url": "https://t.co/rKq5GUR5PC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047936087218135527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047884170941313387",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我也开过自己 https://t.co/rKq5GUR5PC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2047936087218135527",
+        "created_at": "2026-04-25T07:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047936087218135527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tufei299/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/tufei299/status/2047884170941313387",
+              "start": 9,
+              "url": "https://t.co/rKq5GUR5PC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047936087218135527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047884170941313387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我也开过自己 https://t.co/rKq5GUR5PC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879073913176752128",
+        "conversation_id": "2047825651131097313",
+        "created_at": "2026-04-25T03:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047884170941313387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047884170941313387",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047825651131097313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 我甚至想开开我自己看看哪些信息谢露了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17873,
+          "following_count": 2321,
+          "like_count": 54594,
+          "listed_count": 21,
+          "media_count": 6601,
+          "tweet_count": 23124
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T07:51:56.000Z",
+        "description": "昨日看花花灼灼",
+        "id": "1879073913176752128",
+        "location": "紫阳街",
+        "name": "灼灼长安8964",
+        "pinned_tweet_id": "1919034846015602791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044077486825431040/LIeg5Lep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 129,
+          "like_count": 5690,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 2931
+        },
+        "username": "tufei299",
+        "verified": false
+      }
+    ]
+  }
+}

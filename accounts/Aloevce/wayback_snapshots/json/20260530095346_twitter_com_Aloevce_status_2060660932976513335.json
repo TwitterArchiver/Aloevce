@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060660928530518018"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2060660932976513335",
+    "created_at": "2026-05-30T09:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060660932976513335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MFK6IuyAeH",
+          "end": 29,
+          "expanded_url": "https://x.com/Aloevce/status/2060660932976513335/photo/1",
+          "media_key": "3_2060660928530518018",
+          "start": 6,
+          "url": "https://t.co/MFK6IuyAeH"
+        },
+        {
+          "display_url": "x.com/kaogo55/status…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kaogo55/status/2060573396283600956",
+          "start": 30,
+          "url": "https://t.co/t2WZfMo3LK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060660932976513335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060573396283600956",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和对象哥 https://t.co/MFK6IuyAeH https://t.co/t2WZfMo3LK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2060660928530518018",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjwMleWkAIespP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 664,
+        "media_key": "3_2060573388943527936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiglHGaEAALH-d.jpg",
+        "width": 995
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060660928530518018"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2060660932976513335",
+        "created_at": "2026-05-30T09:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060660932976513335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFK6IuyAeH",
+              "end": 29,
+              "expanded_url": "https://x.com/Aloevce/status/2060660932976513335/photo/1",
+              "media_key": "3_2060660928530518018",
+              "start": 6,
+              "url": "https://t.co/MFK6IuyAeH"
+            },
+            {
+              "display_url": "x.com/kaogo55/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kaogo55/status/2060573396283600956",
+              "start": 30,
+              "url": "https://t.co/t2WZfMo3LK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060660932976513335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060573396283600956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和对象哥 https://t.co/MFK6IuyAeH https://t.co/t2WZfMo3LK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060573388943527936"
+          ]
+        },
+        "author_id": "1934340791453073408",
+        "conversation_id": "2060573396283600956",
+        "created_at": "2026-05-30T04:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060573396283600956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVPHUwfqIc",
+              "end": 43,
+              "expanded_url": "https://x.com/kaogo55/status/2060573396283600956/photo/1",
+              "media_key": "3_2060573388943527936",
+              "start": 20,
+              "url": "https://t.co/hVPHUwfqIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060573396283600956",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 124414,
+          "like_count": 339,
+          "quote_count": 38,
+          "reply_count": 36,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "一番好きな睡眠の姿勢はどれですか？？？ https://t.co/hVPHUwfqIc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18181,
+          "following_count": 1975,
+          "like_count": 56251,
+          "listed_count": 24,
+          "media_count": 6752,
+          "tweet_count": 23804
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T20:02:45.000Z",
+        "description": "年間1000件くらい全国のグルメ食べ歩きしてます🚶ラーメン🍜大好き！旅行✈️も大好きなんまで景色もツイートします😊たまにプレゼント企画します🎁新店舗のPR.お仕事のご依頼はDMください！！",
+        "id": "1934340791453073408",
+        "location": "大阪",
+        "name": "ひかたんグルメ🍚🍴",
+        "pinned_tweet_id": "2053132678556537162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001300338197004288/NuJ_wjEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8916,
+          "following_count": 9276,
+          "like_count": 56,
+          "listed_count": 21,
+          "media_count": 503,
+          "tweet_count": 649
+        },
+        "username": "kaogo55",
+        "verified": true
+      }
+    ]
+  }
+}

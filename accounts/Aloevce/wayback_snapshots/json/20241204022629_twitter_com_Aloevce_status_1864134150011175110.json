@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1864134150011175110",
+    "created_at": "2024-12-04T02:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T03:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864134150011175110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Aloevce/status/1671292237349801986",
+          "start": 22,
+          "url": "https://t.co/IUwUlQBAxf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864134150011175110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1671292237349801986",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜我快2wfo了，闪眼王牌，你是真的凉了 https://t.co/IUwUlQBAxf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1864134150011175110",
+        "created_at": "2024-12-04T02:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T03:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864134150011175110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Aloevce/status/1671292237349801986",
+              "start": 22,
+              "url": "https://t.co/IUwUlQBAxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864134150011175110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1671292237349801986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜我快2wfo了，闪眼王牌，你是真的凉了 https://t.co/IUwUlQBAxf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1671292237349801986",
+        "created_at": "2023-06-20T23:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-21T00:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1671292237349801986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1671292237349801986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2260,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜我快1kfo了，闪焰王牌，你是真正的火了，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "404 No Found\n\n❓:https://t.co/EE8B1ewVqa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aloevce",
+                "end": 39,
+                "expanded_url": "https://ngl.link/aloevce",
+                "start": 16,
+                "url": "https://t.co/EE8B1ewVqa"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "location": "闪焰王牌",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1863421983838319069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17621,
+          "following_count": 2315,
+          "like_count": 53484,
+          "listed_count": 20,
+          "media_count": 5432,
+          "tweet_count": 19584
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

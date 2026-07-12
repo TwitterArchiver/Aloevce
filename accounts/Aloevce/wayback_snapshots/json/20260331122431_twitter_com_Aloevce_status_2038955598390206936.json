@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038955594540048384"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2038955598390206936",
+    "created_at": "2026-03-31T12:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T13:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038955598390206936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/smXwB5ERP3",
+          "end": 36,
+          "expanded_url": "https://x.com/Aloevce/status/2038955598390206936/photo/1",
+          "media_key": "3_2038955594540048384",
+          "start": 13,
+          "url": "https://t.co/smXwB5ERP3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038955598390206936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "白身糖水龙和超美丽阿梓宝 https://t.co/smXwB5ERP3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038955594540048384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvTT3Va4AAzSmf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038955594540048384"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2038955598390206936",
+        "created_at": "2026-03-31T12:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038955598390206936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/smXwB5ERP3",
+              "end": 36,
+              "expanded_url": "https://x.com/Aloevce/status/2038955598390206936/photo/1",
+              "media_key": "3_2038955594540048384",
+              "start": 13,
+              "url": "https://t.co/smXwB5ERP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038955598390206936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白身糖水龙和超美丽阿梓宝 https://t.co/smXwB5ERP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18130,
+          "following_count": 2303,
+          "like_count": 53920,
+          "listed_count": 22,
+          "media_count": 6553,
+          "tweet_count": 22733
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

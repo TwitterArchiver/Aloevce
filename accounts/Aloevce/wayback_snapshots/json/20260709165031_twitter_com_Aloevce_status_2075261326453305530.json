@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075261320572919808",
+        "3_2075261322414145536"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075261326453305530",
+    "created_at": "2026-07-09T16:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075261326453305530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yq8URy214U",
+          "end": 39,
+          "expanded_url": "https://x.com/Aloevce/status/2075261326453305530/photo/1",
+          "media_key": "3_2075261320572919808",
+          "start": 16,
+          "url": "https://t.co/Yq8URy214U"
+        },
+        {
+          "display_url": "pic.x.com/Yq8URy214U",
+          "end": 39,
+          "expanded_url": "https://x.com/Aloevce/status/2075261326453305530/photo/1",
+          "media_key": "3_2075261322414145536",
+          "start": 16,
+          "url": "https://t.co/Yq8URy214U"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/Aloevce/status/2075259380019101876",
+          "start": 40,
+          "url": "https://t.co/tJE2p3WUeq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075261326453305530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075259380019101876",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阿开心 我最喜欢吃饭时候看勇哥 https://t.co/Yq8URy214U https://t.co/tJE2p3WUeq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075261320572919808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzPLQTbYAA2tP9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075261322414145536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzPLXKaQAAoxyh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075261320572919808",
+            "3_2075261322414145536"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075261326453305530",
+        "created_at": "2026-07-09T16:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075261326453305530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yq8URy214U",
+              "end": 39,
+              "expanded_url": "https://x.com/Aloevce/status/2075261326453305530/photo/1",
+              "media_key": "3_2075261320572919808",
+              "start": 16,
+              "url": "https://t.co/Yq8URy214U"
+            },
+            {
+              "display_url": "pic.x.com/Yq8URy214U",
+              "end": 39,
+              "expanded_url": "https://x.com/Aloevce/status/2075261326453305530/photo/1",
+              "media_key": "3_2075261322414145536",
+              "start": 16,
+              "url": "https://t.co/Yq8URy214U"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Aloevce/status/2075259380019101876",
+              "start": 40,
+              "url": "https://t.co/tJE2p3WUeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075261326453305530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075259380019101876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿开心 我最喜欢吃饭时候看勇哥 https://t.co/Yq8URy214U https://t.co/tJE2p3WUeq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2075259380019101876",
+        "created_at": "2026-07-09T16:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075259380019101876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075259380019101876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操 对象哥生日不在家 我点了个外卖突然想手淫 结果网卡翻不了墙 闭上眼干弄五秒解决"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18050,
+          "following_count": 1956,
+          "like_count": 56369,
+          "listed_count": 23,
+          "media_count": 6877,
+          "tweet_count": 24138
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

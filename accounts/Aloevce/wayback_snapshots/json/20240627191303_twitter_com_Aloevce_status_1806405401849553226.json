@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1806405401849553226",
+    "created_at": "2024-06-27T19:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T20:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806405401849553226"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1806405401849553226",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我拿着被客人羞辱的小费 给你买了你喜欢吃的蛋糕和你爱抽的烟 你却丢下我离开 泪水打湿我的眼睛 想起你说要永远陪着我的誓言"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1806405401849553226",
+        "created_at": "2024-06-27T19:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T20:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806405401849553226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806405401849553226",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我拿着被客人羞辱的小费 给你买了你喜欢吃的蛋糕和你爱抽的烟 你却丢下我离开 泪水打湿我的眼睛 想起你说要永远陪着我的誓言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14005,
+          "following_count": 2210,
+          "like_count": 51881,
+          "listed_count": 18,
+          "tweet_count": 17793
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

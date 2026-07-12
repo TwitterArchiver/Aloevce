@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1978921397989552132",
+    "created_at": "2025-10-16T20:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T21:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978921397989552132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i1314151241475…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/i1314151241475i/status/1978351653335040390",
+          "start": 2,
+          "url": "https://t.co/R04NafF9pL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978921397989552132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978351653335040390",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/R04NafF9pL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1978921397989552132",
+        "created_at": "2025-10-16T20:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T21:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978921397989552132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i1314151241475…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/i1314151241475i/status/1978351653335040390",
+              "start": 2,
+              "url": "https://t.co/R04NafF9pL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978921397989552132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978351653335040390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/R04NafF9pL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660276482030342145",
+        "conversation_id": "1978351653335040390",
+        "created_at": "2025-10-15T06:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T07:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978351653335040390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978351653335040390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 123322,
+          "like_count": 1136,
+          "quote_count": 9,
+          "reply_count": 102,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "我谈了每一个男孩的贫困期"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1978882171663221215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18687,
+          "following_count": 2404,
+          "like_count": 54877,
+          "listed_count": 24,
+          "media_count": 6273,
+          "tweet_count": 21912
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T13:29:11.000Z",
+        "description": "喜欢可爱的人 推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=RxOjXpbL",
+                "start": 0,
+                "url": "https://t.co/TMNyyogDFX"
+              }
+            ]
+          }
+        },
+        "id": "1660276482030342145",
+        "name": "煎饺神",
+        "pinned_tweet_id": "1978682515310235741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946535798632828928/NfPbY4-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13314,
+          "following_count": 220,
+          "like_count": 8022,
+          "listed_count": 17,
+          "media_count": 164,
+          "tweet_count": 3719
+        },
+        "url": "https://t.co/TMNyyogDFX",
+        "username": "i1314151241475i",
+        "verified": false
+      }
+    ]
+  }
+}

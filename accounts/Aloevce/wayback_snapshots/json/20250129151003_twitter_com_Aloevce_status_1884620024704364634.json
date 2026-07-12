@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1884620000863956992"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1884620024704364634",
+    "created_at": "2025-01-29T15:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T16:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884620024704364634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0BUebXPTK5",
+          "end": 56,
+          "expanded_url": "https://x.com/Aloevce/status/1884620024704364634/video/1",
+          "media_key": "7_1884620000863956992",
+          "start": 33,
+          "url": "https://t.co/0BUebXPTK5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884620024704364634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "塔菲玩的这个游戏好好玩回头我也下个，外放看塔菲不要乱叫啊啊啊啊啊 https://t.co/0BUebXPTK5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5828,
+        "height": 560,
+        "media_key": "7_1884620000863956992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1884620000863956992/pu/img/rwAYGAi-HHUhBPR-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1884620000863956992/pu/vid/avc1/616x270/8cxXiNUPtedihhth.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1884620000863956992/pu/vid/avc1/822x360/NaW9v9Y_fde9BWYE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1884620000863956992/pu/vid/avc1/1280x560/FkUVD4A47Ypwrfp2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1884620000863956992/pu/pl/-nSSwLJYY9_W6vEo.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1884620000863956992"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1884620024704364634",
+        "created_at": "2025-01-29T15:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T16:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884620024704364634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0BUebXPTK5",
+              "end": 56,
+              "expanded_url": "https://x.com/Aloevce/status/1884620024704364634/video/1",
+              "media_key": "7_1884620000863956992",
+              "start": 33,
+              "url": "https://t.co/0BUebXPTK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884620024704364634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "塔菲玩的这个游戏好好玩回头我也下个，外放看塔菲不要乱叫啊啊啊啊啊 https://t.co/0BUebXPTK5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1883941576986276044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17800,
+          "following_count": 2388,
+          "like_count": 54506,
+          "listed_count": 20,
+          "media_count": 5739,
+          "tweet_count": 20442
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

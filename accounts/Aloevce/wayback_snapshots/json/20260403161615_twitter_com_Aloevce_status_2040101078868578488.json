@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2040101078868578488",
+    "created_at": "2026-04-03T16:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T17:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040101078868578488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KomariChika409…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/KomariChika4097/status/2039619504444256484",
+          "start": 3,
+          "url": "https://t.co/KsW5ZMmyvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040101078868578488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039619504444256484",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持 https://t.co/KsW5ZMmyvi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2040101078868578488",
+        "created_at": "2026-04-03T16:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040101078868578488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KomariChika409…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/KomariChika4097/status/2039619504444256484",
+              "start": 3,
+              "url": "https://t.co/KsW5ZMmyvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040101078868578488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039619504444256484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持 https://t.co/KsW5ZMmyvi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018318410015490048",
+        "conversation_id": "2039619504444256484",
+        "created_at": "2026-04-02T08:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039619504444256484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039619504444256484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 232262,
+          "like_count": 780,
+          "quote_count": 8,
+          "reply_count": 68,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "男娘操小女友真的非常色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18112,
+          "following_count": 2306,
+          "like_count": 53917,
+          "listed_count": 22,
+          "media_count": 6553,
+          "tweet_count": 22763
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T13:39:59.000Z",
+        "description": "🇹🇼中華民國北平15嵗國中生 民主社會主義 激進共和主義 議會民主 階級鬥爭 愛好：人文社科 語言學 計算機科學 enby/she/her 半出柜 enfp-t 語言: 漢語🇹🇼 英語🏴󠁧󠁢󠁥󠁮󠁧󠁿OK俄語🇷🇺(學習中) 雙相情感障礙  亚健康 割手不od 希望成为可爱的小男女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov.tw",
+                "end": 23,
+                "expanded_url": "http://president.gov.tw",
+                "start": 0,
+                "url": "https://t.co/mbOKViAaa5"
+              }
+            ]
+          }
+        },
+        "id": "2018318410015490048",
+        "location": "Peking, ROC",
+        "name": "小静|Тишина🏳️‍⚧️🇹🇼",
+        "pinned_tweet_id": "2039693527077277700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038138807133024256/R1P4nwZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 399,
+          "like_count": 5391,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 2020
+        },
+        "url": "https://t.co/mbOKViAaa5",
+        "username": "KomariChika4097",
+        "verified": false
+      }
+    ]
+  }
+}

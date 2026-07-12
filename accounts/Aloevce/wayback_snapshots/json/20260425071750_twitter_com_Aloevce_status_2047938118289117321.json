@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2047938118289117321",
+    "created_at": "2026-04-25T07:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047938118289117321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/Aloevce/status/2047825651131097313",
+          "start": 23,
+          "url": "https://t.co/wkVFgLLU3S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047938118289117321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047825651131097313",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是说那么多张一凡 咋开出来就是这个张一凡的 https://t.co/wkVFgLLU3S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2047938118289117321",
+        "created_at": "2026-04-25T07:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047938118289117321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Aloevce/status/2047825651131097313",
+              "start": 23,
+              "url": "https://t.co/wkVFgLLU3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047938118289117321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047825651131097313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是说那么多张一凡 咋开出来就是这个张一凡的 https://t.co/wkVFgLLU3S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2047825651131097313",
+        "created_at": "2026-04-24T23:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047825651131097313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/niger_original…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/niger_original/status/2047425573119795602",
+              "start": 32,
+              "url": "https://t.co/eL8iYGIoCq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047825651131097313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1058,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047425573119795602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这到底咋开的woc我知道开了名字是因为推特号但是地区是怎么开的 https://t.co/eL8iYGIoCq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17873,
+          "following_count": 2321,
+          "like_count": 54597,
+          "listed_count": 21,
+          "media_count": 6602,
+          "tweet_count": 23126
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

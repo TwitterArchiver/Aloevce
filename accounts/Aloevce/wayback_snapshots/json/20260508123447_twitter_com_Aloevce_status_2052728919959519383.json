@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2052728919959519383",
+    "created_at": "2026-05-08T12:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052728919959519383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/effect_motion_…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/effect_motion_x/status/2052398111864267027",
+          "start": 8,
+          "url": "https://t.co/kKLLw0t7dv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052728919959519383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052398111864267027",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁把我发上去了 https://t.co/kKLLw0t7dv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20162,
+        "height": 752,
+        "media_key": "13_2052398068809797632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052398068809797632/img/a0RPY-kSYL696IB-.jpg",
+        "public_metrics": {
+          "view_count": 401586
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052398068809797632/vid/avc1/320x484/BYdoGuGHdK1ZvR3R.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052398068809797632/vid/avc1/496x752/Ra8P0Zi9yo6UTnd2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052398068809797632/pl/w4-j0EZW-rBUyEaz.m3u8?v=cfc"
+          }
+        ],
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2052728919959519383",
+        "created_at": "2026-05-08T12:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052728919959519383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/effect_motion_…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/effect_motion_x/status/2052398111864267027",
+              "start": 8,
+              "url": "https://t.co/kKLLw0t7dv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052728919959519383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052398111864267027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁把我发上去了 https://t.co/kKLLw0t7dv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052398068809797632"
+          ]
+        },
+        "author_id": "2007394776837173252",
+        "conversation_id": "2052398111864267027",
+        "created_at": "2026-05-07T14:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052398111864267027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/156H7pyXxA",
+              "end": 52,
+              "expanded_url": "https://x.com/effect_motion_x/status/2052398111864267027/video/1",
+              "media_key": "13_2052398068809797632",
+              "start": 29,
+              "url": "https://t.co/156H7pyXxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052398111864267027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 498,
+          "impression_count": 825295,
+          "like_count": 1966,
+          "quote_count": 101,
+          "reply_count": 145,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "1枚目→イメージする地雷系女子\n2枚目→実際の地雷系女子 https://t.co/156H7pyXxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18209,
+          "following_count": 1979,
+          "like_count": 55582,
+          "listed_count": 24,
+          "media_count": 6651,
+          "tweet_count": 23400
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T10:13:21.000Z",
+        "description": "心がホッとする美しい映像や日常の癒し、話題のニュースをお届けします✨️日常の小さなことや思ったことをつぶやくゆる垢です🌿フォローお待ちしてます！\nhttps://t.co/ZGT8eaak4N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/effect_motion_n",
+                "end": 96,
+                "expanded_url": "https://note.com/effect_motion_n",
+                "start": 73,
+                "url": "https://t.co/ZGT8eaak4N"
+              }
+            ]
+          }
+        },
+        "id": "2007394776837173252",
+        "name": "Hikari",
+        "pinned_tweet_id": "2052690241946034191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016265296294907904/K2ng39c8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13160,
+          "following_count": 8516,
+          "like_count": 13413,
+          "listed_count": 22,
+          "media_count": 972,
+          "tweet_count": 15601
+        },
+        "username": "effect_motion_x",
+        "verified": true
+      }
+    ]
+  }
+}

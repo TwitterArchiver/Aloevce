@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1846453460671123905",
+    "created_at": "2024-10-17T05:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-17T06:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1846790059741053273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "931716322001436672",
+          "start": 0,
+          "username": "WolfKingCarol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1846790059741053273",
+    "in_reply_to_user_id": "931716322001436672",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846760599335981171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WolfKingCarol 五百捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1846453460671123905",
+        "created_at": "2024-10-17T05:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-17T06:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846790059741053273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "931716322001436672",
+              "start": 0,
+              "username": "WolfKingCarol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846790059741053273",
+        "in_reply_to_user_id": "931716322001436672",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846760599335981171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WolfKingCarol 五百捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "931716322001436672",
+        "conversation_id": "1846453460671123905",
+        "created_at": "2024-10-17T03:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-17T04:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846760599335981171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846760599335981171",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846521411893866886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 多少钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17879,
+          "following_count": 2254,
+          "like_count": 53024,
+          "listed_count": 22,
+          "tweet_count": 19062
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T02:50:56.000Z",
+        "description": "嘘，请听我为你歌唱……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/rFPlGYn",
+                "end": 23,
+                "expanded_url": "https://b23.tv/rFPlGYn",
+                "start": 0,
+                "url": "https://t.co/38Q8Dk42Wm"
+              }
+            ]
+          }
+        },
+        "id": "931716322001436672",
+        "location": "枝江",
+        "name": "珈乐Carol",
+        "pinned_tweet_id": "1767545453699363222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1513371075748700161/4ObE-C2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 964,
+          "like_count": 26231,
+          "listed_count": 12,
+          "tweet_count": 8773
+        },
+        "url": "https://t.co/38Q8Dk42Wm",
+        "username": "WolfKingCarol",
+        "verified": false
+      }
+    ]
+  }
+}

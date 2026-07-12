@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1947073818184360087",
+    "created_at": "2025-07-20T23:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T00:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947073818184360087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/heovo00480048/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/heovo00480048/status/1931932436616659449",
+          "start": 17,
+          "url": "https://t.co/FYLr7skLAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947073818184360087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 567,
+      "like_count": 12,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931932436616659449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽我就是21届的但是我是全文😭 https://t.co/FYLr7skLAv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931932426256736256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-aTk0XYAAbTYj.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1947073818184360087",
+        "created_at": "2025-07-20T23:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T00:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947073818184360087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/heovo00480048/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/heovo00480048/status/1931932436616659449",
+              "start": 17,
+              "url": "https://t.co/FYLr7skLAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947073818184360087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931932436616659449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽我就是21届的但是我是全文😭 https://t.co/FYLr7skLAv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931932426256736256"
+          ]
+        },
+        "author_id": "1908191434521616385",
+        "conversation_id": "1931932436616659449",
+        "created_at": "2025-06-09T04:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T05:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931932436616659449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HWQPVXQ7Q8",
+              "end": 72,
+              "expanded_url": "https://x.com/heovo00480048/status/1931932436616659449/photo/1",
+              "media_key": "3_1931932426256736256",
+              "start": 49,
+              "url": "https://t.co/HWQPVXQ7Q8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931932436616659449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 24996,
+          "like_count": 195,
+          "quote_count": 13,
+          "reply_count": 15,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "想od普瑞巴林还买不到的姊妹有福了 天津21高考卷手把手教你做普瑞巴林 自己做的o起来安心💪💪💪 https://t.co/HWQPVXQ7Q8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "伪人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1942344432830873884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19134,
+          "following_count": 2449,
+          "like_count": 55714,
+          "listed_count": 21,
+          "media_count": 6174,
+          "tweet_count": 21615
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T16:14:31.000Z",
+        "description": "",
+        "id": "1908191434521616385",
+        "name": "盒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912808583185743872/33CFlWKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 26,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 50
+        },
+        "username": "heovo00480048",
+        "verified": false
+      }
+    ]
+  }
+}

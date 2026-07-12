@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1954841632420847946",
+    "created_at": "2025-08-11T09:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T10:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954841632420847946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/Aloevce/status/1954839006790701093",
+          "start": 64,
+          "url": "https://t.co/DNMsI9arNS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954841632420847946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954839006790701093",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草泥马我一没露奶二没露比三没露腿  一帮死b男的知道我有对象还贴脸是什么心理 老子本来就烦 一毛钱不给我还搁这看你们叫我请问了 https://t.co/DNMsI9arNS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1954841632420847946",
+        "created_at": "2025-08-11T09:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T10:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954841632420847946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/Aloevce/status/1954839006790701093",
+              "start": 64,
+              "url": "https://t.co/DNMsI9arNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954841632420847946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954839006790701093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草泥马我一没露奶二没露比三没露腿  一帮死b男的知道我有对象还贴脸是什么心理 老子本来就烦 一毛钱不给我还搁这看你们叫我请问了 https://t.co/DNMsI9arNS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1954839006790701093",
+        "created_at": "2025-08-11T09:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T10:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954839006790701093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954839006790701093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦为啥我发类似喜欢阴茎之类的话时候私信评论烦我 我发只是客观阐述喜欢对象哥是阴茎 不代表想跟别人聊也不代表喜欢别人的 别人的恶心 为啥总有傻逼男的在那自以为是刷存在感 我操了 谁再跟我贴脸开黄我就小黑屋不送"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19087,
+          "following_count": 2417,
+          "like_count": 55692,
+          "listed_count": 21,
+          "media_count": 6211,
+          "tweet_count": 21740
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

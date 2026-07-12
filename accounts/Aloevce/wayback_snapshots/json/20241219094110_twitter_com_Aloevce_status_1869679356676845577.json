@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1869472533206196357",
+    "created_at": "2024-12-19T09:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T10:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869679356676845577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1759401409861079040",
+          "start": 0,
+          "username": "maomaodebian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869679356676845577",
+    "in_reply_to_user_id": "1759401409861079040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869591953916244388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomaodebian 自然风干"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1869472533206196357",
+        "created_at": "2024-12-19T09:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T10:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869679356676845577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1759401409861079040",
+              "start": 0,
+              "username": "maomaodebian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869679356676845577",
+        "in_reply_to_user_id": "1759401409861079040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869591953916244388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaodebian 自然风干"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759401409861079040",
+        "conversation_id": "1869472533206196357",
+        "created_at": "2024-12-19T03:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T04:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869591953916244388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869591953916244388",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869472533206196357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 吹头咋办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "404 No Found\n\n❓:https://t.co/EE8B1ewVqa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aloevce",
+                "end": 39,
+                "expanded_url": "https://ngl.link/aloevce",
+                "start": 16,
+                "url": "https://t.co/EE8B1ewVqa"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "location": "闪焰王牌",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1865076713211699392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17727,
+          "following_count": 2346,
+          "like_count": 53680,
+          "listed_count": 20,
+          "media_count": 5501,
+          "tweet_count": 19745
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T02:16:17.000Z",
+        "description": "",
+        "id": "1759401409861079040",
+        "location": "猫",
+        "name": "扁扁的猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827245513101733892/oN15arv0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 179,
+          "like_count": 2311,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1190
+        },
+        "username": "maomaodebian",
+        "verified": false
+      }
+    ]
+  }
+}

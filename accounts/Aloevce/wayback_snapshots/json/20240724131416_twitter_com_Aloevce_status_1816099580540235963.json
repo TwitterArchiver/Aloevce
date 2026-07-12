@@ -1,0 +1,550 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1816099580540235963",
+    "created_at": "2024-07-24T13:14:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T14:14:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816099580540235963"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "门槛"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "陪玩"
+        },
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "陪聊"
+        },
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "金主"
+        },
+        {
+          "end": 65,
+          "start": 60,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "入门"
+        },
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "租借女友"
+        },
+        {
+          "end": 81,
+          "start": 76,
+          "tag": "线上女友"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "线上"
+        },
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 96,
+          "start": 92,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 101,
+          "start": 97,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 106,
+          "start": 102,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "门槛"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "反差"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "女高"
+        },
+        {
+          "end": 124,
+          "start": 119,
+          "tag": "女高中生"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "陪聊"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "包养"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "妈妈活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1801906384654733312",
+          "start": 3,
+          "username": "guchen0115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816099580540235963",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816095375331340665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guchen0115: 求你给我打钱，我要买卡!🥺#门槛 #门槛哥 #门槛姐 #门槛妹 #陪玩 #陪聊 #金主 #金主爸爸 #入门 #租借女友 #线上女友 #线上 #金主爸爸 #门槛姐 #门槛妹 #门槛哥 #门槛 #反差 #女高 #女高中生 #陪聊 #包养 #妈妈活 #…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1816099580540235963",
+        "created_at": "2024-07-24T13:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T14:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816099580540235963"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "门槛"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "陪玩"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "陪聊"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "金主"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "入门"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "租借女友"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "线上女友"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "线上"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "门槛"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "反差"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "女高"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "女高中生"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "陪聊"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "包养"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "妈妈活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1801906384654733312",
+              "start": 3,
+              "username": "guchen0115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816099580540235963",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816095375331340665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guchen0115: 求你给我打钱，我要买卡!🥺#门槛 #门槛哥 #门槛姐 #门槛妹 #陪玩 #陪聊 #金主 #金主爸爸 #入门 #租借女友 #线上女友 #线上 #金主爸爸 #门槛姐 #门槛妹 #门槛哥 #门槛 #反差 #女高 #女高中生 #陪聊 #包养 #妈妈活 #…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816095366309371906"
+          ]
+        },
+        "author_id": "1801906384654733312",
+        "conversation_id": "1816095375331340665",
+        "created_at": "2024-07-24T12:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T13:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816095375331340665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "门槛"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "陪玩"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "陪聊"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "金主"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "入门"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "租借女友"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "线上女友"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "线上"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "门槛"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "反差"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "女高"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "女高中生"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "陪聊"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "包养"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 134,
+              "start": 127,
+              "tag": "ATM打钱奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/mzr1IxHUh1",
+              "end": 158,
+              "expanded_url": "https://twitter.com/guchen0115/status/1816095375331340665/photo/1",
+              "media_key": "3_1816095366309371906",
+              "start": 135,
+              "url": "https://t.co/mzr1IxHUh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816095375331340665",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求你给我打钱，我要买卡!🥺#门槛 #门槛哥 #门槛姐 #门槛妹 #陪玩 #陪聊 #金主 #金主爸爸 #入门 #租借女友 #线上女友 #线上 #金主爸爸 #门槛姐 #门槛妹 #门槛哥 #门槛 #反差 #女高 #女高中生 #陪聊 #包养 #妈妈活 #爸爸活 #ATM打钱奴 https://t.co/mzr1IxHUh1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17421,
+          "following_count": 2200,
+          "like_count": 52017,
+          "listed_count": 20,
+          "tweet_count": 18055
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T09:15:52.000Z",
+        "description": "🚪25/60/188/520，女孩子不用！！欢迎来找我聊天！",
+        "id": "1801906384654733312",
+        "name": "古程",
+        "pinned_tweet_id": "1815423009806852223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801906617673502720/jdHzVulJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 136,
+          "like_count": 491,
+          "listed_count": 0,
+          "tweet_count": 94
+        },
+        "username": "guchen0115",
+        "verified": false
+      }
+    ]
+  }
+}

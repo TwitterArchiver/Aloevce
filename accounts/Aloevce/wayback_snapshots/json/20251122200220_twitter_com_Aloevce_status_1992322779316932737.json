@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1992322779316932737",
+    "created_at": "2025-11-22T20:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T21:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992322779316932737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dongyan0404637…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/dongyan04046375/status/1991858350955663625",
+          "start": 13,
+          "url": "https://t.co/OXsYiY0ePd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992322779316932737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991858350955663625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天尝了 酸酸的像水果捞 https://t.co/OXsYiY0ePd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2102,
+        "media_key": "3_1991858347566661632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6SAnSGbgAAvLo0.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1992322779316932737",
+        "created_at": "2025-11-22T20:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992322779316932737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dongyan0404637…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/dongyan04046375/status/1991858350955663625",
+              "start": 13,
+              "url": "https://t.co/OXsYiY0ePd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992322779316932737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991858350955663625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天尝了 酸酸的像水果捞 https://t.co/OXsYiY0ePd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991858347566661632"
+          ]
+        },
+        "author_id": "1499418400413605888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1991858350955663625",
+        "created_at": "2025-11-21T13:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991858350955663625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ULuqGQ0VOb",
+              "end": 37,
+              "expanded_url": "https://x.com/dongyan04046375/status/1991858350955663625/photo/1",
+              "media_key": "3_1991858347566661632",
+              "start": 14,
+              "url": "https://t.co/ULuqGQ0VOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991858350955663625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 102281,
+          "like_count": 442,
+          "quote_count": 3,
+          "reply_count": 41,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我发现了液体版固体杨枝甘露 https://t.co/ULuqGQ0VOb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1983656746171429044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18543,
+          "following_count": 2407,
+          "like_count": 54667,
+          "listed_count": 24,
+          "media_count": 6316,
+          "tweet_count": 22077
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T16:16:29.000Z",
+        "description": "冬彦很荣幸能遇见你。🐺狼，大学在读。成分复杂。慢热类型，只会对熟人表现得很活泼。欢迎小动物扩列。\nBluesky：@dongyanyan.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "dongyanyan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "es.whotwi.com/dongyan04046375",
+                "end": 23,
+                "expanded_url": "https://es.whotwi.com/dongyan04046375",
+                "start": 0,
+                "url": "https://t.co/cqZsxgNT5B"
+              }
+            ]
+          }
+        },
+        "id": "1499418400413605888",
+        "location": "3.1km",
+        "name": "冬彦",
+        "pinned_tweet_id": "1879468777403998362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972854344782655488/MCaaa88s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 634,
+          "like_count": 3273,
+          "listed_count": 1,
+          "media_count": 512,
+          "tweet_count": 3675
+        },
+        "url": "https://t.co/cqZsxgNT5B",
+        "username": "dongyan04046375",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2043201196513505530",
+    "created_at": "2026-04-12T05:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043201196513505530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2042543510902182202",
+          "start": 12,
+          "url": "https://t.co/JQXbwMCqxL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043201196513505530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042543510902182202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这到底是怎么搞的求教学 https://t.co/JQXbwMCqxL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 754,
+        "media_key": "3_2042541919881039873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiRDeVakAEwFor.jpg",
+        "width": 1556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2043201196513505530",
+        "created_at": "2026-04-12T05:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043201196513505530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2042543510902182202",
+              "start": 12,
+              "url": "https://t.co/JQXbwMCqxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043201196513505530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042543510902182202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这到底是怎么搞的求教学 https://t.co/JQXbwMCqxL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042541919881039873"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2042543510902182202",
+        "created_at": "2026-04-10T10:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:01:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042543397936992523",
+          "2042543510902182202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 30,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2042086235842449721?s=20",
+              "start": 7,
+              "url": "https://t.co/p6BttBLBzl"
+            },
+            {
+              "display_url": "pic.x.com/CGwNCQwu52",
+              "end": 54,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2042543510902182202/photo/1",
+              "media_key": "3_2042541919881039873",
+              "start": 31,
+              "url": "https://t.co/CGwNCQwu52"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2042086235842449721",
+              "start": 55,
+              "url": "https://t.co/NfZnimDbPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042543510902182202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 28936,
+          "like_count": 243,
+          "quote_count": 7,
+          "reply_count": 41,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042086235842449721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想炫耀一下\nhttps://t.co/p6BttBLBzl https://t.co/CGwNCQwu52 https://t.co/NfZnimDbPy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17878,
+          "following_count": 2301,
+          "like_count": 54279,
+          "listed_count": 23,
+          "media_count": 6568,
+          "tweet_count": 22917
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8378,
+          "following_count": 4069,
+          "like_count": 42948,
+          "listed_count": 26,
+          "media_count": 1701,
+          "tweet_count": 11717
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

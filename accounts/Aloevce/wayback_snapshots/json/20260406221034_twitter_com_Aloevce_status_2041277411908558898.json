@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2041277411908558898",
+    "created_at": "2026-04-06T22:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T23:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041277411908558898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/Aloevce/status/2041273690915021259",
+          "start": 106,
+          "url": "https://t.co/5lA9ro0LYi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041277411908558898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041273690915021259",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了 对象哥有个之前跟他组乐队的男生 然后和他乐队里一个女生搅起了 然后对象哥的乐队就解散了 对象哥很愤怒和那个男生绝交了好几年 前几天又约那个男生出来喝酒 边喝边聊天突然来了一句 我恨你。 ←好像我说的话 https://t.co/5lA9ro0LYi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2041277411908558898",
+        "created_at": "2026-04-06T22:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T23:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041277411908558898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/Aloevce/status/2041273690915021259",
+              "start": 106,
+              "url": "https://t.co/5lA9ro0LYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041277411908558898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041273690915021259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 对象哥有个之前跟他组乐队的男生 然后和他乐队里一个女生搅起了 然后对象哥的乐队就解散了 对象哥很愤怒和那个男生绝交了好几年 前几天又约那个男生出来喝酒 边喝边聊天突然来了一句 我恨你。 ←好像我说的话 https://t.co/5lA9ro0LYi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2041273690915021259",
+        "created_at": "2026-04-06T21:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T22:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041273690915021259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041273690915021259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18042,
+          "following_count": 2299,
+          "like_count": 53993,
+          "listed_count": 22,
+          "media_count": 6558,
+          "tweet_count": 22806
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1947074158396912027",
+    "created_at": "2025-07-20T23:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T00:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947074158396912027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ni14371001/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Ni14371001/status/1945572317855166716",
+          "start": 2,
+          "url": "https://t.co/Jw5R1D5TtR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947074158396912027",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945572317855166716",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/Jw5R1D5TtR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1947074158396912027",
+        "created_at": "2025-07-20T23:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T00:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947074158396912027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ni14371001/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Ni14371001/status/1945572317855166716",
+              "start": 2,
+              "url": "https://t.co/Jw5R1D5TtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947074158396912027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945572317855166716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/Jw5R1D5TtR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556631649437290500",
+        "conversation_id": "1945572317855166716",
+        "created_at": "2025-07-16T19:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T20:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945572317855166716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945572317855166716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 320,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗑药了好想doi好想被掐着脖子狠狠的操 啊啊啊啊啊啊啊 普瑞巴林我恨你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "伪人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1942344432830873884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19120,
+          "following_count": 2399,
+          "like_count": 55700,
+          "listed_count": 21,
+          "media_count": 6174,
+          "tweet_count": 21605
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T13:21:31.000Z",
+        "description": "随便发 随时删",
+        "id": "1556631649437290500",
+        "name": "我就随便说几句",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934338914417840128/r88NNc8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 46,
+          "like_count": 436,
+          "listed_count": 6,
+          "media_count": 9,
+          "tweet_count": 339
+        },
+        "username": "Ni14371001",
+        "verified": false
+      }
+    ]
+  }
+}

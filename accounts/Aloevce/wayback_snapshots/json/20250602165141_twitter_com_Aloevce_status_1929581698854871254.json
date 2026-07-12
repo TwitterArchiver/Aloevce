@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929581693821669376"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1929581698854871254",
+    "created_at": "2025-06-02T16:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T17:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929581698854871254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4FFYWw0vua",
+          "end": 45,
+          "expanded_url": "https://x.com/Aloevce/status/1929581698854871254/photo/1",
+          "media_key": "3_1929581693821669376",
+          "start": 22,
+          "url": "https://t.co/4FFYWw0vua"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/Aloevce/status/1929520142414733751",
+          "start": 46,
+          "url": "https://t.co/PQfMyxmltE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929581698854871254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929520142414733751",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "外卖买到了额，一上来o了四个没感觉又了四个 https://t.co/4FFYWw0vua https://t.co/PQfMyxmltE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929581693821669376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsdAU8FWUAA12Ih.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1449,
+        "media_key": "3_1929520101771882496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GscITz0WsAA6UYy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929581693821669376"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1929581698854871254",
+        "created_at": "2025-06-02T16:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T17:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929581698854871254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4FFYWw0vua",
+              "end": 45,
+              "expanded_url": "https://x.com/Aloevce/status/1929581698854871254/photo/1",
+              "media_key": "3_1929581693821669376",
+              "start": 22,
+              "url": "https://t.co/4FFYWw0vua"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Aloevce/status/1929520142414733751",
+              "start": 46,
+              "url": "https://t.co/PQfMyxmltE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929581698854871254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929520142414733751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "外卖买到了额，一上来o了四个没感觉又了四个 https://t.co/4FFYWw0vua https://t.co/PQfMyxmltE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929520101771882496"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1929520142414733751",
+        "created_at": "2025-06-02T12:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T13:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929520142414733751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/udCk9eTj0Z",
+              "end": 39,
+              "expanded_url": "https://x.com/Aloevce/status/1929520142414733751/photo/1",
+              "media_key": "3_1929520101771882496",
+              "start": 16,
+              "url": "https://t.co/udCk9eTj0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929520142414733751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 837,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们怎么在外卖点普瑞我请问了 https://t.co/udCk9eTj0Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19197,
+          "following_count": 2392,
+          "like_count": 55408,
+          "listed_count": 20,
+          "media_count": 6077,
+          "tweet_count": 21319
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

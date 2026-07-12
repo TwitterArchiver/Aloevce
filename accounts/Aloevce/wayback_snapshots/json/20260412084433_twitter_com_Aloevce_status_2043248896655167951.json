@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2043248896655167951",
+    "created_at": "2026-04-12T08:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043248896655167951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1nfinityHeaven…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/1nfinityHeaven/status/2041482297866961013",
+          "start": 3,
+          "url": "https://t.co/CFw5AoD1oE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043248896655167951",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041482297866961013",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持 https://t.co/CFw5AoD1oE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2043248896655167951",
+        "created_at": "2026-04-12T08:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043248896655167951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1nfinityHeaven…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/1nfinityHeaven/status/2041482297866961013",
+              "start": 3,
+              "url": "https://t.co/CFw5AoD1oE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043248896655167951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041482297866961013",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持 https://t.co/CFw5AoD1oE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250237155143811076",
+        "conversation_id": "2041482297866961013",
+        "created_at": "2026-04-07T11:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041482297866961013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041482297866961013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 384,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有的人都只是人而已，抛开性别偏见大家都只是在这样的社会环境下生存，我们究其根本，组建家庭是为了爱，努力工作是为了钱，我们追求的终极目标都是如此，身体构造的区别真的重要吗？当性别出现并且将人们分类时，问题就产生了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17872,
+          "following_count": 2301,
+          "like_count": 54297,
+          "listed_count": 23,
+          "media_count": 6568,
+          "tweet_count": 22921
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T01:39:09.000Z",
+        "description": "水之湄",
+        "id": "1250237155143811076",
+        "name": "食色性也",
+        "pinned_tweet_id": "1836361021424099715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037505372240621568/75ygSjX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7198,
+          "following_count": 199,
+          "like_count": 45147,
+          "listed_count": 11,
+          "media_count": 46,
+          "tweet_count": 12855
+        },
+        "username": "1nfinityHeaven",
+        "verified": false
+      }
+    ]
+  }
+}

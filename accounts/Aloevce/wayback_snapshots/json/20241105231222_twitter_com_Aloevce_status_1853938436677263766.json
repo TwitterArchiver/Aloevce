@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1853938436677263766",
+    "created_at": "2024-11-05T23:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T00:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1853938436677263766"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1853938436677263766",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早上六点这么多人给我点赞才发现是初高中生要上学，才发现我都好久没早起了，回忆起从小学开始到大学都是早上六点被叫醒去上学，熬到大四总算才能不用早起，唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1853938436677263766",
+        "created_at": "2024-11-05T23:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T00:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853938436677263766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853938436677263766",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上六点这么多人给我点赞才发现是初高中生要上学，才发现我都好久没早起了，回忆起从小学开始到大学都是早上六点被叫醒去上学，熬到大四总算才能不用早起，唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17663,
+          "following_count": 2256,
+          "like_count": 53203,
+          "listed_count": 23,
+          "tweet_count": 19254
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

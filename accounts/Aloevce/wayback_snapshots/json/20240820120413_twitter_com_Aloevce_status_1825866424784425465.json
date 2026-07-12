@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1825866424784425465",
+    "created_at": "2024-08-20T12:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T13:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1825866424784425465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maomaodebian/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/maomaodebian/status/1825852313099251901",
+          "start": 16,
+          "url": "https://t.co/AXNCnG9KC2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825866424784425465",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825852313099251901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我长了有乳头的副乳啊啊啊啊啊啊 https://t.co/AXNCnG9KC2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1825866424784425465",
+        "created_at": "2024-08-20T12:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T13:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825866424784425465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maomaodebian/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/maomaodebian/status/1825852313099251901",
+              "start": 16,
+              "url": "https://t.co/AXNCnG9KC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825866424784425465",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825852313099251901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我长了有乳头的副乳啊啊啊啊啊啊 https://t.co/AXNCnG9KC2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759401409861079040",
+        "conversation_id": "1825826426928464342",
+        "created_at": "2024-08-20T11:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T12:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825852313099251901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825852313099251901",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825826426928464342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 没长乳头不算副乳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17964,
+          "following_count": 2240,
+          "like_count": 52606,
+          "listed_count": 22,
+          "tweet_count": 18447
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T02:16:17.000Z",
+        "description": "骂我全部反弹",
+        "id": "1759401409861079040",
+        "location": "猫",
+        "name": "扁扁的猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819365645621878784/fnPevgKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 119,
+          "like_count": 1215,
+          "listed_count": 0,
+          "tweet_count": 476
+        },
+        "username": "maomaodebian",
+        "verified": false
+      }
+    ]
+  }
+}

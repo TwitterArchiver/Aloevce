@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044830297947328513"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2044830317509284353",
+    "created_at": "2026-04-16T17:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T18:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044830317509284353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N98hsMzbHy",
+          "end": 27,
+          "expanded_url": "https://x.com/Aloevce/status/2044830317509284353/photo/1",
+          "media_key": "3_2044830297947328513",
+          "start": 4,
+          "url": "https://t.co/N98hsMzbHy"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Aloevce/status/2044644903070662693",
+          "start": 28,
+          "url": "https://t.co/regz3neOEt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044830317509284353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044644903070662693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢喵 https://t.co/N98hsMzbHy https://t.co/regz3neOEt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2044830297947328513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCyUm8bUAEzpxY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044830297947328513"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044830317509284353",
+        "created_at": "2026-04-16T17:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044830317509284353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N98hsMzbHy",
+              "end": 27,
+              "expanded_url": "https://x.com/Aloevce/status/2044830317509284353/photo/1",
+              "media_key": "3_2044830297947328513",
+              "start": 4,
+              "url": "https://t.co/N98hsMzbHy"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Aloevce/status/2044644903070662693",
+              "start": 28,
+              "url": "https://t.co/regz3neOEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044830317509284353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044644903070662693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢喵 https://t.co/N98hsMzbHy https://t.co/regz3neOEt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2044644903070662693",
+        "created_at": "2026-04-16T05:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044644903070662693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044644903070662693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 376,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢对象哥让我每天夜宵都能吃到烧烤。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17818,
+          "following_count": 2296,
+          "like_count": 54422,
+          "listed_count": 21,
+          "media_count": 6585,
+          "tweet_count": 22997
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

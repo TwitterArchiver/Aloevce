@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876717210036772864"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1876717214776049705",
+    "created_at": "2025-01-07T19:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T20:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876717214776049705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IcAWNDIS1Z",
+          "end": 29,
+          "expanded_url": "https://x.com/Aloevce/status/1876717214776049705/photo/1",
+          "media_key": "3_1876717210036772864",
+          "start": 6,
+          "url": "https://t.co/IcAWNDIS1Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876717214776049705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喇叭饭饭饭 https://t.co/IcAWNDIS1Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876717210036772864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgtwW_gaoAAOekf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876717210036772864"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1876717214776049705",
+        "created_at": "2025-01-07T19:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T20:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876717214776049705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IcAWNDIS1Z",
+              "end": 29,
+              "expanded_url": "https://x.com/Aloevce/status/1876717214776049705/photo/1",
+              "media_key": "3_1876717210036772864",
+              "start": 6,
+              "url": "https://t.co/IcAWNDIS1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876717214776049705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喇叭饭饭饭 https://t.co/IcAWNDIS1Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17732,
+          "following_count": 2368,
+          "like_count": 53887,
+          "listed_count": 20,
+          "media_count": 5559,
+          "tweet_count": 19950
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

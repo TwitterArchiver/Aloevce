@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1822660276396634212",
+    "created_at": "2024-08-11T15:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T16:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822660276396634212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Wangqqian/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Wangqqian/status/1822635876557734084",
+          "start": 16,
+          "url": "https://t.co/Vhq8L1cvQZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822660276396634212",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822635876557734084",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "俩营销号搁我这地下唱双簧引流呢 https://t.co/Vhq8L1cvQZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1822635876557734084].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1822635876557734084",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1822635876557734084"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1822660276396634212",
+        "created_at": "2024-08-11T15:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T16:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822660276396634212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wangqqian/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Wangqqian/status/1822635876557734084",
+              "start": 16,
+              "url": "https://t.co/Vhq8L1cvQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822660276396634212",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822635876557734084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "俩营销号搁我这地下唱双簧引流呢 https://t.co/Vhq8L1cvQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17294,
+          "following_count": 2189,
+          "like_count": 52026,
+          "listed_count": 22,
+          "tweet_count": 18246
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

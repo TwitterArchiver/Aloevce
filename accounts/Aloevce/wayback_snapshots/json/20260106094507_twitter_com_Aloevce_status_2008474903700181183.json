@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2008474864454369280"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2008474903700181183",
+    "created_at": "2026-01-06T09:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T10:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008474903700181183"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 1,
+          "normalized_text": "巧克",
+          "probability": 0.489,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tqM2TMmIX8",
+          "end": 31,
+          "expanded_url": "https://x.com/Aloevce/status/2008474903700181183/video/1",
+          "media_key": "7_2008474864454369280",
+          "start": 8,
+          "url": "https://t.co/tqM2TMmIX8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008474903700181183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "巧克力曲奇小猫 https://t.co/tqM2TMmIX8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2966,
+        "height": 1280,
+        "media_key": "7_2008474864454369280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2008474864454369280/pu/img/uMDwFkrZt9TN9LBw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008474864454369280/pu/vid/avc1/320x568/xiJpJ7jYsP6Mb220.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008474864454369280/pu/vid/avc1/480x852/Zl94pjQIMUsOdExv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008474864454369280/pu/vid/avc1/720x1280/nkAWUuHR_Ip_eZRb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2008474864454369280/pu/pl/IxEAUlAjfdIAV0LN.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008474864454369280"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2008474903700181183",
+        "created_at": "2026-01-06T09:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008474903700181183"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "巧克",
+              "probability": 0.489,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqM2TMmIX8",
+              "end": 31,
+              "expanded_url": "https://x.com/Aloevce/status/2008474903700181183/video/1",
+              "media_key": "7_2008474864454369280",
+              "start": 8,
+              "url": "https://t.co/tqM2TMmIX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008474903700181183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "巧克力曲奇小猫 https://t.co/tqM2TMmIX8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18608,
+          "following_count": 2306,
+          "like_count": 55459,
+          "listed_count": 23,
+          "media_count": 6458,
+          "tweet_count": 22550
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882719420323184640",
+        "7_1882719423993106432"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1882719444138676728",
+    "created_at": "2025-01-24T09:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T10:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882719444138676728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0qf6au7ODt",
+          "end": 46,
+          "expanded_url": "https://x.com/Aloevce/status/1882719444138676728/video/1",
+          "media_key": "3_1882719420323184640",
+          "start": 23,
+          "url": "https://t.co/0qf6au7ODt"
+        },
+        {
+          "display_url": "pic.x.com/0qf6au7ODt",
+          "end": 46,
+          "expanded_url": "https://x.com/Aloevce/status/1882719444138676728/video/1",
+          "media_key": "7_1882719423993106432",
+          "start": 23,
+          "url": "https://t.co/0qf6au7ODt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882719444138676728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "家里猫吃了一口猫条吐了，于是我开始吃剩下半条 https://t.co/0qf6au7ODt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1882719420323184640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiDDVnQXwAAzGnf.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 6315,
+        "height": 1264,
+        "media_key": "7_1882719423993106432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1882719423993106432/pu/img/A4YwRllPglIfeFLM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1882719423993106432/pu/vid/avc1/320x560/7OM9NTFDqg8Ki2h8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1882719423993106432/pu/vid/avc1/480x842/j4mljFCtwu5h5Tif.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1882719423993106432/pu/vid/avc1/720x1264/WOUJ-Dab31ls7HLQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1882719423993106432/pu/pl/6GsEDO8ItVup9ArH.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882719420323184640",
+            "7_1882719423993106432"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1882719444138676728",
+        "created_at": "2025-01-24T09:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T10:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882719444138676728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0qf6au7ODt",
+              "end": 46,
+              "expanded_url": "https://x.com/Aloevce/status/1882719444138676728/video/1",
+              "media_key": "3_1882719420323184640",
+              "start": 23,
+              "url": "https://t.co/0qf6au7ODt"
+            },
+            {
+              "display_url": "pic.x.com/0qf6au7ODt",
+              "end": 46,
+              "expanded_url": "https://x.com/Aloevce/status/1882719444138676728/video/1",
+              "media_key": "7_1882719423993106432",
+              "start": 23,
+              "url": "https://t.co/0qf6au7ODt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882719444138676728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家里猫吃了一口猫条吐了，于是我开始吃剩下半条 https://t.co/0qf6au7ODt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1881182504969015531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17823,
+          "following_count": 2379,
+          "like_count": 54379,
+          "listed_count": 20,
+          "media_count": 5672,
+          "tweet_count": 20254
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

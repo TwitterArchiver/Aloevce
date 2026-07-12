@@ -1,0 +1,145 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1789692614985539731",
+    "created_at": "2024-05-12T16:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T17:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1789692614985539731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Aloevce/status/1789692045071913098",
+          "start": 49,
+          "url": "https://t.co/BMgrm11XX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789692614985539731",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789692045071913098",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "煮啵生活不如意，天天吃不下饭，发推求安慰，结果打开私信都是ghs，本来就烦，真的累了，别恶心我了 https://t.co/BMgrm11XX3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1789692614985539731",
+        "created_at": "2024-05-12T16:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T17:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789692614985539731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Aloevce/status/1789692045071913098",
+              "start": 49,
+              "url": "https://t.co/BMgrm11XX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789692614985539731",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789692045071913098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "煮啵生活不如意，天天吃不下饭，发推求安慰，结果打开私信都是ghs，本来就烦，真的累了，别恶心我了 https://t.co/BMgrm11XX3"
+      },
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1789692045071913098",
+        "created_at": "2024-05-12T16:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T17:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789692045071913098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789692045071913098",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解释一下煮啵之前ghs那个足球的号为什么没了:\n1.煮啵守妇道，之前意识不清创造了违反妇道的号决定痛改前非，也不想被未来的老公发现破坏感情。\n2.一分米没爆到，费力不讨好。\n3.被看黄蝻的评论和私信恶心到了。\n4.不是女菩萨，这么刺激变态的素人推不想便宜看黄蝻。想想屏幕外看黄蝻沾沾自喜就愤怒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12878,
+          "following_count": 2226,
+          "like_count": 51849,
+          "listed_count": 18,
+          "tweet_count": 17337
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

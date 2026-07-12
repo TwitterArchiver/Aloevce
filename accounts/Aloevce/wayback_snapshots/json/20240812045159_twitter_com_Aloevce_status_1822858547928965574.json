@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1822858547928965574",
+    "created_at": "2024-08-12T04:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T05:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822858547928965574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aloevce/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Aloevce/status/1798942350816997443?s=19",
+          "start": 7,
+          "url": "https://t.co/Xj9uL9sm7Y"
+        },
+        {
+          "display_url": "x.com/k206213/status…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/k206213/status/1822857748243173807",
+          "start": 31,
+          "url": "https://t.co/N8OJZ9mtVe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822858547928965574",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822857748243173807",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是我隔壁班同学https://t.co/Xj9uL9sm7Y https://t.co/N8OJZ9mtVe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1822858547928965574",
+        "created_at": "2024-08-12T04:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T05:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822858547928965574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aloevce/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Aloevce/status/1798942350816997443?s=19",
+              "start": 7,
+              "url": "https://t.co/Xj9uL9sm7Y"
+            },
+            {
+              "display_url": "x.com/k206213/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/k206213/status/1822857748243173807",
+              "start": 31,
+              "url": "https://t.co/N8OJZ9mtVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822858547928965574",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822857748243173807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是我隔壁班同学https://t.co/Xj9uL9sm7Y https://t.co/N8OJZ9mtVe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1323477221688958978",
+        "conversation_id": "1822854376769085493",
+        "created_at": "2024-08-12T04:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T05:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822857748243173807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822857748243173807",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822854376769085493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 啊？你俩怎么认识的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17318,
+          "following_count": 2188,
+          "like_count": 52061,
+          "listed_count": 22,
+          "tweet_count": 18261
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-03T04:09:01.000Z",
+        "description": "崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃",
+        "id": "1323477221688958978",
+        "name": "my bad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785855477676666880/s2h_hKJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 605,
+          "like_count": 1667,
+          "listed_count": 4,
+          "tweet_count": 344
+        },
+        "username": "k206213",
+        "verified": false
+      }
+    ]
+  }
+}

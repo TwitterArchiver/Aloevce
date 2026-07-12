@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1884645068855791823",
+    "created_at": "2025-01-29T16:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T17:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884645068855791823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Aloevce/status/1884641898498773294",
+          "start": 9,
+          "url": "https://t.co/7FR1RogeWf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884645068855791823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884641898498773294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我掉了四个粉丝。 https://t.co/7FR1RogeWf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1884645068855791823",
+        "created_at": "2025-01-29T16:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T17:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884645068855791823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Aloevce/status/1884641898498773294",
+              "start": 9,
+              "url": "https://t.co/7FR1RogeWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884645068855791823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884641898498773294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我掉了四个粉丝。 https://t.co/7FR1RogeWf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1884641898498773294",
+        "created_at": "2025-01-29T16:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T17:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884641898498773294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "刻舟求剑 is live",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/broadcasts/1OwxWNXXdapJQ",
+              "start": 0,
+              "status": 200,
+              "title": "刻舟求剑",
+              "unwound_url": "https://twitter.com/i/broadcasts/1OwxWNXXdapJQ",
+              "url": "https://t.co/ng3Z00eKB9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884641898498773294",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ng3Z00eKB9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰王牌从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1883941576986276044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17803,
+          "following_count": 2396,
+          "like_count": 54518,
+          "listed_count": 20,
+          "media_count": 5742,
+          "tweet_count": 20453
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

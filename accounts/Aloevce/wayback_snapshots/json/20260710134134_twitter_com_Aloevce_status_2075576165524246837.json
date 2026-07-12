@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075576162479230976"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2075576165524246837",
+    "created_at": "2026-07-10T13:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075576165524246837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j3ptBMTG8E",
+          "end": 37,
+          "expanded_url": "https://x.com/Aloevce/status/2075576165524246837/photo/1",
+          "media_key": "3_2075576162479230976",
+          "start": 14,
+          "url": "https://t.co/j3ptBMTG8E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075576165524246837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友们这个短款好还是长款好 https://t.co/j3ptBMTG8E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075576162479230976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3thdzX0AAwTGz.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075576162479230976"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2075576165524246837",
+        "created_at": "2026-07-10T13:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075576165524246837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3ptBMTG8E",
+              "end": 37,
+              "expanded_url": "https://x.com/Aloevce/status/2075576165524246837/photo/1",
+              "media_key": "3_2075576162479230976",
+              "start": 14,
+              "url": "https://t.co/j3ptBMTG8E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075576165524246837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们这个短款好还是长款好 https://t.co/j3ptBMTG8E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18049,
+          "following_count": 1957,
+          "like_count": 56391,
+          "listed_count": 23,
+          "media_count": 6881,
+          "tweet_count": 24164
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

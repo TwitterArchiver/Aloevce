@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2064063342063538273",
+    "created_at": "2026-06-08T19:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T20:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064063342063538273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/Aloevce/status/2064062745507430652",
+          "start": 44,
+          "url": "https://t.co/ODAw2roDR4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064063342063538273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064062745507430652",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "清蒸鲈鱼 红烧草鱼 红烧带鱼 酸菜鱼 三文鱼 酸菜鱼 烤鱼 美蛙梭边鱼。。。。。。。。 https://t.co/ODAw2roDR4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2064063342063538273",
+        "created_at": "2026-06-08T19:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064063342063538273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Aloevce/status/2064062745507430652",
+              "start": 44,
+              "url": "https://t.co/ODAw2roDR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064063342063538273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064062745507430652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "清蒸鲈鱼 红烧草鱼 红烧带鱼 酸菜鱼 三文鱼 酸菜鱼 烤鱼 美蛙梭边鱼。。。。。。。。 https://t.co/ODAw2roDR4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2064062745507430652",
+        "created_at": "2026-06-08T19:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064062745507430652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Aloevce/status/2063914660185690528",
+              "start": 10,
+              "url": "https://t.co/ywzgZ2e11T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064062745507430652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063914660185690528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "世界上最爱吃鱼的人 https://t.co/ywzgZ2e11T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18153,
+          "following_count": 1970,
+          "like_count": 56286,
+          "listed_count": 24,
+          "media_count": 6779,
+          "tweet_count": 23897
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1823784303714820101",
+    "created_at": "2024-08-14T18:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T19:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823784303714820101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/Aloevce/status/1823781826936111213",
+          "start": 85,
+          "url": "https://t.co/xskgP77BtC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823784303714820101",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823781826936111213",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我只想说关我啥事关你啥事= =懒得吵架也懒得拉黑我就是喜欢已读不回装看不见。我单纯记录生活哎呀一帮神人不是互关的男的喷子女的事妈全来了。一帮路人嘴我干甚么我请问了= = https://t.co/xskgP77BtC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1823784303714820101",
+        "created_at": "2024-08-14T18:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T19:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823784303714820101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/Aloevce/status/1823781826936111213",
+              "start": 85,
+              "url": "https://t.co/xskgP77BtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823784303714820101",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823781826936111213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只想说关我啥事关你啥事= =懒得吵架也懒得拉黑我就是喜欢已读不回装看不见。我单纯记录生活哎呀一帮神人不是互关的男的喷子女的事妈全来了。一帮路人嘴我干甚么我请问了= = https://t.co/xskgP77BtC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1823781826936111213",
+        "created_at": "2024-08-14T18:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T19:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823781826936111213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823781826936111213",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扫了眼评论 分不清楚我抽象还是当真的请取关拉黑谢谢 无缘无故骂我的我鉴定你没木 在墙内骂不痛快翻墙来骂人说教人的你也是神人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17591,
+          "following_count": 2207,
+          "like_count": 52378,
+          "listed_count": 22,
+          "tweet_count": 18342
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

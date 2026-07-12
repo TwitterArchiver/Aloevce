@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2050876073496191024",
+    "created_at": "2026-05-03T09:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T10:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050876073496191024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/usagimm208/status/2050873676023885961",
+          "start": 4,
+          "url": "https://t.co/5EiMg42ZKa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050876073496191024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050873676023885961",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持喵 https://t.co/5EiMg42ZKa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1579,
+        "media_key": "3_2050873657673871361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYqucTbcAEVde6.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2050876073496191024",
+        "created_at": "2026-05-03T09:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050876073496191024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/usagimm208/status/2050873676023885961",
+              "start": 4,
+              "url": "https://t.co/5EiMg42ZKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050876073496191024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050873676023885961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持喵 https://t.co/5EiMg42ZKa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050873657673871361"
+          ]
+        },
+        "author_id": "2005739449058230272",
+        "conversation_id": "2050873676023885961",
+        "created_at": "2026-05-03T09:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050873676023885961"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "成都"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "线下"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "委托"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "一日女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WOi6Zt6u7p",
+              "end": 69,
+              "expanded_url": "https://x.com/usagimm208/status/2050873676023885961/photo/1",
+              "media_key": "3_2050873657673871361",
+              "start": 46,
+              "url": "https://t.co/WOi6Zt6u7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050873676023885961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥姐姐们支持一只喵🫶\n接委托一般不会搞特别神人的穿搭 #成都 #线下 #委托 #一日女友 https://t.co/WOi6Zt6u7p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18193,
+          "following_count": 1968,
+          "like_count": 55306,
+          "listed_count": 24,
+          "media_count": 6626,
+          "tweet_count": 23240
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "神一天人一天，简称神人的日常",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "location": "成都",
+        "name": "ぐる",
+        "pinned_tweet_id": "2049192723828396126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048827962091524096/6jvZmIU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 2,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1998124343029797051",
+    "created_at": "2025-12-08T20:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T21:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998124343029797051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AceChiliYin/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/AceChiliYin/status/1998124227380351453",
+          "start": 3,
+          "url": "https://t.co/uB1Oyu2jSl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998124343029797051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998124227380351453",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "队。 https://t.co/uB1Oyu2jSl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1998124343029797051",
+        "created_at": "2025-12-08T20:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T21:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998124343029797051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AceChiliYin/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/AceChiliYin/status/1998124227380351453",
+              "start": 3,
+              "url": "https://t.co/uB1Oyu2jSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998124343029797051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998124227380351453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "队。 https://t.co/uB1Oyu2jSl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552602100634251265",
+        "conversation_id": "1998121077508104203",
+        "created_at": "2025-12-08T20:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T21:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998124227380351453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998124227380351453",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998121077508104203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 好喜欢视奸，见证一个人的变化，要视奸每一个在意的人一辈子不管喜欢的还是讨厌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1983656746171429044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18478,
+          "following_count": 2387,
+          "like_count": 54668,
+          "listed_count": 24,
+          "media_count": 6346,
+          "tweet_count": 22191
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T10:29:33.000Z",
+        "description": "不涉政，叫我小弦 小七哩。七哩＝Chili是喜欢的乐队名，Yin是弦的粤语读音。男的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiliyin?si=L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiliyin?si=LGU4ACqix6eS_odl",
+                "start": 0,
+                "url": "https://t.co/rhXAcjvJsc"
+              }
+            ]
+          }
+        },
+        "id": "1552602100634251265",
+        "location": "廣東香山",
+        "name": "永雏弦",
+        "pinned_tweet_id": "1932738224021246228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997795841352802304/f9Nc_e_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 856,
+          "like_count": 116402,
+          "listed_count": 12,
+          "media_count": 659,
+          "tweet_count": 23011
+        },
+        "url": "https://t.co/rhXAcjvJsc",
+        "username": "AceChiliYin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1790438120309280943",
+    "created_at": "2024-05-14T17:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T18:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790438120309280943"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1790438120309280943",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前任把耳朵靠到我嘴边问我现在在想什么。其实想的是希望你一把搂住我说我们复合吧。现实是我亲了上去你的脸碰上了却被你躲开了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1790438120309280943",
+        "created_at": "2024-05-14T17:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T18:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790438120309280943"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790438120309280943",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前任把耳朵靠到我嘴边问我现在在想什么。其实想的是希望你一把搂住我说我们复合吧。现实是我亲了上去你的脸碰上了却被你躲开了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12897,
+          "following_count": 2237,
+          "like_count": 51946,
+          "listed_count": 18,
+          "tweet_count": 17370
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

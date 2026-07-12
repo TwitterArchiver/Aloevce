@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965654112118153217"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1965654125372375423",
+    "created_at": "2025-09-10T05:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T06:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965654125372375423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FjiVUYXBUb",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/1965654125372375423/photo/1",
+          "media_key": "3_1965654112118153217",
+          "start": 5,
+          "url": "https://t.co/FjiVUYXBUb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965654125372375423",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "弄弄生快 https://t.co/FjiVUYXBUb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_1965654112118153217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0doACAWoAE5kxL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965654112118153217"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1965654125372375423",
+        "created_at": "2025-09-10T05:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T06:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965654125372375423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FjiVUYXBUb",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/1965654125372375423/photo/1",
+              "media_key": "3_1965654112118153217",
+              "start": 5,
+              "url": "https://t.co/FjiVUYXBUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965654125372375423",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "弄弄生快 https://t.co/FjiVUYXBUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18953,
+          "following_count": 2404,
+          "like_count": 55420,
+          "listed_count": 24,
+          "media_count": 6244,
+          "tweet_count": 21791
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

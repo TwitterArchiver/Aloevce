@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1938819839868735849",
+    "created_at": "2025-06-28T10:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T11:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938904897543393357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938904897543393357",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938819839868735849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 真萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1519,
+        "media_key": "3_1938819833942155265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugSXd2aoAE03Jc.jpg",
+        "width": 1049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1938819839868735849",
+        "created_at": "2025-06-28T10:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938904897543393357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938904897543393357",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938819839868735849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 真萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938819833942155265"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "1938819839868735849",
+        "created_at": "2025-06-28T04:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938819839868735849"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "偶尔一清纯"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5plyp4TDwF",
+              "end": 30,
+              "expanded_url": "https://x.com/damatte8964/status/1938819839868735849/photo/1",
+              "media_key": "3_1938819833942155265",
+              "start": 7,
+              "url": "https://t.co/5plyp4TDwF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938819839868735849",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4456,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#偶尔一清纯 https://t.co/5plyp4TDwF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19086,
+          "following_count": 2386,
+          "like_count": 55353,
+          "listed_count": 20,
+          "media_count": 6125,
+          "tweet_count": 21441
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 我需要 很多的钱 很多的爱 很多的追捧 很多的陪伴 ｜🚪99/198/520/1314欢迎私信｜请发口令谢谢你",
+        "id": "1747931023277502465",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1934964163543281741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33899,
+          "following_count": 745,
+          "like_count": 6727,
+          "listed_count": 45,
+          "media_count": 190,
+          "tweet_count": 2310
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

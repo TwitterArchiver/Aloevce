@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1805846361427894370",
+    "created_at": "2024-06-26T06:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T07:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805846361427894370"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1805846361427894370",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "收拾宿舍收的像我人生一样迷茫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1805846361427894370",
+        "created_at": "2024-06-26T06:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T07:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805846361427894370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805846361427894370",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收拾宿舍收的像我人生一样迷茫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795447835732881408/Lypwm-n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14068,
+          "following_count": 2211,
+          "like_count": 51857,
+          "listed_count": 18,
+          "tweet_count": 17765
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

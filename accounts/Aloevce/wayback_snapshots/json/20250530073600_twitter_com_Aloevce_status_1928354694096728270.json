@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928354543475027968",
+        "7_1928354546792706048"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1928354694096728270",
+    "created_at": "2025-05-30T07:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T08:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928354694096728270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xG9Xa6k6wX",
+          "end": 41,
+          "expanded_url": "https://x.com/Aloevce/status/1928354694096728270/video/1",
+          "media_key": "3_1928354543475027968",
+          "start": 18,
+          "url": "https://t.co/xG9Xa6k6wX"
+        },
+        {
+          "display_url": "pic.x.com/xG9Xa6k6wX",
+          "end": 41,
+          "expanded_url": "https://x.com/Aloevce/status/1928354694096728270/video/1",
+          "media_key": "7_1928354546792706048",
+          "start": 18,
+          "url": "https://t.co/xG9Xa6k6wX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928354694096728270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在我的劝导下对象哥也开始点拼好饭了 https://t.co/xG9Xa6k6wX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928354543475027968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsLkPYzW8AAlCFs.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 12416,
+        "height": 1280,
+        "media_key": "7_1928354546792706048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1928354546792706048/pu/img/QPRtn30COpC2k5np.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1928354546792706048/pu/vid/avc1/320x568/bK1Z8hPYdpEjlbj0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1928354546792706048/pu/vid/avc1/480x852/jnrJWO-XfWdeEtrB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1928354546792706048/pu/vid/avc1/720x1280/nMR-OPmDqaRZcAyj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1928354546792706048/pu/pl/EsNKabtXCwqgYSag.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928354543475027968",
+            "7_1928354546792706048"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1928354694096728270",
+        "created_at": "2025-05-30T07:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T08:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928354694096728270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xG9Xa6k6wX",
+              "end": 41,
+              "expanded_url": "https://x.com/Aloevce/status/1928354694096728270/video/1",
+              "media_key": "3_1928354543475027968",
+              "start": 18,
+              "url": "https://t.co/xG9Xa6k6wX"
+            },
+            {
+              "display_url": "pic.x.com/xG9Xa6k6wX",
+              "end": 41,
+              "expanded_url": "https://x.com/Aloevce/status/1928354694096728270/video/1",
+              "media_key": "7_1928354546792706048",
+              "start": 18,
+              "url": "https://t.co/xG9Xa6k6wX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928354694096728270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我的劝导下对象哥也开始点拼好饭了 https://t.co/xG9Xa6k6wX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19204,
+          "following_count": 2392,
+          "like_count": 55399,
+          "listed_count": 20,
+          "media_count": 6066,
+          "tweet_count": 21293
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

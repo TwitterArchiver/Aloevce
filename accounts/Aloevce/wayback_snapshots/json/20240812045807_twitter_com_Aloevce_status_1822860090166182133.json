@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1822860090166182133",
+    "created_at": "2024-08-12T04:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T05:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822860090166182133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "966809898955624448",
+          "start": 0,
+          "username": "Xiaoshisang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lover_ning/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/lover_ning/status/1806035098216890485",
+          "start": 13,
+          "url": "https://t.co/bILQ7djh0Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822860090166182133",
+    "in_reply_to_user_id": "966809898955624448",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806035098216890485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoshisang https://t.co/bILQ7djh0Y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1806035098216890485].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1806035098216890485",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1806035098216890485"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1822860090166182133",
+        "created_at": "2024-08-12T04:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T05:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822860090166182133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "966809898955624448",
+              "start": 0,
+              "username": "Xiaoshisang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lover_ning/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/lover_ning/status/1806035098216890485",
+              "start": 13,
+              "url": "https://t.co/bILQ7djh0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822860090166182133",
+        "in_reply_to_user_id": "966809898955624448",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806035098216890485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoshisang https://t.co/bILQ7djh0Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17319,
+          "following_count": 2188,
+          "like_count": 52064,
+          "listed_count": 22,
+          "tweet_count": 18262
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-22T23:00:17.000Z",
+        "description": "电子宠物",
+        "id": "966809898955624448",
+        "location": "你眼前",
+        "name": "笑利普贝当",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752174957348720640/SWwCH7Cf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 356,
+          "like_count": 574,
+          "listed_count": 1,
+          "tweet_count": 288
+        },
+        "username": "Xiaoshisang",
+        "verified": false
+      }
+    ]
+  }
+}

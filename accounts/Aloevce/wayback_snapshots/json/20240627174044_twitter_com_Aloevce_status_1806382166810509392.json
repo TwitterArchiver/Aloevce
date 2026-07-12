@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1806381026941546566",
+    "created_at": "2024-06-27T17:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T18:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806382166810509392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1800161761771044864",
+          "start": 0,
+          "username": "Seiiiiiiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806382166810509392",
+    "in_reply_to_user_id": "1800161761771044864",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806381026941546566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seiiiiiiy 宝宝好久没刷到你了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1806381026941546566",
+        "created_at": "2024-06-27T17:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T18:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806382166810509392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1800161761771044864",
+              "start": 0,
+              "username": "Seiiiiiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806382166810509392",
+        "in_reply_to_user_id": "1800161761771044864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806381026941546566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seiiiiiiy 宝宝好久没刷到你了😭"
+      },
+      {
+        "attachments": {},
+        "author_id": "1800161761771044864",
+        "conversation_id": "1806381026941546566",
+        "created_at": "2024-06-27T17:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T18:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806381026941546566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aloevce/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/aloevce/status/1806357818326360522",
+              "start": 7,
+              "url": "https://t.co/jADb98dQoU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806381026941546566",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806357818326360522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "王牌稳定发挥 https://t.co/jADb98dQoU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13964,
+          "following_count": 2211,
+          "like_count": 51874,
+          "listed_count": 18,
+          "tweet_count": 17789
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T13:43:17.000Z",
+        "description": "我是东莨菪碱 我宝宝@fumsk719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "fumsk719"
+              }
+            ]
+          }
+        },
+        "id": "1800161761771044864",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "东莨菪碱",
+        "pinned_tweet_id": "1806378943773331746",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 128,
+          "like_count": 372,
+          "listed_count": 3,
+          "tweet_count": 174
+        },
+        "username": "Seiiiiiiy",
+        "verified": false
+      }
+    ]
+  }
+}

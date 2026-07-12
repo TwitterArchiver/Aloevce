@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2058784947054227837",
+    "created_at": "2026-05-25T05:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T06:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058784947054227837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Aloevce/status/2058655643528294422",
+          "start": 6,
+          "url": "https://t.co/UmC7L40wHK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058784947054227837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058655643528294422",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "兔子疼呃啊 https://t.co/UmC7L40wHK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2058784947054227837",
+        "created_at": "2026-05-25T05:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058784947054227837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Aloevce/status/2058655643528294422",
+              "start": 6,
+              "url": "https://t.co/UmC7L40wHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058784947054227837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058655643528294422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兔子疼呃啊 https://t.co/UmC7L40wHK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2058655643528294422",
+        "created_at": "2026-05-24T21:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T22:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058655643528294422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/usagimm208/status/2058209466504614324",
+              "start": 7,
+              "url": "https://t.co/4cHEqlS8cZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058655643528294422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 503,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058209466504614324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来月经了🙀 https://t.co/4cHEqlS8cZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18194,
+          "following_count": 1972,
+          "like_count": 56165,
+          "listed_count": 24,
+          "media_count": 6735,
+          "tweet_count": 23720
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

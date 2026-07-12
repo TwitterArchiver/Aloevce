@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2006497345144500379",
+    "created_at": "2025-12-31T22:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T23:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006497345144500379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Aloevce/status/2006496315845538054",
+          "start": 8,
+          "url": "https://t.co/DRsZTLzK0V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006497345144500379",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006496315845538054",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "算了想凿体育生 https://t.co/DRsZTLzK0V"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2006497345144500379",
+        "created_at": "2025-12-31T22:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T23:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006497345144500379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Aloevce/status/2006496315845538054",
+              "start": 8,
+              "url": "https://t.co/DRsZTLzK0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006497345144500379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006496315845538054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算了想凿体育生 https://t.co/DRsZTLzK0V"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2006496315845538054",
+        "created_at": "2025-12-31T22:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T23:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006496315845538054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Aloevce/status/2006495924458344804",
+              "start": 16,
+              "url": "https://t.co/jzslavNc2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006496315845538054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006495924458344804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算了不要体育生。还是要排骨吧。 https://t.co/jzslavNc2K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18640,
+          "following_count": 2322,
+          "like_count": 55436,
+          "listed_count": 23,
+          "media_count": 6444,
+          "tweet_count": 22495
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2039411864321577243",
+    "created_at": "2026-04-01T18:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T19:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039411864321577243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/Aloevce/status/2039409477724831937",
+          "start": 25,
+          "url": "https://t.co/wPnQN41MRM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039411864321577243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039409477724831937",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我说真的为何现实中的人与我相处过后再也没联系过额 https://t.co/wPnQN41MRM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2039411864321577243",
+        "created_at": "2026-04-01T18:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T19:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039411864321577243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Aloevce/status/2039409477724831937",
+              "start": 25,
+              "url": "https://t.co/wPnQN41MRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039411864321577243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039409477724831937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说真的为何现实中的人与我相处过后再也没联系过额 https://t.co/wPnQN41MRM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2039409477724831937",
+        "created_at": "2026-04-01T18:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T19:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039409477724831937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039409477724831937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额感觉肯定所有人认为我是个精神病或者傻子否则为何没有一个人愿意跟老子说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18117,
+          "following_count": 2305,
+          "like_count": 53917,
+          "listed_count": 22,
+          "media_count": 6553,
+          "tweet_count": 22743
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1811839157397843968",
+        "3_1811839161696931840"
+      ],
+      "media_source_tweet_id": [
+        "1812002769202446627",
+        "1812002769202446627"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1812048768432271472",
+    "created_at": "2024-07-13T08:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T09:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812048768432271472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775854585212440576",
+          "start": 3,
+          "username": "naiweiayi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/flH9042786",
+          "end": 118,
+          "expanded_url": "https://twitter.com/naiweiayi/status/1812002769202446627/photo/1",
+          "media_key": "3_1811839157397843968",
+          "start": 95,
+          "url": "https://t.co/flH9042786"
+        },
+        {
+          "display_url": "pic.twitter.com/flH9042786",
+          "end": 118,
+          "expanded_url": "https://twitter.com/naiweiayi/status/1812002769202446627/photo/1",
+          "media_key": "3_1811839161696931840",
+          "start": 95,
+          "url": "https://t.co/flH9042786"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812048768432271472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812002769202446627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naiweiayi: 都说30如狼40如虎，白天在要强，到了深夜也是个小女人，姨姨刷推特看的好难受，家人还在隔壁，玩具的声音在深夜太大了，大家说怎么办，我是不是应该约个炮友了... https://t.co/flH9042786"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1812048768432271472].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1812048768432271472",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1812048768432271472"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1811839157397843968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSTyHTbXcAAhXRU.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1811839161696931840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSTyHjcWUAAvyH2.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811839157397843968",
+            "3_1811839161696931840"
+          ]
+        },
+        "author_id": "1775854585212440576",
+        "conversation_id": "1812002769202446627",
+        "created_at": "2024-07-13T05:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T06:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812002769202446627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/flH9042786",
+              "end": 103,
+              "expanded_url": "https://twitter.com/naiweiayi/status/1812002769202446627/photo/1",
+              "media_key": "3_1811839157397843968",
+              "start": 80,
+              "url": "https://t.co/flH9042786"
+            },
+            {
+              "display_url": "pic.twitter.com/flH9042786",
+              "end": 103,
+              "expanded_url": "https://twitter.com/naiweiayi/status/1812002769202446627/photo/1",
+              "media_key": "3_1811839161696931840",
+              "start": 80,
+              "url": "https://t.co/flH9042786"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812002769202446627",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7071,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "都说30如狼40如虎，白天在要强，到了深夜也是个小女人，姨姨刷推特看的好难受，家人还在隔壁，玩具的声音在深夜太大了，大家说怎么办，我是不是应该约个炮友了... https://t.co/flH9042786"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1810653866171539792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17421,
+          "following_count": 2198,
+          "like_count": 51956,
+          "listed_count": 22,
+          "tweet_count": 17904
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T11:55:07.000Z",
+        "description": "人到了某个阶段，是不是该翻篇了？只要生活，总有束缚，很多事最终只有自己知道，第一次学会上推特，也许自己是需要另一个世界的生活感受，生命的本质。💗日常号 @jingcheng585",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "jingcheng585"
+              }
+            ]
+          }
+        },
+        "id": "1775854585212440576",
+        "location": "21.39km",
+        "name": "奶味阿姨🥛",
+        "pinned_tweet_id": "1811764776046915883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791910704028717056/oX0J2_1j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3316,
+          "following_count": 6,
+          "like_count": 70,
+          "listed_count": 3,
+          "tweet_count": 90
+        },
+        "username": "naiweiayi",
+        "verified": false
+      }
+    ]
+  }
+}

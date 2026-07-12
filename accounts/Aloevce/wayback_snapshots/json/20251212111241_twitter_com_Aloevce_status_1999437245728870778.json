@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1999429596777971731",
+    "created_at": "2025-12-12T11:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T12:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999437245728870778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1727135244229414912",
+          "start": 0,
+          "username": "WatersDonn78653"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999437245728870778",
+    "in_reply_to_user_id": "1727135244229414912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999432689502539807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WatersDonn78653 没那么少。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1999429596777971731",
+        "created_at": "2025-12-12T11:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999437245728870778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1727135244229414912",
+              "start": 0,
+              "username": "WatersDonn78653"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999437245728870778",
+        "in_reply_to_user_id": "1727135244229414912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999432689502539807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WatersDonn78653 没那么少。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727135244229414912",
+        "conversation_id": "1999429596777971731",
+        "created_at": "2025-12-12T10:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999432689502539807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999432689502539807",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999429596777971731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 康熙死前吃的都比他多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18441,
+          "following_count": 2380,
+          "like_count": 54587,
+          "listed_count": 24,
+          "media_count": 6355,
+          "tweet_count": 22211
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T01:21:55.000Z",
+        "description": "",
+        "id": "1727135244229414912",
+        "name": "Donna Waters",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782332709752467457/kJQDwWed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 687,
+          "like_count": 290,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 368
+        },
+        "username": "WatersDonn78653",
+        "verified": false
+      }
+    ]
+  }
+}

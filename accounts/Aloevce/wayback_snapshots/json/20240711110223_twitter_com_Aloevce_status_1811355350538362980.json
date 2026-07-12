@@ -1,0 +1,370 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      }
+    ],
+    "conversation_id": "1811355350538362980",
+    "created_at": "2024-07-11T11:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T12:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1811355350538362980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chiikawa_marke…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/chiikawa_market/status/1811354902440055243",
+          "start": 4,
+          "url": "https://t.co/x7mEahYsRb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811355350538362980",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811354902440055243",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要买 https://t.co/x7mEahYsRb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1811355350538362980",
+        "created_at": "2024-07-11T11:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T12:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811355350538362980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chiikawa_marke…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/chiikawa_market/status/1811354902440055243",
+              "start": 4,
+              "url": "https://t.co/x7mEahYsRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811355350538362980",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811354902440055243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要买 https://t.co/x7mEahYsRb"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811354898266783744"
+          ]
+        },
+        "author_id": "1334461395149094912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1811354902440055243",
+        "created_at": "2024-07-11T11:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T12:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811354902440055243"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "#でかつよ ぷらりんマスコット",
+              "probability": 0.2253,
+              "start": 10,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "でかつよ"
+            },
+            {
+              "end": 81,
+              "start": 71,
+              "tag": "ちいかわマーケット"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "ちいかわ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Twitterで大人気のイラストレーター・ナガノが描く「ちいかわ」の公式グッズショップです。ちいかわ、ハチワレ、うさぎたちのグッズが大集合！",
+              "display_url": "chiikawamarket.jp",
+              "end": 123,
+              "expanded_url": "http://chiikawamarket.jp",
+              "images": [
+                {
+                  "height": 252,
+                  "url": "https://pbs.twimg.com/news_img/1809006827390316544/dWLF33_p?format=png&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1809006827390316544/dWLF33_p?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "ちいかわマーケット 公式グッズショップ",
+              "unwound_url": "https://chiikawamarket.jp/",
+              "url": "https://t.co/OFJjgU0gVl"
+            },
+            {
+              "display_url": "pic.twitter.com/6jeAIyQCwH",
+              "end": 154,
+              "expanded_url": "https://twitter.com/chiikawa_market/status/1811354902440055243/photo/1",
+              "media_key": "3_1811354898266783744",
+              "start": 131,
+              "url": "https://t.co/6jeAIyQCwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811354902440055243",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4711,
+          "like_count": 178,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "🌱新商品🌱\n\n『#でかつよ ぷらりんマスコット』\n\n1,760円(税込)\n\n星に ねがいを、\n返してほしい マスコット🌠\n\n叶うかな・・・\n\n#ちいかわマーケット にて\n7/12(金)11時発売🌱\n🔻https://t.co/OFJjgU0gVl\n\n#ちいかわ https://t.co/6jeAIyQCwH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1810653866171539792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17416,
+          "following_count": 2206,
+          "like_count": 51928,
+          "listed_count": 21,
+          "tweet_count": 17886
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-03T11:36:34.000Z",
+        "description": "GPS運営「ちいかわマーケット」の公式アカウントです❗️\nオンラインストアで販売する商品等についてお知らせしています❗️\n ▷https://t.co/qmJ1GgewxT\n◎お問い合わせはカスタマーセンターまでお願いいたします。\n※このアカウントから個別のお問い合わせ対応はしておりません。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/chiikawa_market",
+                "end": 86,
+                "expanded_url": "http://instagram.com/chiikawa_market",
+                "start": 63,
+                "url": "https://t.co/qmJ1GgewxT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiikawamarket.jp",
+                "end": 23,
+                "expanded_url": "http://chiikawamarket.jp",
+                "start": 0,
+                "url": "https://t.co/S4dOWkJucR"
+              }
+            ]
+          }
+        },
+        "id": "1334461395149094912",
+        "name": "ちいかわマーケット公式",
+        "pinned_tweet_id": "1805463492872605704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572805340596703234/LQCy_Q3Q_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432337,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 2757,
+          "tweet_count": 3561
+        },
+        "url": "https://t.co/S4dOWkJucR",
+        "username": "chiikawa_market",
+        "verified": true
+      }
+    ]
+  }
+}

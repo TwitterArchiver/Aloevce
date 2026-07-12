@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1981296588501725679",
+    "created_at": "2025-10-23T09:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T10:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981296588501725679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/hsn8086/status/1980796503578014096",
+          "start": 10,
+          "url": "https://t.co/WksLRxlAYp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981296588501725679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980796503578014096",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我有个前男友就这样 https://t.co/WksLRxlAYp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1980796494262239232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30z6rTXAAA-Gaf.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1981296588501725679",
+        "created_at": "2025-10-23T09:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T10:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981296588501725679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hsn8086/status/1980796503578014096",
+              "start": 10,
+              "url": "https://t.co/WksLRxlAYp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981296588501725679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980796503578014096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有个前男友就这样 https://t.co/WksLRxlAYp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980796494262239232"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980796503578014096",
+        "created_at": "2025-10-22T00:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T01:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980796503578014096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jqu13p8Ske",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1980796503578014096/photo/1",
+              "media_key": "3_1980796494262239232",
+              "start": 0,
+              "url": "https://t.co/jqu13p8Ske"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980796503578014096",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 336850,
+          "like_count": 1887,
+          "quote_count": 12,
+          "reply_count": 54,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jqu13p8Ske"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1978882171663221215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18638,
+          "following_count": 2401,
+          "like_count": 54825,
+          "listed_count": 24,
+          "media_count": 6285,
+          "tweet_count": 21951
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102521,
+          "following_count": 992,
+          "like_count": 45573,
+          "listed_count": 227,
+          "media_count": 16750,
+          "tweet_count": 24699
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

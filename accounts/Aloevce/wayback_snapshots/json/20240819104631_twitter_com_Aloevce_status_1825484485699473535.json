@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1825459441975656948",
+    "created_at": "2024-08-19T10:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T11:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825484485699473535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1544693277055520771",
+          "start": 0,
+          "username": "XBrokensakiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825484485699473535",
+    "in_reply_to_user_id": "1544693277055520771",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825459441975656948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XBrokensakiko 帅死了😻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1825459441975656948",
+        "created_at": "2024-08-19T10:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T11:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825484485699473535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1544693277055520771",
+              "start": 0,
+              "username": "XBrokensakiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825484485699473535",
+        "in_reply_to_user_id": "1544693277055520771",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825459441975656948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XBrokensakiko 帅死了😻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1825459411931811840"
+          ]
+        },
+        "author_id": "1544693277055520771",
+        "conversation_id": "1825459441975656948",
+        "created_at": "2024-08-19T09:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T10:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825459441975656948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/irdmvjydoe",
+              "end": 28,
+              "expanded_url": "https://twitter.com/XBrokensakiko/status/1825459441975656948/video/1",
+              "media_key": "7_1825459411931811840",
+              "start": 5,
+              "url": "https://t.co/irDmvJYDoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825459441975656948",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1190,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "炫耀耳洞 https://t.co/irDmvJYDoE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17906,
+          "following_count": 2237,
+          "like_count": 52557,
+          "listed_count": 22,
+          "tweet_count": 18428
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T14:42:43.000Z",
+        "description": "不知道第几季了！(o_0)",
+        "id": "1544693277055520771",
+        "location": "坟墓",
+        "name": "星星贴纸",
+        "pinned_tweet_id": "1779566202949386540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654098296846024704/5gUny8HA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17637,
+          "following_count": 10,
+          "like_count": 318,
+          "listed_count": 34,
+          "tweet_count": 89
+        },
+        "username": "XBrokensakiko",
+        "verified": false
+      }
+    ]
+  }
+}

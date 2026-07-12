@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2000477303894376633",
+    "created_at": "2025-12-15T08:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T09:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000477303894376633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cha_li_jin/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/cha_li_jin/status/2000072824338489819",
+          "start": 9,
+          "url": "https://t.co/UlcRZmCgVe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000477303894376633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000072824338489819",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的腰和胯一样粗 https://t.co/UlcRZmCgVe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2000477303894376633",
+        "created_at": "2025-12-15T08:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T09:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000477303894376633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cha_li_jin/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/cha_li_jin/status/2000072824338489819",
+              "start": 9,
+              "url": "https://t.co/UlcRZmCgVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000477303894376633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000072824338489819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的腰和胯一样粗 https://t.co/UlcRZmCgVe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668037836996771840",
+        "conversation_id": "2000072824338489819",
+        "created_at": "2025-12-14T05:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000072824338489819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000072824338489819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 583750,
+          "like_count": 829,
+          "quote_count": 7,
+          "reply_count": 64,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我今天才知道\n原来jk裙不是挂在胯上穿的是卡在腰上的🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18435,
+          "following_count": 2385,
+          "like_count": 54766,
+          "listed_count": 24,
+          "media_count": 6364,
+          "tweet_count": 22252
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "请允许我先挺一会尸......丨瑟瑟副号 @tashigan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "tashigan_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsaritsyn1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsaritsyn1",
+                "start": 0,
+                "url": "https://t.co/2Jeo14uWZ8"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "广州",
+        "name": "AAA星之果实批发零售察里津",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999098942404104192/ahZ3JTsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8165,
+          "following_count": 786,
+          "like_count": 12823,
+          "listed_count": 45,
+          "media_count": 286,
+          "tweet_count": 2384
+        },
+        "url": "https://t.co/2Jeo14uWZ8",
+        "username": "cha_li_jin",
+        "verified": false
+      }
+    ]
+  }
+}

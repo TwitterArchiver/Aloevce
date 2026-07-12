@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2060384063479767524",
+    "created_at": "2026-05-29T15:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060384063479767524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1747522737910988800",
+          "start": 3,
+          "username": "DongTao55458"
+        },
+        {
+          "end": 26,
+          "id": "1495662254544789506",
+          "start": 18,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060384063479767524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060374563914129713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DongTao55458: @Aloevce 如果听一百遍反方向的钟会不会回到丢失联名限定卡的前一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2060384063479767524",
+        "created_at": "2026-05-29T15:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060384063479767524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1747522737910988800",
+              "start": 3,
+              "username": "DongTao55458"
+            },
+            {
+              "end": 26,
+              "id": "1495662254544789506",
+              "start": 18,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060384063479767524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060374563914129713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DongTao55458: @Aloevce 如果听一百遍反方向的钟会不会回到丢失联名限定卡的前一天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747522737910988800",
+        "conversation_id": "2060343924628086814",
+        "created_at": "2026-05-29T14:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060374563914129713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060374563914129713",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060343924628086814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 如果听一百遍反方向的钟会不会回到丢失联名限定卡的前一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18179,
+          "following_count": 1974,
+          "like_count": 56229,
+          "listed_count": 24,
+          "media_count": 6749,
+          "tweet_count": 23786
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-17T07:34:32.000Z",
+        "description": "本纱手本来就是懒猪更新频率，13号上学后更没空更新了…补药取关我对不起喵",
+        "id": "1747522737910988800",
+        "name": "🎀异世界の纱手🎀",
+        "pinned_tweet_id": "1928887114344669270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921085841612341248/2Fo5w7Bz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3674,
+          "following_count": 883,
+          "like_count": 38573,
+          "listed_count": 14,
+          "media_count": 50,
+          "tweet_count": 1975
+        },
+        "username": "DongTao55458",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1788904676068667478",
+    "created_at": "2024-05-10T12:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T13:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1788904676068667478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ririca520/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Ririca520/status/1788900974683160670",
+          "start": 4,
+          "url": "https://t.co/ZKNfgrFZP3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788904676068667478",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788900974683160670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是 https://t.co/ZKNfgrFZP3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1788904676068667478",
+        "created_at": "2024-05-10T12:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T13:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788904676068667478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ririca520/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Ririca520/status/1788900974683160670",
+              "start": 4,
+              "url": "https://t.co/ZKNfgrFZP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788904676068667478",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788900974683160670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是 https://t.co/ZKNfgrFZP3"
+      },
+      {
+        "attachments": {},
+        "author_id": "1607922536133656577",
+        "conversation_id": "1788900974683160670",
+        "created_at": "2024-05-10T11:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T12:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788900974683160670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788900974683160670",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我14岁的时候认识的网友都18，好不容易我18了网上的人都变成14了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "评论罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12821,
+          "following_count": 2179,
+          "like_count": 51529,
+          "listed_count": 18,
+          "tweet_count": 17283
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T02:13:13.000Z",
+        "description": "傲娇且毒舌",
+        "id": "1607922536133656577",
+        "name": "姌",
+        "pinned_tweet_id": "1723879681668067340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787485678701252608/TwN0letI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4749,
+          "following_count": 550,
+          "like_count": 57360,
+          "listed_count": 13,
+          "tweet_count": 4436
+        },
+        "username": "Ririca520",
+        "verified": false
+      }
+    ]
+  }
+}

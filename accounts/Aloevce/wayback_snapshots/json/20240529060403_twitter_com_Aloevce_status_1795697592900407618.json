@@ -1,0 +1,147 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1795697304307150848"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1795697592900407618",
+    "created_at": "2024-05-29T06:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T07:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1795697592900407618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/2y5fg0WjdO",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Aloevce/status/1795697592900407618/video/1",
+          "media_key": "7_1795697304307150848",
+          "start": 5,
+          "url": "https://t.co/2y5fg0WjdO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795697592900407618",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天穿了 https://t.co/2y5fg0WjdO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1850,
+        "height": 1264,
+        "media_key": "7_1795697304307150848",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1795697304307150848/pu/img/tWlT_Bh2xdqcspjO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1795697304307150848/pu/vid/avc1/320x560/Rln8IMugD7OLysED.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1795697304307150848/pu/vid/avc1/480x842/D3HCVIXD8oPNoz14.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1795697304307150848/pu/vid/avc1/720x1264/iGJVXjlyQmJJ5P84.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1795697304307150848/pu/pl/MRctl1Xqr02R9gxs.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1795697304307150848"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1795697592900407618",
+        "created_at": "2024-05-29T06:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T07:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795697592900407618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/2y5fg0WjdO",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Aloevce/status/1795697592900407618/video/1",
+              "media_key": "7_1795697304307150848",
+              "start": 5,
+              "url": "https://t.co/2y5fg0WjdO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795697592900407618",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天穿了 https://t.co/2y5fg0WjdO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795447835732881408/Lypwm-n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12850,
+          "following_count": 2235,
+          "like_count": 52148,
+          "listed_count": 19,
+          "tweet_count": 17514
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045843980005658624"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2045843983415320685",
+    "created_at": "2026-04-19T12:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045843983415320685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JWtOuSyT21",
+          "end": 104,
+          "expanded_url": "https://x.com/Aloevce/status/2045843983415320685/photo/1",
+          "media_key": "3_2045843980005658624",
+          "start": 81,
+          "url": "https://t.co/JWtOuSyT21"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/Aloevce/status/2045696489050268077",
+          "start": 105,
+          "url": "https://t.co/GptbvkPVko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045843983415320685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045696489050268077",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三天的饭堆在一起还没吃，第一天对象哥点的粥放了两天还不知道能不能喝，第二天对象妈拿来的饭盒米饭菜和肉应该是还能吃，第三天对象爸又拿来了打包的火锅 扒拉了两口好辣 https://t.co/JWtOuSyT21 https://t.co/GptbvkPVko"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2045843980005658624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRMQq4b0AAcSqz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045843980005658624"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045843983415320685",
+        "created_at": "2026-04-19T12:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045843983415320685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JWtOuSyT21",
+              "end": 104,
+              "expanded_url": "https://x.com/Aloevce/status/2045843983415320685/photo/1",
+              "media_key": "3_2045843980005658624",
+              "start": 81,
+              "url": "https://t.co/JWtOuSyT21"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/Aloevce/status/2045696489050268077",
+              "start": 105,
+              "url": "https://t.co/GptbvkPVko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045843983415320685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045696489050268077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三天的饭堆在一起还没吃，第一天对象哥点的粥放了两天还不知道能不能喝，第二天对象妈拿来的饭盒米饭菜和肉应该是还能吃，第三天对象爸又拿来了打包的火锅 扒拉了两口好辣 https://t.co/JWtOuSyT21 https://t.co/GptbvkPVko"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2045696489050268077",
+        "created_at": "2026-04-19T02:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045696489050268077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045696489050268077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 487,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感冒了十天还没好是何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17853,
+          "following_count": 2305,
+          "like_count": 54468,
+          "listed_count": 21,
+          "media_count": 6591,
+          "tweet_count": 23021
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

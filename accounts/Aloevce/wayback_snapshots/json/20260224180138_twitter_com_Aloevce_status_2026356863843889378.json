@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2026356845900963840"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2026356863843889378",
+    "created_at": "2026-02-24T18:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T19:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026356863843889378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oagoxYWkIk",
+          "end": 46,
+          "expanded_url": "https://x.com/Aloevce/status/2026356863843889378/photo/1",
+          "media_key": "16_2026356845900963840",
+          "start": 23,
+          "url": "https://t.co/oagoxYWkIk"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/Aloevce/status/2026355913557184724",
+          "start": 47,
+          "url": "https://t.co/tmWQuqPqv6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026356863843889378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026355913557184724",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真好啊在天津玩腻了就回成都 成都玩腻了回天津 https://t.co/oagoxYWkIk https://t.co/tmWQuqPqv6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "16_2026356845900963840",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HB8Q0LQboAAgvny.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HB8Q0LQboAAgvny.mp4"
+          }
+        ],
+        "width": 400
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2026355911028256768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB8P9wlaMAAiSfw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2026356845900963840"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2026356863843889378",
+        "created_at": "2026-02-24T18:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T19:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026356863843889378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oagoxYWkIk",
+              "end": 46,
+              "expanded_url": "https://x.com/Aloevce/status/2026356863843889378/photo/1",
+              "media_key": "16_2026356845900963840",
+              "start": 23,
+              "url": "https://t.co/oagoxYWkIk"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/Aloevce/status/2026355913557184724",
+              "start": 47,
+              "url": "https://t.co/tmWQuqPqv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026356863843889378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026355913557184724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真好啊在天津玩腻了就回成都 成都玩腻了回天津 https://t.co/oagoxYWkIk https://t.co/tmWQuqPqv6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026355911028256768"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2026355913557184724",
+        "created_at": "2026-02-24T17:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026355913557184724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8yM3jLLul",
+              "end": 51,
+              "expanded_url": "https://x.com/Aloevce/status/2026355913557184724/photo/1",
+              "media_key": "3_2026355911028256768",
+              "start": 28,
+              "url": "https://t.co/T8yM3jLLul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026355913557184724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天办护照➕吃海鲜饭➕逛商场 高兴得睡不着啊啊啊啊啊啊 https://t.co/T8yM3jLLul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18395,
+          "following_count": 2287,
+          "like_count": 55005,
+          "listed_count": 22,
+          "media_count": 6506,
+          "tweet_count": 22678
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

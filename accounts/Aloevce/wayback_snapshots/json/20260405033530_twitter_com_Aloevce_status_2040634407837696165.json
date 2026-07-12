@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2040634407837696165",
+    "created_at": "2026-04-05T03:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T04:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040634407837696165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/May_orangeto/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/May_orangeto/status/2040353685914730640",
+          "start": 3,
+          "url": "https://t.co/wHqIsebUfb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040634407837696165",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040353685914730640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持 https://t.co/wHqIsebUfb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_2039667305114918912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5am31aYAALpg1.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2040634407837696165",
+        "created_at": "2026-04-05T03:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T04:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040634407837696165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/May_orangeto/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/May_orangeto/status/2040353685914730640",
+              "start": 3,
+              "url": "https://t.co/wHqIsebUfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040634407837696165",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040353685914730640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持 https://t.co/wHqIsebUfb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039667305114918912"
+          ]
+        },
+        "author_id": "1248423343054675975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "2040353685914730640",
+        "created_at": "2026-04-04T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040353685914730640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 107,
+              "tag": "ぽこあポケモン"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "ぽこポケ"
+            },
+            {
+              "end": 137,
+              "start": 122,
+              "tag": "PokémonPokopia"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/pvPQIg1AWOE",
+              "end": 84,
+              "expanded_url": "https://youtu.be/pvPQIg1AWOE",
+              "start": 61,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=pvPQIg1AWOE&feature=youtu.be",
+              "url": "https://t.co/iqkQXghHKp"
+            },
+            {
+              "display_url": "pic.x.com/q6kSVLR6Z2",
+              "end": 161,
+              "expanded_url": "https://x.com/May_orangeto/status/2040353685914730640/photo/1",
+              "media_key": "3_2039667305114918912",
+              "start": 138,
+              "url": "https://t.co/q6kSVLR6Z2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040353685914730640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 865,
+          "impression_count": 41501,
+          "like_count": 2019,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "船のある港町に一階がカフェとビストロ、二階が宿泊施設の建物を2軒建築しました！今回はちゃんと住める場所も作っています🥰\n\nhttps://t.co/iqkQXghHKp\n\n作り方や解説などはYoutubeへ～！\n\n#ぽこあポケモン #ぽこポケ #PokémonPokopia https://t.co/q6kSVLR6Z2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18069,
+          "following_count": 2304,
+          "like_count": 53959,
+          "listed_count": 22,
+          "media_count": 6558,
+          "tweet_count": 22784
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T01:31:48.000Z",
+        "description": "YouTubeチャンネル登録者数15万人目指して頑張ってます🥰\nマイデザまとめ ▶︎ https://t.co/4CHAJiX4bA\nMA-3388-7483-7826、\nMA-3905-0431-6695、MA-1157-2762-7145、\n無断転載禁止⚠Do not reprint",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/mayorangeto",
+                "end": 66,
+                "expanded_url": "http://lit.link/mayorangeto",
+                "start": 43,
+                "url": "https://t.co/4CHAJiX4bA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@May_orangeto",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@May_orangeto",
+                "start": 0,
+                "url": "https://t.co/mynDgPe4dD"
+              }
+            ]
+          }
+        },
+        "id": "1248423343054675975",
+        "location": "オランジェ島　ブラック・厶島　シトロン島",
+        "name": "𝙼𝚊𝚢(めい)@オランジェ島",
+        "pinned_tweet_id": "1898297650711285807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1461585548339220481/ohIZngcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21558,
+          "following_count": 260,
+          "like_count": 11063,
+          "listed_count": 198,
+          "media_count": 1079,
+          "tweet_count": 6952
+        },
+        "url": "https://t.co/mynDgPe4dD",
+        "username": "May_orangeto",
+        "verified": false
+      }
+    ]
+  }
+}

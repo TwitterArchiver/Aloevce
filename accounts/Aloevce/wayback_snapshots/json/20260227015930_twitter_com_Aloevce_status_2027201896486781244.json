@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2027201896486781244",
+    "created_at": "2026-02-27T01:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T02:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027201896486781244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kallen0720/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Kallen0720/status/2026738502046507205",
+          "start": 18,
+          "url": "https://t.co/i3JHuaNOPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027201896486781244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026738502046507205",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然发现和对象哥谈了一年半就结婚了 https://t.co/i3JHuaNOPP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2027201896486781244",
+        "created_at": "2026-02-27T01:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027201896486781244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kallen0720/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Kallen0720/status/2026738502046507205",
+              "start": 18,
+              "url": "https://t.co/i3JHuaNOPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027201896486781244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026738502046507205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然发现和对象哥谈了一年半就结婚了 https://t.co/i3JHuaNOPP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984971479210229760",
+        "conversation_id": "2026738502046507205",
+        "created_at": "2026-02-25T19:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T20:17:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026738380130652173",
+          "2026738502046507205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026738502046507205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 566255,
+          "like_count": 1251,
+          "quote_count": 17,
+          "reply_count": 219,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "你们谈恋爱三四个月就上床的其实也挺牛逼的\n\n贬义 挺傻逼的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18390,
+          "following_count": 2288,
+          "like_count": 54571,
+          "listed_count": 22,
+          "media_count": 6507,
+          "tweet_count": 22672
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:11:14.000Z",
+        "description": "✞鏡よ鏡 正直割れたいか? ✞ * 重音テト擁護同盟",
+        "id": "1984971479210229760",
+        "location": "Earth",
+        "name": "ァмē寔初喑鮇麳Оㄩ#AXIS",
+        "pinned_tweet_id": "2026469791704158297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017319965242589184/njqFGk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 417,
+          "like_count": 28088,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 8628
+        },
+        "username": "Kallen0720",
+        "verified": false
+      }
+    ]
+  }
+}

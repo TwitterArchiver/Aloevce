@@ -1,0 +1,148 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1806575697021775872"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1806575842018853038",
+    "created_at": "2024-06-28T06:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T07:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806575842018853038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/rtWS9wUsu1",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Aloevce/status/1806575842018853038/video/1",
+          "media_key": "7_1806575697021775872",
+          "start": 12,
+          "url": "https://t.co/rtWS9wUsu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806575842018853038",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还是活在自己的世界吧 https://t.co/rtWS9wUsu1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15026,
+        "height": 1280,
+        "media_key": "7_1806575697021775872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1806575697021775872/pu/img/MxWkhxy1lKQU2Ifd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806575697021775872/pu/vid/avc1/320x568/K1JEMOmNHIOScKv3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806575697021775872/pu/vid/avc1/480x852/56mvFQq19i5cMtSo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806575697021775872/pu/vid/avc1/720x1280/QpgZWuLYvkFKu23n.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1806575697021775872/pu/pl/i0VJ9MO5BIRN4QKA.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1806575697021775872"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1806575842018853038",
+        "created_at": "2024-06-28T06:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T07:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806575842018853038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rtWS9wUsu1",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Aloevce/status/1806575842018853038/video/1",
+              "media_key": "7_1806575697021775872",
+              "start": 12,
+              "url": "https://t.co/rtWS9wUsu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806575842018853038",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是活在自己的世界吧 https://t.co/rtWS9wUsu1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14055,
+          "following_count": 2211,
+          "like_count": 51885,
+          "listed_count": 18,
+          "tweet_count": 17802
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

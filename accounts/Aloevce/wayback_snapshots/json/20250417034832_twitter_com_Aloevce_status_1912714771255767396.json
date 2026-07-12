@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912714765454958592"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1912714771255767396",
+    "created_at": "2025-04-17T03:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T04:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912714771255767396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oNsyN7PfQP",
+          "end": 36,
+          "expanded_url": "https://x.com/Aloevce/status/1912714771255767396/photo/1",
+          "media_key": "3_1912714765454958592",
+          "start": 13,
+          "url": "https://t.co/oNsyN7PfQP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912714771255767396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在宠物店看到一只银缅因😺 https://t.co/oNsyN7PfQP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912714765454958592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GotT8feWYAAty3I.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912714765454958592"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1912714771255767396",
+        "created_at": "2025-04-17T03:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T04:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912714771255767396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oNsyN7PfQP",
+              "end": 36,
+              "expanded_url": "https://x.com/Aloevce/status/1912714771255767396/photo/1",
+              "media_key": "3_1912714765454958592",
+              "start": 13,
+              "url": "https://t.co/oNsyN7PfQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912714771255767396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在宠物店看到一只银缅因😺 https://t.co/oNsyN7PfQP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17579,
+          "following_count": 2378,
+          "like_count": 54409,
+          "listed_count": 19,
+          "media_count": 5948,
+          "tweet_count": 20953
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

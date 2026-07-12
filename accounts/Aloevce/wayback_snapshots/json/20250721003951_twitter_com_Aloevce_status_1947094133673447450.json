@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1947086666222436440",
+    "created_at": "2025-07-21T00:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T01:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947094133673447450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1686873664585957377",
+          "start": 0,
+          "username": "yuanyi1742"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947094133673447450",
+    "in_reply_to_user_id": "1686873664585957377",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947089995904487679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyi1742 普瑞巴林"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1947086666222436440",
+        "created_at": "2025-07-21T00:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T01:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947094133673447450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686873664585957377",
+              "start": 0,
+              "username": "yuanyi1742"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947094133673447450",
+        "in_reply_to_user_id": "1686873664585957377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947089995904487679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyi1742 普瑞巴林"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686873664585957377",
+        "conversation_id": "1947086666222436440",
+        "created_at": "2025-07-21T00:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T01:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947089995904487679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947089995904487679",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947086666222436440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce pr是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "伪人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1942344432830873884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19125,
+          "following_count": 2442,
+          "like_count": 55707,
+          "listed_count": 21,
+          "media_count": 6174,
+          "tweet_count": 21612
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T22:56:48.000Z",
+        "description": "",
+        "id": "1686873664585957377",
+        "location": "长沙",
+        "name": "园艺师打火机",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 264,
+          "like_count": 2242,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 164
+        },
+        "username": "yuanyi1742",
+        "verified": false
+      }
+    ]
+  }
+}

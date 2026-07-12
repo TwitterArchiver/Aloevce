@@ -1,0 +1,592 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2034897694141882395",
+    "created_at": "2026-03-20T07:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T08:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034897694141882395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/May_orangeto/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/May_orangeto/status/2032743541651210571",
+          "start": 3,
+          "url": "https://t.co/dRTqhVKod0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034897694141882395",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032743541651210571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我抄 https://t.co/dRTqhVKod0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_2032733891862347776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDW4tGtaQAA_XpQ.jpg",
+        "width": 2560
+      },
+      {
+        "height": 2880,
+        "media_key": "3_2032733891849760769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDW4tGqaMAEkphG.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2034897694141882395",
+        "created_at": "2026-03-20T07:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T08:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034897694141882395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/May_orangeto/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/May_orangeto/status/2032743541651210571",
+              "start": 3,
+              "url": "https://t.co/dRTqhVKod0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034897694141882395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032743541651210571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我抄 https://t.co/dRTqhVKod0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032733891862347776",
+            "3_2032733891849760769"
+          ]
+        },
+        "author_id": "1248423343054675975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2032743541651210571",
+        "created_at": "2026-03-14T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032743541651210571"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 109,
+              "tag": "ぽこポケ"
+            },
+            {
+              "end": 123,
+              "start": 115,
+              "tag": "ぽこあポケモン"
+            },
+            {
+              "end": 132,
+              "start": 124,
+              "tag": "pokopia"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/XIIJcsjP2DI",
+              "end": 57,
+              "expanded_url": "https://youtu.be/XIIJcsjP2DI",
+              "start": 34,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=XIIJcsjP2DI&feature=youtu.be",
+              "url": "https://t.co/Ejz8VcOXCn"
+            },
+            {
+              "display_url": "pic.x.com/aS8uzDX36j",
+              "end": 156,
+              "expanded_url": "https://x.com/May_orangeto/status/2032743541651210571/photo/1",
+              "media_key": "3_2032733891862347776",
+              "start": 133,
+              "url": "https://t.co/aS8uzDX36j"
+            },
+            {
+              "display_url": "pic.x.com/aS8uzDX36j",
+              "end": 156,
+              "expanded_url": "https://x.com/May_orangeto/status/2032743541651210571/photo/1",
+              "media_key": "3_2032733891849760769",
+              "start": 133,
+              "url": "https://t.co/aS8uzDX36j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032743541651210571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21684,
+          "impression_count": 2762935,
+          "like_count": 52700,
+          "quote_count": 1165,
+          "reply_count": 68,
+          "retweet_count": 5855
+        },
+        "reply_settings": "everyone",
+        "text": "ドンヨリうみべの街にカラフルな商店街を作った動画を投稿しました！\n\nhttps://t.co/Ejz8VcOXCn\n\nポケモンたちが商品を実際に売ってくれるよ～！！2枚目果物屋さんのサーナイト、タブンネの花屋さん🌸\n\n#ぽこポケ #ぽこあポケモン #pokopia https://t.co/aS8uzDX36j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18265,
+          "following_count": 2301,
+          "like_count": 54703,
+          "listed_count": 22,
+          "media_count": 6543,
+          "tweet_count": 22809
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T01:31:48.000Z",
+        "description": "YouTubeチャンネル登録者数15万人目指して頑張ってます🥰\nマイデザまとめ ▶︎ https://t.co/4CHAJiX4bA\nMA-3388-7483-7826、\nMA-3905-0431-6695、MA-1157-2762-7145、\n無断転載禁止⚠Do not reprint",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/mayorangeto",
+                "end": 66,
+                "expanded_url": "http://lit.link/mayorangeto",
+                "start": 43,
+                "url": "https://t.co/4CHAJiX4bA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@May_orangeto",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@May_orangeto",
+                "start": 0,
+                "url": "https://t.co/mynDgPe4dD"
+              }
+            ]
+          }
+        },
+        "id": "1248423343054675975",
+        "location": "オランジェ島　ブラック・厶島　シトロン島",
+        "name": "𝙼𝚊𝚢(めい)@オランジェ島",
+        "pinned_tweet_id": "1898297650711285807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1461585548339220481/ohIZngcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20842,
+          "following_count": 260,
+          "like_count": 11024,
+          "listed_count": 193,
+          "media_count": 1075,
+          "tweet_count": 6935
+        },
+        "url": "https://t.co/mynDgPe4dD",
+        "username": "May_orangeto",
+        "verified": false
+      }
+    ]
+  }
+}

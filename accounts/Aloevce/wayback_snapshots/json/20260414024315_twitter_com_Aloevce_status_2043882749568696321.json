@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2043882749568696321",
+    "created_at": "2026-04-14T02:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043882749568696321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shuiwuyou66/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/shuiwuyou66/status/2043814023041560828",
+          "start": 5,
+          "url": "https://t.co/NMGrJbIly2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043882749568696321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043814023041560828",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也这样 https://t.co/NMGrJbIly2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2043882749568696321",
+        "created_at": "2026-04-14T02:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043882749568696321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuiwuyou66/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/shuiwuyou66/status/2043814023041560828",
+              "start": 5,
+              "url": "https://t.co/NMGrJbIly2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043882749568696321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043814023041560828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也这样 https://t.co/NMGrJbIly2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945208841244979200",
+        "conversation_id": "2043814023041560828",
+        "created_at": "2026-04-13T22:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T23:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043814023041560828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043814023041560828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从小就觉醒了恋物癖😂在我很小时候妈妈就去外地了基本一两年回来一次 那时候我还特别小 根本不能一个人照顾好自己 我晚上害怕想哭时候 被砸门的时候就只能抱着妈妈睡过的枕头闻她头发的香味入眠..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17804,
+          "following_count": 2294,
+          "like_count": 54351,
+          "listed_count": 21,
+          "media_count": 6577,
+          "tweet_count": 22955
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T19:48:34.000Z",
+        "description": "内心丰盈者独行也如众\n互fo会查成分 喜欢碎碎念",
+        "id": "1945208841244979200",
+        "name": "放弃思考吧",
+        "pinned_tweet_id": "1996984420000047389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043784161333522432/irniI-qd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 46,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 631,
+          "tweet_count": 1425
+        },
+        "username": "shuiwuyou66",
+        "verified": false
+      }
+    ]
+  }
+}

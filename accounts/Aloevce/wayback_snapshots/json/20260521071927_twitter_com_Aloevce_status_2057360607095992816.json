@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2057360607095992816",
+    "created_at": "2026-05-21T07:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057360607095992816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rkmn696969/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/rkmn696969/status/2052326114144727324",
+          "start": 35,
+          "url": "https://t.co/GBkBVHkLJr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057360607095992816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052326114144727324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自从刷到这个人我就对飞腿郎产生一种别样的情愫。。。。。。。腿酱卡哇伊 https://t.co/GBkBVHkLJr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2253,
+        "media_key": "3_2052326110999015425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtTuWla8AE4gdQ.jpg",
+        "width": 2253
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2057360607095992816",
+        "created_at": "2026-05-21T07:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057360607095992816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rkmn696969/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/rkmn696969/status/2052326114144727324",
+              "start": 35,
+              "url": "https://t.co/GBkBVHkLJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057360607095992816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052326114144727324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自从刷到这个人我就对飞腿郎产生一种别样的情愫。。。。。。。腿酱卡哇伊 https://t.co/GBkBVHkLJr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052326110999015425"
+          ]
+        },
+        "author_id": "1417070361414234113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Sunglasses",
+              "id": "846448721269219328",
+              "name": "Sunglasses"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sunglasses",
+              "id": "846448721269219328",
+              "name": "Sunglasses"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Sunglasses",
+              "id": "846448721269219328",
+              "name": "Sunglasses"
+            }
+          }
+        ],
+        "conversation_id": "2052326114144727324",
+        "created_at": "2026-05-07T09:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052326114144727324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6IXxNMTJZM",
+              "end": 52,
+              "expanded_url": "https://x.com/rkmn696969/status/2052326114144727324/photo/1",
+              "media_key": "3_2052326110999015425",
+              "start": 29,
+              "url": "https://t.co/6IXxNMTJZM"
+            },
+            {
+              "display_url": "x.com/momosis1223/st…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/momosis1223/status/2052299444633337979",
+              "start": 53,
+              "url": "https://t.co/390KG7iDbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052326114144727324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3597,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052299444633337979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "さわちゃんがトノちゃんとお揃いできて喜んでるみたいです👣 https://t.co/6IXxNMTJZM https://t.co/390KG7iDbm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18225,
+          "following_count": 1976,
+          "like_count": 56027,
+          "listed_count": 24,
+          "media_count": 6715,
+          "tweet_count": 23649
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T10:34:51.000Z",
+        "description": "ポケモンのサワムラー様が一番好き🫶💓🎀👣アチャモ🐤とミミロル🐰とバケチャ🎃も好きだよ✌サワムラー狂人👣👣",
+        "id": "1417070361414234113",
+        "name": "たかのりとサワムラー👣",
+        "pinned_tweet_id": "2028819703649681809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045064178617176064/ti7c8jxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 108,
+          "like_count": 16403,
+          "listed_count": 15,
+          "media_count": 368,
+          "tweet_count": 1337
+        },
+        "username": "rkmn696969",
+        "verified": false
+      }
+    ]
+  }
+}

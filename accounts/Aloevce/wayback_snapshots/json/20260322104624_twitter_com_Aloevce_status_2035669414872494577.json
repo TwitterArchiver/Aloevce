@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      }
+    ],
+    "conversation_id": "2035669414872494577",
+    "created_at": "2026-03-22T10:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T11:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035669414872494577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oimo_shiomusub…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/oimo_shiomusubi/status/2035288314853663185",
+          "start": 3,
+          "url": "https://t.co/7kdzO0SEq5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035669414872494577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035288314853663185",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学习 https://t.co/7kdzO0SEq5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035288309912768512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7L7zfbEAAmRbK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035288309912723456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7L7zfaYAAUJ5k.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2035669414872494577",
+        "created_at": "2026-03-22T10:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T11:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035669414872494577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oimo_shiomusub…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/oimo_shiomusubi/status/2035288314853663185",
+              "start": 3,
+              "url": "https://t.co/7kdzO0SEq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035669414872494577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035288314853663185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学习 https://t.co/7kdzO0SEq5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035288309912768512",
+            "3_2035288309912723456"
+          ]
+        },
+        "author_id": "1410234975220232192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2035288314853663185",
+        "created_at": "2026-03-21T09:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035288314853663185"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "ぽこあポケモン"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "ぽこポケ"
+            },
+            {
+              "end": 62,
+              "start": 47,
+              "tag": "PokemonPokopia"
+            },
+            {
+              "end": 72,
+              "start": 64,
+              "tag": "Pokopia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/StkZsrlZgS",
+              "end": 96,
+              "expanded_url": "https://x.com/oimo_shiomusubi/status/2035288314853663185/photo/1",
+              "media_key": "3_2035288309912768512",
+              "start": 73,
+              "url": "https://t.co/StkZsrlZgS"
+            },
+            {
+              "display_url": "pic.x.com/StkZsrlZgS",
+              "end": 96,
+              "expanded_url": "https://x.com/oimo_shiomusubi/status/2035288314853663185/photo/1",
+              "media_key": "3_2035288309912723456",
+              "start": 73,
+              "url": "https://t.co/StkZsrlZgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035288314853663185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2187,
+          "impression_count": 118150,
+          "like_count": 4642,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 253
+        },
+        "reply_settings": "everyone",
+        "text": "パサパサこうやの街の海辺にジュース屋さんが出来ました🍹\n\n #ぽこあポケモン  #ぽこポケ  #PokemonPokopia  #Pokopia https://t.co/StkZsrlZgS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18230,
+          "following_count": 2299,
+          "like_count": 54690,
+          "listed_count": 22,
+          "media_count": 6544,
+          "tweet_count": 22809
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-30T13:54:34.000Z",
+        "description": "ゲームが好きです🌿┋Instagram : yakiimo_shiomusubi┋イラストのAI学習･転載･利用禁止Unauthorized reproduction and Al learning are prohibited",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEBjr…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCEBjr78jo7_qRntNMHAGSFQ",
+                "start": 0,
+                "url": "https://t.co/TqRm7C5zET"
+              }
+            ]
+          }
+        },
+        "id": "1410234975220232192",
+        "name": "やきいもʸᵃᵏⁱⁱᵐᵒ",
+        "pinned_tweet_id": "2009209122789667161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011269414935752704/ELBwJFpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 32,
+          "like_count": 1475,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/TqRm7C5zET",
+        "username": "oimo_shiomusubi",
+        "verified": false
+      }
+    ]
+  }
+}

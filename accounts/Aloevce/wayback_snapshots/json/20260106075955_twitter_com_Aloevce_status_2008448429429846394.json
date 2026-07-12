@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2008448429429846394",
+    "created_at": "2026-01-06T07:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T08:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008448429429846394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/didengshengwu/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/didengshengwu/status/2008049189868196079",
+          "start": 2,
+          "url": "https://t.co/lbKnLXvyUP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008448429429846394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008049189868196079",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/lbKnLXvyUP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 788,
+        "media_key": "3_2008049170150764544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94GFMZasAAMhHm.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2008448429429846394",
+        "created_at": "2026-01-06T07:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T08:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008448429429846394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/didengshengwu/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/didengshengwu/status/2008049189868196079",
+              "start": 2,
+              "url": "https://t.co/lbKnLXvyUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008448429429846394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008049189868196079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/lbKnLXvyUP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008049170150764544"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "conversation_id": "2008049189868196079",
+        "created_at": "2026-01-05T05:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T06:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008049189868196079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/86Mo35SeWn",
+              "end": 53,
+              "expanded_url": "https://x.com/didengshengwu/status/2008049189868196079/photo/1",
+              "media_key": "3_2008049170150764544",
+              "start": 30,
+              "url": "https://t.co/86Mo35SeWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008049189868196079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 74317,
+          "like_count": 1141,
+          "quote_count": 8,
+          "reply_count": 75,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈\n\n我现在玩游戏只玩老游戏 \n\n懒得动脑去学习思考了 https://t.co/86Mo35SeWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18606,
+          "following_count": 2306,
+          "like_count": 55457,
+          "listed_count": 23,
+          "media_count": 6456,
+          "tweet_count": 22543
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186475,
+          "following_count": 1285,
+          "like_count": 3243,
+          "listed_count": 716,
+          "media_count": 3321,
+          "tweet_count": 6250
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

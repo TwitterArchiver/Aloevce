@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1883909525587304957",
+    "created_at": "2025-01-27T16:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T17:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883909525587304957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Aloevce/status/1883907677572784474",
+          "start": 8,
+          "url": "https://t.co/I6zCYfJYBz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883909525587304957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883907677572784474",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想跟你做爱。 https://t.co/I6zCYfJYBz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1883909525587304957",
+        "created_at": "2025-01-27T16:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T17:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883909525587304957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Aloevce/status/1883907677572784474",
+              "start": 8,
+              "url": "https://t.co/I6zCYfJYBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883909525587304957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883907677572784474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想跟你做爱。 https://t.co/I6zCYfJYBz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1883907677572784474",
+        "created_at": "2025-01-27T15:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T16:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883907677572784474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883907677572784474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一次我化了妆喝酒去了（因为一周多没卓了想勾引他卓 喝完了回家就想跟对象哥卓艾，他摆弄了一小时死活不举，气得我哭了给他唧唧一拳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1881182504969015531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17782,
+          "following_count": 2382,
+          "like_count": 54431,
+          "listed_count": 20,
+          "media_count": 5708,
+          "tweet_count": 20358
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

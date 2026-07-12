@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1857517577439744185",
+    "created_at": "2024-11-15T20:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T21:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857517577439744185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/momona0404/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/momona0404/status/1857411156597469670",
+          "start": 17,
+          "url": "https://t.co/tUbSj5TEMY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857517577439744185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857411156597469670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们导员开班会说郫县艾滋病率最高 https://t.co/tUbSj5TEMY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1857517577439744185",
+        "created_at": "2024-11-15T20:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T21:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857517577439744185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momona0404/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/momona0404/status/1857411156597469670",
+              "start": 17,
+              "url": "https://t.co/tUbSj5TEMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857517577439744185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857411156597469670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们导员开班会说郫县艾滋病率最高 https://t.co/tUbSj5TEMY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857411152537669632"
+          ]
+        },
+        "author_id": "1734848244818300928",
+        "conversation_id": "1857411156597469670",
+        "created_at": "2024-11-15T13:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T14:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857411156597469670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKSu5PZzN1",
+              "end": 39,
+              "expanded_url": "https://x.com/momona0404/status/1857411156597469670/photo/1",
+              "media_key": "3_1857411152537669632",
+              "start": 16,
+              "url": "https://t.co/gKSu5PZzN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857411156597469670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3459,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我日你妈气得我都不知道说啥了😂 https://t.co/gKSu5PZzN1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17563,
+          "following_count": 2288,
+          "like_count": 53366,
+          "listed_count": 21,
+          "tweet_count": 19372
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T08:10:41.000Z",
+        "description": "🚪52（好友位/陪聊）🚪88（纯绿爸爸活） 赞赏码或者口令红包\n不过门别来烦好吗？求包养😔",
+        "id": "1734848244818300928",
+        "location": "你妈逼里",
+        "name": "晓山桃奈",
+        "pinned_tweet_id": "1816897563615973592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837019159219367936/z57pvUeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 339,
+          "like_count": 13409,
+          "listed_count": 1,
+          "tweet_count": 2604
+        },
+        "username": "momona0404",
+        "verified": false
+      }
+    ]
+  }
+}

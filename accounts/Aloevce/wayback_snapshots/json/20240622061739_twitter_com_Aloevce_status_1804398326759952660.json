@@ -1,0 +1,148 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1804398147503898624"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1804398326759952660",
+    "created_at": "2024-06-22T06:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T07:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1804398326759952660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/LI4OPXCLJi",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Aloevce/status/1804398326759952660/video/1",
+          "media_key": "7_1804398147503898624",
+          "start": 14,
+          "url": "https://t.co/LI4OPXCLJi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804398326759952660",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个喷不了，这个是春雨女大 https://t.co/LI4OPXCLJi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14133,
+        "height": 1280,
+        "media_key": "7_1804398147503898624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1804398147503898624/pu/img/Q8K0ghDdn4SCk-1N.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804398147503898624/pu/vid/avc1/320x568/k12uk-Jjghk33dJR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804398147503898624/pu/vid/avc1/480x852/XjFvT8rvQtYY-DtH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804398147503898624/pu/vid/avc1/720x1280/rHyLQxMu71PSJtsc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1804398147503898624/pu/pl/ML27SLk_lgKEfWnL.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1804398147503898624"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1804398326759952660",
+        "created_at": "2024-06-22T06:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T07:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804398326759952660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/LI4OPXCLJi",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Aloevce/status/1804398326759952660/video/1",
+              "media_key": "7_1804398147503898624",
+              "start": 14,
+              "url": "https://t.co/LI4OPXCLJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804398326759952660",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个喷不了，这个是春雨女大 https://t.co/LI4OPXCLJi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795447835732881408/Lypwm-n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13200,
+          "following_count": 2217,
+          "like_count": 51897,
+          "listed_count": 17,
+          "tweet_count": 17745
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

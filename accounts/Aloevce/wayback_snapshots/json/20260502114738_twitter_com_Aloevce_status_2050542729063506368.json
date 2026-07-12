@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2050542694167171072"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2050542729063506368",
+    "created_at": "2026-05-02T11:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050542729063506368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TJoAvLO4Qe",
+          "end": 26,
+          "expanded_url": "https://x.com/Aloevce/status/2050542729063506368/video/1",
+          "media_key": "7_2050542694167171072",
+          "start": 3,
+          "url": "https://t.co/TJoAvLO4Qe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050542729063506368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "巴士 https://t.co/TJoAvLO4Qe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3541,
+        "height": 1280,
+        "media_key": "7_2050542694167171072",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050542694167171072/pu/img/h-Fx4HwmOyupx0iO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050542694167171072/pu/vid/avc1/320x568/FCqUZL3qZ2Cn0SGb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050542694167171072/pu/vid/avc1/480x852/VfiX5d3KWBQLD-tJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050542694167171072/pu/vid/avc1/720x1280/-bjYYW9BcA5cRJsb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050542694167171072/pu/pl/6WdKU-VAtS61Gu2w.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050542694167171072"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2050542729063506368",
+        "created_at": "2026-05-02T11:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050542729063506368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJoAvLO4Qe",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/2050542729063506368/video/1",
+              "media_key": "7_2050542694167171072",
+              "start": 3,
+              "url": "https://t.co/TJoAvLO4Qe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050542729063506368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "巴士 https://t.co/TJoAvLO4Qe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18190,
+          "following_count": 1964,
+          "like_count": 55152,
+          "listed_count": 24,
+          "media_count": 6622,
+          "tweet_count": 23206
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

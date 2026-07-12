@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2047282061460087083",
+    "created_at": "2026-04-23T11:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047282061460087083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/Aloevce/status/2047280427531182410",
+          "start": 45,
+          "url": "https://t.co/ABnnAX3l2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047282061460087083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047280427531182410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为我之前一直和妈妈睡🙀旁边有人有温度会睡得更香。实在不习惯一个人睡觉（现在回老家也是。 https://t.co/ABnnAX3l2P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2047282061460087083",
+        "created_at": "2026-04-23T11:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047282061460087083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Aloevce/status/2047280427531182410",
+              "start": 45,
+              "url": "https://t.co/ABnnAX3l2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047282061460087083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047280427531182410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为我之前一直和妈妈睡🙀旁边有人有温度会睡得更香。实在不习惯一个人睡觉（现在回老家也是。 https://t.co/ABnnAX3l2P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2047280427531182410",
+        "created_at": "2026-04-23T11:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047280427531182410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2046881711594836390",
+              "start": 18,
+              "url": "https://t.co/GYWq0n3oPn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047280427531182410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046881711594836390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已和老公哥每天抱在一起睡两年之久。 https://t.co/GYWq0n3oPn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17845,
+          "following_count": 2336,
+          "like_count": 54498,
+          "listed_count": 21,
+          "media_count": 6599,
+          "tweet_count": 23100
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

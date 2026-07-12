@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1970528806248079699",
+    "created_at": "2025-09-23T16:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T17:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970528806248079699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Aloevce/status/1960253367793701277",
+          "start": 5,
+          "url": "https://t.co/ArYYGK8uab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970528806248079699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960253367793701277",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "罪魁祸首 https://t.co/ArYYGK8uab"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1970528806248079699",
+        "created_at": "2025-09-23T16:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T17:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970528806248079699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Aloevce/status/1960253367793701277",
+              "start": 5,
+              "url": "https://t.co/ArYYGK8uab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970528806248079699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960253367793701277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "罪魁祸首 https://t.co/ArYYGK8uab"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1960253367793701277",
+        "created_at": "2025-08-26T08:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960253367793701277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960253367793701277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7521,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前天被内设了开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18899,
+          "following_count": 2395,
+          "like_count": 55231,
+          "listed_count": 24,
+          "media_count": 6247,
+          "tweet_count": 21799
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

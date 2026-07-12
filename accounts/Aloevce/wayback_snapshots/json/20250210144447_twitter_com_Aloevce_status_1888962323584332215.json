@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1888962323584332215",
+    "created_at": "2025-02-10T14:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T15:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888962323584332215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kirakira4th/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/kirakira4th/status/1888919321117962435",
+          "start": 11,
+          "url": "https://t.co/nIqCN1LWDJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888962323584332215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888919321117962435",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是怎么有万fo的？ https://t.co/nIqCN1LWDJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1888962323584332215",
+        "created_at": "2025-02-10T14:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T15:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888962323584332215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kirakira4th/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/kirakira4th/status/1888919321117962435",
+              "start": 11,
+              "url": "https://t.co/nIqCN1LWDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888962323584332215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888919321117962435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是怎么有万fo的？ https://t.co/nIqCN1LWDJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1888919321117962435",
+        "created_at": "2025-02-10T11:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T12:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888919321117962435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guicai198965/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/guicai198965/status/1888603790711935324",
+              "start": 11,
+              "url": "https://t.co/PKy1KLnzlu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888919321117962435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1816,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888603790711935324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是怎么有万fo的？ https://t.co/PKy1KLnzlu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17795,
+          "following_count": 2424,
+          "like_count": 54749,
+          "listed_count": 20,
+          "media_count": 5801,
+          "tweet_count": 20654
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "写在风中的信",
+        "id": "1666599054917218305",
+        "name": "消失的井盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887105923350740992/OvB7kwga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11876,
+          "following_count": 2524,
+          "like_count": 45053,
+          "listed_count": 16,
+          "media_count": 275,
+          "tweet_count": 12213
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

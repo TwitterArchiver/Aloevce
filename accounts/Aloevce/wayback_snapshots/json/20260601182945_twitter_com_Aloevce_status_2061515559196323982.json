@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2061515559196323982",
+    "created_at": "2026-06-01T18:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T19:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061515559196323982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SaikiiiiKusuoo…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/SaikiiiiKusuooo/status/2061381059674341472",
+          "start": 2,
+          "url": "https://t.co/EvDTEjSfZa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061515559196323982",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061381059674341472",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/EvDTEjSfZa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2061515559196323982",
+        "created_at": "2026-06-01T18:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061515559196323982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SaikiiiiKusuoo…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/SaikiiiiKusuooo/status/2061381059674341472",
+              "start": 2,
+              "url": "https://t.co/EvDTEjSfZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061515559196323982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061381059674341472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/EvDTEjSfZa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803762329169080320",
+        "conversation_id": "2061381059674341472",
+        "created_at": "2026-06-01T09:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061381059674341472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061381059674341472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 60809,
+          "like_count": 775,
+          "quote_count": 13,
+          "reply_count": 239,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "低学历，头发油腻，双眼无神，一脸苦相，悲观主义者，前途渺茫，原生家庭环境差，懒惰又邋遢，寻找月薪1万的工作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18168,
+          "following_count": 1971,
+          "like_count": 56185,
+          "listed_count": 24,
+          "media_count": 6763,
+          "tweet_count": 23828
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T12:10:36.000Z",
+        "description": "",
+        "id": "1803762329169080320",
+        "name": "Kakaroo",
+        "pinned_tweet_id": "1949390169377005981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021377459313311746/0IigS35l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 151,
+          "like_count": 7801,
+          "listed_count": 0,
+          "media_count": 520,
+          "tweet_count": 4305
+        },
+        "username": "SaikiiiiKusuooo",
+        "verified": false
+      }
+    ]
+  }
+}

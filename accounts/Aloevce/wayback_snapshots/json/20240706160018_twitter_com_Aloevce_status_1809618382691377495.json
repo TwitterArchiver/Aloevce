@@ -1,0 +1,143 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1809618382691377495",
+    "created_at": "2024-07-06T16:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T17:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809618382691377495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671223477284777984",
+          "start": 3,
+          "username": "JIk1618888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809618382691377495",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809459535457009869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JIk1618888: 开一个抽奖。5.2。10个\n52。5个 \n520。1个。（可能是520群红包）\n开奖我都会在群里发红包。（我的情趣品类福利群。有送润滑。小玩具。丝袜。制服）\n此条转发点赞加评论可参与。\n然后加我v入群。仅限女孩子。 https://t.co/Wq…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1809618382691377495].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1809618382691377495",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1809618382691377495"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809459523633160192"
+          ]
+        },
+        "author_id": "1671223477284777984",
+        "conversation_id": "1809459535457009869",
+        "created_at": "2024-07-06T05:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T06:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809459535457009869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Wq2GQErFyr",
+              "end": 131,
+              "expanded_url": "https://twitter.com/JIk1618888/status/1809459535457009869/photo/1",
+              "media_key": "3_1809459523633160192",
+              "start": 108,
+              "url": "https://t.co/Wq2GQErFyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809459535457009869",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1351,
+          "like_count": 16,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "开一个抽奖。5.2。10个\n52。5个 \n520。1个。（可能是520群红包）\n开奖我都会在群里发红包。（我的情趣品类福利群。有送润滑。小玩具。丝袜。制服）\n此条转发点赞加评论可参与。\n然后加我v入群。仅限女孩子。 https://t.co/Wq2GQErFyr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1809186942346482030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14105,
+          "following_count": 2209,
+          "like_count": 51909,
+          "listed_count": 18,
+          "tweet_count": 17856
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T18:29:06.000Z",
+        "description": "情绪肉体维修师",
+        "id": "1671223477284777984",
+        "name": "JIk",
+        "pinned_tweet_id": "1794066704135311496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671223841107087360/Z-UyKCid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 344,
+          "like_count": 3,
+          "listed_count": 5,
+          "tweet_count": 1923
+        },
+        "username": "JIk1618888",
+        "verified": false
+      }
+    ]
+  }
+}

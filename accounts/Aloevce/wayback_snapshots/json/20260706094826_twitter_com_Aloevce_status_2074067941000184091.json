@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074067884389896192",
+        "3_2074067889309745152"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2074067941000184091",
+    "created_at": "2026-07-06T09:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074067941000184091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lZMGINLa36",
+          "end": 27,
+          "expanded_url": "https://x.com/Aloevce/status/2074067941000184091/video/1",
+          "media_key": "7_2074067884389896192",
+          "start": 4,
+          "url": "https://t.co/lZMGINLa36"
+        },
+        {
+          "display_url": "pic.x.com/lZMGINLa36",
+          "end": 27,
+          "expanded_url": "https://x.com/Aloevce/status/2074067941000184091/video/1",
+          "media_key": "3_2074067889309745152",
+          "start": 4,
+          "url": "https://t.co/lZMGINLa36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074067941000184091",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小单睾 https://t.co/lZMGINLa36"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7950,
+        "height": 1024,
+        "media_key": "7_2074067884389896192",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074067884389896192/pu/img/7buWylFCvtfOtgVQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074067884389896192/pu/vid/avc1/320x568/J4Z2rppVR4CXx1fE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074067884389896192/pu/vid/avc1/480x852/ldjQs54JUyL04x5b.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074067884389896192/pu/vid/avc1/576x1024/8JYXEAA_bphyzVSr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074067884389896192/pu/pl/oSs_c5YODt4-Vsas.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074067889309745152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiRwaZaAAAsVJh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074067884389896192",
+            "3_2074067889309745152"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2074067941000184091",
+        "created_at": "2026-07-06T09:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074067941000184091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZMGINLa36",
+              "end": 27,
+              "expanded_url": "https://x.com/Aloevce/status/2074067941000184091/video/1",
+              "media_key": "7_2074067884389896192",
+              "start": 4,
+              "url": "https://t.co/lZMGINLa36"
+            },
+            {
+              "display_url": "pic.x.com/lZMGINLa36",
+              "end": 27,
+              "expanded_url": "https://x.com/Aloevce/status/2074067941000184091/video/1",
+              "media_key": "3_2074067889309745152",
+              "start": 4,
+              "url": "https://t.co/lZMGINLa36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074067941000184091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小单睾 https://t.co/lZMGINLa36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18054,
+          "following_count": 1953,
+          "like_count": 56333,
+          "listed_count": 23,
+          "media_count": 6857,
+          "tweet_count": 24082
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

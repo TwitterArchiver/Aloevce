@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901006507354853377"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1900928919559172367",
+    "created_at": "2025-03-15T20:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T21:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901006512450883672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1557529273686454272",
+          "start": 0,
+          "username": "deadman667773"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W6j6esVyTY",
+          "end": 38,
+          "expanded_url": "https://x.com/Aloevce/status/1901006512450883672/photo/1",
+          "media_key": "3_1901006507354853377",
+          "start": 15,
+          "url": "https://t.co/W6j6esVyTY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901006512450883672",
+    "in_reply_to_user_id": "1557529273686454272",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900954910541365664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deadman667773 https://t.co/W6j6esVyTY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1901006507354853377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmG7WLKXkAEWZaL.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901006507354853377"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1900928919559172367",
+        "created_at": "2025-03-15T20:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T21:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901006512450883672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1557529273686454272",
+              "start": 0,
+              "username": "deadman667773"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W6j6esVyTY",
+              "end": 38,
+              "expanded_url": "https://x.com/Aloevce/status/1901006512450883672/photo/1",
+              "media_key": "3_1901006507354853377",
+              "start": 15,
+              "url": "https://t.co/W6j6esVyTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901006512450883672",
+        "in_reply_to_user_id": "1557529273686454272",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900954910541365664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deadman667773 https://t.co/W6j6esVyTY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557529273686454272",
+        "conversation_id": "1900928919559172367",
+        "created_at": "2025-03-15T16:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T17:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900954910541365664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900954910541365664",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900928919559172367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 能发一下教程不……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17707,
+          "following_count": 2387,
+          "like_count": 54681,
+          "listed_count": 21,
+          "media_count": 5881,
+          "tweet_count": 20831
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T00:50:07.000Z",
+        "description": "喜欢游戏，喜欢动画\n\n硬核亨利是最棒的电影!!!",
+        "id": "1557529273686454272",
+        "location": "光子力研究所",
+        "name": "伟大的勇者-剑铁也!!!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889839582466002944/VwPbaGca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 75,
+          "like_count": 3044,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 926
+        },
+        "username": "deadman667773",
+        "verified": false
+      }
+    ]
+  }
+}

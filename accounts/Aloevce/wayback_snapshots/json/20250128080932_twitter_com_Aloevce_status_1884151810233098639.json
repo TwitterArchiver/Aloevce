@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1884151000417853509",
+    "created_at": "2025-01-28T08:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T09:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884151810233098639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753255303808942080",
+          "start": 0,
+          "username": "coffinbunny7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884151810233098639",
+    "in_reply_to_user_id": "1753255303808942080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884151598630539450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coffinbunny7 真的假的宝宝😭照顾好自己喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1884151000417853509",
+        "created_at": "2025-01-28T08:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T09:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884151810233098639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753255303808942080",
+              "start": 0,
+              "username": "coffinbunny7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884151810233098639",
+        "in_reply_to_user_id": "1753255303808942080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884151598630539450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coffinbunny7 真的假的宝宝😭照顾好自己喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753255303808942080",
+        "conversation_id": "1884151000417853509",
+        "created_at": "2025-01-28T08:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T09:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884151598630539450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884151598630539450",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884151000417853509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 我去 别再打胎了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1883941576986276044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17793,
+          "following_count": 2382,
+          "like_count": 54427,
+          "listed_count": 20,
+          "media_count": 5718,
+          "tweet_count": 20384
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T03:13:43.000Z",
+        "description": "推特必吃榜前列，新年入我发大财！ 🚪1314电报群稳定更新➕每日掉落。爽快入门一定贴心听话态度好，24小时高强度回复，此人根本不需要睡觉！贵价门槛区别于普通打折门槛，推特会不定时删除入门槛永久保存。请多再注意我一点点～",
+        "id": "1753255303808942080",
+        "name": "神奶萌",
+        "pinned_tweet_id": "1823687685569179842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883894115831894016/NSSNUnMK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239113,
+          "following_count": 346,
+          "like_count": 437,
+          "listed_count": 641,
+          "media_count": 310,
+          "tweet_count": 2754
+        },
+        "username": "coffinbunny7",
+        "verified": false
+      }
+    ]
+  }
+}

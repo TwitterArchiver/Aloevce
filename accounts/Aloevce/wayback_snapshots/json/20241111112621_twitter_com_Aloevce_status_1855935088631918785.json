@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1855739324744282148",
+    "created_at": "2024-11-11T11:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T12:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855935088631918785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1738035209755664384",
+          "start": 0,
+          "username": "chemy_05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855935088631918785",
+    "in_reply_to_user_id": "1738035209755664384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855834145609687175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chemy_05 加我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1855739324744282148",
+        "created_at": "2024-11-11T11:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T12:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855935088631918785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1738035209755664384",
+              "start": 0,
+              "username": "chemy_05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855935088631918785",
+        "in_reply_to_user_id": "1738035209755664384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855834145609687175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chemy_05 加我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738035209755664384",
+        "conversation_id": "1855739324744282148",
+        "created_at": "2024-11-11T04:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T05:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855834145609687175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855834145609687175",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855786650636599307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17562,
+          "following_count": 2286,
+          "like_count": 53322,
+          "listed_count": 21,
+          "tweet_count": 19324
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T03:14:28.000Z",
+        "description": "05坐标沪国 日常/负能 不是在想死的路上就是在发文案 玩音游打舞萌 fps 可以找我打游戏出勤 有重焦和双相 要上班上学只od不紫餐",
+        "id": "1738035209755664384",
+        "location": "上海",
+        "name": "Chemy 5.0",
+        "pinned_tweet_id": "1796377052486279342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754779854984331264/OY5mjMgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 359,
+          "like_count": 2635,
+          "listed_count": 0,
+          "tweet_count": 474
+        },
+        "username": "chemy_05",
+        "verified": false
+      }
+    ]
+  }
+}

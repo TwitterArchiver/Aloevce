@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2028513945200263170",
+    "created_at": "2026-03-02T19:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T20:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028549544133472571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1053832620834844674",
+          "start": 0,
+          "username": "riyao23197447"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028549544133472571",
+    "in_reply_to_user_id": "1053832620834844674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028547794647281717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riyao23197447 没有吧喵啊啊😭其实对象哥是拍搞笑内容才火的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2028513945200263170",
+        "created_at": "2026-03-02T19:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T20:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028549544133472571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1053832620834844674",
+              "start": 0,
+              "username": "riyao23197447"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028549544133472571",
+        "in_reply_to_user_id": "1053832620834844674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028547794647281717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riyao23197447 没有吧喵啊啊😭其实对象哥是拍搞笑内容才火的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1053832620834844674",
+        "conversation_id": "2028513945200263170",
+        "created_at": "2026-03-02T19:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T20:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028547794647281717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028547794647281717",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028513945200263170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 只有对象哥这样的抖音网红级帅哥才能谈二次元漂亮小孩吗😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18396,
+          "following_count": 2309,
+          "like_count": 54708,
+          "listed_count": 22,
+          "media_count": 6520,
+          "tweet_count": 22761
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-21T02:17:30.000Z",
+        "description": "千藏万躲，最后躲掉的都是真实的自己与人相处的幸运。",
+        "id": "1053832620834844674",
+        "name": "看到我请叫我去学习",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987250620668256258/3NZQpieJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 4024,
+          "like_count": 15610,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 9378
+        },
+        "username": "riyao23197447",
+        "verified": false
+      }
+    ]
+  }
+}

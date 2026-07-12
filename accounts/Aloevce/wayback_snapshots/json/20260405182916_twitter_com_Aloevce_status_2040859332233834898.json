@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2040859332233834898",
+    "created_at": "2026-04-05T18:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040859332233834898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hfymomoj/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hfymomoj/status/2040539771475509434",
+          "start": 5,
+          "url": "https://t.co/i0GRh7E7WJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040859332233834898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040539771475509434",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/i0GRh7E7WJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2040859332233834898",
+        "created_at": "2026-04-05T18:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040859332233834898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hfymomoj/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hfymomoj/status/2040539771475509434",
+              "start": 5,
+              "url": "https://t.co/i0GRh7E7WJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040859332233834898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040539771475509434",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/i0GRh7E7WJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556198265061646336",
+        "conversation_id": "2040539771475509434",
+        "created_at": "2026-04-04T21:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T22:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040539771475509434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040539771475509434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 25116,
+          "like_count": 449,
+          "quote_count": 16,
+          "reply_count": 28,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "好想给在意的人发一句好想操你然后把手机扔了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18054,
+          "following_count": 2295,
+          "like_count": 53976,
+          "listed_count": 22,
+          "media_count": 6558,
+          "tweet_count": 22792
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T08:39:24.000Z",
+        "description": "发一些碎碎念 营业号私信在@Gniy666随缘互关 我发的都是瞎说的 别来问我真的假的 不喜欢别人过问我的事",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Gniy666"
+              }
+            ]
+          }
+        },
+        "id": "1556198265061646336",
+        "location": " 让我明天有色彩",
+        "name": "治疗术",
+        "pinned_tweet_id": "1923963433491530106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015482573737381888/HVyMkmvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55173,
+          "following_count": 110,
+          "like_count": 3760,
+          "listed_count": 141,
+          "media_count": 160,
+          "tweet_count": 2196
+        },
+        "username": "hfymomoj",
+        "verified": false
+      }
+    ]
+  }
+}

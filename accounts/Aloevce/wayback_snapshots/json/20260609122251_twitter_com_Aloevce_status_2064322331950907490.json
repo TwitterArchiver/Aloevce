@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2064254968979165440",
+    "created_at": "2026-06-09T12:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064322331950907490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009951298263953408",
+          "start": 0,
+          "username": "Cinging0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064322331950907490",
+    "in_reply_to_user_id": "2009951298263953408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064318236402073925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cinging0101 成都王仙人凉糕！（有连锁店）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2064254968979165440",
+        "created_at": "2026-06-09T12:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064322331950907490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009951298263953408",
+              "start": 0,
+              "username": "Cinging0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064322331950907490",
+        "in_reply_to_user_id": "2009951298263953408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064318236402073925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cinging0101 成都王仙人凉糕！（有连锁店）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009951298263953408",
+        "conversation_id": "2064254968979165440",
+        "created_at": "2026-06-09T12:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064318236402073925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064318236402073925",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064254968979165440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 在哪有地址吗，我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18149,
+          "following_count": 1974,
+          "like_count": 56295,
+          "listed_count": 24,
+          "media_count": 6780,
+          "tweet_count": 23900
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T11:31:56.000Z",
+        "description": "",
+        "id": "2009951298263953408",
+        "name": "Cinging",
+        "pinned_tweet_id": "2026307023294611732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009998384640450560/goGgEUJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "username": "Cinging0101",
+        "verified": false
+      }
+    ]
+  }
+}

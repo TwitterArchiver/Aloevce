@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1823017260597805288",
+    "created_at": "2024-08-12T15:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T16:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823017260597805288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xgnFA9ymr1Kgkt…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/xgnFA9ymr1Kgkt4/status/1823014825229942990",
+          "start": 7,
+          "url": "https://t.co/ONjwx0QwVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823017260597805288",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823014825229942990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "整天花天酒地 https://t.co/ONjwx0QwVl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1823017260597805288",
+        "created_at": "2024-08-12T15:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T16:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823017260597805288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xgnFA9ymr1Kgkt…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/xgnFA9ymr1Kgkt4/status/1823014825229942990",
+              "start": 7,
+              "url": "https://t.co/ONjwx0QwVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823017260597805288",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823014825229942990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "整天花天酒地 https://t.co/ONjwx0QwVl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287705574122061829",
+        "conversation_id": "1823006896506151313",
+        "created_at": "2024-08-12T15:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T16:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823014825229942990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823014825229942990",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823006896506151313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 大九岁，工作少说也有三年一毛都不存啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17411,
+          "following_count": 2193,
+          "like_count": 52203,
+          "listed_count": 22,
+          "tweet_count": 18319
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-27T11:05:22.000Z",
+        "description": "我是 悲伤 大象 看见女生 就会 忐忑。",
+        "id": "1287705574122061829",
+        "name": "威猛先生狂吻多情少女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607771117963595777/QzP2_pmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 728,
+          "like_count": 42265,
+          "listed_count": 2,
+          "tweet_count": 1120
+        },
+        "username": "xgnFA9ymr1Kgkt4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2041592900396433694",
+    "created_at": "2026-04-07T19:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T20:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041593199970398542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1358019615993987075",
+          "start": 0,
+          "username": "qwq_miaomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041593199970398542",
+    "in_reply_to_user_id": "1358019615993987075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041592963537760687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_miaomiao 只能看到提示但是我看不到内容啊啊啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2041592963537760687].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2041592963537760687",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2041592963537760687"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2041592900396433694",
+        "created_at": "2026-04-07T19:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041593199970398542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1358019615993987075",
+              "start": 0,
+              "username": "qwq_miaomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041593199970398542",
+        "in_reply_to_user_id": "1358019615993987075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041592963537760687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_miaomiao 只能看到提示但是我看不到内容啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18017,
+          "following_count": 2305,
+          "like_count": 54025,
+          "listed_count": 22,
+          "media_count": 6562,
+          "tweet_count": 22828
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T11:48:09.000Z",
+        "description": "淡推淡推淡推 推文全删了别找了",
+        "id": "1358019615993987075",
+        "location": "你心里",
+        "name": "喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985973418744037378/LJXvMwDq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 1078,
+          "like_count": 6308,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 2791
+        },
+        "username": "qwq_miaomiao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T11:48:09.000Z",
+        "description": "淡推淡推淡推 推文全删了别找了",
+        "id": "1358019615993987075",
+        "location": "你心里",
+        "name": "喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985973418744037378/LJXvMwDq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 1078,
+          "like_count": 6308,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 2791
+        },
+        "username": "qwq_miaomiao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1883915814505701434",
+    "created_at": "2025-01-27T16:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T17:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883915814505701434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kirakira4th/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/kirakira4th/status/1883911560621629476",
+          "start": 2,
+          "url": "https://t.co/2VdumjxUdI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883915814505701434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883911560621629476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/2VdumjxUdI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1883915814505701434",
+        "created_at": "2025-01-27T16:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T17:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883915814505701434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kirakira4th/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/kirakira4th/status/1883911560621629476",
+              "start": 2,
+              "url": "https://t.co/2VdumjxUdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883915814505701434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883911560621629476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/2VdumjxUdI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1883911560621629476",
+        "created_at": "2025-01-27T16:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T17:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883911560621629476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883911560621629476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你是一个渴望被爱却天天捅自己屁眼子，穿着泛黄的白丝在网上招摇撞骗，拍照只敢露腿，甚至上半身是寸头，说话喜欢加喵加哦，装成知心大姐姐，却老是说着狗屁不通的屁话的一眼的可爱男孩子吗😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1881182504969015531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17789,
+          "following_count": 2382,
+          "like_count": 54434,
+          "listed_count": 20,
+          "media_count": 5709,
+          "tweet_count": 20361
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "投胎错为猪",
+        "id": "1666599054917218305",
+        "name": "消失的井盖",
+        "pinned_tweet_id": "1883898483230589327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875792193795088384/0kEOTGgO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11255,
+          "following_count": 2437,
+          "like_count": 44065,
+          "listed_count": 15,
+          "media_count": 262,
+          "tweet_count": 11649
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

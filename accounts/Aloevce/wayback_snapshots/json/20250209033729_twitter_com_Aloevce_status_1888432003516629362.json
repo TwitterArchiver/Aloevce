@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888432000769351680"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1888432003516629362",
+    "created_at": "2025-02-09T03:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T04:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888432003516629362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bMUDPayF9o",
+          "end": 72,
+          "expanded_url": "https://x.com/Aloevce/status/1888432003516629362/photo/1",
+          "media_key": "3_1888432000769351680",
+          "start": 49,
+          "url": "https://t.co/bMUDPayF9o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888432003516629362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对象哥总是让我快点回去，可是我妈不想让我太早回去，我不回去对象哥就在这阴阳怪气，好烦啊到底听谁的 https://t.co/bMUDPayF9o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1888432000769351680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjUO5jxWYAA3w4m.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888432000769351680"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1888432003516629362",
+        "created_at": "2025-02-09T03:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T04:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888432003516629362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMUDPayF9o",
+              "end": 72,
+              "expanded_url": "https://x.com/Aloevce/status/1888432003516629362/photo/1",
+              "media_key": "3_1888432000769351680",
+              "start": 49,
+              "url": "https://t.co/bMUDPayF9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888432003516629362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对象哥总是让我快点回去，可是我妈不想让我太早回去，我不回去对象哥就在这阴阳怪气，好烦啊到底听谁的 https://t.co/bMUDPayF9o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很王牌",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1883941576986276044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17786,
+          "following_count": 2406,
+          "like_count": 54642,
+          "listed_count": 20,
+          "media_count": 5782,
+          "tweet_count": 20610
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

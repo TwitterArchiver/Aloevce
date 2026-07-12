@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1774748345728479232"
+      ],
+      "media_source_tweet_id": [
+        "1774748404947853364"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1881593872050159941",
+    "created_at": "2025-01-21T06:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T07:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881593872050159941"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "永雏塔菲"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658881840349061120",
+          "start": 3,
+          "username": "CJing3_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QflWJl6Wj6",
+          "end": 46,
+          "expanded_url": "https://x.com/CJing3_/status/1774748404947853364/photo/1",
+          "media_key": "3_1774748345728479232",
+          "start": 23,
+          "url": "https://t.co/QflWJl6Wj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881593872050159941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 263
+    },
+    "referenced_tweets": [
+      {
+        "id": "1774748404947853364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @CJing3_: #永雏塔菲  别存 https://t.co/QflWJl6Wj6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1774748345728479232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GKEsN6jbsAAnnGq.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1774748345728479232"
+          ],
+          "media_source_tweet_id": [
+            "1774748404947853364"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1881593872050159941",
+        "created_at": "2025-01-21T06:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T07:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881593872050159941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "永雏塔菲"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658881840349061120",
+              "start": 3,
+              "username": "CJing3_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QflWJl6Wj6",
+              "end": 46,
+              "expanded_url": "https://x.com/CJing3_/status/1774748404947853364/photo/1",
+              "media_key": "3_1774748345728479232",
+              "start": 23,
+              "url": "https://t.co/QflWJl6Wj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881593872050159941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "1774748404947853364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @CJing3_: #永雏塔菲  别存 https://t.co/QflWJl6Wj6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1774748345728479232"
+          ]
+        },
+        "author_id": "1658881840349061120",
+        "conversation_id": "1774748404947853364",
+        "created_at": "2024-04-01T10:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-01T11:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1774748404947853364"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "永雏塔菲"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QflWJl6Wj6",
+              "end": 33,
+              "expanded_url": "https://x.com/CJing3_/status/1774748404947853364/photo/1",
+              "media_key": "3_1774748345728479232",
+              "start": 10,
+              "url": "https://t.co/QflWJl6Wj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1774748404947853364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 68432,
+          "like_count": 2534,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 263
+        },
+        "reply_settings": "following",
+        "text": "#永雏塔菲  别存 https://t.co/QflWJl6Wj6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1881182504969015531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17827,
+          "following_count": 2382,
+          "like_count": 54246,
+          "listed_count": 20,
+          "media_count": 5652,
+          "tweet_count": 20199
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "みんな幸せになってほしいQʌQ\n@CJing4_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "CJing4_"
+              }
+            ]
+          }
+        },
+        "id": "1658881840349061120",
+        "location": "轉載Reprint🚫",
+        "name": "楚鯨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873334418095648768/ujJbwFFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6527,
+          "following_count": 527,
+          "like_count": 4878,
+          "listed_count": 10,
+          "media_count": 118,
+          "tweet_count": 338
+        },
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

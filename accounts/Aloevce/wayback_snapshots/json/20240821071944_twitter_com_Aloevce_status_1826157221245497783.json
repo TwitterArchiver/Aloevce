@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1826157221245497783",
+    "created_at": "2024-08-21T07:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T08:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1826157221245497783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xiatounan7414/…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/Xiatounan7414/status/1826150618106650996",
+          "start": 38,
+          "url": "https://t.co/8b66qja1Sz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826157221245497783",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826150618106650996",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我身边的女人都是把自己当公主了  事特别多也特别麻烦 我讨厌正常女人= = https://t.co/8b66qja1Sz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1826157221245497783",
+        "created_at": "2024-08-21T07:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T08:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826157221245497783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiatounan7414/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Xiatounan7414/status/1826150618106650996",
+              "start": 38,
+              "url": "https://t.co/8b66qja1Sz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826157221245497783",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826150618106650996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我身边的女人都是把自己当公主了  事特别多也特别麻烦 我讨厌正常女人= = https://t.co/8b66qja1Sz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "890171754919755776",
+        "conversation_id": "1826145475487273277",
+        "created_at": "2024-08-21T06:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T07:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826150618106650996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826150618106650996",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826145475487273277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 正常女人就是激女吗？这也太可怕了吧😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18059,
+          "following_count": 2241,
+          "like_count": 52629,
+          "listed_count": 22,
+          "tweet_count": 18470
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-26T11:27:39.000Z",
+        "description": "",
+        "id": "890171754919755776",
+        "name": "Lin",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 973,
+          "like_count": 3177,
+          "listed_count": 0,
+          "tweet_count": 625
+        },
+        "username": "Xiatounan7414",
+        "verified": false
+      }
+    ]
+  }
+}

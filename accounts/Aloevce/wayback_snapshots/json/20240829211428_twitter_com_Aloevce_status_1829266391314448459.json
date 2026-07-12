@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1829266391314448459",
+    "created_at": "2024-08-29T21:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T22:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829266391314448459"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1829266391314448459",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学校通知让今天明天注册报道，但是到今天都无人通知明天要不要集合开会，所以我明天能不能在对象家睡到下午四点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1829266391314448459",
+        "created_at": "2024-08-29T21:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T22:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829266391314448459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1829266391314448459",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校通知让今天明天注册报道，但是到今天都无人通知明天要不要集合开会，所以我明天能不能在对象家睡到下午四点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "除了打米不要私信我，谢谢",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18118,
+          "following_count": 2263,
+          "like_count": 53047,
+          "listed_count": 22,
+          "tweet_count": 18703
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

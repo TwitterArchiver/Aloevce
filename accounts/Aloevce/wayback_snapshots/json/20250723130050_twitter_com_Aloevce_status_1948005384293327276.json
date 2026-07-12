@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948005347035066368",
+        "3_1948005366714785792",
+        "3_1948005380065255424"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1948005384293327276",
+    "created_at": "2025-07-23T13:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T14:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948005384293327276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NAedorLnqI",
+          "end": 27,
+          "expanded_url": "https://x.com/Aloevce/status/1948005384293327276/photo/1",
+          "media_key": "3_1948005347035066368",
+          "start": 4,
+          "url": "https://t.co/NAedorLnqI"
+        },
+        {
+          "display_url": "pic.x.com/NAedorLnqI",
+          "end": 27,
+          "expanded_url": "https://x.com/Aloevce/status/1948005384293327276/photo/1",
+          "media_key": "3_1948005366714785792",
+          "start": 4,
+          "url": "https://t.co/NAedorLnqI"
+        },
+        {
+          "display_url": "pic.x.com/NAedorLnqI",
+          "end": 27,
+          "expanded_url": "https://x.com/Aloevce/status/1948005384293327276/photo/1",
+          "media_key": "3_1948005380065255424",
+          "start": 4,
+          "url": "https://t.co/NAedorLnqI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948005384293327276",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你恨我 https://t.co/NAedorLnqI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1281,
+        "media_key": "3_1948005347035066368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwi0isqWMAAuEru.jpg",
+        "width": 960
+      },
+      {
+        "height": 1279,
+        "media_key": "3_1948005366714785792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwi0j1-W4AAnoYm.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1948005380065255424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwi0kntW4AAZReO.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948005347035066368",
+            "3_1948005366714785792",
+            "3_1948005380065255424"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948005384293327276",
+        "created_at": "2025-07-23T13:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T14:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948005384293327276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NAedorLnqI",
+              "end": 27,
+              "expanded_url": "https://x.com/Aloevce/status/1948005384293327276/photo/1",
+              "media_key": "3_1948005347035066368",
+              "start": 4,
+              "url": "https://t.co/NAedorLnqI"
+            },
+            {
+              "display_url": "pic.x.com/NAedorLnqI",
+              "end": 27,
+              "expanded_url": "https://x.com/Aloevce/status/1948005384293327276/photo/1",
+              "media_key": "3_1948005366714785792",
+              "start": 4,
+              "url": "https://t.co/NAedorLnqI"
+            },
+            {
+              "display_url": "pic.x.com/NAedorLnqI",
+              "end": 27,
+              "expanded_url": "https://x.com/Aloevce/status/1948005384293327276/photo/1",
+              "media_key": "3_1948005380065255424",
+              "start": 4,
+              "url": "https://t.co/NAedorLnqI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948005384293327276",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你恨我 https://t.co/NAedorLnqI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "伪人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1942344432830873884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19140,
+          "following_count": 2425,
+          "like_count": 55784,
+          "listed_count": 21,
+          "media_count": 6182,
+          "tweet_count": 21637
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

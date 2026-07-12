@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2045935102618948029",
+    "created_at": "2026-04-19T18:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T19:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045935102618948029"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cuichenghao/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/cuichenghao/status/2045654505312972982",
+          "start": 17,
+          "url": "https://t.co/n8yy29DKK0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045935102618948029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045654505312972982",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不敢想除了妈妈还有谁在乎我的死活 https://t.co/n8yy29DKK0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1175,
+        "media_key": "3_2045654495649239040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGOf7OpakAAsExW.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2045935102618948029",
+        "created_at": "2026-04-19T18:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045935102618948029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cuichenghao/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/cuichenghao/status/2045654505312972982",
+              "start": 17,
+              "url": "https://t.co/n8yy29DKK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045935102618948029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045654505312972982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不敢想除了妈妈还有谁在乎我的死活 https://t.co/n8yy29DKK0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045654495649239040"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2045654505312972982",
+        "created_at": "2026-04-19T00:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T01:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045654505312972982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/haiYneP9i5",
+              "end": 77,
+              "expanded_url": "https://x.com/cuichenghao/status/2045654505312972982/photo/1",
+              "media_key": "3_2045654495649239040",
+              "start": 54,
+              "url": "https://t.co/haiYneP9i5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045654505312972982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 433829,
+          "like_count": 958,
+          "quote_count": 18,
+          "reply_count": 169,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "4月15日，有内地网友在殡仪馆拍到令人震惊的照片。死者竟然都为90后，而且多数备注写着不要骨灰，令人唏嘘。 https://t.co/haiYneP9i5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17877,
+          "following_count": 2305,
+          "like_count": 54388,
+          "listed_count": 21,
+          "media_count": 6591,
+          "tweet_count": 23022
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94662,
+          "following_count": 721,
+          "like_count": 6829,
+          "listed_count": 319,
+          "media_count": 3808,
+          "tweet_count": 3997
+        },
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

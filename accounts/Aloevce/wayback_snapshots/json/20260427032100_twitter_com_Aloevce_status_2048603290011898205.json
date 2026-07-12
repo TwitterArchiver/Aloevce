@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048603283644878848",
+        "3_2048603283145830400"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048603290011898205",
+    "created_at": "2026-04-27T03:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T04:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048603290011898205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DxBNoy8IHP",
+          "end": 37,
+          "expanded_url": "https://x.com/Aloevce/status/2048603290011898205/photo/1",
+          "media_key": "3_2048603283644878848",
+          "start": 14,
+          "url": "https://t.co/DxBNoy8IHP"
+        },
+        {
+          "display_url": "pic.x.com/DxBNoy8IHP",
+          "end": 37,
+          "expanded_url": "https://x.com/Aloevce/status/2048603290011898205/photo/1",
+          "media_key": "3_2048603283145830400",
+          "start": 14,
+          "url": "https://t.co/DxBNoy8IHP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048603290011898205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为啥我睡不着。直接爽买一通 https://t.co/DxBNoy8IHP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048603283644878848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4Z1R9aEAAdt7v.jpg",
+        "width": 957
+      },
+      {
+        "height": 828,
+        "media_key": "3_2048603283145830400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4Z1QGbMAAAevm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048603283644878848",
+            "3_2048603283145830400"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048603290011898205",
+        "created_at": "2026-04-27T03:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048603290011898205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DxBNoy8IHP",
+              "end": 37,
+              "expanded_url": "https://x.com/Aloevce/status/2048603290011898205/photo/1",
+              "media_key": "3_2048603283644878848",
+              "start": 14,
+              "url": "https://t.co/DxBNoy8IHP"
+            },
+            {
+              "display_url": "pic.x.com/DxBNoy8IHP",
+              "end": 37,
+              "expanded_url": "https://x.com/Aloevce/status/2048603290011898205/photo/1",
+              "media_key": "3_2048603283145830400",
+              "start": 14,
+              "url": "https://t.co/DxBNoy8IHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048603290011898205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥我睡不着。直接爽买一通 https://t.co/DxBNoy8IHP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18056,
+          "following_count": 1952,
+          "like_count": 54639,
+          "listed_count": 22,
+          "media_count": 6603,
+          "tweet_count": 23152
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

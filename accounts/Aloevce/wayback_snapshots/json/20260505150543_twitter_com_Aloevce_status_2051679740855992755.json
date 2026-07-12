@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2051679740855992755",
+    "created_at": "2026-05-05T15:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051679740855992755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/usagimm208/status/2051668920453710252",
+          "start": 8,
+          "url": "https://t.co/PfaWUOhpiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051679740855992755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051668920453710252",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下次我请 兄弟 https://t.co/PfaWUOhpiu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2051679740855992755",
+        "created_at": "2026-05-05T15:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051679740855992755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/usagimm208/status/2051668920453710252",
+              "start": 8,
+              "url": "https://t.co/PfaWUOhpiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051679740855992755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051668920453710252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下次我请 兄弟 https://t.co/PfaWUOhpiu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005739449058230272",
+        "conversation_id": "2051668920453710252",
+        "created_at": "2026-05-05T14:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051668920453710252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051668920453710252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😱怎么又要穷死了，今天吃一天花费巨大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18206,
+          "following_count": 1981,
+          "like_count": 55470,
+          "listed_count": 24,
+          "media_count": 6638,
+          "tweet_count": 23333
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "神一天人一天，简称神人的日常",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "ぐる",
+        "pinned_tweet_id": "2049192723828396126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048827962091524096/6jvZmIU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 2,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

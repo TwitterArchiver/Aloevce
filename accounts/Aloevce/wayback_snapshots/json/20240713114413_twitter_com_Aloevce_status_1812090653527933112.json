@@ -1,0 +1,203 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1812090653527933112",
+    "created_at": "2024-07-13T11:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T12:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1812090653527933112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ihvamps/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ihvamps/status/1811583999216594967",
+          "start": 2,
+          "url": "https://t.co/kNwm2cxgO5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812090653527933112",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811583999216594967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/kNwm2cxgO5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1812090653527933112",
+        "created_at": "2024-07-13T11:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T12:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812090653527933112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ihvamps/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ihvamps/status/1811583999216594967",
+              "start": 2,
+              "url": "https://t.co/kNwm2cxgO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812090653527933112",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811583999216594967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/kNwm2cxgO5"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811583990031114240"
+          ]
+        },
+        "author_id": "1561734694084935681",
+        "conversation_id": "1811583999216594967",
+        "created_at": "2024-07-12T02:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T03:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811583999216594967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PLERjsrgsB",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ihvamps/status/1811583999216594967/photo/1",
+              "media_key": "3_1811583990031114240",
+              "start": 10,
+              "url": "https://t.co/PLERjsrgsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811583999216594967",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8704,
+          "impression_count": 3328956,
+          "like_count": 53037,
+          "quote_count": 689,
+          "reply_count": 345,
+          "retweet_count": 6146
+        },
+        "reply_settings": "everyone",
+        "text": "us when ? https://t.co/PLERjsrgsB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1810653866171539792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17277,
+          "following_count": 2196,
+          "like_count": 51961,
+          "listed_count": 21,
+          "tweet_count": 17910
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T15:19:13.000Z",
+        "description": "🌟 | starting over | @ricpovs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "ricpovs"
+              }
+            ]
+          }
+        },
+        "id": "1561734694084935681",
+        "location": "- highlights.",
+        "name": "𖤐",
+        "pinned_tweet_id": "1810745561966113007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805308470448603136/6S--T_Qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138135,
+          "following_count": 6517,
+          "like_count": 46474,
+          "listed_count": 278,
+          "tweet_count": 10281
+        },
+        "username": "ihvamps",
+        "verified": true
+      }
+    ]
+  }
+}

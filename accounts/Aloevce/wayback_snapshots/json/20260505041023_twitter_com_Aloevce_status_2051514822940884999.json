@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2051514822940884999",
+    "created_at": "2026-05-05T04:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051514822940884999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/usagimm208/status/2051514667567374510",
+          "start": 9,
+          "url": "https://t.co/YQu6PtjXA2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051514822940884999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051514667567374510",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那只能吃争鲜了🙀 https://t.co/YQu6PtjXA2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2051514822940884999",
+        "created_at": "2026-05-05T04:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051514822940884999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/usagimm208/status/2051514667567374510",
+              "start": 9,
+              "url": "https://t.co/YQu6PtjXA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051514822940884999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051514667567374510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那只能吃争鲜了🙀 https://t.co/YQu6PtjXA2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005739449058230272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          }
+        ],
+        "conversation_id": "2051514667567374510",
+        "created_at": "2026-05-05T04:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051514667567374510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aloevce/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/aloevce/status/2051514276767055914",
+              "start": 28,
+              "url": "https://t.co/jzt3JPxAFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051514667567374510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051514276767055914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "五一期间的滨寿司能排队到明年去，你有啥其他推荐的寿司吗 https://t.co/jzt3JPxAFt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18204,
+          "following_count": 1976,
+          "like_count": 55431,
+          "listed_count": 24,
+          "media_count": 6635,
+          "tweet_count": 23311
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "神一天人一天，简称神人的日常",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "ぐる",
+        "pinned_tweet_id": "2049192723828396126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048827962091524096/6jvZmIU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 2,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

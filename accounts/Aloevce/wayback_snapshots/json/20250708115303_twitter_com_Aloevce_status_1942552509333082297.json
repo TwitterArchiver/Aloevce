@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942547889324187652"
+      ],
+      "media_source_tweet_id": [
+        "1942547912883593237"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1942552509333082297",
+    "created_at": "2025-07-08T11:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T12:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942552509333082297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1876377363854053376",
+          "start": 3,
+          "username": "woooocaonimabi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oceM2LuQt6",
+          "end": 60,
+          "expanded_url": "https://x.com/woooocaonimabi/status/1942547912883593237/photo/1",
+          "media_key": "3_1942547889324187652",
+          "start": 37,
+          "url": "https://t.co/oceM2LuQt6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942552509333082297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942547912883593237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woooocaonimabi: 我们优优也是小猫\n列表求转ovo https://t.co/oceM2LuQt6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1942547889324187652",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvVRA2ZaYAQQcf_.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942547889324187652"
+          ],
+          "media_source_tweet_id": [
+            "1942547912883593237"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1942552509333082297",
+        "created_at": "2025-07-08T11:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T12:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942552509333082297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1876377363854053376",
+              "start": 3,
+              "username": "woooocaonimabi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oceM2LuQt6",
+              "end": 60,
+              "expanded_url": "https://x.com/woooocaonimabi/status/1942547912883593237/photo/1",
+              "media_key": "3_1942547889324187652",
+              "start": 37,
+              "url": "https://t.co/oceM2LuQt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942552509333082297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942547912883593237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woooocaonimabi: 我们优优也是小猫\n列表求转ovo https://t.co/oceM2LuQt6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942547889324187652"
+          ]
+        },
+        "author_id": "1876377363854053376",
+        "conversation_id": "1942547912883593237",
+        "created_at": "2025-07-08T11:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T12:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942547912883593237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oceM2LuQt6",
+              "end": 40,
+              "expanded_url": "https://x.com/woooocaonimabi/status/1942547912883593237/photo/1",
+              "media_key": "3_1942547889324187652",
+              "start": 17,
+              "url": "https://t.co/oceM2LuQt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942547912883593237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我们优优也是小猫\n列表求转ovo https://t.co/oceM2LuQt6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "伪人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1942344432830873884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19154,
+          "following_count": 2476,
+          "like_count": 55661,
+          "listed_count": 21,
+          "media_count": 6157,
+          "tweet_count": 21547
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T21:17:03.000Z",
+        "description": "我想过的好一点tg找我",
+        "id": "1876377363854053376",
+        "location": "喵喵罂罂喵喵喵 🚪288门",
+        "name": "我想过的好一点",
+        "pinned_tweet_id": "1942547912883593237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940582350141685761/bQJjQYvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2842,
+          "following_count": 70,
+          "like_count": 526,
+          "listed_count": 9,
+          "media_count": 67,
+          "tweet_count": 360
+        },
+        "username": "woooocaonimabi",
+        "verified": false
+      }
+    ]
+  }
+}

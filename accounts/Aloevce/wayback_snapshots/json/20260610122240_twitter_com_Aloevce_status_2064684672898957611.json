@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2064684672898957611",
+    "created_at": "2026-06-10T12:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064684672898957611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1ymphau3dy/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/1ymphau3dy/status/2064637814814490772",
+          "start": 16,
+          "url": "https://t.co/VeUEnISzyG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064684672898957611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064637814814490772",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "剩了两天了得吵 早看他不顺眼了 https://t.co/VeUEnISzyG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2064684672898957611",
+        "created_at": "2026-06-10T12:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064684672898957611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1ymphau3dy/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/1ymphau3dy/status/2064637814814490772",
+              "start": 16,
+              "url": "https://t.co/VeUEnISzyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064684672898957611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064637814814490772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剩了两天了得吵 早看他不顺眼了 https://t.co/VeUEnISzyG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559073298340024320",
+        "conversation_id": "2064610141010317685",
+        "created_at": "2026-06-10T09:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064637814814490772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064637814814490772",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064610141010317685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 剩饭干啥了和他吵  放下吧  当年的事各有各的难处"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18142,
+          "following_count": 1971,
+          "like_count": 56315,
+          "listed_count": 24,
+          "media_count": 6783,
+          "tweet_count": 23912
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T07:03:47.000Z",
+        "description": "你好",
+        "id": "1559073298340024320",
+        "name": "白洛缇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931781272134967296/Cvctevk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 126,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 241
+        },
+        "username": "1ymphau3dy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1824779582878167526",
+    "created_at": "2024-08-17T13:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T14:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824801496631832904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491521168091672578",
+          "start": 0,
+          "username": "welibeinheel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824801496631832904",
+    "in_reply_to_user_id": "1491521168091672578",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824798231374770526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@welibeinheel ozz夏蔷薇蓝白"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1824798231374770526].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1824798231374770526",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1824798231374770526"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1824779582878167526",
+        "created_at": "2024-08-17T13:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T14:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824801496631832904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491521168091672578",
+              "start": 0,
+              "username": "welibeinheel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824801496631832904",
+        "in_reply_to_user_id": "1491521168091672578",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824798231374770526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@welibeinheel ozz夏蔷薇蓝白"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17875,
+          "following_count": 2225,
+          "like_count": 52516,
+          "listed_count": 22,
+          "tweet_count": 18409
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T21:15:48.000Z",
+        "description": "图片中包含一个卡通形象，该形象是绿色的，具有大眼睛和张开的嘴巴，表情显得惊讶。同时，图片中还包含了一行文字：“我操，恶俗啊”。这表明图片可能是在表达对某种恶俗或不适当内容的惊讶或批评。由于缺乏更多的上下文信息，无法确定具体的情况或事件",
+        "id": "1491521168091672578",
+        "location": "核反应堆",
+        "name": "ʍɨӄɨ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824076470639292416/yoTppZE5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 883,
+          "like_count": 44533,
+          "listed_count": 1,
+          "tweet_count": 10588
+        },
+        "username": "welibeinheel",
+        "verified": false
+      }
+    ]
+  }
+}

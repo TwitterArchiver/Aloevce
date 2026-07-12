@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929799305142874112",
+        "3_1929799319764217856",
+        "3_1929799331940286464"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1929799338311462992",
+    "created_at": "2025-06-03T07:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T08:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929799338311462992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DpJQ4arbYf",
+          "end": 64,
+          "expanded_url": "https://x.com/Aloevce/status/1929799338311462992/photo/1",
+          "media_key": "3_1929799305142874112",
+          "start": 41,
+          "url": "https://t.co/DpJQ4arbYf"
+        },
+        {
+          "display_url": "pic.x.com/DpJQ4arbYf",
+          "end": 64,
+          "expanded_url": "https://x.com/Aloevce/status/1929799338311462992/photo/1",
+          "media_key": "3_1929799319764217856",
+          "start": 41,
+          "url": "https://t.co/DpJQ4arbYf"
+        },
+        {
+          "display_url": "pic.x.com/DpJQ4arbYf",
+          "end": 64,
+          "expanded_url": "https://x.com/Aloevce/status/1929799338311462992/photo/1",
+          "media_key": "3_1929799331940286464",
+          "start": 41,
+          "url": "https://t.co/DpJQ4arbYf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929799338311462992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在学校闲置群收了一个电竞椅，还有在闲鱼捡了一些破烂，一天消费一千。。。。。。。。 https://t.co/DpJQ4arbYf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929799305142874112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsgGPlbWMAAssME.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929799319764217856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsgGQb5WMAAs5mD.jpg",
+        "width": 922
+      },
+      {
+        "height": 1441,
+        "media_key": "3_1929799331940286464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsgGRJQWQAAvga7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929799305142874112",
+            "3_1929799319764217856",
+            "3_1929799331940286464"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1929799338311462992",
+        "created_at": "2025-06-03T07:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T08:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929799338311462992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DpJQ4arbYf",
+              "end": 64,
+              "expanded_url": "https://x.com/Aloevce/status/1929799338311462992/photo/1",
+              "media_key": "3_1929799305142874112",
+              "start": 41,
+              "url": "https://t.co/DpJQ4arbYf"
+            },
+            {
+              "display_url": "pic.x.com/DpJQ4arbYf",
+              "end": 64,
+              "expanded_url": "https://x.com/Aloevce/status/1929799338311462992/photo/1",
+              "media_key": "3_1929799319764217856",
+              "start": 41,
+              "url": "https://t.co/DpJQ4arbYf"
+            },
+            {
+              "display_url": "pic.x.com/DpJQ4arbYf",
+              "end": 64,
+              "expanded_url": "https://x.com/Aloevce/status/1929799338311462992/photo/1",
+              "media_key": "3_1929799331940286464",
+              "start": 41,
+              "url": "https://t.co/DpJQ4arbYf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929799338311462992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在学校闲置群收了一个电竞椅，还有在闲鱼捡了一些破烂，一天消费一千。。。。。。。。 https://t.co/DpJQ4arbYf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19195,
+          "following_count": 2393,
+          "like_count": 55425,
+          "listed_count": 20,
+          "media_count": 6084,
+          "tweet_count": 21333
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

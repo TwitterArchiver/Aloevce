@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827031548216143872"
+      ],
+      "media_source_tweet_id": [
+        "1827031551223480528"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1827031877150019936",
+    "created_at": "2024-08-23T17:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T18:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827031877150019936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595840964802723840",
+          "start": 3,
+          "username": "huan0502j"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hkqyqc0dgs",
+          "end": 62,
+          "expanded_url": "https://twitter.com/huan0502j/status/1827031551223480528/photo/1",
+          "media_key": "3_1827031548216143872",
+          "start": 39,
+          "url": "https://t.co/hkQyQC0Dgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827031877150019936",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827031551223480528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huan0502j: 喜欢这张，请大人们多多点赞评论转发，小凌想被爱 https://t.co/hkQyQC0Dgs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1827031877150019936].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1827031877150019936",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1827031877150019936"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1533,
+        "media_key": "3_1827031548216143872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVrrg1ja8AAWNv0.jpg",
+        "width": 1533
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827031548216143872"
+          ]
+        },
+        "author_id": "1595840964802723840",
+        "conversation_id": "1827031551223480528",
+        "created_at": "2024-08-23T17:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T18:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827031551223480528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hkqyqc0dgs",
+              "end": 47,
+              "expanded_url": "https://twitter.com/huan0502j/status/1827031551223480528/photo/1",
+              "media_key": "3_1827031548216143872",
+              "start": 24,
+              "url": "https://t.co/hkQyQC0Dgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827031551223480528",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢这张，请大人们多多点赞评论转发，小凌想被爱 https://t.co/hkQyQC0Dgs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18171,
+          "following_count": 2256,
+          "like_count": 52870,
+          "listed_count": 22,
+          "tweet_count": 18579
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T18:05:10.000Z",
+        "description": "💖06‖辍学‖od‖中焦中抑‖友跨顺女‖🚪50 互关免费‖直fo查成分回‖欢迎来交友！爱所有互关！",
+        "id": "1595840964802723840",
+        "name": "✟幻音凌✟",
+        "pinned_tweet_id": "1826333304641163265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626300970006355969/yYBClncU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 1006,
+          "like_count": 13041,
+          "listed_count": 1,
+          "tweet_count": 2403
+        },
+        "username": "huan0502j",
+        "verified": false
+      }
+    ]
+  }
+}

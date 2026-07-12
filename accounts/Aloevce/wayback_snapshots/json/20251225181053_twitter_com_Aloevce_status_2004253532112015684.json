@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2004252930460078375",
+    "created_at": "2025-12-25T18:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T19:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004253532112015684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1511750949320101889",
+          "start": 0,
+          "username": "ENAreal01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004253532112015684",
+    "in_reply_to_user_id": "1511750949320101889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004253253211664424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ENAreal01 猫咪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2004252930460078375",
+        "created_at": "2025-12-25T18:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T19:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004253532112015684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1511750949320101889",
+              "start": 0,
+              "username": "ENAreal01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004253532112015684",
+        "in_reply_to_user_id": "1511750949320101889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004253253211664424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ENAreal01 猫咪。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511750949320101889",
+        "conversation_id": "2004252930460078375",
+        "created_at": "2025-12-25T18:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T19:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004253253211664424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004253253211664424",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004252930460078375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 左下角是什么生物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18601,
+          "following_count": 2490,
+          "like_count": 55279,
+          "listed_count": 23,
+          "media_count": 6425,
+          "tweet_count": 22412
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T17:01:37.000Z",
+        "description": "中文/ENG/日本語 ➖00+.infp➖ 种族是丘丘人.性别是哈姆.性取向是otto ➖喜欢猫猫 摄影 fpv HiFi Vup r&b Jpop 业余coser genshin mhw 主机游戏 音游  抽象💬 欢迎互fo :）",
+        "id": "1511750949320101889",
+        "location": "枝江市钵钵鸡区羊驼小区1区14栋5单元1401室",
+        "name": "泉Kokona",
+        "pinned_tweet_id": "1611793322770845696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812593261367681024/6z5cEwj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 840,
+          "like_count": 3825,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 586
+        },
+        "username": "ENAreal01",
+        "verified": false
+      }
+    ]
+  }
+}

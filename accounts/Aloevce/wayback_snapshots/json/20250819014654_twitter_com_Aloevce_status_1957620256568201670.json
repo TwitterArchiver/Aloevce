@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1957620256568201670",
+    "created_at": "2025-08-19T01:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T02:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957620256568201670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1957551209306370295",
+          "start": 5,
+          "url": "https://t.co/uh484bA5Vt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957620256568201670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957551209306370295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我校火了 https://t.co/uh484bA5Vt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1215,
+        "media_key": "3_1957550674960347136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyqd96LWcAATFo_.jpg",
+        "width": 973
+      },
+      {
+        "height": 990,
+        "media_key": "3_1957550996701188100",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyqeQowWEAQxWIY.jpg",
+        "width": 547
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1957620256568201670",
+        "created_at": "2025-08-19T01:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T02:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957620256568201670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1957551209306370295",
+              "start": 5,
+              "url": "https://t.co/uh484bA5Vt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957620256568201670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957551209306370295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我校火了 https://t.co/uh484bA5Vt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957550674960347136",
+            "3_1957550996701188100"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1957551209306370295",
+        "created_at": "2025-08-18T21:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T22:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957551209306370295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pVvd8H93Dr",
+              "end": 88,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1957551209306370295/photo/1",
+              "media_key": "3_1957550674960347136",
+              "start": 65,
+              "url": "https://t.co/pVvd8H93Dr"
+            },
+            {
+              "display_url": "pic.x.com/pVvd8H93Dr",
+              "end": 88,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1957551209306370295/photo/1",
+              "media_key": "3_1957550996701188100",
+              "start": 65,
+              "url": "https://t.co/pVvd8H93Dr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957551209306370295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 128387,
+          "like_count": 831,
+          "quote_count": 8,
+          "reply_count": 40,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "8月18日，四川传媒学院公众号发表了文章《这是一张白纸》，随后学校师生纷纷转发。\n过了几个小时后，文章被改名为《这是一片空白》。 https://t.co/pVvd8H93Dr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19066,
+          "following_count": 2412,
+          "like_count": 55496,
+          "listed_count": 23,
+          "media_count": 6223,
+          "tweet_count": 21753
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082402,
+          "following_count": 983,
+          "like_count": 7939,
+          "listed_count": 8270,
+          "media_count": 33645,
+          "tweet_count": 40397
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

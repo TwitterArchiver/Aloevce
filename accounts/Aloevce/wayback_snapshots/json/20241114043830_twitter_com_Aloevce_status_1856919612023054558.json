@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1856919612023054558",
+    "created_at": "2024-11-14T04:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T05:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856919612023054558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Aloevce/status/1856918419544723782",
+          "start": 35,
+          "url": "https://t.co/IXmQCktdCF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856919612023054558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856918419544723782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和同学联系也是隔几个月才联系 小时候追星追过本兮还想看她演唱会。。。 https://t.co/IXmQCktdCF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1856919612023054558",
+        "created_at": "2024-11-14T04:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T05:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856919612023054558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Aloevce/status/1856918419544723782",
+              "start": 35,
+              "url": "https://t.co/IXmQCktdCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856919612023054558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856918419544723782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和同学联系也是隔几个月才联系 小时候追星追过本兮还想看她演唱会。。。 https://t.co/IXmQCktdCF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856918397482651648"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1856918419544723782",
+        "created_at": "2024-11-14T04:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T05:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856918419544723782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXkCuwXfA5",
+              "end": 31,
+              "expanded_url": "https://x.com/Aloevce/status/1856918419544723782/photo/1",
+              "media_key": "3_1856918397482651648",
+              "start": 8,
+              "url": "https://t.co/CXkCuwXfA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856918419544723782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无人在意的一生 https://t.co/CXkCuwXfA5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17629,
+          "following_count": 2285,
+          "like_count": 53342,
+          "listed_count": 21,
+          "tweet_count": 19350
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

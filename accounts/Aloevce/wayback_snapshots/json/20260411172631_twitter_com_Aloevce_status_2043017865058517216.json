@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043017861325893632",
+        "3_2043017861241933829"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2043017865058517216",
+    "created_at": "2026-04-11T17:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043017865058517216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ChEEJasMx3",
+          "end": 32,
+          "expanded_url": "https://x.com/Aloevce/status/2043017865058517216/photo/1",
+          "media_key": "3_2043017861325893632",
+          "start": 9,
+          "url": "https://t.co/ChEEJasMx3"
+        },
+        {
+          "display_url": "pic.x.com/ChEEJasMx3",
+          "end": 32,
+          "expanded_url": "https://x.com/Aloevce/status/2043017865058517216/photo/1",
+          "media_key": "3_2043017861241933829",
+          "start": 9,
+          "url": "https://t.co/ChEEJasMx3"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Aloevce/status/2042874116391190618",
+          "start": 33,
+          "url": "https://t.co/4a19pxEFt2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043017865058517216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042874116391190618",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗓子疼od感冒药 https://t.co/ChEEJasMx3 https://t.co/4a19pxEFt2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043017861325893632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFpB66YbsAANiZP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043017861241933829",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFpB66EakAUBIrE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043017861325893632",
+            "3_2043017861241933829"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2043017865058517216",
+        "created_at": "2026-04-11T17:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043017865058517216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ChEEJasMx3",
+              "end": 32,
+              "expanded_url": "https://x.com/Aloevce/status/2043017865058517216/photo/1",
+              "media_key": "3_2043017861325893632",
+              "start": 9,
+              "url": "https://t.co/ChEEJasMx3"
+            },
+            {
+              "display_url": "pic.x.com/ChEEJasMx3",
+              "end": 32,
+              "expanded_url": "https://x.com/Aloevce/status/2043017865058517216/photo/1",
+              "media_key": "3_2043017861241933829",
+              "start": 9,
+              "url": "https://t.co/ChEEJasMx3"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Aloevce/status/2042874116391190618",
+              "start": 33,
+              "url": "https://t.co/4a19pxEFt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043017865058517216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042874116391190618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗓子疼od感冒药 https://t.co/ChEEJasMx3 https://t.co/4a19pxEFt2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2042874116391190618",
+        "created_at": "2026-04-11T07:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042874116391190618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042874116391190618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我疑似感冒了。嗓子痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17891,
+          "following_count": 2299,
+          "like_count": 54256,
+          "listed_count": 23,
+          "media_count": 6568,
+          "tweet_count": 22908
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

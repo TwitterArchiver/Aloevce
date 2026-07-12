@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2069840539428508016",
+    "created_at": "2026-06-24T17:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069840539428508016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vci0vci0n/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/vci0vci0n/status/2069840054311395512",
+          "start": 7,
+          "url": "https://t.co/qkMHpcWFgB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069840539428508016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069840054311395512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝你也好😭 https://t.co/qkMHpcWFgB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2069840539428508016",
+        "created_at": "2026-06-24T17:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069840539428508016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vci0vci0n/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/vci0vci0n/status/2069840054311395512",
+              "start": 7,
+              "url": "https://t.co/qkMHpcWFgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069840539428508016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069840054311395512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝你也好😭 https://t.co/qkMHpcWFgB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889681974870347776",
+        "conversation_id": "2069838336760410246",
+        "created_at": "2026-06-24T17:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069840054311395512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069840054311395512",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069838336760410246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 鱿鱼好，小猫好，凉席好，宝宝你好就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18091,
+          "following_count": 1961,
+          "like_count": 56361,
+          "listed_count": 23,
+          "media_count": 6830,
+          "tweet_count": 24027
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T14:24:43.000Z",
+        "description": "小熊/X=个人空间碎碎念记录/需要互关请私信/不线下/厌恶一切不礼貌行为/性骚扰会进行拉黑处理",
+        "id": "1889681974870347776",
+        "name": "🧸",
+        "pinned_tweet_id": "2051333846210433196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064608463922327552/pTSKJuu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 258,
+          "like_count": 5595,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1029
+        },
+        "url": "",
+        "username": "vci0vci0n",
+        "verified": false
+      }
+    ]
+  }
+}

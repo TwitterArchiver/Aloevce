@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979590204076752896"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1979590208418111510",
+    "created_at": "2025-10-18T16:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T17:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979590208418111510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Maud5po025",
+          "end": 25,
+          "expanded_url": "https://x.com/Aloevce/status/1979590208418111510/photo/1",
+          "media_key": "3_1979590204076752896",
+          "start": 2,
+          "url": "https://t.co/Maud5po025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979590208418111510",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "额 https://t.co/Maud5po025"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979590204076752896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jqzWLWgAAyDcT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979590204076752896"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1979590208418111510",
+        "created_at": "2025-10-18T16:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T17:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979590208418111510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Maud5po025",
+              "end": 25,
+              "expanded_url": "https://x.com/Aloevce/status/1979590208418111510/photo/1",
+              "media_key": "3_1979590204076752896",
+              "start": 2,
+              "url": "https://t.co/Maud5po025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979590208418111510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额 https://t.co/Maud5po025"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1978882171663221215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18667,
+          "following_count": 2404,
+          "like_count": 54876,
+          "listed_count": 24,
+          "media_count": 6275,
+          "tweet_count": 21921
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

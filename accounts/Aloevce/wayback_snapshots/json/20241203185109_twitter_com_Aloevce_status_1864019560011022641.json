@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1864019560011022641",
+    "created_at": "2024-12-03T18:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T19:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864019560011022641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1492394771452555265",
+          "start": 3,
+          "username": "LoveMaretu"
+        },
+        {
+          "end": 24,
+          "id": "1495662254544789506",
+          "start": 16,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864019560011022641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864019307283276281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LoveMaretu: @Aloevce 不行王牌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1864019560011022641",
+        "created_at": "2024-12-03T18:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T19:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864019560011022641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1492394771452555265",
+              "start": 3,
+              "username": "LoveMaretu"
+            },
+            {
+              "end": 24,
+              "id": "1495662254544789506",
+              "start": 16,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864019560011022641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864019307283276281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LoveMaretu: @Aloevce 不行王牌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492394771452555265",
+        "conversation_id": "1864019215667151010",
+        "created_at": "2024-12-03T18:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T19:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864019307283276281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864019307283276281",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864019215667151010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 不行王牌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人\n奇怪问题https://t.co/EE8B1ewVqa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aloevce",
+                "end": 30,
+                "expanded_url": "https://ngl.link/aloevce",
+                "start": 7,
+                "url": "https://t.co/EE8B1ewVqa"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "location": "闪焰王牌",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1863421983838319069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17635,
+          "following_count": 2335,
+          "like_count": 53468,
+          "listed_count": 20,
+          "media_count": 5430,
+          "tweet_count": 19568
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T07:07:05.000Z",
+        "description": "I LOVE 18+",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "remilia.scarlet.com",
+                "end": 23,
+                "expanded_url": "http://remilia.scarlet.com",
+                "start": 0,
+                "url": "https://t.co/632UkSF1ao"
+              }
+            ]
+          }
+        },
+        "id": "1492394771452555265",
+        "location": "紅魔館之大爆發",
+        "name": "レミリあ″スカーレット",
+        "pinned_tweet_id": "1713566414949490980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713568815815196672/4mxrfbo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 158,
+          "like_count": 1979,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 379
+        },
+        "url": "https://t.co/632UkSF1ao",
+        "username": "LoveMaretu",
+        "verified": false
+      }
+    ]
+  }
+}

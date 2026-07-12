@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1876650468073676800"
+      ],
+      "media_source_tweet_id": [
+        "1876650502433480807"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1877293297464435169",
+    "created_at": "2025-01-09T09:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T10:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877293297464435169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868288412945666048",
+          "start": 3,
+          "username": "XiaoTvT002"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7SVCjnmG6c",
+          "end": 51,
+          "expanded_url": "https://x.com/XiaoTvT002/status/1876650502433480807/video/1",
+          "media_key": "7_1876650468073676800",
+          "start": 28,
+          "url": "https://t.co/7SVCjnmG6c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877293297464435169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876650502433480807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoTvT002: 给你们看什么叫猪头肉🌝 https://t.co/7SVCjnmG6c"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11000,
+        "height": 1280,
+        "media_key": "7_1876650468073676800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1876650468073676800/pu/img/PWngzUa25JPllFIn.jpg",
+        "public_metrics": {
+          "view_count": 47
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1876650468073676800/pu/vid/avc1/320x568/VOCOfZ50uqk-EwcS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1876650468073676800/pu/vid/avc1/480x852/jfjODe394Rr3n5t6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1876650468073676800/pu/vid/avc1/720x1280/SZqxgzT99edhVmPQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1876650468073676800/pu/pl/klMROoXSSIV8xaJe.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1876650468073676800"
+          ],
+          "media_source_tweet_id": [
+            "1876650502433480807"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1877293297464435169",
+        "created_at": "2025-01-09T09:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T10:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877293297464435169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868288412945666048",
+              "start": 3,
+              "username": "XiaoTvT002"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SVCjnmG6c",
+              "end": 51,
+              "expanded_url": "https://x.com/XiaoTvT002/status/1876650502433480807/video/1",
+              "media_key": "7_1876650468073676800",
+              "start": 28,
+              "url": "https://t.co/7SVCjnmG6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877293297464435169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876650502433480807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaoTvT002: 给你们看什么叫猪头肉🌝 https://t.co/7SVCjnmG6c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1876650468073676800"
+          ]
+        },
+        "author_id": "1868288412945666048",
+        "conversation_id": "1876650502433480807",
+        "created_at": "2025-01-07T15:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T16:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876650502433480807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SVCjnmG6c",
+              "end": 35,
+              "expanded_url": "https://x.com/XiaoTvT002/status/1876650502433480807/video/1",
+              "media_key": "7_1876650468073676800",
+              "start": 12,
+              "url": "https://t.co/7SVCjnmG6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876650502433480807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "给你们看什么叫猪头肉🌝 https://t.co/7SVCjnmG6c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17762,
+          "following_count": 2366,
+          "like_count": 53918,
+          "listed_count": 20,
+          "media_count": 5566,
+          "tweet_count": 19981
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T13:34:12.000Z",
+        "description": "这里只是一个桶子，里面装满了水 🪣🪣",
+        "id": "1868288412945666048",
+        "location": "🚪52/188（线下请过188）",
+        "name": "···筱···",
+        "pinned_tweet_id": "1874137364756652411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868293601597554688/jv15SzZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 24,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 45
+        },
+        "username": "XiaoTvT002",
+        "verified": false
+      }
+    ]
+  }
+}

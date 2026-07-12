@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1863790980467503448",
+    "created_at": "2024-12-03T03:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T04:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863790980467503448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kakashiuvu09/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/kakashiuvu09/status/1863432336588857510",
+          "start": 10,
+          "url": "https://t.co/P79uAHJcEY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863790980467503448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863432336588857510",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我爱听四川话怎么办 https://t.co/P79uAHJcEY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1863790980467503448",
+        "created_at": "2024-12-03T03:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T04:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863790980467503448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kakashiuvu09/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/kakashiuvu09/status/1863432336588857510",
+              "start": 10,
+              "url": "https://t.co/P79uAHJcEY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863790980467503448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863432336588857510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爱听四川话怎么办 https://t.co/P79uAHJcEY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845804987311595520",
+        "conversation_id": "1863432336588857510",
+        "created_at": "2024-12-02T03:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T04:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863432336588857510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863432336588857510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 48285,
+          "like_count": 608,
+          "quote_count": 22,
+          "reply_count": 82,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "广东男最爱和女网友发语音说粤语 觉得别人一听他会粤语就会爱上他 声音听起来很低音 实际上因为体重180斤 讲完还要给你唱一首跑调的富士山下 聊到动情之处告诉你 广东那边人都很有钱的 但是不愿意走远 如果我们在一起 你嫁过去广东很宠老婆 等你爱上后发现对方是一只身高165的中小型类人猿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1863421983838319069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17627,
+          "following_count": 2330,
+          "like_count": 53445,
+          "listed_count": 20,
+          "media_count": 5417,
+          "tweet_count": 19542
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T12:33:12.000Z",
+        "description": "我要幸福",
+        "id": "1845804987311595520",
+        "name": "潮嘲熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845809946484727808/HMc_LLcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 94,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 333
+        },
+        "username": "kakashiuvu09",
+        "verified": false
+      }
+    ]
+  }
+}

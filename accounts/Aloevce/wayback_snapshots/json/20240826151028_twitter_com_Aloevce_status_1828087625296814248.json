@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1828083449707794686",
+    "created_at": "2024-08-26T15:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T16:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828087625296814248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1759401409861079040",
+          "start": 0,
+          "username": "maomaodebian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828087625296814248",
+    "in_reply_to_user_id": "1759401409861079040",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828084270545752336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomaodebian 右"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1828083449707794686",
+        "created_at": "2024-08-26T15:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T16:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828087625296814248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1759401409861079040",
+              "start": 0,
+              "username": "maomaodebian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828087625296814248",
+        "in_reply_to_user_id": "1759401409861079040",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828084270545752336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaodebian 右"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759401409861079040",
+        "conversation_id": "1828083449707794686",
+        "created_at": "2024-08-26T14:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T15:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828084270545752336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828084270545752336",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828083449707794686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 殴的什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18215,
+          "following_count": 2257,
+          "like_count": 52907,
+          "listed_count": 22,
+          "tweet_count": 18613
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T02:16:17.000Z",
+        "description": "不想再过眼泪流到嘴里的夜晚",
+        "id": "1759401409861079040",
+        "location": "猫",
+        "name": "扁扁的猫",
+        "pinned_tweet_id": "1826515830282334348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827245513101733892/oN15arv0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 124,
+          "like_count": 1321,
+          "listed_count": 0,
+          "tweet_count": 541
+        },
+        "username": "maomaodebian",
+        "verified": false
+      }
+    ]
+  }
+}

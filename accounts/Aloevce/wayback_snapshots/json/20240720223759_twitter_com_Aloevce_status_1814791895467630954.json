@@ -1,0 +1,158 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1814791895467630954",
+    "created_at": "2024-07-20T22:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T23:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1814791895467630954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/Aloevce/status/1812933224001380486",
+          "start": 45,
+          "url": "https://t.co/AYyeq8YuwC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814791895467630954",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812933224001380486",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "追加：关注我的我也懒得理，关注我还私信我ghs的你一个人替我挡灾，贴脸问坐标的4000➕ https://t.co/AYyeq8YuwC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1814791895467630954",
+        "created_at": "2024-07-20T22:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T23:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814791895467630954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Aloevce/status/1812933224001380486",
+              "start": 45,
+              "url": "https://t.co/AYyeq8YuwC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814791895467630954",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812933224001380486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "追加：关注我的我也懒得理，关注我还私信我ghs的你一个人替我挡灾，贴脸问坐标的4000➕ https://t.co/AYyeq8YuwC"
+      },
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1812933224001380486",
+        "created_at": "2024-07-15T19:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T20:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812933224001380486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812933224001380486",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16497,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没关注我还私信我ghs的你全家替我挡灾吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1812933224001380486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17420,
+          "following_count": 2198,
+          "like_count": 52110,
+          "listed_count": 21,
+          "tweet_count": 18001
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

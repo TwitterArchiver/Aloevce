@@ -1,0 +1,222 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1812733534131437568",
+        "3_1812733538397011969"
+      ],
+      "media_source_tweet_id": [
+        "1812733804605542502",
+        "1812733804605542502"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1812945092313018445",
+    "created_at": "2024-07-15T20:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T21:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812945092313018445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775854585212440576",
+          "start": 3,
+          "username": "naiweiayi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/7qZTj351ZS",
+          "end": 97,
+          "expanded_url": "https://twitter.com/naiweiayi/status/1812733804605542502/photo/1",
+          "media_key": "3_1812733534131437568",
+          "start": 74,
+          "url": "https://t.co/7qZTj351ZS"
+        },
+        {
+          "display_url": "pic.twitter.com/7qZTj351ZS",
+          "end": 97,
+          "expanded_url": "https://twitter.com/naiweiayi/status/1812733804605542502/photo/1",
+          "media_key": "3_1812733538397011969",
+          "start": 74,
+          "url": "https://t.co/7qZTj351ZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812945092313018445",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812733804605542502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naiweiayi: 你不喜欢丝袜没关系  那么多癖好难道要我都满足吗？发这些也是让自己开心快乐  来一个同城优质男  激起我的征服欲吧… https://t.co/7qZTj351ZS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1812945092313018445].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1812945092313018445",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1812945092313018445"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1812733534131437568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSgfi4ZXwAA5PtB.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1812733538397011969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSgfjISXQAEKk2K.jpg",
+        "width": 978
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812733534131437568",
+            "3_1812733538397011969"
+          ]
+        },
+        "author_id": "1775854585212440576",
+        "conversation_id": "1812733804605542502",
+        "created_at": "2024-07-15T06:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T07:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812733804605542502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/7qZTj351ZS",
+              "end": 82,
+              "expanded_url": "https://twitter.com/naiweiayi/status/1812733804605542502/photo/1",
+              "media_key": "3_1812733534131437568",
+              "start": 59,
+              "url": "https://t.co/7qZTj351ZS"
+            },
+            {
+              "display_url": "pic.twitter.com/7qZTj351ZS",
+              "end": 82,
+              "expanded_url": "https://twitter.com/naiweiayi/status/1812733804605542502/photo/1",
+              "media_key": "3_1812733538397011969",
+              "start": 59,
+              "url": "https://t.co/7qZTj351ZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812733804605542502",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 34916,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "你不喜欢丝袜没关系  那么多癖好难道要我都满足吗？发这些也是让自己开心快乐  来一个同城优质男  激起我的征服欲吧… https://t.co/7qZTj351ZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1812569352366866598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17554,
+          "following_count": 2200,
+          "like_count": 52057,
+          "listed_count": 21,
+          "tweet_count": 17955
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T11:55:07.000Z",
+        "description": "人到了某个阶段，是不是该翻篇了？只要生活，总有束缚，很多事最终只有自己知道，第一次学会上推特，也许自己是需要另一个世界的生活感受，生命的本质。💗日常号 @jingcheng585",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "jingcheng585"
+              }
+            ]
+          }
+        },
+        "id": "1775854585212440576",
+        "location": "21.39km",
+        "name": "奶味阿姨🥛",
+        "pinned_tweet_id": "1811764776046915883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791910704028717056/oX0J2_1j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3657,
+          "following_count": 6,
+          "like_count": 79,
+          "listed_count": 4,
+          "tweet_count": 93
+        },
+        "username": "naiweiayi",
+        "verified": false
+      }
+    ]
+  }
+}

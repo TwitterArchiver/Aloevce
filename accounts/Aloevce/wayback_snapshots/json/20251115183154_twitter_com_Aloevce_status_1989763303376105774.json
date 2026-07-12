@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1989720226611539973",
+    "created_at": "2025-11-15T18:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T19:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989763303376105774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1745859240961736704",
+          "start": 0,
+          "username": "xiatianze2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989763303376105774",
+    "in_reply_to_user_id": "1745859240961736704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989733965796970705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiatianze2005 额"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1989720226611539973",
+        "created_at": "2025-11-15T18:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T19:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989763303376105774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745859240961736704",
+              "start": 0,
+              "username": "xiatianze2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989763303376105774",
+        "in_reply_to_user_id": "1745859240961736704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989733965796970705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiatianze2005 额"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745859240961736704",
+        "conversation_id": "1989720226611539973",
+        "created_at": "2025-11-15T16:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T17:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989733965796970705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989733965796970705",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989720226611539973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1983656746171429044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18579,
+          "following_count": 2389,
+          "like_count": 54670,
+          "listed_count": 24,
+          "media_count": 6303,
+          "tweet_count": 22025
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T17:24:25.000Z",
+        "description": "举头三尺有神明",
+        "id": "1745859240961736704",
+        "location": "举头三尺",
+        "name": "举头三尺有神明",
+        "pinned_tweet_id": "1962772214387724327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781152842780475392/uIQmBgHK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 117,
+          "like_count": 91,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 123
+        },
+        "username": "xiatianze2005",
+        "verified": false
+      }
+    ]
+  }
+}

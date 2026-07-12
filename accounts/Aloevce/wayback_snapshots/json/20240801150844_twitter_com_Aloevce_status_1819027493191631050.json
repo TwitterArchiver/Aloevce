@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1819027493191631050",
+    "created_at": "2024-08-01T15:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T16:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1819027493191631050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Aloevce/status/1819024830244815311",
+          "start": 3,
+          "url": "https://t.co/2rSTxbVAa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819027493191631050",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819024830244815311",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求赞 https://t.co/2rSTxbVAa1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1819027493191631050",
+        "created_at": "2024-08-01T15:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T16:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819027493191631050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Aloevce/status/1819024830244815311",
+              "start": 3,
+              "url": "https://t.co/2rSTxbVAa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819027493191631050",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819024830244815311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求赞 https://t.co/2rSTxbVAa1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1819024830244815311",
+        "created_at": "2024-08-01T14:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T15:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819024830244815311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "v.douyin.com/iMW57hrd/",
+              "end": 93,
+              "expanded_url": "https://v.douyin.com/iMW57hrd/",
+              "start": 70,
+              "status": 200,
+              "unwound_url": "https://www.douyin.com/note/7398181192362773814",
+              "url": "https://t.co/yGSuAdknQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819024830244815311",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求赞我抖音，谁赞我?16个赞才给我包邮。2.02 复制打开抖音，看看【叶曦蓝vce的图文作品】祈雪落求赞。# lo裙安利 # 天线猫洋装  https://t.co/yGSuAdknQX 08/27 h@b.At Bte:/"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17237,
+          "following_count": 2183,
+          "like_count": 52012,
+          "listed_count": 19,
+          "tweet_count": 18137
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

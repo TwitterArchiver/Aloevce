@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940472380633088000"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1940472384970174702",
+    "created_at": "2025-07-02T18:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T19:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940472384970174702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VYNAatelK9",
+          "end": 37,
+          "expanded_url": "https://x.com/Aloevce/status/1940472384970174702/photo/1",
+          "media_key": "3_1940472380633088000",
+          "start": 14,
+          "url": "https://t.co/VYNAatelK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940472384970174702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我衣柜里十几件kry，权威 https://t.co/VYNAatelK9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1940472380633088000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu3xWWAXgAAcTo-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940472380633088000"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1940472384970174702",
+        "created_at": "2025-07-02T18:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T19:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940472384970174702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYNAatelK9",
+              "end": 37,
+              "expanded_url": "https://x.com/Aloevce/status/1940472384970174702/photo/1",
+              "media_key": "3_1940472380633088000",
+              "start": 14,
+              "url": "https://t.co/VYNAatelK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940472384970174702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我衣柜里十几件kry，权威 https://t.co/VYNAatelK9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19083,
+          "following_count": 2377,
+          "like_count": 55415,
+          "listed_count": 20,
+          "media_count": 6137,
+          "tweet_count": 21489
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

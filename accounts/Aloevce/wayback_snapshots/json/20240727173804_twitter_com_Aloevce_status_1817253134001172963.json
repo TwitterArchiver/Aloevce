@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1817253134001172963",
+    "created_at": "2024-07-27T17:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T18:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817253134001172963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1742549559488761857",
+          "start": 3,
+          "username": "DengdengJune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817253134001172963",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817097683569680687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DengdengJune: 抽个lizlisa量产系粉黑 1800fo的时候开奖\n吊雷女装备+1  另外再附3个52元红包\n\n参与方式：关注+转发本条推文+评论 1800fo的时候最好来踢我一下谢谢～\n\n最近去旅游线虫 回来阴暗潮湿空间重新当老鼠 https://t.c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1817253134001172963].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1817253134001172963",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1817253134001172963"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817097660454866944",
+            "3_1817097660450635778",
+            "3_1817097660467412993",
+            "3_1817097660459024385"
+          ]
+        },
+        "author_id": "1742549559488761857",
+        "conversation_id": "1817097683569680687",
+        "created_at": "2024-07-27T07:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T08:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817097683569680687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ZHREWDX6Ng",
+              "end": 133,
+              "expanded_url": "https://twitter.com/DengdengJune/status/1817097683569680687/photo/1",
+              "media_key": "3_1817097660454866944",
+              "start": 110,
+              "url": "https://t.co/ZHREWDX6Ng"
+            },
+            {
+              "display_url": "pic.twitter.com/ZHREWDX6Ng",
+              "end": 133,
+              "expanded_url": "https://twitter.com/DengdengJune/status/1817097683569680687/photo/1",
+              "media_key": "3_1817097660450635778",
+              "start": 110,
+              "url": "https://t.co/ZHREWDX6Ng"
+            },
+            {
+              "display_url": "pic.twitter.com/ZHREWDX6Ng",
+              "end": 133,
+              "expanded_url": "https://twitter.com/DengdengJune/status/1817097683569680687/photo/1",
+              "media_key": "3_1817097660467412993",
+              "start": 110,
+              "url": "https://t.co/ZHREWDX6Ng"
+            },
+            {
+              "display_url": "pic.twitter.com/ZHREWDX6Ng",
+              "end": 133,
+              "expanded_url": "https://twitter.com/DengdengJune/status/1817097683569680687/photo/1",
+              "media_key": "3_1817097660459024385",
+              "start": 110,
+              "url": "https://t.co/ZHREWDX6Ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817097683569680687",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2272,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "抽个lizlisa量产系粉黑 1800fo的时候开奖\n吊雷女装备+1  另外再附3个52元红包\n\n参与方式：关注+转发本条推文+评论 1800fo的时候最好来踢我一下谢谢～\n\n最近去旅游线虫 回来阴暗潮湿空间重新当老鼠 https://t.co/ZHREWDX6Ng"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17172,
+          "following_count": 2191,
+          "like_count": 52006,
+          "listed_count": 19,
+          "tweet_count": 18067
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T14:12:52.000Z",
+        "description": "🚪188",
+        "id": "1742549559488761857",
+        "location": "0.1km",
+        "name": "等等",
+        "pinned_tweet_id": "1817097683569680687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795472348231168000/ok4Zd8eh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 15,
+          "like_count": 159,
+          "listed_count": 0,
+          "tweet_count": 358
+        },
+        "username": "DengdengJune",
+        "verified": false
+      }
+    ]
+  }
+}

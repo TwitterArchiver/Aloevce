@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027447901635432448",
+        "3_2027447971353104384"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2027447974721151278",
+    "created_at": "2026-02-27T18:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T19:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027447974721151278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8fGDtmpd8V",
+          "end": 33,
+          "expanded_url": "https://x.com/Aloevce/status/2027447974721151278/photo/1",
+          "media_key": "3_2027447901635432448",
+          "start": 10,
+          "url": "https://t.co/8fGDtmpd8V"
+        },
+        {
+          "display_url": "pic.x.com/8fGDtmpd8V",
+          "end": 33,
+          "expanded_url": "https://x.com/Aloevce/status/2027447974721151278/photo/1",
+          "media_key": "3_2027447971353104384",
+          "start": 10,
+          "url": "https://t.co/8fGDtmpd8V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027447974721151278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我读卡器怎么又没带 https://t.co/8fGDtmpd8V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027447901635432448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLxH-mXUAAdTAu.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027447971353104384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLxMCUWkAAXCAp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027447901635432448",
+            "3_2027447971353104384"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2027447974721151278",
+        "created_at": "2026-02-27T18:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027447974721151278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8fGDtmpd8V",
+              "end": 33,
+              "expanded_url": "https://x.com/Aloevce/status/2027447974721151278/photo/1",
+              "media_key": "3_2027447901635432448",
+              "start": 10,
+              "url": "https://t.co/8fGDtmpd8V"
+            },
+            {
+              "display_url": "pic.x.com/8fGDtmpd8V",
+              "end": 33,
+              "expanded_url": "https://x.com/Aloevce/status/2027447974721151278/photo/1",
+              "media_key": "3_2027447971353104384",
+              "start": 10,
+              "url": "https://t.co/8fGDtmpd8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027447974721151278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我读卡器怎么又没带 https://t.co/8fGDtmpd8V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18385,
+          "following_count": 2287,
+          "like_count": 54581,
+          "listed_count": 22,
+          "media_count": 6508,
+          "tweet_count": 22684
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

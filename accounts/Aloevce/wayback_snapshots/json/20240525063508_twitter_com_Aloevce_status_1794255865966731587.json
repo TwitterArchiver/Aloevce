@@ -1,0 +1,166 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1794255645920886784",
+        "3_1794255741228072960"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1794255865966731587",
+    "created_at": "2024-05-25T06:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T07:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794255865966731587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "Sommer.Je",
+          "end": 135,
+          "expanded_url": "http://Sommer.Je",
+          "start": 112,
+          "unwound_url": "http://Sommer.Je",
+          "url": "https://t.co/SRKF5A8qbV"
+        },
+        {
+          "display_url": "pic.twitter.com/ePJa5drWFf",
+          "end": 173,
+          "expanded_url": "https://twitter.com/Aloevce/status/1794255865966731587/photo/1",
+          "media_key": "3_1794255645920886784",
+          "start": 150,
+          "url": "https://t.co/ePJa5drWFf"
+        },
+        {
+          "display_url": "pic.twitter.com/ePJa5drWFf",
+          "end": 173,
+          "expanded_url": "https://twitter.com/Aloevce/status/1794255865966731587/photo/1",
+          "media_key": "3_1794255741228072960",
+          "start": 150,
+          "url": "https://t.co/ePJa5drWFf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794255865966731587",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我恨夏天。I hate summer.私は夏が嫌いです。여름이 싫어。ฉันเกลียดฤดูร้อน。Ненавижу лето.Odio l'estate.Μισώ το καλοκαίρι.Ich hasse den https://t.co/SRKF5A8qbV déteste l'été https://t.co/ePJa5drWFf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1794255645920886784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOZ6AOtagAAB5Go.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1794255741228072960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOZ6FxwawAAiIJH.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794255645920886784",
+            "3_1794255741228072960"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1794255865966731587",
+        "created_at": "2024-05-25T06:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T07:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794255865966731587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "Sommer.Je",
+              "end": 135,
+              "expanded_url": "http://Sommer.Je",
+              "start": 112,
+              "unwound_url": "http://Sommer.Je",
+              "url": "https://t.co/SRKF5A8qbV"
+            },
+            {
+              "display_url": "pic.twitter.com/ePJa5drWFf",
+              "end": 173,
+              "expanded_url": "https://twitter.com/Aloevce/status/1794255865966731587/photo/1",
+              "media_key": "3_1794255645920886784",
+              "start": 150,
+              "url": "https://t.co/ePJa5drWFf"
+            },
+            {
+              "display_url": "pic.twitter.com/ePJa5drWFf",
+              "end": 173,
+              "expanded_url": "https://twitter.com/Aloevce/status/1794255865966731587/photo/1",
+              "media_key": "3_1794255741228072960",
+              "start": 150,
+              "url": "https://t.co/ePJa5drWFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794255865966731587",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨夏天。I hate summer.私は夏が嫌いです。여름이 싫어。ฉันเกลียดฤดูร้อน。Ненавижу лето.Odio l'estate.Μισώ το καλοκαίρι.Ich hasse den https://t.co/SRKF5A8qbV déteste l'été https://t.co/ePJa5drWFf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1793923054806175806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12881,
+          "following_count": 2231,
+          "like_count": 52115,
+          "listed_count": 19,
+          "tweet_count": 17466
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

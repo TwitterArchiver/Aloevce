@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2028183373068292287",
+    "created_at": "2026-03-01T18:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T19:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028183373068292287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iiovoii00/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/iiovoii00/status/2027847596845502656",
+          "start": 2,
+          "url": "https://t.co/gOhmfyjsro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028183373068292287",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027847596845502656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/gOhmfyjsro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2028183373068292287",
+        "created_at": "2026-03-01T18:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T19:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028183373068292287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiovoii00/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/iiovoii00/status/2027847596845502656",
+              "start": 2,
+              "url": "https://t.co/gOhmfyjsro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028183373068292287",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027847596845502656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/gOhmfyjsro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961955188094468096",
+        "conversation_id": "2027847596845502656",
+        "created_at": "2026-02-28T20:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T21:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027847596845502656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027847596845502656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4331,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "跟我谈恋爱的坏处1.全天视奸你的社交账号，观察最新动态2.研究你的生辰八字剖析你的可爱你的阴暗面3.闲着会死黏着你聊天几个小时4.偷偷给你准备烦人的惊喜礼物5.不准你和其他人说笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18391,
+          "following_count": 2296,
+          "like_count": 54646,
+          "listed_count": 22,
+          "media_count": 6515,
+          "tweet_count": 22722
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T00:52:35.000Z",
+        "description": "好喜欢碎碎念",
+        "id": "1961955188094468096",
+        "name": "小星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027709213552873473/54NCCc-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 13,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 248
+        },
+        "username": "iiovoii00",
+        "verified": false
+      }
+    ]
+  }
+}

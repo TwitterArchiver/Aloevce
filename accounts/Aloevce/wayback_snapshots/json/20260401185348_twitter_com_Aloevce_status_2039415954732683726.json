@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1377670189441900544",
+          "name": "April Fools' Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2039415954732683726",
+    "created_at": "2026-04-01T18:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T19:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039415954732683726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EBI_chan252/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/EBI_chan252/status/2039222861739753710",
+          "start": 10,
+          "url": "https://t.co/Sgjd4sfDnP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039415954732683726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039222861739753710",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想分舌给劳工抠脚 https://t.co/Sgjd4sfDnP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1195,
+        "media_key": "3_2039222859021869056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzGYtHa4AAOttn.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1377670189441900544",
+              "name": "April Fools' Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2039415954732683726",
+        "created_at": "2026-04-01T18:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T19:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039415954732683726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EBI_chan252/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/EBI_chan252/status/2039222861739753710",
+              "start": 10,
+              "url": "https://t.co/Sgjd4sfDnP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039415954732683726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039222861739753710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想分舌给劳工抠脚 https://t.co/Sgjd4sfDnP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039222859021869056"
+          ]
+        },
+        "author_id": "890460966835560449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1377670189441900544",
+              "name": "April Fools' Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2039222861739753710",
+        "created_at": "2026-04-01T06:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039222861739753710"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "エイプリルフール"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMktKIv5Q0",
+              "end": 33,
+              "expanded_url": "https://x.com/EBI_chan252/status/2039222861739753710/photo/1",
+              "media_key": "3_2039222859021869056",
+              "start": 10,
+              "url": "https://t.co/CMktKIv5Q0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039222861739753710",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 29405,
+          "like_count": 1187,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "#エイプリルフール https://t.co/CMktKIv5Q0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18117,
+          "following_count": 2305,
+          "like_count": 53919,
+          "listed_count": 22,
+          "media_count": 6554,
+          "tweet_count": 22747
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-27T06:36:53.000Z",
+        "description": "歌って踊ります🧡❤️   @TwinQ_DOLL  リプ気まぐれ、仕事以外のDM❌\n撮ったお写真はあげる前に確認していただけると泣いて喜びます 告知用▶@awa_252               \nラブマツスタッフ:番号01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "TwinQ_DOLL"
+              },
+              {
+                "end": 84,
+                "start": 76,
+                "username": "awa_252"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@awa_252?si=S8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@awa_252?si=S8ceOxN_vfSMmoLy",
+                "start": 0,
+                "url": "https://t.co/joJ5wTVmgq"
+              }
+            ]
+          }
+        },
+        "id": "890460966835560449",
+        "name": "海老丸まいる🍤@3/31生誕祭LIVE",
+        "pinned_tweet_id": "2039224561083068678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021892872849723392/B5etJZgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4884,
+          "following_count": 592,
+          "like_count": 4877,
+          "listed_count": 38,
+          "media_count": 614,
+          "tweet_count": 5008
+        },
+        "url": "https://t.co/joJ5wTVmgq",
+        "username": "EBI_chan252",
+        "verified": true
+      }
+    ]
+  }
+}

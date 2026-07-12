@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1829589178222535075",
+    "created_at": "2024-08-30T18:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T19:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829589178222535075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BBlack_envelop…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/BBlack_envelope/status/1829561347203354643",
+          "start": 10,
+          "url": "https://t.co/Rg4uamStQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829589178222535075",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829561347203354643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的前几任全部aa https://t.co/Rg4uamStQ1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1829589178222535075",
+        "created_at": "2024-08-30T18:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T19:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829589178222535075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BBlack_envelop…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/BBlack_envelope/status/1829561347203354643",
+              "start": 10,
+              "url": "https://t.co/Rg4uamStQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829589178222535075",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829561347203354643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的前几任全部aa https://t.co/Rg4uamStQ1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519323079255932928",
+        "conversation_id": "1829200661470425142",
+        "created_at": "2024-08-30T16:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T17:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829561347203354643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1387442024115171335",
+              "start": 0,
+              "username": "Alice41110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829561347203354643",
+        "in_reply_to_user_id": "1387442024115171335",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 406,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829200661470425142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice41110 天津男：几把小还事儿多还扣还得女生买单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18124,
+          "following_count": 2261,
+          "like_count": 53091,
+          "listed_count": 22,
+          "tweet_count": 18742
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-27T14:30:41.000Z",
+        "description": "不知道如何跟我开展话题就为我买单一杯酒吧！最后，祝你鸿运当头",
+        "id": "1519323079255932928",
+        "name": "酱汁牛肉味青豌豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782720620859473920/Yto5Xmp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19071,
+          "following_count": 442,
+          "like_count": 8984,
+          "listed_count": 51,
+          "tweet_count": 3579
+        },
+        "username": "BBlack_envelope",
+        "verified": false
+      }
+    ]
+  }
+}

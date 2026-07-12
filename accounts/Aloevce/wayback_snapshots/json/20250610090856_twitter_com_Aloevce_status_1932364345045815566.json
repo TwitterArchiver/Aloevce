@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1932291032517149034",
+    "created_at": "2025-06-10T09:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T10:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932364345045815566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552602100634251265",
+          "start": 0,
+          "username": "AceChiliYin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932364345045815566",
+    "in_reply_to_user_id": "1552602100634251265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932291032517149034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AceChiliYin 什么米泽茜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932291029283356673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtDgdBMbwAEz57Z.jpg",
+        "width": 1202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1932291032517149034",
+        "created_at": "2025-06-10T09:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T10:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932364345045815566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552602100634251265",
+              "start": 0,
+              "username": "AceChiliYin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932364345045815566",
+        "in_reply_to_user_id": "1552602100634251265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932291032517149034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AceChiliYin 什么米泽茜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932291029283356673"
+          ]
+        },
+        "author_id": "1552602100634251265",
+        "conversation_id": "1932291032517149034",
+        "created_at": "2025-06-10T04:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T05:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932291032517149034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEG1BEKYsY",
+              "end": 45,
+              "expanded_url": "https://x.com/AceChiliYin/status/1932291032517149034/photo/1",
+              "media_key": "3_1932291029283356673",
+              "start": 22,
+              "url": "https://t.co/fEG1BEKYsY"
+            },
+            {
+              "display_url": "x.com/AceChiliYin/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/AceChiliYin/status/1927280542602375558",
+              "start": 46,
+              "url": "https://t.co/E93zdlxaPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932291032517149034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1602,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927280542602375558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爹就这么每天给我发些很爆的东西\n神人家庭 https://t.co/fEG1BEKYsY https://t.co/E93zdlxaPX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19185,
+          "following_count": 2393,
+          "like_count": 55473,
+          "listed_count": 20,
+          "media_count": 6100,
+          "tweet_count": 21383
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T10:29:33.000Z",
+        "description": "永雏弦是雏草姬喵丨isfp♂男的喵且是直非同哦丨Chili🌶️是喜欢乐队的前缀，Yin🎼是弦的粤语读音，喜欢音乐丨61kg176竹竿Cantonese丨不涉时政丨叫我小弦🐱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiliyin?si=L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiliyin?si=LGU4ACqix6eS_odl",
+                "start": 0,
+                "url": "https://t.co/rhXAcjwhhK"
+              }
+            ]
+          }
+        },
+        "id": "1552602100634251265",
+        "location": "廣東香山",
+        "name": "绮狸弦🎼🔮🌊",
+        "pinned_tweet_id": "1924086307464311291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902178095072997376/0tSvH2uZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 722,
+          "like_count": 103487,
+          "listed_count": 10,
+          "media_count": 803,
+          "tweet_count": 21037
+        },
+        "url": "https://t.co/rhXAcjwhhK",
+        "username": "AceChiliYin",
+        "verified": false
+      }
+    ]
+  }
+}

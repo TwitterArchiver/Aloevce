@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978882166231625728"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1978882171663221215",
+    "created_at": "2025-10-16T17:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T18:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978882171663221215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wHyB5b97eK",
+          "end": 35,
+          "expanded_url": "https://x.com/Aloevce/status/1978882171663221215/photo/1",
+          "media_key": "3_1978882166231625728",
+          "start": 12,
+          "url": "https://t.co/wHyB5b97eK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978882171663221215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从此我就如此约翰李贝特 https://t.co/wHyB5b97eK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1470,
+        "media_key": "3_1978882166231625728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Zm2HqXcAADLqK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978882166231625728"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1978882171663221215",
+        "created_at": "2025-10-16T17:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T18:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978882171663221215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wHyB5b97eK",
+              "end": 35,
+              "expanded_url": "https://x.com/Aloevce/status/1978882171663221215/photo/1",
+              "media_key": "3_1978882166231625728",
+              "start": 12,
+              "url": "https://t.co/wHyB5b97eK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978882171663221215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从此我就如此约翰李贝特 https://t.co/wHyB5b97eK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18687,
+          "following_count": 2404,
+          "like_count": 54876,
+          "listed_count": 24,
+          "media_count": 6273,
+          "tweet_count": 21909
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

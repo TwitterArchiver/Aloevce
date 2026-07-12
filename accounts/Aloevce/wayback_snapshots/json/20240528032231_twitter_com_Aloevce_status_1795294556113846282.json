@@ -1,0 +1,147 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1795293683669241856"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1795294556113846282",
+    "created_at": "2024-05-28T03:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T04:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1795294556113846282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/EIKC7ZvsjL",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Aloevce/status/1795294556113846282/video/1",
+          "media_key": "7_1795293683669241856",
+          "start": 31,
+          "url": "https://t.co/EIKC7ZvsjL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795294556113846282",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心のまま変わらずいられたら行く末も，くだらなくは無いんだね， https://t.co/EIKC7ZvsjL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2071,
+        "height": 1264,
+        "media_key": "7_1795293683669241856",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1795293683669241856/pu/img/14mC2iMsMCrGVhS2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1795293683669241856/pu/vid/avc1/320x560/ZNVPHOvYguW5ISAH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1795293683669241856/pu/vid/avc1/480x842/NIT8UfMXNvYgZhm4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1795293683669241856/pu/vid/avc1/720x1264/-YfGqqsbZj3XDNSj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1795293683669241856/pu/pl/EM0mLAbybLwWInQL.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1795293683669241856"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1795294556113846282",
+        "created_at": "2024-05-28T03:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T04:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795294556113846282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/EIKC7ZvsjL",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Aloevce/status/1795294556113846282/video/1",
+              "media_key": "7_1795293683669241856",
+              "start": 31,
+              "url": "https://t.co/EIKC7ZvsjL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795294556113846282",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心のまま変わらずいられたら行く末も，くだらなくは無いんだね， https://t.co/EIKC7ZvsjL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12861,
+          "following_count": 2234,
+          "like_count": 52149,
+          "listed_count": 19,
+          "tweet_count": 17495
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

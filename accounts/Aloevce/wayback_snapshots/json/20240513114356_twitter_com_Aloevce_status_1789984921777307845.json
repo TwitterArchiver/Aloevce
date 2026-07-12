@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1789984921777307845",
+    "created_at": "2024-05-13T11:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T12:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1789984921777307845"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1789984921777307845",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你叫我滚的那一刻我的世界都安静了，我头也没有回地走了，天气好热，你这里好冰，我脑子空空什么也没有想，不知道该笑还是哭，我买了牛蛙面是我今天吃的第一顿饭，我不知道该咋办了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1789984921777307845",
+        "created_at": "2024-05-13T11:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T12:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789984921777307845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789984921777307845",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你叫我滚的那一刻我的世界都安静了，我头也没有回地走了，天气好热，你这里好冰，我脑子空空什么也没有想，不知道该笑还是哭，我买了牛蛙面是我今天吃的第一顿饭，我不知道该咋办了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12864,
+          "following_count": 2229,
+          "like_count": 51922,
+          "listed_count": 18,
+          "tweet_count": 17359
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

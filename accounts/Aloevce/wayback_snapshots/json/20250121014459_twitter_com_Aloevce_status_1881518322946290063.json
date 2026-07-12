@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1881295284296392876",
+    "created_at": "2025-01-21T01:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T02:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881518322946290063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1775197851301371904",
+          "start": 0,
+          "username": "nqn7m114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881518322946290063",
+    "in_reply_to_user_id": "1775197851301371904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881295284296392876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nqn7m114514 辣辣米"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1881295284296392876",
+        "created_at": "2025-01-21T01:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T02:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881518322946290063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775197851301371904",
+              "start": 0,
+              "username": "nqn7m114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881518322946290063",
+        "in_reply_to_user_id": "1775197851301371904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881295284296392876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nqn7m114514 辣辣米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881295280685117440",
+            "3_1881295281058430976"
+          ]
+        },
+        "author_id": "1775197851301371904",
+        "conversation_id": "1881295284296392876",
+        "created_at": "2025-01-20T10:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T11:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881295284296392876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qs309s2IsF",
+              "end": 29,
+              "expanded_url": "https://x.com/nqn7m114514/status/1881295284296392876/photo/1",
+              "media_key": "3_1881295280685117440",
+              "start": 6,
+              "url": "https://t.co/Qs309s2IsF"
+            },
+            {
+              "display_url": "pic.x.com/Qs309s2IsF",
+              "end": 29,
+              "expanded_url": "https://x.com/nqn7m114514/status/1881295284296392876/photo/1",
+              "media_key": "3_1881295281058430976",
+              "start": 6,
+              "url": "https://t.co/Qs309s2IsF"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01cb3bd54f92388e"
+        },
+        "id": "1881295284296392876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对吗对吗？ https://t.co/Qs309s2IsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1881182504969015531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17838,
+          "following_count": 2384,
+          "like_count": 54229,
+          "listed_count": 20,
+          "media_count": 5652,
+          "tweet_count": 20191
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T16:25:37.000Z",
+        "description": "a true man，a sensitive poet，a casual photographer，a precise tobacco taster\n欣赏任何美丽的事物\n会品鉴我常抽的和我感兴趣的烟，欢迎留言补充，逐渐完善我的烟草图鉴\n目前所有作品收纳入《黑水集》",
+        "id": "1775197851301371904",
+        "location": "hangzhou",
+        "name": "迷霧詩人",
+        "pinned_tweet_id": "1850073770360438991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854538075248193536/xqrthFB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 1520,
+          "like_count": 14252,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 2423
+        },
+        "username": "nqn7m114514",
+        "verified": false
+      }
+    ]
+  }
+}

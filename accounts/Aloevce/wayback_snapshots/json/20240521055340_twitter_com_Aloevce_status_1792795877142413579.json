@@ -1,0 +1,211 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1792795798779957249",
+        "3_1792795819097108480",
+        "16_1792795839586283520"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1792795877142413579",
+    "created_at": "2024-05-21T05:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T06:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792795877142413579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/c8ECJAix1v",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Aloevce/status/1792795877142413579/photo/1",
+          "media_key": "3_1792795798779957249",
+          "start": 4,
+          "url": "https://t.co/c8ECJAix1v"
+        },
+        {
+          "display_url": "pic.twitter.com/c8ECJAix1v",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Aloevce/status/1792795877142413579/photo/1",
+          "media_key": "3_1792795819097108480",
+          "start": 4,
+          "url": "https://t.co/c8ECJAix1v"
+        },
+        {
+          "display_url": "pic.twitter.com/c8ECJAix1v",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Aloevce/status/1792795877142413579/photo/1",
+          "media_key": "16_1792795839586283520",
+          "start": 4,
+          "url": "https://t.co/c8ECJAix1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792795877142413579",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求打赏 https://t.co/c8ECJAix1v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1792795798779957249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOFKR8UXkAEeWfT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1792795819097108480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOFKTIAWsAAlrfZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 576,
+        "media_key": "16_1792795839586283520",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GOFKUUVWsAAp2CK.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GOFKUUVWsAAp2CK.mp4"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792795798779957249",
+            "3_1792795819097108480",
+            "16_1792795839586283520"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1792795877142413579",
+        "created_at": "2024-05-21T05:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T06:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792795877142413579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/c8ECJAix1v",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Aloevce/status/1792795877142413579/photo/1",
+              "media_key": "3_1792795798779957249",
+              "start": 4,
+              "url": "https://t.co/c8ECJAix1v"
+            },
+            {
+              "display_url": "pic.twitter.com/c8ECJAix1v",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Aloevce/status/1792795877142413579/photo/1",
+              "media_key": "3_1792795819097108480",
+              "start": 4,
+              "url": "https://t.co/c8ECJAix1v"
+            },
+            {
+              "display_url": "pic.twitter.com/c8ECJAix1v",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Aloevce/status/1792795877142413579/photo/1",
+              "media_key": "16_1792795839586283520",
+              "start": 4,
+              "url": "https://t.co/c8ECJAix1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792795877142413579",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求打赏 https://t.co/c8ECJAix1v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12890,
+          "following_count": 2232,
+          "like_count": 52088,
+          "listed_count": 18,
+          "tweet_count": 17462
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

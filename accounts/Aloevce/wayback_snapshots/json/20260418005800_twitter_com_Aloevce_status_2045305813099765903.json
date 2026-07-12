@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2045305813099765903",
+    "created_at": "2026-04-18T00:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T01:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045305813099765903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nocule00/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/nocule00/status/2045009765005484126",
+          "start": 2,
+          "url": "https://t.co/AlJPkiCOBZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045305813099765903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045009765005484126",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "队 https://t.co/AlJPkiCOBZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2045305813099765903",
+        "created_at": "2026-04-18T00:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045305813099765903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nocule00/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/nocule00/status/2045009765005484126",
+              "start": 2,
+              "url": "https://t.co/AlJPkiCOBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045305813099765903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045009765005484126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "队 https://t.co/AlJPkiCOBZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028027034556088320",
+        "conversation_id": "2045009765005484126",
+        "created_at": "2026-04-17T05:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045009765005484126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045009765005484126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18074,
+          "like_count": 339,
+          "quote_count": 6,
+          "reply_count": 86,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "最讨厌的男生类型就是男大 感觉像是那种遇到一点问题就只会叫叫叫 每天窝在那个臭宿舍就打电脑 惹女朋友生气了只会说宝宝别生气了 钱也没有 情绪价值也没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17816,
+          "following_count": 2301,
+          "like_count": 54437,
+          "listed_count": 21,
+          "media_count": 6587,
+          "tweet_count": 23007
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T08:38:32.000Z",
+        "description": "所有问我闹够了没的人 我告诉你们 我还没开始闹",
+        "id": "2028027034556088320",
+        "name": "Done.",
+        "pinned_tweet_id": "2031798757432705262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028027529358163969/o0Z7KwNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2390,
+          "following_count": 22,
+          "like_count": 1125,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 2389
+        },
+        "username": "nocule00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1863521547396280362",
+    "created_at": "2024-12-02T09:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T10:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863521547396280362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/Aloevce/status/1863449672687198237",
+          "start": 41,
+          "url": "https://t.co/QpWJJbatjy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863521547396280362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863449672687198237",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我通过发出奇怪噪音、效仿他的动作、录制、离开卧室房间（冷暴力等方式干扰他的手冲。 https://t.co/QpWJJbatjy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1863521547396280362",
+        "created_at": "2024-12-02T09:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T10:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863521547396280362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Aloevce/status/1863449672687198237",
+              "start": 41,
+              "url": "https://t.co/QpWJJbatjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863521547396280362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863449672687198237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我通过发出奇怪噪音、效仿他的动作、录制、离开卧室房间（冷暴力等方式干扰他的手冲。 https://t.co/QpWJJbatjy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863449669289865216"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1863449672687198237",
+        "created_at": "2024-12-02T05:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T06:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863449672687198237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t1iRiH2xOh",
+              "end": 37,
+              "expanded_url": "https://x.com/Aloevce/status/1863449672687198237/photo/1",
+              "media_key": "3_1863449669289865216",
+              "start": 14,
+              "url": "https://t.co/t1iRiH2xOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863449672687198237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1403,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个男人在手冲，我在床上笑 https://t.co/t1iRiH2xOh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1863421983838319069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17628,
+          "following_count": 2300,
+          "like_count": 53417,
+          "listed_count": 20,
+          "media_count": 5415,
+          "tweet_count": 19529
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

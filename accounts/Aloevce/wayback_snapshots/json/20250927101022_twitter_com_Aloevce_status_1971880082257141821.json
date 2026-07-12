@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971880068801495040",
+        "3_1971880078041640960"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1971880082257141821",
+    "created_at": "2025-09-27T10:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T11:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971880082257141821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FZItvmwEez",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/1971880082257141821/photo/1",
+          "media_key": "3_1971880068801495040",
+          "start": 5,
+          "url": "https://t.co/FZItvmwEez"
+        },
+        {
+          "display_url": "pic.x.com/FZItvmwEez",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/1971880082257141821/photo/1",
+          "media_key": "3_1971880078041640960",
+          "start": 5,
+          "url": "https://t.co/FZItvmwEez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971880082257141821",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "面条大王 https://t.co/FZItvmwEez"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1971880068801495040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12GeaCWAAAz9nF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1971880078041640960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12Ge8dXcAADDR6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971880068801495040",
+            "3_1971880078041640960"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1971880082257141821",
+        "created_at": "2025-09-27T10:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T11:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971880082257141821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZItvmwEez",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/1971880082257141821/photo/1",
+              "media_key": "3_1971880068801495040",
+              "start": 5,
+              "url": "https://t.co/FZItvmwEez"
+            },
+            {
+              "display_url": "pic.x.com/FZItvmwEez",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/1971880082257141821/photo/1",
+              "media_key": "3_1971880078041640960",
+              "start": 5,
+              "url": "https://t.co/FZItvmwEez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971880082257141821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面条大王 https://t.co/FZItvmwEez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18894,
+          "following_count": 2393,
+          "like_count": 54932,
+          "listed_count": 24,
+          "media_count": 6252,
+          "tweet_count": 21811
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

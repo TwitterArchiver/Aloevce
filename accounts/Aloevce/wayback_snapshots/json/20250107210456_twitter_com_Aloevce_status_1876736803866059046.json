@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1876736803866059046",
+    "created_at": "2025-01-07T21:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T22:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876736803866059046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1455373876091920391",
+          "start": 3,
+          "username": "eeeemmm987"
+        },
+        {
+          "end": 24,
+          "id": "1495662254544789506",
+          "start": 16,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876736803866059046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876736362902106572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eeeemmm987: @Aloevce 决战毕业设计王牌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1876736803866059046",
+        "created_at": "2025-01-07T21:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T22:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876736803866059046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455373876091920391",
+              "start": 3,
+              "username": "eeeemmm987"
+            },
+            {
+              "end": 24,
+              "id": "1495662254544789506",
+              "start": 16,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876736803866059046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876736362902106572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eeeemmm987: @Aloevce 决战毕业设计王牌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455373876091920391",
+        "conversation_id": "1876735922680496426",
+        "created_at": "2025-01-07T21:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T22:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876736362902106572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876736362902106572",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876735922680496426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 决战毕业设计王牌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17733,
+          "following_count": 2368,
+          "like_count": 53892,
+          "listed_count": 20,
+          "media_count": 5559,
+          "tweet_count": 19952
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-02T03:19:21.000Z",
+        "description": "人间賛歌 爱逃げ 人间不安か?  防误会 男的 不是咱喵 没钱 素质较差 有鼻炎 敏感肌 皮肤质量极差 好看不到哪里去 不高 头发也不长",
+        "id": "1455373876091920391",
+        "location": "不知道 因特网吧可能是",
+        "name": "感觉中年危机了一样的便利万歳原味鸡🌑",
+        "pinned_tweet_id": "1876325595451179034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864028902793850881/jwu0K1ro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 1118,
+          "like_count": 39679,
+          "listed_count": 0,
+          "media_count": 583,
+          "tweet_count": 8883
+        },
+        "username": "eeeemmm987",
+        "verified": false
+      }
+    ]
+  }
+}

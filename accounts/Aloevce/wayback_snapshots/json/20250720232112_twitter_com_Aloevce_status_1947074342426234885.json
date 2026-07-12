@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1946234362892284155",
+    "created_at": "2025-07-20T23:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T00:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947074342426234885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1734931089339334656",
+          "start": 0,
+          "username": "babooooneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947074342426234885",
+    "in_reply_to_user_id": "1734931089339334656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946234362892284155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babooooneko 塔菲🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1946234358336978947",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJp1lpWAAM_ods.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1946234362892284155",
+        "created_at": "2025-07-20T23:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T00:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947074342426234885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1734931089339334656",
+              "start": 0,
+              "username": "babooooneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947074342426234885",
+        "in_reply_to_user_id": "1734931089339334656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946234362892284155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babooooneko 塔菲🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946234358336978947"
+          ]
+        },
+        "author_id": "1734931089339334656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946234362892284155",
+        "created_at": "2025-07-18T15:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T16:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946234362892284155"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b2prHnI9H9",
+              "end": 28,
+              "expanded_url": "https://x.com/babooooneko/status/1946234362892284155/photo/1",
+              "media_key": "3_1946234358336978947",
+              "start": 5,
+              "url": "https://t.co/b2prHnI9H9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946234362892284155",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/b2prHnI9H9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "伪人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1942344432830873884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19120,
+          "following_count": 2400,
+          "like_count": 55700,
+          "listed_count": 21,
+          "media_count": 6174,
+          "tweet_count": 21606
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T13:39:53.000Z",
+        "description": "来财来财来财来财钱钱钱",
+        "id": "1734931089339334656",
+        "location": "🚪52/288/520/1314",
+        "name": "啵酱（不到100不改名计划重启版）",
+        "pinned_tweet_id": "1890109699254845618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946234348975329280/bpCUdBHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 142,
+          "like_count": 1109,
+          "listed_count": 5,
+          "media_count": 189,
+          "tweet_count": 1144
+        },
+        "username": "babooooneko",
+        "verified": false
+      }
+    ]
+  }
+}

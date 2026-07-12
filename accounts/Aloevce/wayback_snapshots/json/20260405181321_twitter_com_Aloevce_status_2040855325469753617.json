@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2040784219161657775",
+    "created_at": "2026-04-05T18:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040855325469753617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1506111893269753856",
+          "start": 0,
+          "username": "770417J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040855325469753617",
+    "in_reply_to_user_id": "1506111893269753856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040788228652048831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@770417J 🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2040784219161657775",
+        "created_at": "2026-04-05T18:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040855325469753617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1506111893269753856",
+              "start": 0,
+              "username": "770417J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040855325469753617",
+        "in_reply_to_user_id": "1506111893269753856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040788228652048831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@770417J 🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506111893269753856",
+        "conversation_id": "2040784219161657775",
+        "created_at": "2026-04-05T13:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040788228652048831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040788228652048831",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040784219161657775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 没事的和你对象哥说 他不是一个人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18054,
+          "following_count": 2295,
+          "like_count": 53972,
+          "listed_count": 22,
+          "media_count": 6558,
+          "tweet_count": 22788
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T03:34:09.000Z",
+        "description": "XX空间",
+        "id": "1506111893269753856",
+        "location": "帽子工厂🏭",
+        "name": "西兰花",
+        "pinned_tweet_id": "2039897831054725328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996955450865340423/I8Ht9BVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 866,
+          "like_count": 30264,
+          "listed_count": 4,
+          "media_count": 921,
+          "tweet_count": 7136
+        },
+        "username": "770417J",
+        "verified": false
+      }
+    ]
+  }
+}

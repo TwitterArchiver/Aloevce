@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1822974135095443598",
+    "created_at": "2024-08-12T12:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T13:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822974135095443598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/conchmagic0807…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/conchmagic0807/status/1822972422691467467",
+          "start": 8,
+          "url": "https://t.co/sJfsyZ3EqT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822974135095443598",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822972422691467467",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "机器人伪装人类 https://t.co/sJfsyZ3EqT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1822974135095443598",
+        "created_at": "2024-08-12T12:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T13:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822974135095443598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/conchmagic0807…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/conchmagic0807/status/1822972422691467467",
+              "start": 8,
+              "url": "https://t.co/sJfsyZ3EqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822974135095443598",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822972422691467467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "机器人伪装人类 https://t.co/sJfsyZ3EqT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594948026870599680",
+        "conversation_id": "1822968141045006346",
+        "created_at": "2024-08-12T12:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T13:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822972422691467467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1573033687138156544",
+              "start": 0,
+              "username": "fgbielai8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822972422691467467",
+        "in_reply_to_user_id": "1573033687138156544",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822968141045006346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fgbielai8964 人家随便发点啥都比你像真人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17351,
+          "following_count": 2189,
+          "like_count": 52172,
+          "listed_count": 22,
+          "tweet_count": 18301
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T06:57:08.000Z",
+        "description": "复杂XP多变属性人类，绝对平衡Switch，缓慢恢复能量ENFJ",
+        "id": "1594948026870599680",
+        "location": "地球",
+        "name": "坏坏比魔王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594951732748251136/3HqGpmd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 1904,
+          "like_count": 1950,
+          "listed_count": 0,
+          "tweet_count": 913
+        },
+        "username": "conchmagic0807",
+        "verified": false
+      }
+    ]
+  }
+}

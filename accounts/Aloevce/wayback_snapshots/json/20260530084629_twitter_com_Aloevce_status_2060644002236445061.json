@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2060644002236445061",
+    "created_at": "2026-05-30T08:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060644002236445061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rina8554/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/rina8554/status/2060456778404347972",
+          "start": 12,
+          "url": "https://t.co/WVH1lBeCSx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060644002236445061",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060456778404347972",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ケツの穴におしっこして https://t.co/WVH1lBeCSx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2060644002236445061",
+        "created_at": "2026-05-30T08:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060644002236445061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rina8554/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/rina8554/status/2060456778404347972",
+              "start": 12,
+              "url": "https://t.co/WVH1lBeCSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060644002236445061",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060456778404347972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ケツの穴におしっこして https://t.co/WVH1lBeCSx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834474963019202560",
+        "conversation_id": "2060456778404347972",
+        "created_at": "2026-05-29T20:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T21:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060456778404347972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060456778404347972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 160590,
+          "like_count": 993,
+          "quote_count": 6,
+          "reply_count": 46,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "ケツの穴におしっこして"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18180,
+          "following_count": 1975,
+          "like_count": 56249,
+          "listed_count": 24,
+          "media_count": 6750,
+          "tweet_count": 23800
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T06:11:36.000Z",
+        "description": "看護師/辞めたい/ワンナイト◯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3ISCunE",
+                "end": 23,
+                "expanded_url": "https://bit.ly/3ISCunE",
+                "start": 0,
+                "url": "https://t.co/siNyp14qcV"
+              }
+            ]
+          }
+        },
+        "id": "1834474963019202560",
+        "location": "連絡用⇨",
+        "name": "りな",
+        "pinned_tweet_id": "1940762540054892997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896941421262987264/8HB41BHK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3780,
+          "following_count": 2,
+          "like_count": 682,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 1758
+        },
+        "url": "https://t.co/siNyp14qcV",
+        "username": "rina8554",
+        "verified": false
+      }
+    ]
+  }
+}

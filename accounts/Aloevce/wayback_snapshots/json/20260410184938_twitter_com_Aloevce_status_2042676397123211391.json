@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2042675813745566028",
+    "created_at": "2026-04-10T18:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042676397123211391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1627413864756424704",
+          "start": 0,
+          "username": "Aphrodite_mis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042676397123211391",
+    "in_reply_to_user_id": "1627413864756424704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042676113034612908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aphrodite_mis 我是水瓶喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2042675813745566028",
+        "created_at": "2026-04-10T18:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042676397123211391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1627413864756424704",
+              "start": 0,
+              "username": "Aphrodite_mis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042676397123211391",
+        "in_reply_to_user_id": "1627413864756424704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042676113034612908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aphrodite_mis 我是水瓶喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627413864756424704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2042675813745566028",
+        "created_at": "2026-04-10T18:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042676113034612908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042676113034612908",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042675813745566028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 宝宝是啥星座！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17918,
+          "following_count": 2293,
+          "like_count": 54175,
+          "listed_count": 23,
+          "media_count": 6569,
+          "tweet_count": 22898
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T21:04:56.000Z",
+        "description": "一个绝望的寡妇 大号@Artemis_moon_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "Artemis_moon_12"
+              }
+            ]
+          }
+        },
+        "id": "1627413864756424704",
+        "name": "阿尔忒弥斯",
+        "pinned_tweet_id": "1978018594941202836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961414183649742848/T9FZ9g0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27860,
+          "following_count": 543,
+          "like_count": 210408,
+          "listed_count": 45,
+          "media_count": 2997,
+          "tweet_count": 51574
+        },
+        "username": "Aphrodite_mis",
+        "verified": false
+      }
+    ]
+  }
+}

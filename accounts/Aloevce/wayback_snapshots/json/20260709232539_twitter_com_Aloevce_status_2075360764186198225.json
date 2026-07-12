@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2075360764186198225",
+    "created_at": "2026-07-09T23:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T00:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075360764186198225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/Aloevce/status/2075259380019101876",
+          "start": 135,
+          "url": "https://t.co/tJE2p3WUeq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075360764186198225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075259380019101876",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我早已麻痹 对象哥跟六七个男性朋友去唱k 我再次接到对象哥电话时发现他朋友全跑了 留下他自己不知道在哪里又一直说胡话 然后来到一个菜市场买了一袋藕 然后翻铁皮防护栏手机摔个稀烂 然后我就问他在哪他也不说 结果我看到视频里有个银行坐标我才打车去找他 过去一看手机碎了半屏 https://t.co/tJE2p3WUeq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2075360764186198225",
+        "created_at": "2026-07-09T23:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T00:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075360764186198225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/Aloevce/status/2075259380019101876",
+              "start": 135,
+              "url": "https://t.co/tJE2p3WUeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075360764186198225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075259380019101876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我早已麻痹 对象哥跟六七个男性朋友去唱k 我再次接到对象哥电话时发现他朋友全跑了 留下他自己不知道在哪里又一直说胡话 然后来到一个菜市场买了一袋藕 然后翻铁皮防护栏手机摔个稀烂 然后我就问他在哪他也不说 结果我看到视频里有个银行坐标我才打车去找他 过去一看手机碎了半屏 https://t.co/tJE2p3WUeq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2075259380019101876",
+        "created_at": "2026-07-09T16:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075259380019101876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075259380019101876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 610,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操 对象哥生日不在家 我点了个外卖突然想手淫 结果网卡翻不了墙 闭上眼干弄五秒解决"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18049,
+          "following_count": 1958,
+          "like_count": 56378,
+          "listed_count": 23,
+          "media_count": 6877,
+          "tweet_count": 24146
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

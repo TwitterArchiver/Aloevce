@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1830968149040144384"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1830968153037512737",
+    "created_at": "2024-09-03T13:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T14:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830968153037512737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xwyubvwgfn",
+          "end": 68,
+          "expanded_url": "https://twitter.com/Aloevce/status/1830968153037512737/photo/1",
+          "media_key": "3_1830968149040144384",
+          "start": 45,
+          "url": "https://t.co/XwyuBvWgFn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830968153037512737",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢大学遇到的所有人，导员是空气，湿疣是噪音机，其他还行，就是两年疫情玉玉了也没怎么出去 https://t.co/XwyuBvWgFn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_1830968149040144384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWjn1KaXoAAMo5v.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830968149040144384"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1830968153037512737",
+        "created_at": "2024-09-03T13:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T14:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830968153037512737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xwyubvwgfn",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Aloevce/status/1830968153037512737/photo/1",
+              "media_key": "3_1830968149040144384",
+              "start": 45,
+              "url": "https://t.co/XwyuBvWgFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830968153037512737",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢大学遇到的所有人，导员是空气，湿疣是噪音机，其他还行，就是两年疫情玉玉了也没怎么出去 https://t.co/XwyuBvWgFn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18003,
+          "following_count": 2259,
+          "like_count": 53093,
+          "listed_count": 22,
+          "tweet_count": 18782
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956359153816891397"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1956359158623526935",
+    "created_at": "2025-08-15T14:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T15:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956359158623526935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jlKa3UCo5S",
+          "end": 90,
+          "expanded_url": "https://x.com/Aloevce/status/1956359158623526935/photo/1",
+          "media_key": "3_1956359153816891397",
+          "start": 67,
+          "url": "https://t.co/jlKa3UCo5S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956359158623526935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎呦气死我了。。。每天都是这种人申请进群，一没关注我二主页不堪入目，你们别气我了行吗，你们敢申请进群我都不敢读你推特主页回复了别人啥 https://t.co/jlKa3UCo5S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_1956359153816891397",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZiSQBW8AUe1Eb.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956359153816891397"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1956359158623526935",
+        "created_at": "2025-08-15T14:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T15:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956359158623526935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jlKa3UCo5S",
+              "end": 90,
+              "expanded_url": "https://x.com/Aloevce/status/1956359158623526935/photo/1",
+              "media_key": "3_1956359153816891397",
+              "start": 67,
+              "url": "https://t.co/jlKa3UCo5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956359158623526935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦气死我了。。。每天都是这种人申请进群，一没关注我二主页不堪入目，你们别气我了行吗，你们敢申请进群我都不敢读你推特主页回复了别人啥 https://t.co/jlKa3UCo5S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19079,
+          "following_count": 2415,
+          "like_count": 55691,
+          "listed_count": 21,
+          "media_count": 6219,
+          "tweet_count": 21759
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2066170536107876477",
+    "created_at": "2026-06-14T14:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066170536107876477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ruai_0324/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Ruai_0324/status/2065896124595277957",
+          "start": 3,
+          "url": "https://t.co/ouL7evP1Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066170536107876477",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065896124595277957",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想插 https://t.co/ouL7evP1Xl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2065896116982517760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuJkqOaEAAlNkA.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2066170536107876477",
+        "created_at": "2026-06-14T14:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066170536107876477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ruai_0324/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Ruai_0324/status/2065896124595277957",
+              "start": 3,
+              "url": "https://t.co/ouL7evP1Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066170536107876477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065896124595277957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想插 https://t.co/ouL7evP1Xl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065896116982517760"
+          ]
+        },
+        "author_id": "2055228634710065152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065896124595277957",
+        "created_at": "2026-06-13T20:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065896124595277957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bcgQOliAz4",
+              "end": 54,
+              "expanded_url": "https://x.com/Ruai_0324/status/2065896124595277957/photo/1",
+              "media_key": "3_2065896116982517760",
+              "start": 31,
+              "url": "https://t.co/bcgQOliAz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065896124595277957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 31413,
+          "like_count": 207,
+          "quote_count": 1,
+          "reply_count": 48,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "CNM深夜的抖音堪比暗网 推视频给我推好的啊 你这他妈的是啥 https://t.co/bcgQOliAz4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18126,
+          "following_count": 1965,
+          "like_count": 56345,
+          "listed_count": 24,
+          "media_count": 6801,
+          "tweet_count": 23952
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T10:08:54.000Z",
+        "description": "櫻川由奈的另一個人格Ruai(@xiaoyi_0324)不是多意识体 这样说更戏剧性一些|簡中/繁中|16龄MTF|可能包含一点碎碎念和负面",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "xiaoyi_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/YunaSakagami",
+                "end": 23,
+                "expanded_url": "https://t.me/YunaSakagami",
+                "start": 0,
+                "url": "https://t.co/0yW1OEp9Bq"
+              }
+            ]
+          }
+        },
+        "id": "2055228634710065152",
+        "location": "↙️订阅我的TG频道防走丢",
+        "name": "Ruai_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2065551312473690419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055229295052935168/EYY7LEmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 59,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/0yW1OEp9Bq",
+        "username": "Ruai_0324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2051973961458602245",
+    "created_at": "2026-05-06T10:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051973961458602245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wdlyrg/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/wdlyrg/status/2051966227166490740",
+          "start": 5,
+          "url": "https://t.co/jtDKLciL1R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051973961458602245",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051966227166490740",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了 https://t.co/jtDKLciL1R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2051966224117166080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoMaLeacAApIMv.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2051973961458602245",
+        "created_at": "2026-05-06T10:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051973961458602245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wdlyrg/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/wdlyrg/status/2051966227166490740",
+              "start": 5,
+              "url": "https://t.co/jtDKLciL1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051973961458602245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051966227166490740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/jtDKLciL1R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051966224117166080"
+          ]
+        },
+        "author_id": "1758399635733798912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2051921360004509934",
+        "created_at": "2026-05-06T10:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051966227166490740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5HYRKFxlvq",
+              "end": 39,
+              "expanded_url": "https://x.com/wdlyrg/status/2051966227166490740/photo/1",
+              "media_key": "3_2051966224117166080",
+              "start": 16,
+              "url": "https://t.co/5HYRKFxlvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051966227166490740",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051921360004509934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 健康的像头猪 https://t.co/5HYRKFxlvq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18212,
+          "following_count": 1972,
+          "like_count": 55528,
+          "listed_count": 24,
+          "media_count": 6640,
+          "tweet_count": 23358
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T07:56:20.000Z",
+        "description": "",
+        "id": "1758399635733798912",
+        "name": "wdlyrg",
+        "pinned_tweet_id": "2048349307766812905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768523202798780416/oMqgshRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 506,
+          "like_count": 254,
+          "listed_count": 1,
+          "media_count": 12545,
+          "tweet_count": 19846
+        },
+        "username": "wdlyrg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999194720262569987",
+        "3_1999194876726927361",
+        "3_1999194954137030656",
+        "3_1999195076048670721"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1999195235801280978",
+    "created_at": "2025-12-11T19:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T20:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999195235801280978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7W9QYSTMLE",
+          "end": 43,
+          "expanded_url": "https://x.com/Aloevce/status/1999195235801280978/photo/1",
+          "media_key": "3_1999194720262569987",
+          "start": 20,
+          "url": "https://t.co/7W9QYSTMLE"
+        },
+        {
+          "display_url": "pic.x.com/7W9QYSTMLE",
+          "end": 43,
+          "expanded_url": "https://x.com/Aloevce/status/1999195235801280978/photo/1",
+          "media_key": "3_1999194876726927361",
+          "start": 20,
+          "url": "https://t.co/7W9QYSTMLE"
+        },
+        {
+          "display_url": "pic.x.com/7W9QYSTMLE",
+          "end": 43,
+          "expanded_url": "https://x.com/Aloevce/status/1999195235801280978/photo/1",
+          "media_key": "3_1999194954137030656",
+          "start": 20,
+          "url": "https://t.co/7W9QYSTMLE"
+        },
+        {
+          "display_url": "pic.x.com/7W9QYSTMLE",
+          "end": 43,
+          "expanded_url": "https://x.com/Aloevce/status/1999195235801280978/photo/1",
+          "media_key": "3_1999195076048670721",
+          "start": 20,
+          "url": "https://t.co/7W9QYSTMLE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999195235801280978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老板最畏惧的顾客和老板最喜爱的顾客来了 https://t.co/7W9QYSTMLE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1999194720262569987",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G76RAYIWQAM4Rz7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999194876726927361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G76RJfAW4AE5mwD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999194954137030656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G76RN_YXUAAW_I8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999195076048670721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G76RVFiXUAERXTJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999194720262569987",
+            "3_1999194876726927361",
+            "3_1999194954137030656",
+            "3_1999195076048670721"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999195235801280978",
+        "created_at": "2025-12-11T19:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T20:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999195235801280978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7W9QYSTMLE",
+              "end": 43,
+              "expanded_url": "https://x.com/Aloevce/status/1999195235801280978/photo/1",
+              "media_key": "3_1999194720262569987",
+              "start": 20,
+              "url": "https://t.co/7W9QYSTMLE"
+            },
+            {
+              "display_url": "pic.x.com/7W9QYSTMLE",
+              "end": 43,
+              "expanded_url": "https://x.com/Aloevce/status/1999195235801280978/photo/1",
+              "media_key": "3_1999194876726927361",
+              "start": 20,
+              "url": "https://t.co/7W9QYSTMLE"
+            },
+            {
+              "display_url": "pic.x.com/7W9QYSTMLE",
+              "end": 43,
+              "expanded_url": "https://x.com/Aloevce/status/1999195235801280978/photo/1",
+              "media_key": "3_1999194954137030656",
+              "start": 20,
+              "url": "https://t.co/7W9QYSTMLE"
+            },
+            {
+              "display_url": "pic.x.com/7W9QYSTMLE",
+              "end": 43,
+              "expanded_url": "https://x.com/Aloevce/status/1999195235801280978/photo/1",
+              "media_key": "3_1999195076048670721",
+              "start": 20,
+              "url": "https://t.co/7W9QYSTMLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999195235801280978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老板最畏惧的顾客和老板最喜爱的顾客来了 https://t.co/7W9QYSTMLE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18461,
+          "following_count": 2399,
+          "like_count": 54578,
+          "listed_count": 24,
+          "media_count": 6355,
+          "tweet_count": 22207
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

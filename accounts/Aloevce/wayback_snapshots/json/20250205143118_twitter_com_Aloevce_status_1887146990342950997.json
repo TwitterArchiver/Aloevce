@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887146965781114880",
+        "3_1887146986832355328"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1887146990342950997",
+    "created_at": "2025-02-05T14:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T15:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887146990342950997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kg0C8Mdw8q",
+          "end": 26,
+          "expanded_url": "https://x.com/Aloevce/status/1887146990342950997/photo/1",
+          "media_key": "3_1887146965781114880",
+          "start": 3,
+          "url": "https://t.co/kg0C8Mdw8q"
+        },
+        {
+          "display_url": "pic.x.com/kg0C8Mdw8q",
+          "end": 26,
+          "expanded_url": "https://x.com/Aloevce/status/1887146990342950997/photo/1",
+          "media_key": "3_1887146986832355328",
+          "start": 3,
+          "url": "https://t.co/kg0C8Mdw8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887146990342950997",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呵呵 https://t.co/kg0C8Mdw8q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1887146965781114880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjB-KrZW8AAVrAU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1733,
+        "media_key": "3_1887146986832355328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjB-L50XYAARY8r.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887146965781114880",
+            "3_1887146986832355328"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1887146990342950997",
+        "created_at": "2025-02-05T14:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T15:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887146990342950997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kg0C8Mdw8q",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/1887146990342950997/photo/1",
+              "media_key": "3_1887146965781114880",
+              "start": 3,
+              "url": "https://t.co/kg0C8Mdw8q"
+            },
+            {
+              "display_url": "pic.x.com/kg0C8Mdw8q",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/1887146990342950997/photo/1",
+              "media_key": "3_1887146986832355328",
+              "start": 3,
+              "url": "https://t.co/kg0C8Mdw8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887146990342950997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵 https://t.co/kg0C8Mdw8q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰王牌从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1883941576986276044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17784,
+          "following_count": 2397,
+          "like_count": 54575,
+          "listed_count": 20,
+          "media_count": 5771,
+          "tweet_count": 20560
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

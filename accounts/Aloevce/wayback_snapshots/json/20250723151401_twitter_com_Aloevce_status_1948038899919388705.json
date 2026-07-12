@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1948038899919388705",
+    "created_at": "2025-07-23T15:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T16:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948038899919388705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hongpigu980/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hongpigu980/status/1947709593158881416",
+          "start": 5,
+          "url": "https://t.co/rVq08MaxDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948038899919388705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947709593158881416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/rVq08MaxDo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1996,
+        "media_key": "3_1947709581939118080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gweni50bEAAkyBA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1948038899919388705",
+        "created_at": "2025-07-23T15:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T16:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948038899919388705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hongpigu980/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hongpigu980/status/1947709593158881416",
+              "start": 5,
+              "url": "https://t.co/rVq08MaxDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948038899919388705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947709593158881416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/rVq08MaxDo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947709581939118080"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "1947709593158881416",
+        "created_at": "2025-07-22T17:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T18:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947709593158881416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M42YMcExu7",
+              "end": 42,
+              "expanded_url": "https://x.com/hongpigu980/status/1947709593158881416/photo/1",
+              "media_key": "3_1947709581939118080",
+              "start": 19,
+              "url": "https://t.co/M42YMcExu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947709593158881416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 411,
+          "impression_count": 511385,
+          "like_count": 4031,
+          "quote_count": 48,
+          "reply_count": 169,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "我把太平洋里生蚝都吃了我也没这劲头啊 https://t.co/M42YMcExu7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "伪人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1942344432830873884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19141,
+          "following_count": 2425,
+          "like_count": 55786,
+          "listed_count": 21,
+          "media_count": 6182,
+          "tweet_count": 21638
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1939656969788551526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61271,
+          "following_count": 54,
+          "like_count": 71,
+          "listed_count": 57,
+          "media_count": 838,
+          "tweet_count": 1060
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2061859038187672009",
+    "created_at": "2026-06-02T17:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061859038187672009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/usagimm208/status/2061858149913792852",
+          "start": 17,
+          "url": "https://t.co/4059E9tBLw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061859038187672009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061858149913792852",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又出新的节目了最近两期都搞笑得很 https://t.co/4059E9tBLw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2061859038187672009",
+        "created_at": "2026-06-02T17:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061859038187672009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/usagimm208/status/2061858149913792852",
+              "start": 17,
+              "url": "https://t.co/4059E9tBLw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061859038187672009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061858149913792852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又出新的节目了最近两期都搞笑得很 https://t.co/4059E9tBLw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005739449058230272",
+        "conversation_id": "2061858149913792852",
+        "created_at": "2026-06-02T17:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061858149913792852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aloevce/status…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/aloevce/status/2061852926293758175",
+              "start": 33,
+              "url": "https://t.co/DluHxmNxo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061858149913792852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061852926293758175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最爱看星空烤鱼和早餐起不来，希望早餐起不来的小帅哥可以三次返场 https://t.co/DluHxmNxo4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18157,
+          "following_count": 1974,
+          "like_count": 56211,
+          "listed_count": 24,
+          "media_count": 6768,
+          "tweet_count": 23842
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "暴食导致长胖10斤、每天还因为吃不饱而充满怨气的僵尸ぐる，皮下有双重人格随便切换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "ぐる",
+        "pinned_tweet_id": "2060099777652822114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 33,
+          "like_count": 1753,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 677
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

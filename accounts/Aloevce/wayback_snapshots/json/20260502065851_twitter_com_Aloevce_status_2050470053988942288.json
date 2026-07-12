@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2050470053988942288",
+    "created_at": "2026-05-02T06:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050470053988942288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/takeitback100/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/takeitback100/status/2050462363028218211",
+          "start": 12,
+          "url": "https://t.co/aqTjftpmjb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050470053988942288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050462363028218211",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "善语结善缘 恶语伤人心 https://t.co/aqTjftpmjb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2050470053988942288",
+        "created_at": "2026-05-02T06:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050470053988942288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/takeitback100/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/takeitback100/status/2050462363028218211",
+              "start": 12,
+              "url": "https://t.co/aqTjftpmjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050470053988942288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050462363028218211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "善语结善缘 恶语伤人心 https://t.co/aqTjftpmjb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492452563244896256",
+        "conversation_id": "2050297808603984220",
+        "created_at": "2026-05-02T06:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050462363028218211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050462363028218211",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050297808603984220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 永雏塔菲都出圈几年了，又不是最近才出圈，没人找你就是你出的丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18191,
+          "following_count": 1966,
+          "like_count": 55104,
+          "listed_count": 24,
+          "media_count": 6617,
+          "tweet_count": 23200
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T10:56:46.000Z",
+        "description": "",
+        "id": "1492452563244896256",
+        "name": "kirito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533490330376753152/-s-jCy56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 363,
+          "like_count": 7824,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 568
+        },
+        "username": "takeitback100",
+        "verified": false
+      }
+    ]
+  }
+}

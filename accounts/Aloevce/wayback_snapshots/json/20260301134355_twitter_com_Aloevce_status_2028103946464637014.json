@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2028103946464637014",
+    "created_at": "2026-03-01T13:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T14:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028103946464637014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AKAHIMEMOMIJI/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/AKAHIMEMOMIJI/status/2028032744928969067",
+          "start": 8,
+          "url": "https://t.co/XHr2uSWgek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028103946464637014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028032744928969067",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的假的我要买 https://t.co/XHr2uSWgek"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "3_2028032735814766592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUFBzsaUAAse5g.jpg",
+        "width": 1061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2028103946464637014",
+        "created_at": "2026-03-01T13:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028103946464637014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AKAHIMEMOMIJI/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/AKAHIMEMOMIJI/status/2028032744928969067",
+              "start": 8,
+              "url": "https://t.co/XHr2uSWgek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028103946464637014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028032744928969067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的假的我要买 https://t.co/XHr2uSWgek"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028032735814766592"
+          ]
+        },
+        "author_id": "1647945881642233858",
+        "conversation_id": "2028032744928969067",
+        "created_at": "2026-03-01T09:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T10:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028032744928969067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hq7Albp8Cj",
+              "end": 38,
+              "expanded_url": "https://x.com/AKAHIMEMOMIJI/status/2028032744928969067/photo/1",
+              "media_key": "3_2028032735814766592",
+              "start": 15,
+              "url": "https://t.co/hq7Albp8Cj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028032744928969067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6004,
+          "like_count": 201,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "寶可夢風波的NS2欸⋯⋯⋯⋯ https://t.co/hq7Albp8Cj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18390,
+          "following_count": 2292,
+          "like_count": 54635,
+          "listed_count": 22,
+          "media_count": 6513,
+          "tweet_count": 22711
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T12:55:48.000Z",
+        "description": "今日からお世話になります、紅葉と申します 慾望化身的女巫，負責讓你墮落 パパ @AkashaVesper Live2D：笨蛋希 💌akahimemomiji@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "AkashaVesper"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@AkahimeMomiji…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@AkahimeMomijich",
+                "start": 0,
+                "url": "https://t.co/ZI7dVkFF09"
+              }
+            ]
+          }
+        },
+        "id": "1647945881642233858",
+        "name": "赤姬紅葉🌹❤️🪄女巫Vtuber",
+        "pinned_tweet_id": "2025241238811869457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974445031256928257/oOt2PeN0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13860,
+          "following_count": 249,
+          "like_count": 3755,
+          "listed_count": 42,
+          "media_count": 1374,
+          "tweet_count": 5827
+        },
+        "url": "https://t.co/ZI7dVkFF09",
+        "username": "AKAHIMEMOMIJI",
+        "verified": true
+      }
+    ]
+  }
+}

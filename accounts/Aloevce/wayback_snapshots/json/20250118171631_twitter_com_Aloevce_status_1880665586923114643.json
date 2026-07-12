@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880664762343948289"
+      ],
+      "media_source_tweet_id": [
+        "1880664773551136990"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1880665586923114643",
+    "created_at": "2025-01-18T17:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T18:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880665586923114643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1386981998896558080",
+          "start": 3,
+          "username": "MAYU20120506"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lrqw3Pgapl",
+          "end": 57,
+          "expanded_url": "https://x.com/MAYU20120506/status/1880664773551136990/photo/1",
+          "media_key": "3_1880664762343948289",
+          "start": 34,
+          "url": "https://t.co/Lrqw3Pgapl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880665586923114643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880664773551136990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MAYU20120506: 瞒着老公偷偷发被发现了我就道歉 https://t.co/Lrqw3Pgapl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1880665586923114643].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1880665586923114643",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1880665586923114643"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1880664762343948289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghl2ox0bAAELp2j.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880664762343948289"
+          ]
+        },
+        "author_id": "1386981998896558080",
+        "conversation_id": "1880664773551136990",
+        "created_at": "2025-01-18T17:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T18:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880664773551136990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lrqw3Pgapl",
+              "end": 39,
+              "expanded_url": "https://x.com/MAYU20120506/status/1880664773551136990/photo/1",
+              "media_key": "3_1880664762343948289",
+              "start": 16,
+              "url": "https://t.co/Lrqw3Pgapl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880664773551136990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "瞒着老公偷偷发被发现了我就道歉 https://t.co/Lrqw3Pgapl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1879847418914881656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17807,
+          "following_count": 2374,
+          "like_count": 54110,
+          "listed_count": 20,
+          "media_count": 5638,
+          "tweet_count": 20136
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-27T09:54:21.000Z",
+        "description": "od，爽！睡觉，爽！左碍，爽！",
+        "id": "1386981998896558080",
+        "name": "夕立のりぼん",
+        "pinned_tweet_id": "1877271607208485250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665364186342490112/0vGzBrhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 231,
+          "like_count": 3307,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 1113
+        },
+        "username": "MAYU20120506",
+        "verified": false
+      }
+    ]
+  }
+}

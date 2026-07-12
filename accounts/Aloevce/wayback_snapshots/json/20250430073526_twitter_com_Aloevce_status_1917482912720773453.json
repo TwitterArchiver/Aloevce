@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1917482912720773453",
+    "created_at": "2025-04-30T07:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T08:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917482912720773453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1551615370535919616",
+          "start": 3,
+          "username": "zazanb666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917482912720773453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917478166563623367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zazanb666: 看了你的朋友圈觉得好奇怪，有你的照片，你的抽象，你的忧郁，唯独没有你的幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1917482912720773453",
+        "created_at": "2025-04-30T07:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T08:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917482912720773453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1551615370535919616",
+              "start": 3,
+              "username": "zazanb666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917482912720773453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917478166563623367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zazanb666: 看了你的朋友圈觉得好奇怪，有你的照片，你的抽象，你的忧郁，唯独没有你的幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551615370535919616",
+        "conversation_id": "1917478166563623367",
+        "created_at": "2025-04-30T07:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T08:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917478166563623367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917478166563623367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看了你的朋友圈觉得好奇怪，有你的照片，你的抽象，你的忧郁，唯独没有你的幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17543,
+          "following_count": 2385,
+          "like_count": 54424,
+          "listed_count": 19,
+          "media_count": 5984,
+          "tweet_count": 21067
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T17:08:35.000Z",
+        "description": "我是杂杂",
+        "id": "1551615370535919616",
+        "location": "杂杂星",
+        "name": "杂杂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741588726604566528/ZvYnCc4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 560,
+          "like_count": 366,
+          "listed_count": 5,
+          "media_count": 1291,
+          "tweet_count": 17752
+        },
+        "username": "zazanb666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2064755193690935544",
+    "created_at": "2026-06-10T17:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064755193690935544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Aloevce/status/2064744338396008448",
+          "start": 17,
+          "url": "https://t.co/e2Udyn9MvP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064755193690935544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064744338396008448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刷小红书又想吃羊肉了 来点羊肉串 https://t.co/e2Udyn9MvP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2064755193690935544",
+        "created_at": "2026-06-10T17:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064755193690935544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Aloevce/status/2064744338396008448",
+              "start": 17,
+              "url": "https://t.co/e2Udyn9MvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064755193690935544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064744338396008448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刷小红书又想吃羊肉了 来点羊肉串 https://t.co/e2Udyn9MvP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2064744338396008448",
+        "created_at": "2026-06-10T16:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064744338396008448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064744338396008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想吃鹅腿鸭腿都行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18140,
+          "following_count": 1970,
+          "like_count": 56322,
+          "listed_count": 24,
+          "media_count": 6785,
+          "tweet_count": 23922
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1839596515037167788",
+    "created_at": "2024-09-27T09:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T10:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1839596515037167788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ash1sland1/sta…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/ash1sland1/status/1839497454825414686",
+          "start": 75,
+          "url": "https://t.co/vxtMxXFbaj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839596515037167788",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839497454825414686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以呢 从关注我到现在一个劲截图我以前的推在评论区或者别人评论区你的意义是?我要是在乎你这么说我为啥要发这些推文= =我玩抽象还被阴阳你也是个神人了 https://t.co/vxtMxXFbaj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1839596515037167788",
+        "created_at": "2024-09-27T09:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T10:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839596515037167788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ash1sland1/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/ash1sland1/status/1839497454825414686",
+              "start": 75,
+              "url": "https://t.co/vxtMxXFbaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839596515037167788",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839497454825414686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以呢 从关注我到现在一个劲截图我以前的推在评论区或者别人评论区你的意义是?我要是在乎你这么说我为啥要发这些推文= =我玩抽象还被阴阳你也是个神人了 https://t.co/vxtMxXFbaj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839497451600035840"
+          ]
+        },
+        "author_id": "1563479328926867457",
+        "conversation_id": "1839397865761984682",
+        "created_at": "2024-09-27T02:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T03:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839497454825414686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zoiyonjtcm",
+              "end": 58,
+              "expanded_url": "https://twitter.com/ash1sland1/status/1839497454825414686/photo/1",
+              "media_key": "3_1839497451600035840",
+              "start": 35,
+              "url": "https://t.co/zoIyoNjtCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839497454825414686",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839397865761984682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 当然之后我们都知道，无缝衔接当肉便器怀娃儿第一神人 https://t.co/zoIyoNjtCM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17983,
+          "following_count": 2250,
+          "like_count": 52852,
+          "listed_count": 22,
+          "tweet_count": 18949
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T10:51:43.000Z",
+        "description": "无",
+        "id": "1563479328926867457",
+        "name": "xiaya丶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563501818445168640/CYBPQAU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 201,
+          "like_count": 443,
+          "listed_count": 11,
+          "tweet_count": 684
+        },
+        "username": "ash1sland1",
+        "verified": false
+      }
+    ]
+  }
+}

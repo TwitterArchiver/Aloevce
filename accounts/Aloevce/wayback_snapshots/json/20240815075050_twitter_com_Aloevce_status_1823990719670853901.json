@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1823990719670853901",
+    "created_at": "2024-08-15T07:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T08:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823990719670853901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LindsayEgg8238…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/LindsayEgg8238/status/1823721220103397850",
+          "start": 7,
+          "url": "https://t.co/NJxsPxwFXn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823990719670853901",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823721220103397850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你也是神人了 https://t.co/NJxsPxwFXn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1823990719670853901",
+        "created_at": "2024-08-15T07:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T08:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823990719670853901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LindsayEgg8238…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/LindsayEgg8238/status/1823721220103397850",
+              "start": 7,
+              "url": "https://t.co/NJxsPxwFXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823990719670853901",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823721220103397850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你也是神人了 https://t.co/NJxsPxwFXn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732118991538094080",
+        "conversation_id": "1823683647154627053",
+        "created_at": "2024-08-14T13:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T14:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823721220103397850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823721220103397850",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823683647154627053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 多提升提升自己你这样迟早被抛弃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17657,
+          "following_count": 2212,
+          "like_count": 52409,
+          "listed_count": 23,
+          "tweet_count": 18356
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T19:25:32.000Z",
+        "description": "",
+        "id": "1732118991538094080",
+        "name": "方正",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780274052327972868/aw3WXxBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 30,
+          "like_count": 10,
+          "listed_count": 0,
+          "tweet_count": 76
+        },
+        "username": "LindsayEgg8238",
+        "verified": false
+      }
+    ]
+  }
+}

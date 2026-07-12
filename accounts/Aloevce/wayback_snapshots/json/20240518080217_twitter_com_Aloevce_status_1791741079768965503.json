@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1791741079768965503",
+    "created_at": "2024-05-18T08:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T09:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791741079768965503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1535699016360640517",
+          "start": 3,
+          "username": "leargchi"
+        },
+        {
+          "end": 22,
+          "id": "1495662254544789506",
+          "start": 14,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791741079768965503",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791740843184828600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leargchi: @Aloevce “在季节的车上,如果你要提前下车,请别推醒装睡的我,这样我可以沉睡到终点,假装不知道你已经离开。”\n最爱装睡。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1791741079768965503",
+        "created_at": "2024-05-18T08:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T09:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791741079768965503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1535699016360640517",
+              "start": 3,
+              "username": "leargchi"
+            },
+            {
+              "end": 22,
+              "id": "1495662254544789506",
+              "start": 14,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791741079768965503",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791740843184828600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leargchi: @Aloevce “在季节的车上,如果你要提前下车,请别推醒装睡的我,这样我可以沉睡到终点,假装不知道你已经离开。”\n最爱装睡。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1535699016360640517",
+        "conversation_id": "1791532853584630160",
+        "created_at": "2024-05-18T08:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T09:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791740843184828600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791740843184828600",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791532853584630160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce “在季节的车上,如果你要提前下车,请别推醒装睡的我,这样我可以沉睡到终点,假装不知道你已经离开。”\n最爱装睡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12937,
+          "following_count": 2235,
+          "like_count": 52070,
+          "listed_count": 18,
+          "tweet_count": 17424
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:02:44.000Z",
+        "description": "不可再生數據。",
+        "id": "1535699016360640517",
+        "location": "下一次满月",
+        "name": "查無此人。",
+        "pinned_tweet_id": "1766379517868982720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790414837660753920/fZ17TIPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 175,
+          "like_count": 923,
+          "listed_count": 24,
+          "tweet_count": 32
+        },
+        "username": "leargchi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1808082267719250255",
+    "created_at": "2024-07-03T18:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T19:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808566788961284449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "888822792187109376",
+          "start": 0,
+          "username": "ayame_nomore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808566788961284449",
+    "in_reply_to_user_id": "888822792187109376",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808565953355206772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayame_nomore 支持。。。怕卖没货了才买的啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1808082267719250255",
+        "created_at": "2024-07-03T18:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T19:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808566788961284449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "888822792187109376",
+              "start": 0,
+              "username": "ayame_nomore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808566788961284449",
+        "in_reply_to_user_id": "888822792187109376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808565953355206772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayame_nomore 支持。。。怕卖没货了才买的啊啊啊啊啊啊"
+      },
+      {
+        "attachments": {},
+        "author_id": "888822792187109376",
+        "conversation_id": "1808082267719250255",
+        "created_at": "2024-07-03T18:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T19:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808565953355206772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808565953355206772",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808082267719250255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce majoh特别好文明🥹就是太贵我到现在都还没舍得买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14058,
+          "following_count": 2211,
+          "like_count": 51902,
+          "listed_count": 18,
+          "tweet_count": 17837
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-22T18:07:21.000Z",
+        "description": "小夜彩芽｜这里只是我的碎碎念日记本，想到什么发什么｜od｜shtwt｜insta：101ayame101",
+        "id": "888822792187109376",
+        "location": "🚪100",
+        "name": "小夜あやめ6.0",
+        "pinned_tweet_id": "1800045755807519028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727686871596388352/sLQjCLun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3222,
+          "following_count": 135,
+          "like_count": 884,
+          "listed_count": 5,
+          "tweet_count": 671
+        },
+        "username": "ayame_nomore",
+        "verified": false
+      }
+    ]
+  }
+}

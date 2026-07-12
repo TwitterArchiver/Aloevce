@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2060391817930064339",
+    "created_at": "2026-05-29T16:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060391817930064339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Aloevce/status/2060389541706350630",
+          "start": 5,
+          "url": "https://t.co/ICkJsDUf6T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060391817930064339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060389541706350630",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要离异 https://t.co/ICkJsDUf6T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2060391817930064339",
+        "created_at": "2026-05-29T16:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060391817930064339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Aloevce/status/2060389541706350630",
+              "start": 5,
+              "url": "https://t.co/ICkJsDUf6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060391817930064339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060389541706350630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要离异 https://t.co/ICkJsDUf6T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2060389541706350630",
+        "created_at": "2026-05-29T15:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060389541706350630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Aloevce/status/2060384213342236766",
+              "start": 4,
+              "url": "https://t.co/5TvYvu6Bai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060389541706350630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060384213342236766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我恨你 https://t.co/5TvYvu6Bai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18179,
+          "following_count": 1974,
+          "like_count": 56234,
+          "listed_count": 24,
+          "media_count": 6750,
+          "tweet_count": 23791
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

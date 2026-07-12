@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2000197539082195199",
+    "created_at": "2025-12-14T13:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T14:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000197539082195199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nemui208/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/nemui208/status/2000170780051853724",
+          "start": 5,
+          "url": "https://t.co/842Ce5nQTo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000197539082195199",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000170780051853724",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是我喵。 https://t.co/842Ce5nQTo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4400,
+        "height": 1280,
+        "media_key": "13_2000170656160460801",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000170656160460801/img/aly7OrqPnneGBOS7.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000170656160460801/vid/avc1/320x568/_pXL8ie9LTxGB2tt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000170656160460801/vid/avc1/480x852/pKXLTlYNie7XLAgj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000170656160460801/vid/avc1/720x1280/7kLlGgLh5lpGGJOf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000170656160460801/pl/j5sCYC410seRAaoz.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 7900,
+        "height": 1280,
+        "media_key": "13_2000170656495992832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000170656495992832/img/38VtZ1ZG71kKLnqe.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000170656495992832/vid/avc1/320x568/mnlJ1jPq0NX_dfqx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000170656495992832/vid/avc1/480x852/MSPTWEFKYvnzRBeZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000170656495992832/vid/avc1/720x1280/mv26gKiG7i_YmR90.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000170656495992832/pl/Bl0ID2rMz_pL0lMo.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 7034,
+        "height": 1280,
+        "media_key": "13_2000170656156246016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000170656156246016/img/Cw9JXUg0FerPRoA6.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000170656156246016/vid/avc1/320x568/5Y4f8ON1YbsM7e73.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000170656156246016/vid/avc1/480x852/cbOYaagfvdq5K3S5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000170656156246016/vid/avc1/720x1280/p4DrrsXDes_QkXdz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000170656156246016/pl/wCkGuBTT3xE-tEy9.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2000170656147861504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8IInUnacAAl-ex.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2000197539082195199",
+        "created_at": "2025-12-14T13:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T14:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000197539082195199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nemui208/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/nemui208/status/2000170780051853724",
+              "start": 5,
+              "url": "https://t.co/842Ce5nQTo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000197539082195199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000170780051853724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是我喵。 https://t.co/842Ce5nQTo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000170656160460801",
+            "13_2000170656495992832",
+            "13_2000170656156246016",
+            "3_2000170656147861504"
+          ]
+        },
+        "author_id": "1965603368111628288",
+        "conversation_id": "2000170780051853724",
+        "created_at": "2025-12-14T11:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T12:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000170780051853724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1495662254544789506",
+              "start": 1,
+              "username": "Aloevce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QfEBxWBxgZ",
+              "end": 39,
+              "expanded_url": "https://x.com/nemui208/status/2000170780051853724/video/1",
+              "media_key": "13_2000170656160460801",
+              "start": 16,
+              "url": "https://t.co/QfEBxWBxgZ"
+            },
+            {
+              "display_url": "pic.x.com/QfEBxWBxgZ",
+              "end": 39,
+              "expanded_url": "https://x.com/nemui208/status/2000170780051853724/video/1",
+              "media_key": "13_2000170656495992832",
+              "start": 16,
+              "url": "https://t.co/QfEBxWBxgZ"
+            },
+            {
+              "display_url": "pic.x.com/QfEBxWBxgZ",
+              "end": 39,
+              "expanded_url": "https://x.com/nemui208/status/2000170780051853724/video/1",
+              "media_key": "13_2000170656156246016",
+              "start": 16,
+              "url": "https://t.co/QfEBxWBxgZ"
+            },
+            {
+              "display_url": "pic.x.com/QfEBxWBxgZ",
+              "end": 39,
+              "expanded_url": "https://x.com/nemui208/status/2000170780051853724/video/1",
+              "media_key": "3_2000170656147861504",
+              "start": 16,
+              "url": "https://t.co/QfEBxWBxgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000170780051853724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@Aloevce 挂壁的一天 https://t.co/QfEBxWBxgZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18444,
+          "following_count": 2386,
+          "like_count": 54715,
+          "listed_count": 24,
+          "media_count": 6359,
+          "tweet_count": 22232
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T02:29:07.000Z",
+        "description": "只是一个单纯的非主流女孩",
+        "id": "1965603368111628288",
+        "name": "叉子猫",
+        "pinned_tweet_id": "1985606582923935905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979517558941175808/z0CBSCcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 6,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 180
+        },
+        "username": "nemui208",
+        "verified": false
+      }
+    ]
+  }
+}

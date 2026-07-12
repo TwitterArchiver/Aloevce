@@ -1,0 +1,159 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1649646971081363456",
+    "created_at": "2023-04-22T06:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-22T06:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1649657285474684930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491995703735832576",
+          "start": 0,
+          "username": "Ziliyeziliye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1649657285474684930",
+    "in_reply_to_user_id": "1491995703735832576",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1649646971081363456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ziliyeziliye 我要当你室友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1649646971081363456",
+        "created_at": "2023-04-22T06:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-22T06:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1649657285474684930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491995703735832576",
+              "start": 0,
+              "username": "Ziliyeziliye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1649657285474684930",
+        "in_reply_to_user_id": "1491995703735832576",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1649646971081363456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ziliyeziliye 我要当你室友"
+      },
+      {
+        "attachments": {},
+        "author_id": "1491995703735832576",
+        "conversation_id": "1649646971081363456",
+        "created_at": "2023-04-22T05:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-22T06:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1649646971081363456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1649646971081363456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天舍友过生日，我买了初音未来陶瓷杯送给他🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "别视奸，谢谢",
+        "id": "1495662254544789506",
+        "name": "エースバーン",
+        "pinned_tweet_id": "1644673667719389184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635598451403816960/tk_Zy8I-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 29,
+          "listed_count": 0,
+          "tweet_count": 1532
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T04:41:25.000Z",
+        "description": "ISFJ,21,天蝎,双性恋,伪娘,卑微画画人\n美是一生的追求，做自己认为对的事\n不要太在意他人的目光和看法\n相遇即是缘分，交友来者不拒\nQQ:2998236762      晚上常驻",
+        "id": "1491995703735832576",
+        "location": "无锡",
+        "name": "Ziliye",
+        "pinned_tweet_id": "1634170150768492544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634512955718107136/jkm8kzTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 704,
+          "listed_count": 6,
+          "tweet_count": 861
+        },
+        "username": "Ziliyeziliye",
+        "verified": false
+      }
+    ]
+  }
+}

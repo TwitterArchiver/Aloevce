@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2051692828921626982",
+    "created_at": "2026-05-05T15:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051692828921626982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/frost_angej/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/frost_angej/status/2047188141791117689",
+          "start": 9,
+          "url": "https://t.co/Lnoh29baZc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051692828921626982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047188141791117689",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想这样对待对象哥 https://t.co/Lnoh29baZc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 115240,
+        "height": 1080,
+        "media_key": "13_2047187640030736384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047187640030736384/img/ch3Y0GoQLNJI1xFS.jpg",
+        "public_metrics": {
+          "view_count": 23300
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047187640030736384/vid/avc1/480x270/4rAUXdF3ORrXGiPs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047187640030736384/vid/avc1/640x360/t6VcCjVbXS_lwWMQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047187640030736384/vid/avc1/1280x720/Rp3ZMQ-G5Sahcu0b.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047187640030736384/pl/Wc8RtWn4IzNOQtTe.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2051692828921626982",
+        "created_at": "2026-05-05T15:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051692828921626982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/frost_angej/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/frost_angej/status/2047188141791117689",
+              "start": 9,
+              "url": "https://t.co/Lnoh29baZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051692828921626982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047188141791117689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想这样对待对象哥 https://t.co/Lnoh29baZc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047187640030736384"
+          ]
+        },
+        "author_id": "2029486162424020993",
+        "conversation_id": "2047188141791117689",
+        "created_at": "2026-04-23T05:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047188141791117689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hR25acXQ6z",
+              "end": 113,
+              "expanded_url": "https://x.com/frost_angej/status/2047188141791117689/video/1",
+              "media_key": "13_2047187640030736384",
+              "start": 90,
+              "url": "https://t.co/hR25acXQ6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047188141791117689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 80763,
+          "like_count": 842,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 217
+        },
+        "reply_settings": "following",
+        "text": "晚上给那个酒吧认识的骚女发消息：“来我家给我毒龙”，她半小时就到了。进门脱鞋直接跪到我身后，舌头钻进屁眼疯狂毒龙钻，边钻边哼“爸爸的屁眼好香”，毒龙后我一把抱住她推倒在床上猛干。 https://t.co/hR25acXQ6z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18205,
+          "following_count": 1981,
+          "like_count": 55476,
+          "listed_count": 24,
+          "media_count": 6638,
+          "tweet_count": 23338
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T09:16:26.000Z",
+        "description": "原创约炮记录博主  \n酒吧妹子 & 学霸反差控\n真实搭讪→开房→战况全分享\n刺激 真实 不掺水\n喜欢就关注",
+        "id": "2029486162424020993",
+        "name": "新之助🏆",
+        "pinned_tweet_id": "2051389796376060101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045513813206962176/95FAqpIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19106,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 18,
+          "media_count": 20,
+          "tweet_count": 26
+        },
+        "username": "frost_angej",
+        "verified": false
+      }
+    ]
+  }
+}

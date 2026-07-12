@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2000197500800799045",
+    "created_at": "2025-12-14T13:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T14:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000197500800799045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nemui208/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/nemui208/status/2000066346021999032",
+          "start": 4,
+          "url": "https://t.co/JAX90mJ2XB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000197500800799045",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000066346021999032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你好喵 https://t.co/JAX90mJ2XB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000066327621537792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GpumkaEAA7qZf.jpg",
+        "width": 1665
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2000197500800799045",
+        "created_at": "2025-12-14T13:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T14:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000197500800799045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nemui208/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/nemui208/status/2000066346021999032",
+              "start": 4,
+              "url": "https://t.co/JAX90mJ2XB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000197500800799045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000066346021999032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好喵 https://t.co/JAX90mJ2XB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000066327621537792"
+          ]
+        },
+        "author_id": "1965603368111628288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000066346021999032",
+        "created_at": "2025-12-14T04:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000066346021999032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HRydYHJZhG",
+              "end": 31,
+              "expanded_url": "https://x.com/nemui208/status/2000066346021999032/photo/1",
+              "media_key": "3_2000066327621537792",
+              "start": 8,
+              "url": "https://t.co/HRydYHJZhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000066346021999032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和大博主合影喵 https://t.co/HRydYHJZhG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18444,
+          "following_count": 2386,
+          "like_count": 54714,
+          "listed_count": 24,
+          "media_count": 6359,
+          "tweet_count": 22231
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T02:29:07.000Z",
+        "description": "只是一个单纯的非主流女孩",
+        "id": "1965603368111628288",
+        "name": "叉子猫",
+        "pinned_tweet_id": "1985606582923935905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979517558941175808/z0CBSCcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 6,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 180
+        },
+        "username": "nemui208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2040861191187100147",
+    "created_at": "2026-04-05T18:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040861191187100147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qngshu98872342…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/qngshu988723424/status/2040823184287793351",
+          "start": 2,
+          "url": "https://t.co/xr22amwW4v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040861191187100147",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040823184287793351",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/xr22amwW4v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2040861191187100147",
+        "created_at": "2026-04-05T18:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040861191187100147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qngshu98872342…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/qngshu988723424/status/2040823184287793351",
+              "start": 2,
+              "url": "https://t.co/xr22amwW4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040861191187100147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040823184287793351",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/xr22amwW4v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801534903626121216",
+        "conversation_id": "2040823184287793351",
+        "created_at": "2026-04-05T16:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040823184287793351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040823184287793351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我很喜欢推特，我在这里发帖从来不需要很过脑子，过后我也不看我说过啥，别人也看不懂我在说啥，互关溺爱我，然后我就天天发火星语言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18054,
+          "following_count": 2295,
+          "like_count": 53977,
+          "listed_count": 22,
+          "media_count": 6558,
+          "tweet_count": 22794
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "enby/和鸟每天抢吃的，然后就是吧我现在打算那个，我认真写一下简介吧但是呢，我l呃呃就是我困了，谢谢你们祝你们身体健康",
+        "id": "1801534903626121216",
+        "location": "鸟笼",
+        "name": "rotaka",
+        "pinned_tweet_id": "2039361438062723095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017539398498455559/yoqs9-Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 655,
+          "like_count": 8031,
+          "listed_count": 1,
+          "media_count": 672,
+          "tweet_count": 7508
+        },
+        "username": "qngshu988723424",
+        "verified": false
+      }
+    ]
+  }
+}

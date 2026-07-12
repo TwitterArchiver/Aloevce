@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2059616720545853731",
+    "created_at": "2026-05-27T12:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059616720545853731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Maorou_K8M/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Maorou_K8M/status/2059594239907111288",
+          "start": 5,
+          "url": "https://t.co/jFX12GmdHC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059616720545853731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059594239907111288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蹲个答案 https://t.co/jFX12GmdHC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059594228871909376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUmCfla0AATliA.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2059616720545853731",
+        "created_at": "2026-05-27T12:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059616720545853731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Maorou_K8M/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Maorou_K8M/status/2059594239907111288",
+              "start": 5,
+              "url": "https://t.co/jFX12GmdHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059616720545853731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059594239907111288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蹲个答案 https://t.co/jFX12GmdHC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059594228871909376"
+          ]
+        },
+        "author_id": "1699421377520951296",
+        "conversation_id": "2059594239907111288",
+        "created_at": "2026-05-27T11:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059594239907111288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HVaSsOoXKt",
+              "end": 55,
+              "expanded_url": "https://x.com/Maorou_K8M/status/2059594239907111288/photo/1",
+              "media_key": "3_2059594228871909376",
+              "start": 32,
+              "url": "https://t.co/HVaSsOoXKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059594239907111288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4542,
+          "like_count": 252,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "更新一张日常一点的旅游照（好长的标题\n猜猜背后密密麻麻的是啥🌚 https://t.co/HVaSsOoXKt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18185,
+          "following_count": 1973,
+          "like_count": 56198,
+          "listed_count": 24,
+          "media_count": 6742,
+          "tweet_count": 23743
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "谢谢你们喜欢我 本人只有这一个账号！！\n 请叫我民子♡人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/净身高172 （穿鞋子180左右\n交朋友门槛：998/1314/5200zfb口令红包带姓 只接绿色线下陪玩 一日女友本人只玩X/ins 其他均为骗子 \n快来找我玩吧(//∇//)ಣ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/maorou_k8m",
+                "end": 23,
+                "expanded_url": "https://link.me/maorou_k8m",
+                "start": 0,
+                "url": "https://t.co/bvlwJ8ThzX"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "所有本人账户在这里→",
+        "name": "樁山民子",
+        "pinned_tweet_id": "2008874213504094212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048021961914400768/pUEth1s7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305625,
+          "following_count": 43,
+          "like_count": 586,
+          "listed_count": 759,
+          "media_count": 653,
+          "tweet_count": 4269
+        },
+        "url": "https://t.co/bvlwJ8ThzX",
+        "username": "Maorou_K8M",
+        "verified": true
+      }
+    ]
+  }
+}

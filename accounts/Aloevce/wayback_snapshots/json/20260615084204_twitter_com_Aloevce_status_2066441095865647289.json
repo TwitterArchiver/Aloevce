@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2066441095865647289",
+    "created_at": "2026-06-15T08:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066441095865647289"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066441095865647289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真你妈服了 鸡尾酒卖均价十块二十块的有人吃两盘花生 还有人抽了对象哥半包烟。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2066441095865647289",
+        "created_at": "2026-06-15T08:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066441095865647289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066441095865647289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真你妈服了 鸡尾酒卖均价十块二十块的有人吃两盘花生 还有人抽了对象哥半包烟。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18124,
+          "following_count": 1965,
+          "like_count": 56350,
+          "listed_count": 24,
+          "media_count": 6802,
+          "tweet_count": 23956
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

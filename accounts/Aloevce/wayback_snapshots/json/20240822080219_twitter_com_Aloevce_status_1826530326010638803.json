@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1826529951408898048"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1826530326010638803",
+    "created_at": "2024-08-22T08:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T09:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1826530326010638803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7g92d7pq9e",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Aloevce/status/1826530326010638803/video/1",
+          "media_key": "7_1826529951408898048",
+          "start": 15,
+          "url": "https://t.co/7G92d7pq9e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826530326010638803",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有三天回学校了我退网了再见 https://t.co/7G92d7pq9e"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4667,
+        "height": 1264,
+        "media_key": "7_1826529951408898048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1826529951408898048/pu/img/5dPZ7BE9HXZanSZ2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1826529951408898048/pu/vid/avc1/320x560/wpL1mIx1lZA_P9Xe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1826529951408898048/pu/vid/avc1/480x842/bCRix9OFLxu9ieW7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1826529951408898048/pu/vid/avc1/720x1264/_EDWG4714g_36pNG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1826529951408898048/pu/pl/G94_pflv1y1AO5t0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1826529951408898048"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1826530326010638803",
+        "created_at": "2024-08-22T08:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T09:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826530326010638803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7g92d7pq9e",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Aloevce/status/1826530326010638803/video/1",
+              "media_key": "7_1826529951408898048",
+              "start": 15,
+              "url": "https://t.co/7G92d7pq9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826530326010638803",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有三天回学校了我退网了再见 https://t.co/7G92d7pq9e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18106,
+          "following_count": 2245,
+          "like_count": 52717,
+          "listed_count": 22,
+          "tweet_count": 18510
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

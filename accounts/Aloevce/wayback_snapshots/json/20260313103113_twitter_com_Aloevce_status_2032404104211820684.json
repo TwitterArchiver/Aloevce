@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2032404104211820684",
+    "created_at": "2026-03-13T10:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T11:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032404104211820684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0TwT012/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/0TwT012/status/2032388658599465023",
+          "start": 2,
+          "url": "https://t.co/HdU5JlgPlq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032404104211820684",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032388658599465023",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/HdU5JlgPlq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2032404104211820684",
+        "created_at": "2026-03-13T10:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032404104211820684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0TwT012/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/0TwT012/status/2032388658599465023",
+              "start": 2,
+              "url": "https://t.co/HdU5JlgPlq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032404104211820684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032388658599465023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/HdU5JlgPlq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2032388658599465023",
+        "created_at": "2026-03-13T09:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T10:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032388658599465023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032388658599465023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "主播的恋爱史其实就是爱压抑于是急头白脸谈了一堆神奇宝贝，然后给我朋友当喝酒时的配菜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18316,
+          "following_count": 2292,
+          "like_count": 54723,
+          "listed_count": 22,
+          "media_count": 6535,
+          "tweet_count": 22793
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 239,
+          "like_count": 680,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

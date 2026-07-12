@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880245197247778816",
+        "3_1880245203342131200"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1880245206605603061",
+    "created_at": "2025-01-17T13:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T14:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880245206605603061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yBaKoG2IFR",
+          "end": 49,
+          "expanded_url": "https://x.com/Aloevce/status/1880245206605603061/photo/1",
+          "media_key": "3_1880245197247778816",
+          "start": 26,
+          "url": "https://t.co/yBaKoG2IFR"
+        },
+        {
+          "display_url": "pic.x.com/yBaKoG2IFR",
+          "end": 49,
+          "expanded_url": "https://x.com/Aloevce/status/1880245206605603061/photo/1",
+          "media_key": "3_1880245203342131200",
+          "start": 26,
+          "url": "https://t.co/yBaKoG2IFR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880245206605603061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我妈给我买的睡衣，感觉有一百个人盯着我👀，我请问了 https://t.co/yBaKoG2IFR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1880245197247778816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghf5C4CWkAAPbBa.jpg",
+        "width": 810
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1880245203342131200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghf5DOvXAAATAtJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880245197247778816",
+            "3_1880245203342131200"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1880245206605603061",
+        "created_at": "2025-01-17T13:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T14:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880245206605603061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yBaKoG2IFR",
+              "end": 49,
+              "expanded_url": "https://x.com/Aloevce/status/1880245206605603061/photo/1",
+              "media_key": "3_1880245197247778816",
+              "start": 26,
+              "url": "https://t.co/yBaKoG2IFR"
+            },
+            {
+              "display_url": "pic.x.com/yBaKoG2IFR",
+              "end": 49,
+              "expanded_url": "https://x.com/Aloevce/status/1880245206605603061/photo/1",
+              "media_key": "3_1880245203342131200",
+              "start": 26,
+              "url": "https://t.co/yBaKoG2IFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880245206605603061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈给我买的睡衣，感觉有一百个人盯着我👀，我请问了 https://t.co/yBaKoG2IFR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1879847418914881656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17796,
+          "following_count": 2377,
+          "like_count": 54042,
+          "listed_count": 20,
+          "media_count": 5627,
+          "tweet_count": 20105
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

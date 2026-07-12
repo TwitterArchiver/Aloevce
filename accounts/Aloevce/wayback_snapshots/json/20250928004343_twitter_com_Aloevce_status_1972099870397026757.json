@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972099862825975808"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1972099870397026757",
+    "created_at": "2025-09-28T00:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T01:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972099870397026757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OJSzFRKDvS",
+          "end": 30,
+          "expanded_url": "https://x.com/Aloevce/status/1972099870397026757/photo/1",
+          "media_key": "3_1972099862825975808",
+          "start": 7,
+          "url": "https://t.co/OJSzFRKDvS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972099870397026757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对象哥真可爱 https://t.co/OJSzFRKDvS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1972099870397026757].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1972099870397026757",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972099870397026757"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1972099862825975808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G15OYGlWwAApncU.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18893,
+          "following_count": 2395,
+          "like_count": 54931,
+          "listed_count": 24,
+          "media_count": 6253,
+          "tweet_count": 21812
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

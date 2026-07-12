@@ -1,0 +1,83 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1796882688886124840",
+    "created_at": "2024-06-01T12:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T13:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796882688886124840"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1796882688886124840",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我摇摇头说我很喜欢你 但是我更喜欢我未来的老公 所以不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1796882688886124840",
+        "created_at": "2024-06-01T12:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T13:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796882688886124840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796882688886124840",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我摇摇头说我很喜欢你 但是我更喜欢我未来的老公 所以不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795447835732881408/Lypwm-n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12991,
+          "following_count": 2224,
+          "like_count": 52137,
+          "listed_count": 19,
+          "tweet_count": 17536
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

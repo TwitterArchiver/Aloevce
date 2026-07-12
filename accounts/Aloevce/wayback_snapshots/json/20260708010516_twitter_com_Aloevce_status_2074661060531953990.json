@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074661026726064128"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2074661060531953990",
+    "created_at": "2026-07-08T01:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074661060531953990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v7g537Gach",
+          "end": 35,
+          "expanded_url": "https://x.com/Aloevce/status/2074661060531953990/video/1",
+          "media_key": "7_2074661026726064128",
+          "start": 12,
+          "url": "https://t.co/v7g537Gach"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Aloevce/status/2074655081396412840",
+          "start": 36,
+          "url": "https://t.co/w0HOZulZoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074661060531953990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074655081396412840",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对象哥把我的猫弄应激了 https://t.co/v7g537Gach https://t.co/w0HOZulZoX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3814,
+        "height": 1280,
+        "media_key": "7_2074661026726064128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074661026726064128/pu/img/Ef_20X2SKEnihycX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074661026726064128/pu/vid/avc1/320x568/3REKzkD1pIlyUK8I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074661026726064128/pu/vid/avc1/480x852/t8oLC3q06Sz-qkk4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074661026726064128/pu/vid/avc1/720x1280/ty8kzwc4VzRNUQWe.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074661026726064128/pu/pl/VXOzXs08kQYsQ2K_.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074661026726064128"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2074661060531953990",
+        "created_at": "2026-07-08T01:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074661060531953990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v7g537Gach",
+              "end": 35,
+              "expanded_url": "https://x.com/Aloevce/status/2074661060531953990/video/1",
+              "media_key": "7_2074661026726064128",
+              "start": 12,
+              "url": "https://t.co/v7g537Gach"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Aloevce/status/2074655081396412840",
+              "start": 36,
+              "url": "https://t.co/w0HOZulZoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074661060531953990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074655081396412840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对象哥把我的猫弄应激了 https://t.co/v7g537Gach https://t.co/w0HOZulZoX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2074655081396412840",
+        "created_at": "2026-07-08T00:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074655081396412840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074655081396412840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对象哥喝醉了像一个傻逼一样追着我的猫跑强行抱着我服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18056,
+          "following_count": 1958,
+          "like_count": 56349,
+          "listed_count": 23,
+          "media_count": 6871,
+          "tweet_count": 24121
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

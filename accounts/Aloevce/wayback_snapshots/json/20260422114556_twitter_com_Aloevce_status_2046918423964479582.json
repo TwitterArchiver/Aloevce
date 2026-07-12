@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2046918423964479582",
+    "created_at": "2026-04-22T11:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046918423964479582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Aloevce/status/2046918140504986076",
+          "start": 8,
+          "url": "https://t.co/hQAGMStAVV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046918423964479582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046918140504986076",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "时尚单品来的。 https://t.co/hQAGMStAVV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2046918136851828736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgdM09bkAAcG_Y.jpg",
+        "width": 1044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2046918423964479582",
+        "created_at": "2026-04-22T11:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046918423964479582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Aloevce/status/2046918140504986076",
+              "start": 8,
+              "url": "https://t.co/hQAGMStAVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046918423964479582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046918140504986076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "时尚单品来的。 https://t.co/hQAGMStAVV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046918136851828736"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2046918140504986076",
+        "created_at": "2026-04-22T11:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046918140504986076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBzGG1eeFA",
+              "end": 45,
+              "expanded_url": "https://x.com/Aloevce/status/2046918140504986076/photo/1",
+              "media_key": "3_2046918136851828736",
+              "start": 22,
+              "url": "https://t.co/CBzGG1eeFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046918140504986076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扎人们你们说我现在出永雏塔菲周边会不会赚翻 https://t.co/CBzGG1eeFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17849,
+          "following_count": 2337,
+          "like_count": 54468,
+          "listed_count": 21,
+          "media_count": 6595,
+          "tweet_count": 23072
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

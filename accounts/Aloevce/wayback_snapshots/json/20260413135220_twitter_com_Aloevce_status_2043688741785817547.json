@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2043688741785817547",
+    "created_at": "2026-04-13T13:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043688741785817547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wormvirus812/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/wormvirus812/status/2043683128511004947",
+          "start": 4,
+          "url": "https://t.co/C2NcdLcjJ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043688741785817547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043683128511004947",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可爱 https://t.co/C2NcdLcjJ8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2043683105282891776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFye9NPaoAAKM8h.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4075,
+        "media_key": "3_2043683105257758720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFye9NJbIAAdyZD.jpg",
+        "width": 3644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2043688741785817547",
+        "created_at": "2026-04-13T13:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043688741785817547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wormvirus812/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/wormvirus812/status/2043683128511004947",
+              "start": 4,
+              "url": "https://t.co/C2NcdLcjJ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043688741785817547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043683128511004947",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可爱 https://t.co/C2NcdLcjJ8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043683105282891776",
+            "3_2043683105257758720"
+          ]
+        },
+        "author_id": "1571735057332592640",
+        "conversation_id": "2043683128511004947",
+        "created_at": "2026-04-13T13:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043683128511004947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XecFq0rjlw",
+              "end": 42,
+              "expanded_url": "https://x.com/wormvirus812/status/2043683128511004947/photo/1",
+              "media_key": "3_2043683105282891776",
+              "start": 19,
+              "url": "https://t.co/XecFq0rjlw"
+            },
+            {
+              "display_url": "pic.x.com/XecFq0rjlw",
+              "end": 42,
+              "expanded_url": "https://x.com/wormvirus812/status/2043683128511004947/photo/1",
+              "media_key": "3_2043683105257758720",
+              "start": 19,
+              "url": "https://t.co/XecFq0rjlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043683128511004947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把大哥大也买来了 不过是剪标瑕疵品 https://t.co/XecFq0rjlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17809,
+          "following_count": 2298,
+          "like_count": 54333,
+          "listed_count": 21,
+          "media_count": 6576,
+          "tweet_count": 22951
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T05:37:08.000Z",
+        "description": "我是柏一 /我妈妈在此:@d3vilsadvocate3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "d3vilsadvocate3"
+              }
+            ]
+          }
+        },
+        "id": "1571735057332592640",
+        "name": "百亿补贴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609754581991424/YVFb0G9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 478,
+          "like_count": 8534,
+          "listed_count": 4,
+          "media_count": 228,
+          "tweet_count": 5419
+        },
+        "username": "wormvirus812",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2058176061909745963",
+    "created_at": "2026-05-23T13:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058176061909745963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mji1627885/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/mji1627885/status/2058118185304670288",
+          "start": 5,
+          "url": "https://t.co/2KNtYYegwW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058176061909745963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058118185304670288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/2KNtYYegwW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2058176061909745963",
+        "created_at": "2026-05-23T13:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058176061909745963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mji1627885/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/mji1627885/status/2058118185304670288",
+              "start": 5,
+              "url": "https://t.co/2KNtYYegwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058176061909745963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058118185304670288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/2KNtYYegwW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918857660835020800",
+        "conversation_id": "2058118185304670288",
+        "created_at": "2026-05-23T09:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058118185304670288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058118185304670288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 17812,
+          "like_count": 197,
+          "quote_count": 4,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性欲特别强的时候一边自慰一边下单了一个新的小玩具，结束之后进入贤者模式把小玩具退了，挽救了两百块钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18204,
+          "following_count": 1976,
+          "like_count": 56118,
+          "listed_count": 24,
+          "media_count": 6724,
+          "tweet_count": 23691
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T02:38:19.000Z",
+        "description": "想被女人操。",
+        "id": "1918857660835020800",
+        "name": "恨",
+        "pinned_tweet_id": "2056935059790483709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053764890670796800/2zcvYowU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 534,
+          "like_count": 4361,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 138
+        },
+        "username": "mji1627885",
+        "verified": false
+      }
+    ]
+  }
+}

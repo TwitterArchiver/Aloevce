@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1830956284192935994",
+    "created_at": "2024-09-03T13:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T14:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830958370750075154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1319974611203751937",
+          "start": 0,
+          "username": "Kalashnikov8989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830958370750075154",
+    "in_reply_to_user_id": "1319974611203751937",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830957742250697052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kalashnikov8989 感谢🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1830956284192935994",
+        "created_at": "2024-09-03T13:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T14:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830958370750075154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1319974611203751937",
+              "start": 0,
+              "username": "Kalashnikov8989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830958370750075154",
+        "in_reply_to_user_id": "1319974611203751937",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830957742250697052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kalashnikov8989 感谢🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319974611203751937",
+        "conversation_id": "1830956284192935994",
+        "created_at": "2024-09-03T13:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T14:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830957742250697052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ],
+          "urls": [
+            {
+              "description": "おいしい @miumio_info",
+              "display_url": "x.com/nyaanemui?s=21",
+              "end": 42,
+              "expanded_url": "https://x.com/nyaanemui?s=21",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/1830957784894205953/N8Baq0EF?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1830957784894205953/N8Baq0EF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 19,
+              "status": 200,
+              "title": "砂糖 みう (@nyaanemui) on X",
+              "unwound_url": "https://x.com/nyaanemui?s=21",
+              "url": "https://t.co/WpKeO12TrQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830957742250697052",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830956284192935994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce みうみお　砂糖みう　https://t.co/WpKeO12TrQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17998,
+          "following_count": 2257,
+          "like_count": 53094,
+          "listed_count": 22,
+          "tweet_count": 18777
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-24T12:10:52.000Z",
+        "description": "至此，新秩序迎来了一缕暮色.....",
+        "id": "1319974611203751937",
+        "location": "新京",
+        "name": "カラシニコフ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762140442517540864/oNhc5439_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 674,
+          "like_count": 1779,
+          "listed_count": 5,
+          "tweet_count": 1765
+        },
+        "username": "Kalashnikov8989",
+        "verified": true
+      }
+    ]
+  }
+}

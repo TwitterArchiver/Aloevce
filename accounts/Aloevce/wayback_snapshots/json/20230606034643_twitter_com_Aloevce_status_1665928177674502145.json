@@ -1,0 +1,147 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1665928146552778752"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1665928177674502145",
+    "created_at": "2023-06-06T03:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2023-06-06T04:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1665928177674502145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/XcyUpB1OGY",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Aloevce/status/1665928177674502145/video/1",
+          "media_key": "7_1665928146552778752",
+          "start": 8,
+          "url": "https://t.co/XcyUpB1OGY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1665928177674502145",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我会戴钉子游泳 https://t.co/XcyUpB1OGY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2623,
+        "height": 1280,
+        "media_key": "7_1665928146552778752",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1665928146552778752/pu/img/rB_Va7KE2fM8dSB7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1665928146552778752/pu/pl/X4UhV98j-Y-UiIU0.m3u8?tag=12&container=fmp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1665928146552778752/pu/vid/720x1280/syAfBhG0qaLUS5l5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1665928146552778752/pu/vid/320x568/LEr0HIWZ1cQBjjEt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1665928146552778752/pu/vid/480x852/MlCoplvH7ljCJPUD.mp4?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1665928146552778752"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1665928177674502145",
+        "created_at": "2023-06-06T03:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-06T04:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1665928177674502145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/XcyUpB1OGY",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Aloevce/status/1665928177674502145/video/1",
+              "media_key": "7_1665928146552778752",
+              "start": 8,
+              "url": "https://t.co/XcyUpB1OGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1665928177674502145",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会戴钉子游泳 https://t.co/XcyUpB1OGY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "别视奸，谢谢",
+        "id": "1495662254544789506",
+        "name": "閃焰王牌",
+        "pinned_tweet_id": "1661582933260484609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651815650204205056/2zZXblhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 478,
+          "listed_count": 13,
+          "tweet_count": 3557
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

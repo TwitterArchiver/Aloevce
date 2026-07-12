@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1883947434750967808"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1883947459090714812",
+    "created_at": "2025-01-27T18:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T19:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883947459090714812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8JEwxqD0Ft",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/1883947459090714812/video/1",
+          "media_key": "7_1883947434750967808",
+          "start": 5,
+          "url": "https://t.co/8JEwxqD0Ft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883947459090714812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真人乞讨 https://t.co/8JEwxqD0Ft"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5433,
+        "height": 720,
+        "media_key": "7_1883947434750967808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1883947434750967808/pu/img/ot_QDrYpKNrhQqRU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883947434750967808/pu/vid/avc1/474x270/FAy5dp6jJVK6UY0w.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883947434750967808/pu/vid/avc1/632x360/a4ggQhjV-_-Xhq_5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883947434750967808/pu/vid/avc1/1264x720/VstXkS_JWIMHcnSb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1883947434750967808/pu/pl/K52edmqsXeLUf1RV.m3u8?tag=12"
+          }
+        ],
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883947434750967808"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1883947459090714812",
+        "created_at": "2025-01-27T18:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T19:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883947459090714812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JEwxqD0Ft",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/1883947459090714812/video/1",
+              "media_key": "7_1883947434750967808",
+              "start": 5,
+              "url": "https://t.co/8JEwxqD0Ft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883947459090714812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真人乞讨 https://t.co/8JEwxqD0Ft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1883941576986276044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17793,
+          "following_count": 2381,
+          "like_count": 54461,
+          "listed_count": 20,
+          "media_count": 5714,
+          "tweet_count": 20378
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

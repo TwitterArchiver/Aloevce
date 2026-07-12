@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1808867586886504448",
+        "3_1808867619791089664",
+        "3_1808867645124485120"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1808867663017291888",
+    "created_at": "2024-07-04T14:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T15:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808867663017291888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/AXU1zsCbyX",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Aloevce/status/1808867663017291888/photo/1",
+          "media_key": "3_1808867586886504448",
+          "start": 2,
+          "url": "https://t.co/AXU1zsCbyX"
+        },
+        {
+          "display_url": "pic.twitter.com/AXU1zsCbyX",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Aloevce/status/1808867663017291888/photo/1",
+          "media_key": "3_1808867619791089664",
+          "start": 2,
+          "url": "https://t.co/AXU1zsCbyX"
+        },
+        {
+          "display_url": "pic.twitter.com/AXU1zsCbyX",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Aloevce/status/1808867663017291888/photo/1",
+          "media_key": "3_1808867645124485120",
+          "start": 2,
+          "url": "https://t.co/AXU1zsCbyX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808867663017291888",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "额 https://t.co/AXU1zsCbyX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1808867586886504448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRpjfIoWkAA5Jxj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1808867619791089664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRpjhDNasAAtsfW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1808867645124485120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRpjihlXoAAAjH3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808867586886504448",
+            "3_1808867619791089664",
+            "3_1808867645124485120"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1808867663017291888",
+        "created_at": "2024-07-04T14:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T15:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808867663017291888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/AXU1zsCbyX",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Aloevce/status/1808867663017291888/photo/1",
+              "media_key": "3_1808867586886504448",
+              "start": 2,
+              "url": "https://t.co/AXU1zsCbyX"
+            },
+            {
+              "display_url": "pic.twitter.com/AXU1zsCbyX",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Aloevce/status/1808867663017291888/photo/1",
+              "media_key": "3_1808867619791089664",
+              "start": 2,
+              "url": "https://t.co/AXU1zsCbyX"
+            },
+            {
+              "display_url": "pic.twitter.com/AXU1zsCbyX",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Aloevce/status/1808867663017291888/photo/1",
+              "media_key": "3_1808867645124485120",
+              "start": 2,
+              "url": "https://t.co/AXU1zsCbyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808867663017291888",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额 https://t.co/AXU1zsCbyX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13976,
+          "following_count": 2210,
+          "like_count": 51910,
+          "listed_count": 18,
+          "tweet_count": 17843
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

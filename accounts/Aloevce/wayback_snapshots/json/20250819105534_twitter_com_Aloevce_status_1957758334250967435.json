@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1957516932199961044",
+    "created_at": "2025-08-19T10:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T11:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957758334250967435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1357149912618704901",
+          "start": 0,
+          "username": "ananaibb0609"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957758334250967435",
+    "in_reply_to_user_id": "1357149912618704901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957659352287817886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ananaibb0609 好玩但是玩一段时间就会腻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1957516932199961044",
+        "created_at": "2025-08-19T10:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T11:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957758334250967435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1357149912618704901",
+              "start": 0,
+              "username": "ananaibb0609"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957758334250967435",
+        "in_reply_to_user_id": "1357149912618704901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957659352287817886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ananaibb0609 好玩但是玩一段时间就会腻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357149912618704901",
+        "conversation_id": "1957516932199961044",
+        "created_at": "2025-08-19T04:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T05:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957659352287817886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957659352287817886",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957516932199961044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 拓麻歌子好玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19076,
+          "following_count": 2412,
+          "like_count": 55499,
+          "listed_count": 23,
+          "media_count": 6225,
+          "tweet_count": 21756
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T02:12:22.000Z",
+        "description": "持续性胡言乱语/我的日记本你在哪里\n/输出一堆垃圾然后离开",
+        "id": "1357149912618704901",
+        "location": "🚪288",
+        "name": "岸岸",
+        "pinned_tweet_id": "1610677589282287616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802770928582991872/YYFuxRcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5878,
+          "following_count": 36,
+          "like_count": 8571,
+          "listed_count": 17,
+          "media_count": 103,
+          "tweet_count": 7962
+        },
+        "username": "ananaibb0609",
+        "verified": false
+      }
+    ]
+  }
+}

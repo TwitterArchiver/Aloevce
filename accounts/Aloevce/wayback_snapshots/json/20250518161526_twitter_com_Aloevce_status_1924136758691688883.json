@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1924131300459282803",
+    "created_at": "2025-05-18T16:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T17:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924136758691688883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1821793028744605698",
+          "start": 0,
+          "username": "pFnzq5bjAv29031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924136758691688883",
+    "in_reply_to_user_id": "1821793028744605698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924134647094730832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pFnzq5bjAv29031 这也太远了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1924131300459282803",
+        "created_at": "2025-05-18T16:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T17:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924136758691688883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1821793028744605698",
+              "start": 0,
+              "username": "pFnzq5bjAv29031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924136758691688883",
+        "in_reply_to_user_id": "1821793028744605698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924134647094730832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pFnzq5bjAv29031 这也太远了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821793028744605698",
+        "conversation_id": "1924131300459282803",
+        "created_at": "2025-05-18T16:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T17:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924134647094730832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924134647094730832",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924131300459282803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 确实好吃。韩家墅那儿有一家姜记包子铺特别正宗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19198,
+          "following_count": 2397,
+          "like_count": 55151,
+          "listed_count": 19,
+          "media_count": 6030,
+          "tweet_count": 21203
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T06:18:08.000Z",
+        "description": "",
+        "id": "1821793028744605698",
+        "name": "Misaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922152387411619840/QPLWfgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 188,
+          "like_count": 379,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 168
+        },
+        "username": "pFnzq5bjAv29031",
+        "verified": false
+      }
+    ]
+  }
+}

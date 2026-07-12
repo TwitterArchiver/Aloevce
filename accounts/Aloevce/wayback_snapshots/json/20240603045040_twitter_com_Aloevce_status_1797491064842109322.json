@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1797278195424841733",
+    "created_at": "2024-06-03T04:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T05:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797491064842109322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1551615370535919616",
+          "start": 0,
+          "username": "zazanb666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797491064842109322",
+    "in_reply_to_user_id": "1551615370535919616",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797278195424841733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zazanb666 gwbd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1797278195424841733",
+        "created_at": "2024-06-03T04:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T05:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797491064842109322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1551615370535919616",
+              "start": 0,
+              "username": "zazanb666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797491064842109322",
+        "in_reply_to_user_id": "1551615370535919616",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797278195424841733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zazanb666 gwbd"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797278177481699329"
+          ]
+        },
+        "author_id": "1551615370535919616",
+        "conversation_id": "1797278195424841733",
+        "created_at": "2024-06-02T14:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T15:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797278195424841733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/0sHHF5W1yn",
+              "end": 30,
+              "expanded_url": "https://twitter.com/zazanb666/status/1797278195424841733/photo/1",
+              "media_key": "3_1797278177481699329",
+              "start": 7,
+              "url": "https://t.co/0sHHF5W1yn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797278195424841733",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1789,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又买上了杂杂 https://t.co/0sHHF5W1yn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795447835732881408/Lypwm-n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13154,
+          "following_count": 2223,
+          "like_count": 51723,
+          "listed_count": 18,
+          "tweet_count": 17542
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T17:08:35.000Z",
+        "description": "我是杂杂",
+        "id": "1551615370535919616",
+        "location": "杂杂星",
+        "name": "杂杂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741588726604566528/ZvYnCc4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 465,
+          "like_count": 311,
+          "listed_count": 4,
+          "tweet_count": 11523
+        },
+        "username": "zazanb666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2002307436619632646",
+    "created_at": "2025-12-20T11:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T12:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002344123601170870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1768035343092383745",
+          "start": 0,
+          "username": "Rurihana_sub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002344123601170870",
+    "in_reply_to_user_id": "1768035343092383745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002310905967882245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rurihana_sub 是羊肉米线啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2002307436619632646",
+        "created_at": "2025-12-20T11:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002344123601170870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1768035343092383745",
+              "start": 0,
+              "username": "Rurihana_sub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002344123601170870",
+        "in_reply_to_user_id": "1768035343092383745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002310905967882245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rurihana_sub 是羊肉米线啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768035343092383745",
+        "conversation_id": "2002307436619632646",
+        "created_at": "2025-12-20T09:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T10:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002310905967882245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002310905967882245",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002307436619632646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 這是什麼麵 牛雜陽春麵（？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18519,
+          "following_count": 2486,
+          "like_count": 55065,
+          "listed_count": 23,
+          "media_count": 6399,
+          "tweet_count": 22368
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T22:04:21.000Z",
+        "description": "ಇ.窒息/朝霞 | 焦慮恐慌創傷治療中。| 厭男、厭正常健全人 | 霧濛濛心糖糖 | ☽ ⋆⊹˚₊ 𓉸 ₊˚⊹⋆ ☾",
+        "id": "1768035343092383745",
+        "name": "ㄓㄒ✾𓈒𓂂𓇬.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908114474793652224/23Eyz-Nt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 89,
+          "like_count": 863,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 891
+        },
+        "username": "Rurihana_sub",
+        "verified": false
+      }
+    ]
+  }
+}

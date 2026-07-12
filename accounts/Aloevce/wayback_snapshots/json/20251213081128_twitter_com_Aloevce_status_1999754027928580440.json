@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1999754027928580440",
+    "created_at": "2025-12-13T08:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T09:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999754027928580440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ypbf_ZY/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/ypbf_ZY/status/1999712857836126559",
+          "start": 11,
+          "url": "https://t.co/3ynbzZoZUm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999754027928580440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999712857836126559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我妈也这么寻思。。。 https://t.co/3ynbzZoZUm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1999754027928580440",
+        "created_at": "2025-12-13T08:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T09:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999754027928580440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ypbf_ZY/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ypbf_ZY/status/1999712857836126559",
+              "start": 11,
+              "url": "https://t.co/3ynbzZoZUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999754027928580440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999712857836126559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈也这么寻思。。。 https://t.co/3ynbzZoZUm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998947335213350912",
+        "conversation_id": "1999584474812620870",
+        "created_at": "2025-12-13T05:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999712857836126559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "989792932533223424",
+              "start": 0,
+              "username": "Kinodar_"
+            },
+            {
+              "end": 18,
+              "id": "1495662254544789506",
+              "start": 10,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999712857836126559",
+        "in_reply_to_user_id": "989792932533223424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999602498299171160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinodar_ @Aloevce 有一种说法是彩礼是沉默成本，只有让男人意识到娶老婆需要掏空家底花很多钱后，他才不敢婚后乱搞，因为这个老婆跑了他就娶不起下一个了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18449,
+          "following_count": 2387,
+          "like_count": 54648,
+          "listed_count": 24,
+          "media_count": 6357,
+          "tweet_count": 22220
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T02:46:10.000Z",
+        "description": "你听我在说什么，你不要猜我是谁",
+        "id": "1998947335213350912",
+        "location": "🚪233可以听我讲故事",
+        "name": "猫猫头拯救世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998947504432599040/fWYeDEWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 32,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 83
+        },
+        "username": "ypbf_ZY",
+        "verified": false
+      }
+    ]
+  }
+}

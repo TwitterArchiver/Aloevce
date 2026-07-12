@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1790645198651052164",
+    "created_at": "2024-05-15T07:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T08:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790645198651052164"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1790645198651052164",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "数年后的某天，我一个人拎着行李箱买了一张到前任的家乡的火车票，北方天气很冷，仿佛回到了那个我爱上他的冬天，我在冷风里听见四周都是和前任哥一样的口音，我在同城约跑软件里约了个本地人让他给我讲故事，听着与他相同的口音入眠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1790645198651052164",
+        "created_at": "2024-05-15T07:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T08:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790645198651052164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790645198651052164",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "数年后的某天，我一个人拎着行李箱买了一张到前任的家乡的火车票，北方天气很冷，仿佛回到了那个我爱上他的冬天，我在冷风里听见四周都是和前任哥一样的口音，我在同城约跑软件里约了个本地人让他给我讲故事，听着与他相同的口音入眠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12941,
+          "following_count": 2236,
+          "like_count": 51964,
+          "listed_count": 18,
+          "tweet_count": 17358
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

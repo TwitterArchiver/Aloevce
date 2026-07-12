@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2047285165727330341",
+    "created_at": "2026-04-23T12:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047285165727330341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1nfinityHeaven…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/1nfinityHeaven/status/2046892288648106485",
+          "start": 14,
+          "url": "https://t.co/ESUU9J69lI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047285165727330341",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046892288648106485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完蛋了我我一米六一百一了。 https://t.co/ESUU9J69lI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2047285165727330341",
+        "created_at": "2026-04-23T12:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047285165727330341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1nfinityHeaven…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/1nfinityHeaven/status/2046892288648106485",
+              "start": 14,
+              "url": "https://t.co/ESUU9J69lI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047285165727330341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046892288648106485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完蛋了我我一米六一百一了。 https://t.co/ESUU9J69lI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250237155143811076",
+        "conversation_id": "2046892288648106485",
+        "created_at": "2026-04-22T10:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046892288648106485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046892288648106485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14524,
+          "like_count": 206,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我看着你们一群可能一百二十斤都到不了的小女孩拍个照片打微胖tag就心好痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17845,
+          "following_count": 2336,
+          "like_count": 54500,
+          "listed_count": 21,
+          "media_count": 6599,
+          "tweet_count": 23103
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T01:39:09.000Z",
+        "description": "水之湄",
+        "id": "1250237155143811076",
+        "name": "食色性也",
+        "pinned_tweet_id": "2045736901064425723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794623742992384/pI1T5UQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7750,
+          "following_count": 199,
+          "like_count": 45650,
+          "listed_count": 11,
+          "media_count": 48,
+          "tweet_count": 12910
+        },
+        "username": "1nfinityHeaven",
+        "verified": false
+      }
+    ]
+  }
+}

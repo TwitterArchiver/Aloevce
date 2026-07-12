@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974476158738587648"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1974476161934594057",
+    "created_at": "2025-10-04T14:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T15:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974476161934594057"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "梓梓梓",
+          "probability": 0.7332,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ATbPXEXsVW",
+          "end": 27,
+          "expanded_url": "https://x.com/Aloevce/status/1974476161934594057/photo/1",
+          "media_key": "3_1974476158738587648",
+          "start": 4,
+          "url": "https://t.co/ATbPXEXsVW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974476161934594057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "梓梓梓 https://t.co/ATbPXEXsVW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 641,
+        "media_key": "3_1974476158738587648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2a_musXYAAYlIP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974476158738587648"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1974476161934594057",
+        "created_at": "2025-10-04T14:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T15:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974476161934594057"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "梓梓梓",
+              "probability": 0.7332,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ATbPXEXsVW",
+              "end": 27,
+              "expanded_url": "https://x.com/Aloevce/status/1974476161934594057/photo/1",
+              "media_key": "3_1974476158738587648",
+              "start": 4,
+              "url": "https://t.co/ATbPXEXsVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974476161934594057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梓梓梓 https://t.co/ATbPXEXsVW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18793,
+          "following_count": 2399,
+          "like_count": 54936,
+          "listed_count": 24,
+          "media_count": 6257,
+          "tweet_count": 21855
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

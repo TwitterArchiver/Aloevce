@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1859095549435408428",
+    "created_at": "2024-11-20T04:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T05:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859095549435408428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Naturer_/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Naturer_/status/1859093844735979624",
+          "start": 2,
+          "url": "https://t.co/plGyZNqQ24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859095549435408428",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859093844735979624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/plGyZNqQ24"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1859095549435408428",
+        "created_at": "2024-11-20T04:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T05:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859095549435408428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Naturer_/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Naturer_/status/1859093844735979624",
+              "start": 2,
+              "url": "https://t.co/plGyZNqQ24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859095549435408428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859093844735979624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/plGyZNqQ24"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859093841535774720"
+          ]
+        },
+        "author_id": "1483655016686706688",
+        "conversation_id": "1859093844735979624",
+        "created_at": "2024-11-20T04:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T05:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859093844735979624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3MKfSPlD5",
+              "end": 23,
+              "expanded_url": "https://x.com/Naturer_/status/1859093844735979624/photo/1",
+              "media_key": "3_1859093841535774720",
+              "start": 0,
+              "url": "https://t.co/j3MKfSPlD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859093844735979624",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/j3MKfSPlD5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17530,
+          "following_count": 2300,
+          "like_count": 53395,
+          "listed_count": 21,
+          "tweet_count": 19424
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-19T04:18:38.000Z",
+        "description": "死了",
+        "id": "1483655016686706688",
+        "name": "奶缺",
+        "pinned_tweet_id": "1668077570133225472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670604557305499650/yAhiZNKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 310,
+          "like_count": 15858,
+          "listed_count": 1,
+          "tweet_count": 4226
+        },
+        "username": "Naturer_",
+        "verified": false
+      }
+    ]
+  }
+}

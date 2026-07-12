@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864437277277212672"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1864437281018532134",
+    "created_at": "2024-12-04T22:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T23:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864437281018532134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tPzOaCxW8l",
+          "end": 105,
+          "expanded_url": "https://x.com/Aloevce/status/1864437281018532134/photo/1",
+          "media_key": "3_1864437277277212672",
+          "start": 82,
+          "url": "https://t.co/tPzOaCxW8l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864437281018532134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃现任哥做的白家陈记酸辣粉，我的最爱。吃完了我躺在床上，然后现任哥说他想打手冲，我说我想跟你桌，他拒绝了说今天不想这么累，其实我不想跟他桌，我只是想抱抱，我很难过 https://t.co/tPzOaCxW8l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1864437277277212672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd_P01Ia0AAVf5I.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864437277277212672"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1864437281018532134",
+        "created_at": "2024-12-04T22:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T23:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864437281018532134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tPzOaCxW8l",
+              "end": 105,
+              "expanded_url": "https://x.com/Aloevce/status/1864437281018532134/photo/1",
+              "media_key": "3_1864437277277212672",
+              "start": 82,
+              "url": "https://t.co/tPzOaCxW8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864437281018532134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃现任哥做的白家陈记酸辣粉，我的最爱。吃完了我躺在床上，然后现任哥说他想打手冲，我说我想跟你桌，他拒绝了说今天不想这么累，其实我不想跟他桌，我只是想抱抱，我很难过 https://t.co/tPzOaCxW8l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "404 No Found\n\n❓:https://t.co/EE8B1ewVqa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aloevce",
+                "end": 39,
+                "expanded_url": "https://ngl.link/aloevce",
+                "start": 16,
+                "url": "https://t.co/EE8B1ewVqa"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "location": "闪焰王牌",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1863421983838319069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17636,
+          "following_count": 2319,
+          "like_count": 53516,
+          "listed_count": 20,
+          "media_count": 5439,
+          "tweet_count": 19617
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

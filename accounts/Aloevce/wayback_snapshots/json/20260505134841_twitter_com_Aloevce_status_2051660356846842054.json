@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2051660356846842054",
+    "created_at": "2026-05-05T13:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051660356846842054"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/usagimm208/status/2051647214808944650",
+          "start": 15,
+          "url": "https://t.co/BHOf93dU7X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051660356846842054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051647214808944650",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们二人今天吃了五坨冰激凌吗 https://t.co/BHOf93dU7X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2051647172719099904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjqO8ZbQAALc5c.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2051647174853992449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjqPEWbIAEUL6b.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2051647172693970945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjqO8Tb0AEU__z.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2051647174816247808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjqPENbMAA1E4Y.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2051660356846842054",
+        "created_at": "2026-05-05T13:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051660356846842054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/usagimm208/status/2051647214808944650",
+              "start": 15,
+              "url": "https://t.co/BHOf93dU7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051660356846842054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051647214808944650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们二人今天吃了五坨冰激凌吗 https://t.co/BHOf93dU7X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051647172719099904",
+            "3_2051647174853992449",
+            "3_2051647172693970945",
+            "3_2051647174816247808"
+          ]
+        },
+        "author_id": "2005739449058230272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051647214808944650",
+        "created_at": "2026-05-05T12:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051647214808944650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbRezI2zGw",
+              "end": 26,
+              "expanded_url": "https://x.com/usagimm208/status/2051647214808944650/photo/1",
+              "media_key": "3_2051647172719099904",
+              "start": 3,
+              "url": "https://t.co/lbRezI2zGw"
+            },
+            {
+              "display_url": "pic.x.com/lbRezI2zGw",
+              "end": 26,
+              "expanded_url": "https://x.com/usagimm208/status/2051647214808944650/photo/1",
+              "media_key": "3_2051647174853992449",
+              "start": 3,
+              "url": "https://t.co/lbRezI2zGw"
+            },
+            {
+              "display_url": "pic.x.com/lbRezI2zGw",
+              "end": 26,
+              "expanded_url": "https://x.com/usagimm208/status/2051647214808944650/photo/1",
+              "media_key": "3_2051647172693970945",
+              "start": 3,
+              "url": "https://t.co/lbRezI2zGw"
+            },
+            {
+              "display_url": "pic.x.com/lbRezI2zGw",
+              "end": 26,
+              "expanded_url": "https://x.com/usagimm208/status/2051647214808944650/photo/1",
+              "media_key": "3_2051647174816247808",
+              "start": 3,
+              "url": "https://t.co/lbRezI2zGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051647214808944650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "食用 https://t.co/lbRezI2zGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18206,
+          "following_count": 1980,
+          "like_count": 55451,
+          "listed_count": 24,
+          "media_count": 6638,
+          "tweet_count": 23325
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "神一天人一天，简称神人的日常",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "ぐる",
+        "pinned_tweet_id": "2049192723828396126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048827962091524096/6jvZmIU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 2,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

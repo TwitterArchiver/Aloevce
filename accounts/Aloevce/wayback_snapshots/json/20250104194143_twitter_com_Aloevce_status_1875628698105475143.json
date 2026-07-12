@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875619231645233152",
+        "3_1875619231641038849"
+      ],
+      "media_source_tweet_id": [
+        "1875619242672091643",
+        "1875619242672091643"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1875628698105475143",
+    "created_at": "2025-01-04T19:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T20:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875628698105475143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857180999324766208",
+          "start": 3,
+          "username": "shup112258"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yzEmgBP6zk",
+          "end": 43,
+          "expanded_url": "https://x.com/shup112258/status/1875619242672091643/photo/1",
+          "media_key": "3_1875619231645233152",
+          "start": 20,
+          "url": "https://t.co/yzEmgBP6zk"
+        },
+        {
+          "display_url": "pic.x.com/yzEmgBP6zk",
+          "end": 43,
+          "expanded_url": "https://x.com/shup112258/status/1875619242672091643/photo/1",
+          "media_key": "3_1875619231641038849",
+          "start": 20,
+          "url": "https://t.co/yzEmgBP6zk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875628698105475143",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875619242672091643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shup112258: ovo https://t.co/yzEmgBP6zk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1875628698105475143].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1875628698105475143",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1875628698105475143"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_1875619231645233152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgeJwPQa8AAJBco.jpg",
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1875619231641038849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgeJwPPa8AEccTF.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875619231645233152",
+            "3_1875619231641038849"
+          ]
+        },
+        "author_id": "1857180999324766208",
+        "conversation_id": "1875619242672091643",
+        "created_at": "2025-01-04T19:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T20:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875619242672091643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzEmgBP6zk",
+              "end": 27,
+              "expanded_url": "https://x.com/shup112258/status/1875619242672091643/photo/1",
+              "media_key": "3_1875619231645233152",
+              "start": 4,
+              "url": "https://t.co/yzEmgBP6zk"
+            },
+            {
+              "display_url": "pic.x.com/yzEmgBP6zk",
+              "end": 27,
+              "expanded_url": "https://x.com/shup112258/status/1875619242672091643/photo/1",
+              "media_key": "3_1875619231641038849",
+              "start": 4,
+              "url": "https://t.co/yzEmgBP6zk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875619242672091643",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 85,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ovo https://t.co/yzEmgBP6zk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "额",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17718,
+          "following_count": 2357,
+          "like_count": 53755,
+          "listed_count": 20,
+          "media_count": 5546,
+          "tweet_count": 19890
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T21:57:20.000Z",
+        "description": "🚪199 欢迎找我玩私信全部会回",
+        "id": "1857180999324766208",
+        "location": "距离你2.7km",
+        "name": "shup",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859014434280370176/LrIUf1mG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 58,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 211
+        },
+        "username": "shup112258",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057050929183264768"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057050953614803441",
+    "created_at": "2026-05-20T10:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057050953614803441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RNgur7ADNh",
+          "end": 27,
+          "expanded_url": "https://x.com/Aloevce/status/2057050953614803441/photo/1",
+          "media_key": "3_2057050929183264768",
+          "start": 4,
+          "url": "https://t.co/RNgur7ADNh"
+        },
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/usagimm208/status/2057033803382796340",
+          "start": 28,
+          "url": "https://t.co/JarbQfEmgf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057050953614803441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057033803382796340",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已购买 https://t.co/RNgur7ADNh https://t.co/JarbQfEmgf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057050929183264768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwc697bEAAY0Yh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 960,
+        "media_key": "3_2057033782482636800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwNU5fbEAAyJ66.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057050929183264768"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057050953614803441",
+        "created_at": "2026-05-20T10:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057050953614803441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RNgur7ADNh",
+              "end": 27,
+              "expanded_url": "https://x.com/Aloevce/status/2057050953614803441/photo/1",
+              "media_key": "3_2057050929183264768",
+              "start": 4,
+              "url": "https://t.co/RNgur7ADNh"
+            },
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/usagimm208/status/2057033803382796340",
+              "start": 28,
+              "url": "https://t.co/JarbQfEmgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057050953614803441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057033803382796340",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已购买 https://t.co/RNgur7ADNh https://t.co/JarbQfEmgf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057033782482636800"
+          ]
+        },
+        "author_id": "2005739449058230272",
+        "conversation_id": "2057033803382796340",
+        "created_at": "2026-05-20T09:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057033803382796340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0h2h3HHx34",
+              "end": 45,
+              "expanded_url": "https://x.com/usagimm208/status/2057033803382796340/photo/1",
+              "media_key": "3_2057033782482636800",
+              "start": 22,
+              "url": "https://t.co/0h2h3HHx34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057033803382796340",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Aloevce 我好喜欢耿鬼这个毛绒拖鞋 https://t.co/0h2h3HHx34"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18221,
+          "following_count": 1976,
+          "like_count": 56000,
+          "listed_count": 24,
+          "media_count": 6714,
+          "tweet_count": 23641
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "暴食导致长胖10斤、每天还因为吃不饱而充满怨气的僵尸ぐる，皮下有双重人格随便切换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "ぐる",
+        "pinned_tweet_id": "2054194679433077045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 16,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 390
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

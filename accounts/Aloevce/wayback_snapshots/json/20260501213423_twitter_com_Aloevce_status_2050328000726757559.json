@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2050328000726757559",
+    "created_at": "2026-05-01T21:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T22:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050328000726757559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ratshelprats/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ratshelprats/status/2050290519574827397",
+          "start": 7,
+          "url": "https://t.co/HvWG3Yx8cu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050328000726757559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050290519574827397",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样的好烦 https://t.co/HvWG3Yx8cu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2050328000726757559",
+        "created_at": "2026-05-01T21:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T22:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050328000726757559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ratshelprats/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ratshelprats/status/2050290519574827397",
+              "start": 7,
+              "url": "https://t.co/HvWG3Yx8cu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050328000726757559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050290519574827397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样的好烦 https://t.co/HvWG3Yx8cu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782932905419046912",
+        "conversation_id": "2050290519574827397",
+        "created_at": "2026-05-01T19:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T20:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050290519574827397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050290519574827397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1176,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "评论区的广告机器人真是太恐怖了，上个月还是十几条这样的刷，现在都是100起步...280条评论，只有5个真人...实在太可怕了朋友们，杀评论区广告bot杀太多，甚至系统将真人都给隐藏了....啊....好痛苦，自从今年大改算法后广告bot像蝗虫一样席卷整个推特儿，可恶的马斯克，为什么要这样对我们..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18180,
+          "following_count": 1962,
+          "like_count": 55099,
+          "listed_count": 24,
+          "media_count": 6617,
+          "tweet_count": 23199
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2039406392768131266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104676,
+          "following_count": 502,
+          "like_count": 88088,
+          "listed_count": 158,
+          "media_count": 643,
+          "tweet_count": 1508
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

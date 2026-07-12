@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2051674086858739803",
+    "created_at": "2026-05-05T14:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051674086858739803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuri_infact/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/yuri_infact/status/2051619243192656064",
+          "start": 2,
+          "url": "https://t.co/3bDYWMSZer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051674086858739803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051619243192656064",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/3bDYWMSZer"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2051619238130118656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjQ078acAAE8kj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2051674086858739803",
+        "created_at": "2026-05-05T14:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051674086858739803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuri_infact/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/yuri_infact/status/2051619243192656064",
+              "start": 2,
+              "url": "https://t.co/3bDYWMSZer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051674086858739803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051619243192656064",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/3bDYWMSZer"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051619238130118656"
+          ]
+        },
+        "author_id": "1849359172212760576",
+        "conversation_id": "2051619243192656064",
+        "created_at": "2026-05-05T11:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051619243192656064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q8Hu4RG6a4",
+              "end": 51,
+              "expanded_url": "https://x.com/yuri_infact/status/2051619243192656064/photo/1",
+              "media_key": "3_2051619238130118656",
+              "start": 28,
+              "url": "https://t.co/q8Hu4RG6a4"
+            },
+            {
+              "display_url": "x.com/ponamiminapo/s…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/ponamiminapo/status/2051526540782113001",
+              "start": 52,
+              "url": "https://t.co/B88cUyJ68P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051619243192656064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4136,
+          "like_count": 72,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051526540782113001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "趣旨とは違うけど私は無理やりピアスで笑顔作った！ガハ！ https://t.co/q8Hu4RG6a4 https://t.co/B88cUyJ68P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18206,
+          "following_count": 1980,
+          "like_count": 55468,
+          "listed_count": 24,
+          "media_count": 6638,
+          "tweet_count": 23330
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T07:56:10.000Z",
+        "description": "A dream of rings drifting apart and wings.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2AQ2S2BI9SDAZ?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/wfbS3NKNkt"
+              }
+            ]
+          }
+        },
+        "id": "1849359172212760576",
+        "name": "りりうむ",
+        "pinned_tweet_id": "2039706859419164925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036653526836002816/Oq7FQ7HH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 259,
+          "like_count": 4923,
+          "listed_count": 5,
+          "media_count": 928,
+          "tweet_count": 4793
+        },
+        "url": "https://t.co/wfbS3NKNkt",
+        "username": "yuri_infact",
+        "verified": false
+      }
+    ]
+  }
+}

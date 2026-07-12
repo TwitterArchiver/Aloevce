@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1972722724461027454",
+    "created_at": "2025-09-29T17:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T18:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972722724461027454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CABR_Lies/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/CABR_Lies/status/1972614030717264133",
+          "start": 4,
+          "url": "https://t.co/jPQZeF496t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972722724461027454",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972614030717264133",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也要 https://t.co/jPQZeF496t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1972722724461027454",
+        "created_at": "2025-09-29T17:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T18:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972722724461027454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CABR_Lies/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/CABR_Lies/status/1972614030717264133",
+              "start": 4,
+              "url": "https://t.co/jPQZeF496t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972722724461027454",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972614030717264133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要 https://t.co/jPQZeF496t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836276354041495553",
+        "conversation_id": "1972614030717264133",
+        "created_at": "2025-09-29T10:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T11:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972614030717264133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972614030717264133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1665,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天津谁愿意出我点毒品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18864,
+          "following_count": 2394,
+          "like_count": 54939,
+          "listed_count": 24,
+          "media_count": 6253,
+          "tweet_count": 21824
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸｜⚠️ #shtwt #drugtwt 我是DizzyRichter可以叫我毒枭｜he/them",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 32,
+                "tag": "shtwt"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/Esh7BcF",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/Esh7BcF",
+                "start": 0,
+                "url": "https://t.co/sFJNxGTC50"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "1869201059912282381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970466914293149696/vZWKw1sj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 137,
+          "like_count": 21673,
+          "listed_count": 3,
+          "media_count": 705,
+          "tweet_count": 11257
+        },
+        "url": "https://t.co/sFJNxGTC50",
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

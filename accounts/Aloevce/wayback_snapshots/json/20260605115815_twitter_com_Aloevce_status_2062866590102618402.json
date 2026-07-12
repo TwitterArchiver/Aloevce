@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2062866590102618402",
+    "created_at": "2026-06-05T11:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062866590102618402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pokemon_psts/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/pokemon_psts/status/2062666713297043877",
+          "start": 3,
+          "url": "https://t.co/jCCrmlJnqa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062866590102618402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062666713297043877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢 https://t.co/jCCrmlJnqa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_2062666710885220352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAQcfBWQAA0h3G.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2062866590102618402",
+        "created_at": "2026-06-05T11:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062866590102618402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pokemon_psts/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/pokemon_psts/status/2062666713297043877",
+              "start": 3,
+              "url": "https://t.co/jCCrmlJnqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062866590102618402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062666713297043877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢 https://t.co/jCCrmlJnqa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062666710885220352"
+          ]
+        },
+        "author_id": "2008196397024288768",
+        "conversation_id": "2062666713297043877",
+        "created_at": "2026-06-04T22:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T23:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062666713297043877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVtwgsZSnC",
+              "end": 23,
+              "expanded_url": "https://x.com/pokemon_psts/status/2062666713297043877/photo/1",
+              "media_key": "3_2062666710885220352",
+              "start": 0,
+              "url": "https://t.co/UVtwgsZSnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062666713297043877",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 201,
+          "impression_count": 58706,
+          "like_count": 3527,
+          "quote_count": 28,
+          "reply_count": 14,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UVtwgsZSnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18155,
+          "following_count": 1976,
+          "like_count": 56253,
+          "listed_count": 24,
+          "media_count": 6776,
+          "tweet_count": 23862
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T15:18:38.000Z",
+        "description": "Daily Pokemon Posts!",
+        "id": "2008196397024288768",
+        "name": "Pokémon Posts",
+        "pinned_tweet_id": "2051160897805009016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019227517002092544/m5QY4zHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22984,
+          "following_count": 629,
+          "like_count": 290,
+          "listed_count": 39,
+          "media_count": 2133,
+          "tweet_count": 2341
+        },
+        "username": "pokemon_psts",
+        "verified": true
+      }
+    ]
+  }
+}

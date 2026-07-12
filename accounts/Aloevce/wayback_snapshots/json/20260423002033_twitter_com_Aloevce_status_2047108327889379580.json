@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2047108327889379580",
+    "created_at": "2026-04-23T00:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T01:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047108327889379580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Aloevce/status/2047095566841098414",
+          "start": 10,
+          "url": "https://t.co/w9vEfOGpFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047108327889379580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047095566841098414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么我现在该做什么 https://t.co/w9vEfOGpFi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2047108327889379580",
+        "created_at": "2026-04-23T00:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047108327889379580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Aloevce/status/2047095566841098414",
+              "start": 10,
+              "url": "https://t.co/w9vEfOGpFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047108327889379580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047095566841098414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么我现在该做什么 https://t.co/w9vEfOGpFi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2047095566841098414",
+        "created_at": "2026-04-22T23:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047095566841098414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Aloevce/status/2047080706371633528",
+              "start": 20,
+              "url": "https://t.co/64HYfvbzJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047095566841098414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047080706371633528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去睡醒感觉脑子好清晰感觉玉玉症都没了 https://t.co/64HYfvbzJn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17849,
+          "following_count": 2337,
+          "like_count": 54476,
+          "listed_count": 21,
+          "media_count": 6598,
+          "tweet_count": 23084
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2027206036742967584",
+    "created_at": "2026-02-27T02:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T03:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027206036742967584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/candf0131/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/candf0131/status/2026986562425409868",
+          "start": 2,
+          "url": "https://t.co/dbMrdb2qzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027206036742967584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026986562425409868",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/dbMrdb2qzz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_2026986552933711872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFNh8wbgAA6JKR.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2027206036742967584",
+        "created_at": "2026-02-27T02:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T03:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027206036742967584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/candf0131/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/candf0131/status/2026986562425409868",
+              "start": 2,
+              "url": "https://t.co/dbMrdb2qzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027206036742967584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026986562425409868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/dbMrdb2qzz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026986552933711872"
+          ]
+        },
+        "author_id": "1827416305038987264",
+        "conversation_id": "2026986562425409868",
+        "created_at": "2026-02-26T11:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026986562425409868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyOx9qJO19",
+              "end": 23,
+              "expanded_url": "https://x.com/candf0131/status/2026986562425409868/photo/1",
+              "media_key": "3_2026986552933711872",
+              "start": 0,
+              "url": "https://t.co/dyOx9qJO19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026986562425409868",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 20067,
+          "like_count": 238,
+          "quote_count": 12,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dyOx9qJO19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18390,
+          "following_count": 2288,
+          "like_count": 54571,
+          "listed_count": 22,
+          "media_count": 6507,
+          "tweet_count": 22673
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T18:43:02.000Z",
+        "description": "我只是一个很伤心的小女生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haochi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/haochi2",
+                "start": 0,
+                "url": "https://t.co/AwAYrB3LiA"
+              }
+            ]
+          }
+        },
+        "id": "1827416305038987264",
+        "location": "🚪52000",
+        "name": "土豆泥世界第一",
+        "pinned_tweet_id": "1986440714117652638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003034217345896449/dGaEPoNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9476,
+          "following_count": 112,
+          "like_count": 5260,
+          "listed_count": 12,
+          "media_count": 893,
+          "tweet_count": 10688
+        },
+        "url": "https://t.co/AwAYrB3LiA",
+        "username": "candf0131",
+        "verified": false
+      }
+    ]
+  }
+}

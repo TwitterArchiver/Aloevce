@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2039418200417567053",
+    "created_at": "2026-04-02T18:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T19:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039769923870732646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1069847481104637952",
+          "start": 0,
+          "username": "KiyamaQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039769923870732646",
+    "in_reply_to_user_id": "1069847481104637952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039552936058245225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiyamaQwQ 哇塞哇塞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2039418200417567053",
+        "created_at": "2026-04-02T18:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T19:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039769923870732646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1069847481104637952",
+              "start": 0,
+              "username": "KiyamaQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039769923870732646",
+        "in_reply_to_user_id": "1069847481104637952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039552936058245225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiyamaQwQ 哇塞哇塞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069847481104637952",
+        "conversation_id": "2039418200417567053",
+        "created_at": "2026-04-02T03:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039552936058245225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039552936058245225",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039418200417567053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 我昨天试了！真的很好吃！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18116,
+          "following_count": 2305,
+          "like_count": 53912,
+          "listed_count": 22,
+          "media_count": 6554,
+          "tweet_count": 22754
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T06:54:51.000Z",
+        "description": "mtx无证含糖",
+        "id": "1069847481104637952",
+        "location": "山西",
+        "name": "云麓",
+        "pinned_tweet_id": "1871973770153603317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867902557773062145/0W5Fxy01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 82,
+          "like_count": 4346,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 721
+        },
+        "username": "KiyamaQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

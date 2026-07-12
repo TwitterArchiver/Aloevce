@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947900071149780992"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1947900078267765210",
+    "created_at": "2025-07-23T06:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T07:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947900078267765210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ASDuZsEoj5",
+          "end": 30,
+          "expanded_url": "https://x.com/Aloevce/status/1947900078267765210/photo/1",
+          "media_key": "3_1947900071149780992",
+          "start": 7,
+          "url": "https://t.co/ASDuZsEoj5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947900078267765210",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "觉得胖的扣一 https://t.co/ASDuZsEoj5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1947900078267765210].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1947900078267765210",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1947900078267765210"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947900071149780992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwhUy1bXQAArjrw.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "伪人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1942344432830873884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19145,
+          "following_count": 2427,
+          "like_count": 55762,
+          "listed_count": 21,
+          "media_count": 6181,
+          "tweet_count": 21636
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

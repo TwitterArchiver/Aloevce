@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      }
+    ],
+    "conversation_id": "2059261750734643529",
+    "created_at": "2026-05-26T22:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T23:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059405672379498602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1740058923913363456",
+          "start": 0,
+          "username": "0721_QiYuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059405672379498602",
+    "in_reply_to_user_id": "1740058923913363456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059327213867253841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0721_QiYuan avail联名chiikawa运动服！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "2059261750734643529",
+        "created_at": "2026-05-26T22:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T23:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059405672379498602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1740058923913363456",
+              "start": 0,
+              "username": "0721_QiYuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059405672379498602",
+        "in_reply_to_user_id": "1740058923913363456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059327213867253841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0721_QiYuan avail联名chiikawa运动服！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740058923913363456",
+        "conversation_id": "2059261750734643529",
+        "created_at": "2026-05-26T17:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059327213867253841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059327213867253841",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059261750734643529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce oh老大可以问问中间水色运动服吗…实在太萌想求一个同款链接…🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18189,
+          "following_count": 1972,
+          "like_count": 56185,
+          "listed_count": 24,
+          "media_count": 6740,
+          "tweet_count": 23737
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T17:16:02.000Z",
+        "description": "Her？我是黄推妹子们谨慎观看 可以叫我祈/小祈 07 177 无性别/娼年 处女 颜控 双性恋偏右位 💕魅魔体质 xp混乱 重抑重焦但是没关系我照样活的像乐子人喵",
+        "id": "1740058923913363456",
+        "location": "日本 東京",
+        "name": "残夜",
+        "pinned_tweet_id": "1810230857606815950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056064288280985600/rWKx2EEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 81,
+          "like_count": 1648,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 1075
+        },
+        "username": "0721_QiYuan",
+        "verified": false
+      }
+    ]
+  }
+}

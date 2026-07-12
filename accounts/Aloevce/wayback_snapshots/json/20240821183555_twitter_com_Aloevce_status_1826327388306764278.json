@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1826327388306764278",
+    "created_at": "2024-08-21T18:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T19:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1826327388306764278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shnhimhng22654…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/shnhimhng226543/status/1826325655660929333",
+          "start": 7,
+          "url": "https://t.co/xGkXz7K3gT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826327388306764278",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826325655660929333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你也是神人了 https://t.co/xGkXz7K3gT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1826327388306764278",
+        "created_at": "2024-08-21T18:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T19:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826327388306764278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shnhimhng22654…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/shnhimhng226543/status/1826325655660929333",
+              "start": 7,
+              "url": "https://t.co/xGkXz7K3gT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826327388306764278",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826325655660929333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你也是神人了 https://t.co/xGkXz7K3gT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817121322700615680",
+        "conversation_id": "1826178960868421876",
+        "created_at": "2024-08-21T18:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T19:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826325655660929333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826325655660929333",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826178960868421876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 男的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18081,
+          "following_count": 2244,
+          "like_count": 52683,
+          "listed_count": 22,
+          "tweet_count": 18489
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:54:33.000Z",
+        "description": "互fo",
+        "id": "1817121322700615680",
+        "location": "🇨🇳",
+        "name": "深海迷航🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817121956153765888/aIvnDSZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 25,
+          "like_count": 786,
+          "listed_count": 0,
+          "tweet_count": 113
+        },
+        "username": "shnhimhng226543",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1843918980697800704"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1843919037623058744",
+    "created_at": "2024-10-09T07:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T08:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1843919037623058744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xaWhI0HlLM",
+          "end": 74,
+          "expanded_url": "https://x.com/Aloevce/status/1843919037623058744/video/1",
+          "media_key": "7_1843918980697800704",
+          "start": 51,
+          "url": "https://t.co/xaWhI0HlLM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843919037623058744",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天吃了薯片，马上舌头就长了个泡，好烦，昨天吃了4顿饭，一直没拉出屎，好烦，现在又想喝奶茶了，好烦。 https://t.co/xaWhI0HlLM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1033,
+        "height": 528,
+        "media_key": "7_1843918980697800704",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1843918980697800704/pu/img/_33zBdW9ecYGDrDS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843918980697800704/pu/vid/avc1/490x270/Su-7zJxX_c6GevI8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843918980697800704/pu/vid/avc1/654x360/L0QWbe6SnAaEZi3c.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843918980697800704/pu/vid/avc1/960x528/nnuOzYshZICrrAkq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1843918980697800704/pu/pl/tJCWtsO9CqBIa-iJ.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1843918980697800704"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1843919037623058744",
+        "created_at": "2024-10-09T07:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T08:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843919037623058744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaWhI0HlLM",
+              "end": 74,
+              "expanded_url": "https://x.com/Aloevce/status/1843919037623058744/video/1",
+              "media_key": "7_1843918980697800704",
+              "start": 51,
+              "url": "https://t.co/xaWhI0HlLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843919037623058744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天吃了薯片，马上舌头就长了个泡，好烦，昨天吃了4顿饭，一直没拉出屎，好烦，现在又想喝奶茶了，好烦。 https://t.co/xaWhI0HlLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17881,
+          "following_count": 2256,
+          "like_count": 52951,
+          "listed_count": 22,
+          "tweet_count": 19015
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

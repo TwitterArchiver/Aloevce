@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2052065010978054431",
+    "created_at": "2026-05-06T16:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052065010978054431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ckyoa2/status/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ckyoa2/status/2051439568524878147",
+          "start": 2,
+          "url": "https://t.co/9992yaplmC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052065010978054431",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051439568524878147",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/9992yaplmC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2052065010978054431",
+        "created_at": "2026-05-06T16:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052065010978054431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ckyoa2/status/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ckyoa2/status/2051439568524878147",
+              "start": 2,
+              "url": "https://t.co/9992yaplmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052065010978054431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051439568524878147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/9992yaplmC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968368047988817923",
+        "conversation_id": "2051439568524878147",
+        "created_at": "2026-05-04T23:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T00:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051439568524878147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051439568524878147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 335,
+          "impression_count": 432629,
+          "like_count": 3482,
+          "quote_count": 66,
+          "reply_count": 701,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "我发现，从小到大处处听话守规矩的乖孩子，在性方面可能反而胆子更大、xp更变态，管得越严玩得越狠。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18217,
+          "following_count": 1972,
+          "like_count": 55567,
+          "listed_count": 24,
+          "media_count": 6643,
+          "tweet_count": 23372
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T17:34:58.000Z",
+        "description": "只是分享生活",
+        "id": "1968368047988817923",
+        "location": "🚪188",
+        "name": "ck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049487138509774849/xVB5Hbzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3487,
+          "following_count": 4,
+          "like_count": 129,
+          "listed_count": 13,
+          "media_count": 29,
+          "tweet_count": 69
+        },
+        "username": "ckyoa2",
+        "verified": false
+      }
+    ]
+  }
+}

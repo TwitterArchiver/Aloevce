@@ -1,0 +1,99 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1824108037898195029",
+    "created_at": "2024-08-15T15:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T16:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1824108037898195029"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1824108037898195029",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟对象打电话，我唱时代少年团我们喜欢你，然后对象说以前他住贺峻霖他们小区，有一天喝大了发酒疯保安以为他是贺峻霖的粉丝，还把贺峻霖他奶叫出来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1824108037898195029",
+        "created_at": "2024-08-15T15:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T16:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824108037898195029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824108037898195029",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟对象打电话，我唱时代少年团我们喜欢你，然后对象说以前他住贺峻霖他们小区，有一天喝大了发酒疯保安以为他是贺峻霖的粉丝，还把贺峻霖他奶叫出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17690,
+          "following_count": 2216,
+          "like_count": 52455,
+          "listed_count": 22,
+          "tweet_count": 18369
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

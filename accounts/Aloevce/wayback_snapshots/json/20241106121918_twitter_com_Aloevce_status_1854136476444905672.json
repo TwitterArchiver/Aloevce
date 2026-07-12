@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1853940464031805840",
+    "created_at": "2024-11-06T12:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T13:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854136476444905672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1551615370535919616",
+          "start": 0,
+          "username": "zazanb666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854136476444905672",
+    "in_reply_to_user_id": "1551615370535919616",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854105280495169608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zazanb666 喜欢朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1853940464031805840",
+        "created_at": "2024-11-06T12:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T13:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854136476444905672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1551615370535919616",
+              "start": 0,
+              "username": "zazanb666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854136476444905672",
+        "in_reply_to_user_id": "1551615370535919616",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854105280495169608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zazanb666 喜欢朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551615370535919616",
+        "conversation_id": "1853940464031805840",
+        "created_at": "2024-11-06T10:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T11:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854105280495169608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854105280495169608",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853940464031805840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 你有吃的\n朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17658,
+          "following_count": 2258,
+          "like_count": 53198,
+          "listed_count": 23,
+          "tweet_count": 19264
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T17:08:35.000Z",
+        "description": "我是杂杂",
+        "id": "1551615370535919616",
+        "location": "杂杂星",
+        "name": "杂杂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741588726604566528/ZvYnCc4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 497,
+          "like_count": 346,
+          "listed_count": 3,
+          "tweet_count": 13870
+        },
+        "username": "zazanb666",
+        "verified": false
+      }
+    ]
+  }
+}

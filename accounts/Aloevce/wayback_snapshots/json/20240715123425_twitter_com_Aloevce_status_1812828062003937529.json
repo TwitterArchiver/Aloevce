@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1812828062003937529",
+    "created_at": "2024-07-15T12:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T13:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812828062003937529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1593274597650022400",
+          "start": 3,
+          "username": "kyumi_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812828062003937529",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812756652602569096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyumi_00: 我真的不喜歡別人問我哪個城市的，我在哪個城市多看幾條推文就知道了，，真的！很！不喜歡！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1812828062003937529",
+        "created_at": "2024-07-15T12:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T13:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812828062003937529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1593274597650022400",
+              "start": 3,
+              "username": "kyumi_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812828062003937529",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812756652602569096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyumi_00: 我真的不喜歡別人問我哪個城市的，我在哪個城市多看幾條推文就知道了，，真的！很！不喜歡！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1593274597650022400",
+        "conversation_id": "1812756652602569096",
+        "created_at": "2024-07-15T07:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T08:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812756652602569096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812756652602569096",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 738,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不喜歡別人問我哪個城市的，我在哪個城市多看幾條推文就知道了，，真的！很！不喜歡！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1812569352366866598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17361,
+          "following_count": 2203,
+          "like_count": 52053,
+          "listed_count": 21,
+          "tweet_count": 17951
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T16:07:30.000Z",
+        "description": "🚪123/288/520/無上限 推廣自辨謹防上當 自用梯子https://t.co/LRYcUsb7Id 入門疑惑及線下請私信!! tg：https://t.co/ICmSJcT2CG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kugou7.cloud/#/register?cod…",
+                "end": 53,
+                "expanded_url": "https://kugou7.cloud/#/register?code=LavMjwGn",
+                "start": 30,
+                "url": "https://t.co/LRYcUsb7Id"
+              },
+              {
+                "display_url": "t.me/+iHQL3kghRw00O…",
+                "end": 93,
+                "expanded_url": "https://t.me/+iHQL3kghRw00OWFh",
+                "start": 70,
+                "url": "https://t.co/ICmSJcT2CG"
+              }
+            ]
+          }
+        },
+        "id": "1593274597650022400",
+        "location": "私信只回互關門檻推廣喵",
+        "name": "咬你一口",
+        "pinned_tweet_id": "1801954020065755630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711110422676537344/q_-2IYbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6378,
+          "following_count": 178,
+          "like_count": 4102,
+          "listed_count": 18,
+          "tweet_count": 1165
+        },
+        "username": "kyumi_00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1828257091993153536"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1828257115481276446",
+    "created_at": "2024-08-27T02:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T03:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828257115481276446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uaaaxtx3ka",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Aloevce/status/1828257115481276446/photo/1",
+          "media_key": "3_1828257091993153536",
+          "start": 14,
+          "url": "https://t.co/UAaAxTX3kA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828257115481276446",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一睡醒就开始用屁股摩擦阴茎 https://t.co/UAaAxTX3kA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1828257115481276446].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1828257115481276446",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1828257115481276446"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1828257091993153536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV9GI35XMAAAM5V.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18146,
+          "following_count": 2256,
+          "like_count": 52926,
+          "listed_count": 22,
+          "tweet_count": 18621
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

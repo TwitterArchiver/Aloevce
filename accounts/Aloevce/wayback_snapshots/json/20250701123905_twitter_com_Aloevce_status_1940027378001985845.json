@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940027374457778176"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1940027378001985845",
+    "created_at": "2025-07-01T12:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T13:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940027378001985845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cF3oXbbzUv",
+          "end": 33,
+          "expanded_url": "https://x.com/Aloevce/status/1940027378001985845/photo/1",
+          "media_key": "3_1940027374457778176",
+          "start": 10,
+          "url": "https://t.co/cF3oXbbzUv"
+        },
+        {
+          "display_url": "x.com/SUZUdesu111/st…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/SUZUdesu111/status/1939697626175426811",
+          "start": 34,
+          "url": "https://t.co/akI2nXZq9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940027378001985845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939697626175426811",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已买，最喜欢牛牛了 https://t.co/cF3oXbbzUv https://t.co/akI2nXZq9A"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1940027378001985845].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1940027378001985845",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1940027378001985845"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 806,
+        "media_key": "3_1940027374457778176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guxcnk0W8AAlSmE.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1939697616956366848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuswtKZbIAAXhAR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1939697616994131968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuswtKibYAApC4f.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939697616956366848",
+            "3_1939697616994131968"
+          ]
+        },
+        "author_id": "1592433377143328768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1939697626175426811",
+        "created_at": "2025-06-30T14:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T15:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939697626175426811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSxAl9b1Rz",
+              "end": 39,
+              "expanded_url": "https://x.com/SUZUdesu111/status/1939697626175426811/photo/1",
+              "media_key": "3_1939697616956366848",
+              "start": 16,
+              "url": "https://t.co/JSxAl9b1Rz"
+            },
+            {
+              "display_url": "pic.x.com/JSxAl9b1Rz",
+              "end": 39,
+              "expanded_url": "https://x.com/SUZUdesu111/status/1939697626175426811/photo/1",
+              "media_key": "3_1939697616994131968",
+              "start": 16,
+              "url": "https://t.co/JSxAl9b1Rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939697626175426811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 67123,
+          "like_count": 776,
+          "quote_count": 7,
+          "reply_count": 71,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我服了我家里的几把元素真的好多 https://t.co/JSxAl9b1Rz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19071,
+          "following_count": 2383,
+          "like_count": 55383,
+          "listed_count": 20,
+          "media_count": 6131,
+          "tweet_count": 21469
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-15T08:24:49.000Z",
+        "description": "随便发发，大号@lover_ning炸了可以来这边找我玩 / 推女性向的号@suibiankankan_6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "lover_ning"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "suibiankankan_6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/fMLNHmRJIE"
+              }
+            ]
+          }
+        },
+        "id": "1592433377143328768",
+        "location": "免费VPN👉🏼",
+        "name": "suzu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717021718571814912/t82tDl5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232818,
+          "following_count": 31,
+          "like_count": 14064,
+          "listed_count": 230,
+          "media_count": 1530,
+          "tweet_count": 30753
+        },
+        "url": "https://t.co/fMLNHmRJIE",
+        "username": "SUZUdesu111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      }
+    ],
+    "conversation_id": "2062717666415227327",
+    "created_at": "2026-06-05T02:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062717666415227327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hina1208ovo/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Hina1208ovo/status/2062489925522743770",
+          "start": 6,
+          "url": "https://t.co/ysBOLQ77uM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062717666415227327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062489925522743770",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "兔兔这个萌 https://t.co/ysBOLQ77uM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1044,
+        "media_key": "3_2062489916635058176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9vptHbkAA1QQK.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "2062717666415227327",
+        "created_at": "2026-06-05T02:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062717666415227327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hina1208ovo/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Hina1208ovo/status/2062489925522743770",
+              "start": 6,
+              "url": "https://t.co/ysBOLQ77uM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062717666415227327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062489925522743770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兔兔这个萌 https://t.co/ysBOLQ77uM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062489916635058176"
+          ]
+        },
+        "author_id": "1752362489055158272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "2062489925522743770",
+        "created_at": "2026-06-04T11:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062489925522743770"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "ちいかわ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kR3YgjMLEc",
+              "end": 74,
+              "expanded_url": "https://x.com/Hina1208ovo/status/2062489925522743770/photo/1",
+              "media_key": "3_2062489916635058176",
+              "start": 51,
+              "url": "https://t.co/kR3YgjMLEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062489925522743770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 610,
+          "impression_count": 207811,
+          "like_count": 7049,
+          "quote_count": 255,
+          "reply_count": 10,
+          "retweet_count": 983
+        },
+        "reply_settings": "everyone",
+        "text": "もし二日酔いのちいかわにトイレが加わるなら......🤭\nとても似合っているようですね…\n#ちいかわ https://t.co/kR3YgjMLEc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18154,
+          "following_count": 1975,
+          "like_count": 56251,
+          "listed_count": 24,
+          "media_count": 6775,
+          "tweet_count": 23858
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T16:05:57.000Z",
+        "description": "ちいかわ/ディズニー／アニメ好き\n中国のちいかわ・萌えグッズ情報発信中✨\n中国限定グッズはDMで予約承ります💖\nたくさんのお友達と繋がりたい🥺",
+        "id": "1752362489055158272",
+        "location": "Chiikawa Land",
+        "name": "Hinaちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792899317323501568/wk05QZvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 321,
+          "like_count": 1842,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 305
+        },
+        "username": "Hina1208ovo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1788227899079950337"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1788229982826971306",
+    "created_at": "2024-05-08T15:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-08T16:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1788229982826971306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/4c3bsGZsKV",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Aloevce/status/1788229982826971306/video/1",
+          "media_key": "7_1788227899079950337",
+          "start": 3,
+          "url": "https://t.co/4c3bsGZsKV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788229982826971306",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃呃 https://t.co/4c3bsGZsKV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7964,
+        "height": 1264,
+        "media_key": "7_1788227899079950337",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1788227899079950337/pu/img/Bnp_BN_WeMeiVIwF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1788227899079950337/pu/vid/avc1/320x560/i9RVzm0JkpH8MyfW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1788227899079950337/pu/vid/avc1/480x842/axDi948FO49DZGqN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1788227899079950337/pu/vid/avc1/720x1264/KXh1v-2uO8YAjLcb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1788227899079950337/pu/pl/AvdXG3QSKiow4Ike.m3u8?tag=12&container=cmaf"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1788227899079950337"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1788229982826971306",
+        "created_at": "2024-05-08T15:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T16:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788229982826971306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4c3bsGZsKV",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Aloevce/status/1788229982826971306/video/1",
+              "media_key": "7_1788227899079950337",
+              "start": 3,
+              "url": "https://t.co/4c3bsGZsKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788229982826971306",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃 https://t.co/4c3bsGZsKV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "评论罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12749,
+          "following_count": 2170,
+          "like_count": 51145,
+          "listed_count": 18,
+          "tweet_count": 17168
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

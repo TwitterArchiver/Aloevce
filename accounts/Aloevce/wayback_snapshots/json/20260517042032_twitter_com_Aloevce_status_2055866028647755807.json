@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2055866028647755807",
+    "created_at": "2026-05-17T04:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055866028647755807"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055866028647755807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽大早上来敲门也敲了邻居的 并说了一句什么什么修 但是我没穿衣服没开门并且敲了回去（卧槽尼玛我听不懂四川话。抱歉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2055866028647755807",
+        "created_at": "2026-05-17T04:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055866028647755807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055866028647755807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽大早上来敲门也敲了邻居的 并说了一句什么什么修 但是我没穿衣服没开门并且敲了回去（卧槽尼玛我听不懂四川话。抱歉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18239,
+          "following_count": 1979,
+          "like_count": 55863,
+          "listed_count": 24,
+          "media_count": 6688,
+          "tweet_count": 23553
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

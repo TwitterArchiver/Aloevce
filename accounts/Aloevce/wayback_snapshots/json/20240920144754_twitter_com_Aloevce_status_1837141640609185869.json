@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1836780206293475328"
+      ],
+      "media_source_tweet_id": [
+        "1836780212161237262"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1837141640609185869",
+    "created_at": "2024-09-20T14:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T15:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837141640609185869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1701841796547092480",
+          "start": 3,
+          "username": "broccoli_senpai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/koahizs7sl",
+          "end": 58,
+          "expanded_url": "https://twitter.com/broccoli_senpai/status/1836780212161237262/photo/1",
+          "media_key": "3_1836780206293475328",
+          "start": 35,
+          "url": "https://t.co/KoAHizs7Sl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837141640609185869",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836780212161237262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @broccoli_senpai: 看来需要蛮多治疗的.... https://t.co/KoAHizs7Sl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 508,
+        "media_key": "3_1836780206293475328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GX2N3a6XYAAJTYI.jpg",
+        "width": 646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836780206293475328"
+          ],
+          "media_source_tweet_id": [
+            "1836780212161237262"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1837141640609185869",
+        "created_at": "2024-09-20T14:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T15:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837141640609185869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1701841796547092480",
+              "start": 3,
+              "username": "broccoli_senpai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/koahizs7sl",
+              "end": 58,
+              "expanded_url": "https://twitter.com/broccoli_senpai/status/1836780212161237262/photo/1",
+              "media_key": "3_1836780206293475328",
+              "start": 35,
+              "url": "https://t.co/KoAHizs7Sl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837141640609185869",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836780212161237262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @broccoli_senpai: 看来需要蛮多治疗的.... https://t.co/KoAHizs7Sl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836780206293475328"
+          ]
+        },
+        "author_id": "1701841796547092480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1836780212161237262",
+        "created_at": "2024-09-19T14:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T15:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836780212161237262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/koahizs7sl",
+              "end": 37,
+              "expanded_url": "https://twitter.com/broccoli_senpai/status/1836780212161237262/photo/1",
+              "media_key": "3_1836780206293475328",
+              "start": 14,
+              "url": "https://t.co/KoAHizs7Sl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836780212161237262",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 472,
+          "impression_count": 165455,
+          "like_count": 2472,
+          "quote_count": 14,
+          "reply_count": 82,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "看来需要蛮多治疗的.... https://t.co/KoAHizs7Sl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17933,
+          "following_count": 2254,
+          "like_count": 53099,
+          "listed_count": 22,
+          "tweet_count": 18919
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T06:14:49.000Z",
+        "description": "男 友Lgbtq+🏳️‍🌈🏳️‍⚧️著名动漫博主喜欢时评和偶尔日常的锐评博主 不会去反任何一个意识形态 但我厌蠢",
+        "id": "1701841796547092480",
+        "location": "距离你5公里",
+        "name": "西兰花前辈🕶",
+        "pinned_tweet_id": "1833684222373949505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837113622406782976/0OO87Afr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 121,
+          "like_count": 28757,
+          "listed_count": 6,
+          "tweet_count": 10348
+        },
+        "username": "broccoli_senpai",
+        "verified": false
+      }
+    ]
+  }
+}

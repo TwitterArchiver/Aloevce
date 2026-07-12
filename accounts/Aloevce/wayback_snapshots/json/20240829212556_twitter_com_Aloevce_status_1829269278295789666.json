@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1829269278295789666",
+    "created_at": "2024-08-29T21:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T22:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829269278295789666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/Aloevce/status/1829267800147316967",
+          "start": 25,
+          "url": "https://t.co/j2teuM95RB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829269278295789666",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829267800147316967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每天住在成都内三环醒来有🐱🐶还有饭菜也太幸福了💤 https://t.co/j2teuM95RB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1829269278295789666",
+        "created_at": "2024-08-29T21:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T22:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829269278295789666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Aloevce/status/1829267800147316967",
+              "start": 25,
+              "url": "https://t.co/j2teuM95RB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829269278295789666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829267800147316967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每天住在成都内三环醒来有🐱🐶还有饭菜也太幸福了💤 https://t.co/j2teuM95RB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1829267800147316967",
+        "created_at": "2024-08-29T21:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T22:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829267800147316967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1829267800147316967",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不住家也不住校也太幸福了，zzz，睡在对象家每天起来有阴茎有🐱🐶饭菜好幸福，zzz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "除了打米不要私信我，谢谢",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18118,
+          "following_count": 2263,
+          "like_count": 53047,
+          "listed_count": 22,
+          "tweet_count": 18705
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

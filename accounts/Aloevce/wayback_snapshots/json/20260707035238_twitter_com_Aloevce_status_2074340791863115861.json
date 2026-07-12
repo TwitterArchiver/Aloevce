@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2074340791863115861",
+    "created_at": "2026-07-07T03:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074340791863115861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NoraX2026/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/NoraX2026/status/2073923504785781046",
+          "start": 2,
+          "url": "https://t.co/PkZZp0HGHE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074340791863115861",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073923504785781046",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/PkZZp0HGHE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 787,
+        "media_key": "3_2073923495591858177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgObl4W0AEaHr3.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2074340791863115861",
+        "created_at": "2026-07-07T03:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074340791863115861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NoraX2026/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/NoraX2026/status/2073923504785781046",
+              "start": 2,
+              "url": "https://t.co/PkZZp0HGHE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074340791863115861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073923504785781046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/PkZZp0HGHE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073923495591858177"
+          ]
+        },
+        "author_id": "2042977978267951104",
+        "conversation_id": "2073923504785781046",
+        "created_at": "2026-07-06T00:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073923504785781046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xa17dsN7A8",
+              "end": 42,
+              "expanded_url": "https://x.com/NoraX2026/status/2073923504785781046/photo/1",
+              "media_key": "3_2073923495591858177",
+              "start": 19,
+              "url": "https://t.co/Xa17dsN7A8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073923504785781046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 68131,
+          "like_count": 1931,
+          "quote_count": 7,
+          "reply_count": 89,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "为什么能抗住事的人，往往不擅长哄人？ https://t.co/Xa17dsN7A8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18055,
+          "following_count": 1955,
+          "like_count": 56357,
+          "listed_count": 23,
+          "media_count": 6866,
+          "tweet_count": 24110
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T14:49:06.000Z",
+        "description": "🎓经济学 & 心理学\n🌍从美国硅谷跑回深圳AI创业\n👩HerName成员\n💰搞钱｜AI｜信息差｜写段子\n商务合作v：jasmine704792 （备明来意）\nEmail：3885826362@qq.com",
+        "id": "2042977978267951104",
+        "location": "深圳",
+        "name": "Nora X",
+        "pinned_tweet_id": "2064317591464878487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046415173804806144/IqEHzmqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11004,
+          "following_count": 178,
+          "like_count": 9811,
+          "listed_count": 33,
+          "media_count": 676,
+          "tweet_count": 6566
+        },
+        "url": "",
+        "username": "NoraX2026",
+        "verified": true
+      }
+    ]
+  }
+}

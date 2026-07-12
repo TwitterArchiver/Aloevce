@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1840273037901606912"
+      ],
+      "media_source_tweet_id": [
+        "1840273041177334084"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1840287863608414439",
+    "created_at": "2024-09-29T07:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T08:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840287863608414439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1509456542",
+          "start": 3,
+          "username": "sumisumi_0x0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2sitsmarnz",
+          "end": 49,
+          "expanded_url": "https://twitter.com/sumisumi_0x0/status/1840273041177334084/photo/1",
+          "media_key": "3_1840273037901606912",
+          "start": 26,
+          "url": "https://t.co/2sitSmARNz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840287863608414439",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840273041177334084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sumisumi_0x0: 美琴の水玉水着 https://t.co/2sitSmARNz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1840273037901606912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYn2k-nasAA_Reu.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840273037901606912"
+          ],
+          "media_source_tweet_id": [
+            "1840273041177334084"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1840287863608414439",
+        "created_at": "2024-09-29T07:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T08:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840287863608414439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509456542",
+              "start": 3,
+              "username": "sumisumi_0x0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2sitsmarnz",
+              "end": 49,
+              "expanded_url": "https://twitter.com/sumisumi_0x0/status/1840273041177334084/photo/1",
+              "media_key": "3_1840273037901606912",
+              "start": 26,
+              "url": "https://t.co/2sitSmARNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840287863608414439",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840273041177334084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sumisumi_0x0: 美琴の水玉水着 https://t.co/2sitSmARNz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840273037901606912"
+          ]
+        },
+        "author_id": "1509456542",
+        "conversation_id": "1840273041177334084",
+        "created_at": "2024-09-29T06:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T07:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840273041177334084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2sitsmarnz",
+              "end": 31,
+              "expanded_url": "https://twitter.com/sumisumi_0x0/status/1840273041177334084/photo/1",
+              "media_key": "3_1840273037901606912",
+              "start": 8,
+              "url": "https://t.co/2sitSmARNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840273041177334084",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 594,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "美琴の水玉水着 https://t.co/2sitSmARNz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17987,
+          "following_count": 2253,
+          "like_count": 52902,
+          "listed_count": 22,
+          "tweet_count": 18968
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-12T05:50:09.000Z",
+        "description": "電子生命体",
+        "id": "1509456542",
+        "location": "💊v好友位100",
+        "name": "oxo",
+        "pinned_tweet_id": "1835658763543650684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822146733381443584/9rMBkmgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10782,
+          "following_count": 192,
+          "like_count": 295,
+          "listed_count": 19,
+          "tweet_count": 38
+        },
+        "username": "sumisumi_0x0",
+        "verified": false
+      }
+    ]
+  }
+}

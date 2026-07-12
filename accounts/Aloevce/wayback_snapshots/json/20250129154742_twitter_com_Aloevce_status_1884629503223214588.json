@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884629440392749057",
+        "3_1884629466452004865",
+        "3_1884629498768871425"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1884629503223214588",
+    "created_at": "2025-01-29T15:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T16:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884629503223214588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hspAbPyWTs",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/1884629503223214588/photo/1",
+          "media_key": "3_1884629440392749057",
+          "start": 5,
+          "url": "https://t.co/hspAbPyWTs"
+        },
+        {
+          "display_url": "pic.x.com/hspAbPyWTs",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/1884629503223214588/photo/1",
+          "media_key": "3_1884629466452004865",
+          "start": 5,
+          "url": "https://t.co/hspAbPyWTs"
+        },
+        {
+          "display_url": "pic.x.com/hspAbPyWTs",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/1884629503223214588/photo/1",
+          "media_key": "3_1884629498768871425",
+          "start": 5,
+          "url": "https://t.co/hspAbPyWTs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884629503223214588",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "胡吃海塞 https://t.co/hspAbPyWTs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1884629440392749057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GieMfafaYAE36ux.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1884629466452004865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GieMg7kbEAEZ-IX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1884629498768871425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GieMiz9XUAE8Ceq.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884629440392749057",
+            "3_1884629466452004865",
+            "3_1884629498768871425"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1884629503223214588",
+        "created_at": "2025-01-29T15:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T16:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884629503223214588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hspAbPyWTs",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/1884629503223214588/photo/1",
+              "media_key": "3_1884629440392749057",
+              "start": 5,
+              "url": "https://t.co/hspAbPyWTs"
+            },
+            {
+              "display_url": "pic.x.com/hspAbPyWTs",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/1884629503223214588/photo/1",
+              "media_key": "3_1884629466452004865",
+              "start": 5,
+              "url": "https://t.co/hspAbPyWTs"
+            },
+            {
+              "display_url": "pic.x.com/hspAbPyWTs",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/1884629503223214588/photo/1",
+              "media_key": "3_1884629498768871425",
+              "start": 5,
+              "url": "https://t.co/hspAbPyWTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884629503223214588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胡吃海塞 https://t.co/hspAbPyWTs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰王牌从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1883941576986276044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17803,
+          "following_count": 2390,
+          "like_count": 54509,
+          "listed_count": 20,
+          "media_count": 5742,
+          "tweet_count": 20447
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

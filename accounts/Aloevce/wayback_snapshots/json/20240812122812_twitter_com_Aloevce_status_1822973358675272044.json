@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1822973358675272044",
+    "created_at": "2024-08-12T12:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T13:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822973358675272044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Murasamekawaii…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Murasamekawaiia/status/1822972769669427261",
+          "start": 9,
+          "url": "https://t.co/oqc9sxL30G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822973358675272044",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822972769669427261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我盗的她的朋友圈 https://t.co/oqc9sxL30G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1822973358675272044",
+        "created_at": "2024-08-12T12:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T13:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822973358675272044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Murasamekawaii…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Murasamekawaiia/status/1822972769669427261",
+              "start": 9,
+              "url": "https://t.co/oqc9sxL30G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822973358675272044",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822972769669427261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我盗的她的朋友圈 https://t.co/oqc9sxL30G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391258432670425088",
+        "conversation_id": "1822944144420925700",
+        "created_at": "2024-08-12T12:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T13:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822972769669427261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822972769669427261",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822944144420925700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 闪焰王牌你老实交代你到底是怎么忽悠一个女生给你拍了这么久的照片的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17351,
+          "following_count": 2189,
+          "like_count": 52171,
+          "listed_count": 21,
+          "tweet_count": 18300
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-09T05:07:39.000Z",
+        "description": "注定伟大\n需回fo请私信",
+        "id": "1391258432670425088",
+        "location": "叹息海",
+        "name": "永昼今天坐大牢",
+        "pinned_tweet_id": "1675622020435054592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767460853446807552/CYnHuZJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 459,
+          "like_count": 36476,
+          "listed_count": 6,
+          "tweet_count": 13790
+        },
+        "username": "Murasamekawaiia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2064755586680373322",
+    "created_at": "2026-06-10T17:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064755586680373322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/usagimm208/status/2064753258573512925",
+          "start": 6,
+          "url": "https://t.co/02jCOwQRC9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064755586680373322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064753258573512925",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "相斥螺蛳粉 https://t.co/02jCOwQRC9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064753061130858496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKd5-DWa8AAdXSF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064753061118291968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKd5-DTbMAAHctv.jpg",
+        "width": 1687
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2064755586680373322",
+        "created_at": "2026-06-10T17:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064755586680373322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/usagimm208/status/2064753258573512925",
+              "start": 6,
+              "url": "https://t.co/02jCOwQRC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064755586680373322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064753258573512925",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "相斥螺蛳粉 https://t.co/02jCOwQRC9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064753061130858496",
+            "3_2064753061118291968"
+          ]
+        },
+        "author_id": "2005739449058230272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064753258573512925",
+        "created_at": "2026-06-10T16:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064753258573512925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QCMPDCebuv",
+              "end": 26,
+              "expanded_url": "https://x.com/usagimm208/status/2064753258573512925/photo/1",
+              "media_key": "3_2064753061130858496",
+              "start": 3,
+              "url": "https://t.co/QCMPDCebuv"
+            },
+            {
+              "display_url": "pic.x.com/QCMPDCebuv",
+              "end": 26,
+              "expanded_url": "https://x.com/usagimm208/status/2064753258573512925/photo/1",
+              "media_key": "3_2064753061118291968",
+              "start": 3,
+              "url": "https://t.co/QCMPDCebuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064753258573512925",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "进食 https://t.co/QCMPDCebuv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18140,
+          "following_count": 1970,
+          "like_count": 56323,
+          "listed_count": 24,
+          "media_count": 6785,
+          "tweet_count": 23923
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "暴食导致长胖10斤、每天还因为吃不饱而充满怨气的僵尸ぐる，皮下有双重人格随便切换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "小绿",
+        "pinned_tweet_id": "2058643879059190070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 34,
+          "like_count": 2039,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

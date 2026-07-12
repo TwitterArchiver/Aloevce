@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066073253572116480"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2066073285444386934",
+    "created_at": "2026-06-14T08:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066073285444386934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/17hapwJ0yS",
+          "end": 45,
+          "expanded_url": "https://x.com/Aloevce/status/2066073285444386934/photo/1",
+          "media_key": "3_2066073253572116480",
+          "start": 22,
+          "url": "https://t.co/17hapwJ0yS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066073285444386934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我买的黑魂润滑液男用后入肛门润滑剂松弛到了 https://t.co/17hapwJ0yS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066073253572116480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwqrXcaAAAwAZ1.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066073253572116480"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2066073285444386934",
+        "created_at": "2026-06-14T08:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066073285444386934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/17hapwJ0yS",
+              "end": 45,
+              "expanded_url": "https://x.com/Aloevce/status/2066073285444386934/photo/1",
+              "media_key": "3_2066073253572116480",
+              "start": 22,
+              "url": "https://t.co/17hapwJ0yS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066073285444386934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我买的黑魂润滑液男用后入肛门润滑剂松弛到了 https://t.co/17hapwJ0yS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18128,
+          "following_count": 1967,
+          "like_count": 56341,
+          "listed_count": 24,
+          "media_count": 6801,
+          "tweet_count": 23949
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

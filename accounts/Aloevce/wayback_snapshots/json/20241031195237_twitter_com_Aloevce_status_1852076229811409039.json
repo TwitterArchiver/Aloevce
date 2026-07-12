@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852076126295986180"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1852076229811409039",
+    "created_at": "2024-10-31T19:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T20:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1852076229811409039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mzAAELGtPI",
+          "end": 62,
+          "expanded_url": "https://x.com/Aloevce/status/1852076229811409039/photo/1",
+          "media_key": "3_1852076126295986180",
+          "start": 39,
+          "url": "https://t.co/mzAAELGtPI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852076229811409039",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这张阿梓也太可爱太美了我嘞个豆😭😭😭完美符合阿梓在我心中的印象，又顽皮又可爱 https://t.co/mzAAELGtPI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1852076126295986180",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbPlbJTakAQLxe3.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852076126295986180"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1852076229811409039",
+        "created_at": "2024-10-31T19:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T20:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852076229811409039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzAAELGtPI",
+              "end": 62,
+              "expanded_url": "https://x.com/Aloevce/status/1852076229811409039/photo/1",
+              "media_key": "3_1852076126295986180",
+              "start": 39,
+              "url": "https://t.co/mzAAELGtPI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852076229811409039",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张阿梓也太可爱太美了我嘞个豆😭😭😭完美符合阿梓在我心中的印象，又顽皮又可爱 https://t.co/mzAAELGtPI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17713,
+          "following_count": 2253,
+          "like_count": 53102,
+          "listed_count": 23,
+          "tweet_count": 19200
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

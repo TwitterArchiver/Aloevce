@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931623742276259840"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1931623746625835310",
+    "created_at": "2025-06-08T08:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T09:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931623746625835310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cVwDYr8rfX",
+          "end": 35,
+          "expanded_url": "https://x.com/Aloevce/status/1931623746625835310/photo/1",
+          "media_key": "3_1931623742276259840",
+          "start": 12,
+          "url": "https://t.co/cVwDYr8rfX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931623746625835310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "曹氏加烤鸭 猪精转世了 https://t.co/cVwDYr8rfX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1931623742276259840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs6BjzYWUAAg11B.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931623742276259840"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1931623746625835310",
+        "created_at": "2025-06-08T08:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T09:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931623746625835310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cVwDYr8rfX",
+              "end": 35,
+              "expanded_url": "https://x.com/Aloevce/status/1931623746625835310/photo/1",
+              "media_key": "3_1931623742276259840",
+              "start": 12,
+              "url": "https://t.co/cVwDYr8rfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931623746625835310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "曹氏加烤鸭 猪精转世了 https://t.co/cVwDYr8rfX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19196,
+          "following_count": 2394,
+          "like_count": 55448,
+          "listed_count": 20,
+          "media_count": 6095,
+          "tweet_count": 21372
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

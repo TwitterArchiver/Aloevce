@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1993940004075393411",
+    "created_at": "2025-11-27T07:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993940004075393411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1844580614131023874",
+          "start": 3,
+          "username": "Patrick041123"
+        },
+        {
+          "end": 27,
+          "id": "1495662254544789506",
+          "start": 19,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993940004075393411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993635989395226664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Patrick041123: @Aloevce 这狗操的就业环境我真日了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1993940004075393411",
+        "created_at": "2025-11-27T07:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993940004075393411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1844580614131023874",
+              "start": 3,
+              "username": "Patrick041123"
+            },
+            {
+              "end": 27,
+              "id": "1495662254544789506",
+              "start": 19,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993940004075393411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993635989395226664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Patrick041123: @Aloevce 这狗操的就业环境我真日了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844580614131023874",
+        "conversation_id": "1993618047018697177",
+        "created_at": "2025-11-26T11:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T12:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993635989395226664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993635989395226664",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993618047018697177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 这狗操的就业环境我真日了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1983656746171429044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18517,
+          "following_count": 2385,
+          "like_count": 54662,
+          "listed_count": 24,
+          "media_count": 6324,
+          "tweet_count": 22097
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T03:27:58.000Z",
+        "description": "自由自在的做梦",
+        "id": "1844580614131023874",
+        "name": "超级梦想家",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960304459533459456/PtHQDVxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 16,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 387
+        },
+        "username": "Patrick041123",
+        "verified": false
+      }
+    ]
+  }
+}

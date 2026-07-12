@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1793317032101917119",
+    "created_at": "2024-05-22T16:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T17:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1793317032101917119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Aloevce/status/1792959540948066533",
+          "start": 20,
+          "url": "https://t.co/Rjz7h64XAp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793317032101917119",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792959540948066533",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我哭了啊啊啊啊被卖掉了，我恨你们所有人 https://t.co/Rjz7h64XAp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1793317032101917119",
+        "created_at": "2024-05-22T16:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T17:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793317032101917119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Aloevce/status/1792959540948066533",
+              "start": 20,
+              "url": "https://t.co/Rjz7h64XAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793317032101917119",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792959540948066533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哭了啊啊啊啊被卖掉了，我恨你们所有人 https://t.co/Rjz7h64XAp"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792959521473626112"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1792959540948066533",
+        "created_at": "2024-05-21T16:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T17:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792959540948066533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qARBFXWQwj",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Aloevce/status/1792959540948066533/photo/1",
+              "media_key": "3_1792959521473626112",
+              "start": 4,
+              "url": "https://t.co/qARBFXWQwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792959540948066533",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 989,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁送我 https://t.co/qARBFXWQwj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12818,
+          "following_count": 2229,
+          "like_count": 52101,
+          "listed_count": 18,
+          "tweet_count": 17485
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

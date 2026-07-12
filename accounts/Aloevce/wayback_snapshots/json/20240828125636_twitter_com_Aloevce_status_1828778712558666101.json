@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1828778521834962944"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1828778712558666101",
+    "created_at": "2024-08-28T12:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T13:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828778712558666101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0jkgvwjnwj",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Aloevce/status/1828778712558666101/video/1",
+          "media_key": "7_1828778521834962944",
+          "start": 7,
+          "url": "https://t.co/0JKgVwjNwJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828778712558666101",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "狂犬病发作了 https://t.co/0JKgVwjNwJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5503,
+        "height": 1264,
+        "media_key": "7_1828778521834962944",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1828778521834962944/pu/img/WrpOcSMQwR2MVWL8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828778521834962944/pu/vid/avc1/320x560/6XpXS6Nfzo4stXwa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828778521834962944/pu/vid/avc1/480x842/mKxip8rSySFSMMk8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828778521834962944/pu/vid/avc1/720x1264/khIlzzp210kK2TOZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1828778521834962944/pu/pl/G8-O3aLbTGMQ6Ma3.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1828778521834962944"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1828778712558666101",
+        "created_at": "2024-08-28T12:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T13:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828778712558666101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0jkgvwjnwj",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Aloevce/status/1828778712558666101/video/1",
+              "media_key": "7_1828778521834962944",
+              "start": 7,
+              "url": "https://t.co/0JKgVwjNwJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828778712558666101",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狂犬病发作了 https://t.co/0JKgVwjNwJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "除了打米不要私信我，谢谢",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18180,
+          "following_count": 2260,
+          "like_count": 52971,
+          "listed_count": 22,
+          "tweet_count": 18664
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

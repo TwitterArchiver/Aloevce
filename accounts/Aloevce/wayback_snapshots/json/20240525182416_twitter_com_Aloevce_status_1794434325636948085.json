@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1794434325636948085",
+    "created_at": "2024-05-25T18:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T19:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794434325636948085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1593274597650022400",
+          "start": 3,
+          "username": "kyumi_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794434325636948085",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794195406215426203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyumi_00: 哈喽呀我是咬你一口，最近穷困潦倒遂更新置顶一则，入门疑惑及业务请私信!!\n\n关于入🚪区别：\n   66仅购买原味\n   123好友位(无朋友圈)\n   288陪聊+开放朋友圈+部分业务开放\n   520可解锁全部业务\n\n虽然我每张照片p得可能多多少少…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1794434325636948085].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1794434325636948085",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1794434325636948085"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794195391417630720",
+            "3_1794195391413354496"
+          ]
+        },
+        "author_id": "1593274597650022400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1794195406215426203",
+        "created_at": "2024-05-25T02:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T03:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794195406215426203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/QgP8lJNB16",
+              "end": 190,
+              "expanded_url": "https://twitter.com/kyumi_00/status/1794195406215426203/photo/1",
+              "media_key": "3_1794195391417630720",
+              "start": 167,
+              "url": "https://t.co/QgP8lJNB16"
+            },
+            {
+              "display_url": "pic.twitter.com/QgP8lJNB16",
+              "end": 190,
+              "expanded_url": "https://twitter.com/kyumi_00/status/1794195406215426203/photo/1",
+              "media_key": "3_1794195391413354496",
+              "start": 167,
+              "url": "https://t.co/QgP8lJNB16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794195406215426203",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2621,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽呀我是咬你一口，最近穷困潦倒遂更新置顶一则，入门疑惑及业务请私信!!\n\n关于入🚪区别：\n   66仅购买原味\n   123好友位(无朋友圈)\n   288陪聊+开放朋友圈+部分业务开放\n   520可解锁全部业务\n\n虽然我每张照片p得可能多多少少有出入但是左下是真原相机(可视频验证\n转发+关注抽15r*2 一盒右美 6kfo开 https://t.co/QgP8lJNB16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1793923054806175806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12847,
+          "following_count": 2240,
+          "like_count": 52122,
+          "listed_count": 19,
+          "tweet_count": 17469
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T16:07:30.000Z",
+        "description": "🚪123/288/520/無上限 推廣自辨謹防上當 自用梯子https://t.co/LRYcUsazSF 入门疑惑请私信!!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kugou7.cloud/#/register?cod…",
+                "end": 53,
+                "expanded_url": "https://kugou7.cloud/#/register?code=LavMjwGn",
+                "start": 30,
+                "url": "https://t.co/LRYcUsazSF"
+              }
+            ]
+          }
+        },
+        "id": "1593274597650022400",
+        "location": "私信只回互關門檻推廣喵",
+        "name": "咬你一口",
+        "pinned_tweet_id": "1794195406215426203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711110422676537344/q_-2IYbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5023,
+          "following_count": 183,
+          "like_count": 3134,
+          "listed_count": 15,
+          "tweet_count": 826
+        },
+        "username": "kyumi_00",
+        "verified": false
+      }
+    ]
+  }
+}

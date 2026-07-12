@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1824422454431019466",
+    "created_at": "2024-08-16T12:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T13:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1824422454431019466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gh0st_1024/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/gh0st_1024/status/1824394600674627989",
+          "start": 7,
+          "url": "https://t.co/ZfH5ioZlaj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824422454431019466",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824394600674627989",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你也是神人了 https://t.co/ZfH5ioZlaj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1824422454431019466",
+        "created_at": "2024-08-16T12:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T13:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824422454431019466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gh0st_1024/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/gh0st_1024/status/1824394600674627989",
+              "start": 7,
+              "url": "https://t.co/ZfH5ioZlaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824422454431019466",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824394600674627989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你也是神人了 https://t.co/ZfH5ioZlaj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1185075073352228865",
+        "conversation_id": "1824122871775682930",
+        "created_at": "2024-08-16T10:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T11:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824394600674627989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824394600674627989",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824122871775682930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 幽默，操个逼还操出感情了，不会真以为和你结婚吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17704,
+          "following_count": 2224,
+          "like_count": 52490,
+          "listed_count": 22,
+          "tweet_count": 18382
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-18T06:08:19.000Z",
+        "description": "",
+        "id": "1185075073352228865",
+        "name": "trash",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766456542847533056/F1ZcG86__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 304,
+          "like_count": 74,
+          "listed_count": 1,
+          "tweet_count": 83
+        },
+        "username": "gh0st_1024",
+        "verified": false
+      }
+    ]
+  }
+}

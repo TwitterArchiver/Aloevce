@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864520614293225472",
+        "3_1864520618172919808"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1864520638821748768",
+    "created_at": "2024-12-05T04:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T05:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864520638821748768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zoA9hHnUwi",
+          "end": 109,
+          "expanded_url": "https://x.com/Aloevce/status/1864520638821748768/photo/1",
+          "media_key": "3_1864520614293225472",
+          "start": 86,
+          "url": "https://t.co/zoA9hHnUwi"
+        },
+        {
+          "display_url": "pic.x.com/zoA9hHnUwi",
+          "end": 109,
+          "expanded_url": "https://x.com/Aloevce/status/1864520638821748768/photo/1",
+          "media_key": "3_1864520618172919808",
+          "start": 86,
+          "url": "https://t.co/zoA9hHnUwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864520638821748768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老子坐车晃悠俩小时，来到地方那个监考老师搁那玩手机，老子脱了外套我往那一坐一推，一秒钟之后使我的成绩从图一变成了图二。老子又坐俩小时车回家了，为了体育及格学校你玩弄我呢？ https://t.co/zoA9hHnUwi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_1864520614293225472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeAbnrtXQAAwYvV.jpg",
+        "width": 1080
+      },
+      {
+        "height": 860,
+        "media_key": "3_1864520618172919808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeAbn6KWsAARw7t.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864520614293225472",
+            "3_1864520618172919808"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1864520638821748768",
+        "created_at": "2024-12-05T04:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T05:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864520638821748768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zoA9hHnUwi",
+              "end": 109,
+              "expanded_url": "https://x.com/Aloevce/status/1864520638821748768/photo/1",
+              "media_key": "3_1864520614293225472",
+              "start": 86,
+              "url": "https://t.co/zoA9hHnUwi"
+            },
+            {
+              "display_url": "pic.x.com/zoA9hHnUwi",
+              "end": 109,
+              "expanded_url": "https://x.com/Aloevce/status/1864520638821748768/photo/1",
+              "media_key": "3_1864520618172919808",
+              "start": 86,
+              "url": "https://t.co/zoA9hHnUwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864520638821748768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子坐车晃悠俩小时，来到地方那个监考老师搁那玩手机，老子脱了外套我往那一坐一推，一秒钟之后使我的成绩从图一变成了图二。老子又坐俩小时车回家了，为了体育及格学校你玩弄我呢？ https://t.co/zoA9hHnUwi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "404 No Found\n\n❓:https://t.co/EE8B1ewVqa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aloevce",
+                "end": 39,
+                "expanded_url": "https://ngl.link/aloevce",
+                "start": 16,
+                "url": "https://t.co/EE8B1ewVqa"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "location": "闪焰王牌",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1863421983838319069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17626,
+          "following_count": 2313,
+          "like_count": 53523,
+          "listed_count": 20,
+          "media_count": 5445,
+          "tweet_count": 19625
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

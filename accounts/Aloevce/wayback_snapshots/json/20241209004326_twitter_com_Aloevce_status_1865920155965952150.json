@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1865920155965952150",
+    "created_at": "2024-12-09T00:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T01:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865920155965952150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/Aloevce/status/1865918284727754823",
+          "start": 60,
+          "url": "https://t.co/dJFbm7FCCc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865920155965952150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865918284727754823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后对象哥说他给那个女人买过3w的包，去过大半个中国的城市，我就难受了，为啥没人愿意给我这么花米，带我去玩，没有任何人 https://t.co/dJFbm7FCCc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1865920155965952150",
+        "created_at": "2024-12-09T00:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T01:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865920155965952150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/Aloevce/status/1865918284727754823",
+              "start": 60,
+              "url": "https://t.co/dJFbm7FCCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865920155965952150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865918284727754823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后对象哥说他给那个女人买过3w的包，去过大半个中国的城市，我就难受了，为啥没人愿意给我这么花米，带我去玩，没有任何人 https://t.co/dJFbm7FCCc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1865918284727754823",
+        "created_at": "2024-12-09T00:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T01:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865918284727754823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865918284727754823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝酒赢了跟对象哥玩儿真心话大冒险，让他讲前女友的故事，他说有个谈了五年了但是那个女仍只是爱爆他的米，但是长得很好看身材也好，这一刻我自卑了，然后怎么我也睡不着了，细想了一下之前的男友们也喜欢好看的，千言万语汇成一句 造成这一切的原因都是我太丑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "404 No Found\n\n❓:https://t.co/EE8B1ewVqa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aloevce",
+                "end": 39,
+                "expanded_url": "https://ngl.link/aloevce",
+                "start": 16,
+                "url": "https://t.co/EE8B1ewVqa"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "location": "闪焰王牌",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1865076713211699392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17679,
+          "following_count": 2348,
+          "like_count": 53597,
+          "listed_count": 20,
+          "media_count": 5468,
+          "tweet_count": 19675
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

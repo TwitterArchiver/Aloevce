@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2051943481744994550",
+    "created_at": "2026-05-06T08:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T09:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051943481744994550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YunJiu/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/YunJiu/status/2051638611582578807",
+          "start": 5,
+          "url": "https://t.co/WclNLr3Bxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051943481744994550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051638611582578807",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要购买 https://t.co/WclNLr3Bxn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 547,
+        "media_key": "3_2051638605660205056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjicRnasAAiNC9.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2051943481744994550",
+        "created_at": "2026-05-06T08:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051943481744994550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YunJiu/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/YunJiu/status/2051638611582578807",
+              "start": 5,
+              "url": "https://t.co/WclNLr3Bxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051943481744994550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051638611582578807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要购买 https://t.co/WclNLr3Bxn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051638605660205056"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2051638611582578807",
+        "created_at": "2026-05-05T12:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051638611582578807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXJhTKeRjK",
+              "end": 23,
+              "expanded_url": "https://x.com/YunJiu/status/2051638611582578807/photo/1",
+              "media_key": "3_2051638605660205056",
+              "start": 0,
+              "url": "https://t.co/ZXJhTKeRjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051638611582578807",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 12459,
+          "like_count": 431,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZXJhTKeRjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18209,
+          "following_count": 1973,
+          "like_count": 55520,
+          "listed_count": 24,
+          "media_count": 6639,
+          "tweet_count": 23354
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104240,
+          "following_count": 783,
+          "like_count": 36713,
+          "listed_count": 294,
+          "media_count": 18301,
+          "tweet_count": 26281
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

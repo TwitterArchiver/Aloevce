@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1890726369908203861",
+    "created_at": "2025-02-15T11:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T12:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890726369908203861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/Aloevce/status/1890724418210398290",
+          "start": 105,
+          "url": "https://t.co/UPiWAh5afF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890726369908203861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890724418210398290",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想对你们说的话：\n对象哥朋友：不熟。前男友：别在你的闲鱼卖我给你的礼物了好吗好的。前男友的朋友：你也滚。前前男友：你加我干嘛。前前男友对象：不熟，劝分。前前前男友：看就看吧。前暗恋哥：额呃。大学同学：想你了 https://t.co/UPiWAh5afF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1890726369908203861",
+        "created_at": "2025-02-15T11:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T12:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890726369908203861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/Aloevce/status/1890724418210398290",
+              "start": 105,
+              "url": "https://t.co/UPiWAh5afF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890726369908203861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890724418210398290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想对你们说的话：\n对象哥朋友：不熟。前男友：别在你的闲鱼卖我给你的礼物了好吗好的。前男友的朋友：你也滚。前前男友：你加我干嘛。前前男友对象：不熟，劝分。前前前男友：看就看吧。前暗恋哥：额呃。大学同学：想你了 https://t.co/UPiWAh5afF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1890724418210398290",
+        "created_at": "2025-02-15T11:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T12:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890724418210398290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890724418210398290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉有一千个人视奸我，他们分别是：对象哥的朋友，前男友，前男友的朋友，前前男友，前前男友对象，前前前男友，前暗恋哥，大学同学，。。。。。想骂谁还得掂量一下他们有没有盯着我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17807,
+          "following_count": 2426,
+          "like_count": 54826,
+          "listed_count": 20,
+          "media_count": 5821,
+          "tweet_count": 20701
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

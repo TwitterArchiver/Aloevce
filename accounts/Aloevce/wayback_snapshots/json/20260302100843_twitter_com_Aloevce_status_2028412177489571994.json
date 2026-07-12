@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2028412177489571994",
+    "created_at": "2026-03-02T10:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028412177489571994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_infinity_xxx/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/_infinity_xxx/status/1998192103856484622",
+          "start": 12,
+          "url": "https://t.co/9nCbhJ0qtg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028412177489571994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998192103856484622",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有谁知道青丸咋了。。。 https://t.co/9nCbhJ0qtg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2028412177489571994",
+        "created_at": "2026-03-02T10:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028412177489571994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_infinity_xxx/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1998192103856484622",
+              "start": 12,
+              "url": "https://t.co/9nCbhJ0qtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028412177489571994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998192103856484622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有谁知道青丸咋了。。。 https://t.co/9nCbhJ0qtg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1392452107450474499",
+        "conversation_id": "1998192103856484622",
+        "created_at": "2025-12-09T00:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T01:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998192103856484622"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998192103856484622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 86396,
+          "like_count": 62,
+          "quote_count": 6,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "日差し"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18393,
+          "following_count": 2302,
+          "like_count": 54675,
+          "listed_count": 22,
+          "media_count": 6516,
+          "tweet_count": 22729
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "PTSDでピーヒョロ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1988654113568215304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995115439303860224/VDH6R3Mf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17287,
+          "following_count": 294,
+          "like_count": 3257,
+          "listed_count": 40,
+          "media_count": 6652,
+          "tweet_count": 26362
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": true
+      }
+    ]
+  }
+}

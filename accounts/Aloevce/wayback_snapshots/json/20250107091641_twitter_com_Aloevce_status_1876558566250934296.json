@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1876127608850763983",
+    "created_at": "2025-01-07T09:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T10:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876558566250934296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1323477221688958978",
+          "start": 0,
+          "username": "k206213"
+        },
+        {
+          "end": 19,
+          "id": "1406631425181368330",
+          "start": 9,
+          "username": "duoyuchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876558566250934296",
+    "in_reply_to_user_id": "1323477221688958978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876527983307190639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k206213 @duoyuchan 我就长这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1876127608850763983",
+        "created_at": "2025-01-07T09:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T10:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876558566250934296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1323477221688958978",
+              "start": 0,
+              "username": "k206213"
+            },
+            {
+              "end": 19,
+              "id": "1406631425181368330",
+              "start": 9,
+              "username": "duoyuchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876558566250934296",
+        "in_reply_to_user_id": "1323477221688958978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876527983307190639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k206213 @duoyuchan 我就长这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1323477221688958978",
+        "conversation_id": "1876127608850763983",
+        "created_at": "2025-01-07T07:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T08:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876527983307190639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1406631425181368330",
+              "start": 0,
+              "username": "duoyuchan"
+            },
+            {
+              "end": 19,
+              "id": "1495662254544789506",
+              "start": 11,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876527983307190639",
+        "in_reply_to_user_id": "1406631425181368330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876127608850763983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoyuchan @Aloevce 有你的影子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "额",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17722,
+          "following_count": 2366,
+          "like_count": 53832,
+          "listed_count": 20,
+          "media_count": 5558,
+          "tweet_count": 19934
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-03T04:09:01.000Z",
+        "description": "崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃崩溃",
+        "id": "1323477221688958978",
+        "name": "my bad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785855477676666880/s2h_hKJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 760,
+          "like_count": 1794,
+          "listed_count": 4,
+          "media_count": 0,
+          "tweet_count": 408
+        },
+        "username": "k206213",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-20T15:14:09.000Z",
+        "description": "我此生到今天任然在犯错🫶忧郁文青走开 瞎显摆浪漫走开 拒绝无病呻吟  ‖做菜︱自拍︱宠物🐱︱",
+        "id": "1406631425181368330",
+        "location": "b613星球",
+        "name": "蝉蝉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715569500433842176/wHqFxQru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13727,
+          "following_count": 314,
+          "like_count": 6513,
+          "listed_count": 39,
+          "media_count": 326,
+          "tweet_count": 1915
+        },
+        "username": "duoyuchan",
+        "verified": false
+      }
+    ]
+  }
+}

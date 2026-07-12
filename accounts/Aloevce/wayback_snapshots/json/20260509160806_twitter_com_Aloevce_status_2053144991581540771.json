@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2053144991581540771",
+    "created_at": "2026-05-09T16:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053144991581540771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lngdenngnn2498…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/lngdenngnn24987/status/2053144763004858640",
+          "start": 15,
+          "url": "https://t.co/aqxvLNEzDp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053144991581540771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053144763004858640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不得行阿老辈子🙀huo了要遭 https://t.co/aqxvLNEzDp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2053144991581540771",
+        "created_at": "2026-05-09T16:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053144991581540771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lngdenngnn2498…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/lngdenngnn24987/status/2053144763004858640",
+              "start": 15,
+              "url": "https://t.co/aqxvLNEzDp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053144991581540771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053144763004858640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不得行阿老辈子🙀huo了要遭 https://t.co/aqxvLNEzDp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839166397399838724",
+        "conversation_id": "2053143940941976058",
+        "created_at": "2026-05-09T16:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053144763004858640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053144763004858640",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053143940941976058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 嬢嬢阔以huo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18256,
+          "following_count": 1989,
+          "like_count": 55665,
+          "listed_count": 24,
+          "media_count": 6660,
+          "tweet_count": 23431
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T04:53:45.000Z",
+        "description": "互关我喜欢你们 我不喜欢和弱智讲话 查成分回fo",
+        "id": "1839166397399838724",
+        "location": "距离你0.2km",
+        "name": "绫地宁宁",
+        "pinned_tweet_id": "1914352426859348184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879967900825710602/SyEM48ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 474,
+          "like_count": 93655,
+          "listed_count": 5,
+          "media_count": 79,
+          "tweet_count": 11518
+        },
+        "username": "lngdenngnn24987",
+        "verified": false
+      }
+    ]
+  }
+}

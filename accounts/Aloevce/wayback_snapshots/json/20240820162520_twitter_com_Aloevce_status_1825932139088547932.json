@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1825930443864015314",
+    "created_at": "2024-08-20T16:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T17:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825932139088547932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701841796547092480",
+          "start": 0,
+          "username": "broccoli_senpai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825932139088547932",
+    "in_reply_to_user_id": "1701841796547092480",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825931196561318029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@broccoli_senpai 应该是钛钢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1825930443864015314",
+        "created_at": "2024-08-20T16:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T17:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825932139088547932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701841796547092480",
+              "start": 0,
+              "username": "broccoli_senpai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825932139088547932",
+        "in_reply_to_user_id": "1701841796547092480",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825931196561318029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@broccoli_senpai 应该是钛钢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701841796547092480",
+        "conversation_id": "1825930443864015314",
+        "created_at": "2024-08-20T16:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T17:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825931196561318029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825931196561318029",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825930443864015314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 这些是什么金属啊 一直很好奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18020,
+          "following_count": 2242,
+          "like_count": 52627,
+          "listed_count": 22,
+          "tweet_count": 18457
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T06:14:49.000Z",
+        "description": "男 友Lgbtq+🏳️‍🌈🏳️‍⚧️著名动漫博主喜欢时评和偶尔日常的锐评博主 不会去反任何一个意识形态\n但我厌蠢",
+        "id": "1701841796547092480",
+        "location": "距离你5公里",
+        "name": "西兰花前辈🕶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820046315654381568/Y1plEEE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 125,
+          "like_count": 28843,
+          "listed_count": 4,
+          "tweet_count": 9950
+        },
+        "username": "broccoli_senpai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2075286267374231661",
+    "created_at": "2026-07-09T18:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075286267374231661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/beibaichuan0_0…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/beibaichuan0_0/status/2075282662260912326",
+          "start": 8,
+          "url": "https://t.co/NJE8p73tt8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075286267374231661",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075282662260912326",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为昨天吵架了 https://t.co/NJE8p73tt8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2075286267374231661",
+        "created_at": "2026-07-09T18:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075286267374231661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/beibaichuan0_0…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/beibaichuan0_0/status/2075282662260912326",
+              "start": 8,
+              "url": "https://t.co/NJE8p73tt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075286267374231661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075282662260912326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为昨天吵架了 https://t.co/NJE8p73tt8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517718055941402624",
+        "conversation_id": "2075198727506022579",
+        "created_at": "2026-07-09T18:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075282662260912326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075282662260912326",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075198727506022579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 为什么！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18049,
+          "following_count": 1956,
+          "like_count": 56372,
+          "listed_count": 23,
+          "media_count": 6877,
+          "tweet_count": 24139
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T04:12:50.000Z",
+        "description": "咪的碎碎念₍^˶-𖥦-˵^₎੭",
+        "id": "1517718055941402624",
+        "location": "Coronita, CA",
+        "name": "Nyanko白白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779570056290344960/97YOidbj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 118,
+          "like_count": 1226,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 1510
+        },
+        "url": "",
+        "username": "beibaichuan0_0",
+        "verified": false
+      }
+    ]
+  }
+}

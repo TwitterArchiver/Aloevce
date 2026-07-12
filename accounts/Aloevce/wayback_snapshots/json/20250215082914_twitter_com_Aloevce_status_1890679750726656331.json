@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1890674786688262613",
+    "created_at": "2025-02-15T08:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T09:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890679750726656331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1268901946275946496",
+          "start": 0,
+          "username": "PFTGJyJYZFRKDF4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 43,
+          "expanded_url": "https://x.com/Aloevce/status/1889016290116776233?s=19",
+          "start": 20,
+          "url": "https://t.co/QxFvDRuCRP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890679750726656331",
+    "in_reply_to_user_id": "1268901946275946496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889016290116776233",
+        "type": "quoted"
+      },
+      {
+        "id": "1890678650455855275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PFTGJyJYZFRKDF4 好问题https://t.co/QxFvDRuCRP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1890674786688262613",
+        "created_at": "2025-02-15T08:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T09:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890679750726656331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1268901946275946496",
+              "start": 0,
+              "username": "PFTGJyJYZFRKDF4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 43,
+              "expanded_url": "https://x.com/Aloevce/status/1889016290116776233?s=19",
+              "start": 20,
+              "url": "https://t.co/QxFvDRuCRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890679750726656331",
+        "in_reply_to_user_id": "1268901946275946496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889016290116776233",
+            "type": "quoted"
+          },
+          {
+            "id": "1890678650455855275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PFTGJyJYZFRKDF4 好问题https://t.co/QxFvDRuCRP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1889016290116776233",
+        "created_at": "2025-02-10T18:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T19:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889016290116776233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889016290116776233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1086,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪吒到底是天津人还是四川人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1268901946275946496",
+        "conversation_id": "1890674786688262613",
+        "created_at": "2025-02-15T08:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T09:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890678650455855275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890678650455855275",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890674786688262613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 王牌你是在成都读书的天津人，你觉得哪吒是四川的还是天津的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17807,
+          "following_count": 2426,
+          "like_count": 54822,
+          "listed_count": 20,
+          "media_count": 5819,
+          "tweet_count": 20697
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-05T13:46:23.000Z",
+        "description": "不键政，不骚扰，我只是有对于嘘嘘特有的癖好（",
+        "id": "1268901946275946496",
+        "name": "狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782806345399603200/iQ4unWzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 65,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 173
+        },
+        "username": "PFTGJyJYZFRKDF4",
+        "verified": false
+      }
+    ]
+  }
+}

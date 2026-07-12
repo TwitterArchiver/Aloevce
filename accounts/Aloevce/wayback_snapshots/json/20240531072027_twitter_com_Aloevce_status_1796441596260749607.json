@@ -1,0 +1,123 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1796441576518098944"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1796441596260749607",
+    "created_at": "2024-05-31T07:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T08:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796441596260749607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ozX95WdKy2",
+          "end": 66,
+          "expanded_url": "https://twitter.com/Aloevce/status/1796441596260749607/photo/1",
+          "media_key": "3_1796441576518098944",
+          "start": 43,
+          "url": "https://t.co/ozX95WdKy2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796441596260749607",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个人高中学画画，大学学拍视频和软件，找的第一份工作却是主播。又要研究🎤和声卡是啥🙀 https://t.co/ozX95WdKy2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1034,
+        "media_key": "3_1796441576518098944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GO4-GIwaoAAKgsT.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796441576518098944"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1796441596260749607",
+        "created_at": "2024-05-31T07:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T08:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796441596260749607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ozX95WdKy2",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Aloevce/status/1796441596260749607/photo/1",
+              "media_key": "3_1796441576518098944",
+              "start": 43,
+              "url": "https://t.co/ozX95WdKy2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796441596260749607",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个人高中学画画，大学学拍视频和软件，找的第一份工作却是主播。又要研究🎤和声卡是啥🙀 https://t.co/ozX95WdKy2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795447835732881408/Lypwm-n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12847,
+          "following_count": 2231,
+          "like_count": 52110,
+          "listed_count": 19,
+          "tweet_count": 17523
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

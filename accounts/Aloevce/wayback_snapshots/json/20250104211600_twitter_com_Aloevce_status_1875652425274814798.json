@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875505769166336001"
+      ],
+      "media_source_tweet_id": [
+        "1875505774308532368"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1875652425274814798",
+    "created_at": "2025-01-04T21:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T22:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875652425274814798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1446759607100055556",
+          "start": 3,
+          "username": "x3tamago"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NtctVptlZc",
+          "end": 37,
+          "expanded_url": "https://x.com/x3tamago/status/1875505774308532368/photo/1",
+          "media_key": "3_1875505769166336001",
+          "start": 14,
+          "url": "https://t.co/NtctVptlZc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875652425274814798",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875505774308532368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x3tamago: https://t.co/NtctVptlZc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1875505769166336001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggcij2la8AEPxSq.jpg",
+        "width": 1997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875505769166336001"
+          ],
+          "media_source_tweet_id": [
+            "1875505774308532368"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1875652425274814798",
+        "created_at": "2025-01-04T21:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T22:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875652425274814798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1446759607100055556",
+              "start": 3,
+              "username": "x3tamago"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NtctVptlZc",
+              "end": 37,
+              "expanded_url": "https://x.com/x3tamago/status/1875505774308532368/photo/1",
+              "media_key": "3_1875505769166336001",
+              "start": 14,
+              "url": "https://t.co/NtctVptlZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875652425274814798",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875505774308532368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x3tamago: https://t.co/NtctVptlZc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875505769166336001"
+          ]
+        },
+        "author_id": "1446759607100055556",
+        "conversation_id": "1875505774308532368",
+        "created_at": "2025-01-04T11:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T12:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875505774308532368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NtctVptlZc",
+              "end": 23,
+              "expanded_url": "https://x.com/x3tamago/status/1875505774308532368/photo/1",
+              "media_key": "3_1875505769166336001",
+              "start": 0,
+              "url": "https://t.co/NtctVptlZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875505774308532368",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 13835,
+          "like_count": 1278,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NtctVptlZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "额",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17721,
+          "following_count": 2356,
+          "like_count": 53761,
+          "listed_count": 20,
+          "media_count": 5546,
+          "tweet_count": 19891
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-09T08:49:14.000Z",
+        "description": "comms open ときどきr18描ｷﾏｽ。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/tamatomato",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/tamatomato",
+                "start": 0,
+                "url": "https://t.co/RXwTVRejbI"
+              }
+            ]
+          }
+        },
+        "id": "1446759607100055556",
+        "location": "commission →",
+        "name": "x3tomato",
+        "pinned_tweet_id": "1873994461560398086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740501967120801792/oILqEIq4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7038,
+          "following_count": 66,
+          "like_count": 4921,
+          "listed_count": 36,
+          "media_count": 104,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/RXwTVRejbI",
+        "username": "x3tamago",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2055153650151145869",
+    "created_at": "2026-05-15T10:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055233743066116545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1516255907142770688",
+          "start": 0,
+          "username": "inZanarkand_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055233743066116545",
+    "in_reply_to_user_id": "1516255907142770688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055188041652936819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inZanarkand_ 上了的但不知道售罄没🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2055153650151145869",
+        "created_at": "2026-05-15T10:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055233743066116545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1516255907142770688",
+              "start": 0,
+              "username": "inZanarkand_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055233743066116545",
+        "in_reply_to_user_id": "1516255907142770688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055188041652936819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inZanarkand_ 上了的但不知道售罄没🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516255907142770688",
+        "conversation_id": "2055153650151145869",
+        "created_at": "2026-05-15T07:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055188041652936819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055188041652936819",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055153650151145869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce （成都上架浅浅丘了吗）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18246,
+          "following_count": 1972,
+          "like_count": 55850,
+          "listed_count": 24,
+          "media_count": 6681,
+          "tweet_count": 23537
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T03:22:42.000Z",
+        "description": "We're both so alone\na warmth that we'd never known",
+        "id": "1516255907142770688",
+        "name": "Ancoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031659295826460672/c6LSy_3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 188,
+          "like_count": 4226,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 829
+        },
+        "username": "inZanarkand_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2053140313531711787",
+    "created_at": "2026-05-09T15:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T16:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053140313531711787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Aloevce/status/2052131083052072997",
+          "start": 35,
+          "url": "https://t.co/LuOW4wzix3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053140313531711787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052131083052072997",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "即将修缮这幅画。额感觉哪里怪怪的。头发画得好怪。有没有懂的。求指教。 https://t.co/LuOW4wzix3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052131080174723072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqiWEJaYAAKmda.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2053140313531711787",
+        "created_at": "2026-05-09T15:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053140313531711787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Aloevce/status/2052131083052072997",
+              "start": 35,
+              "url": "https://t.co/LuOW4wzix3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053140313531711787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052131083052072997",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "即将修缮这幅画。额感觉哪里怪怪的。头发画得好怪。有没有懂的。求指教。 https://t.co/LuOW4wzix3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052131080174723072"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2052131083052072997",
+        "created_at": "2026-05-06T20:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T21:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052131083052072997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZJkI8g1ZJ",
+              "end": 25,
+              "expanded_url": "https://x.com/Aloevce/status/2052131083052072997/photo/1",
+              "media_key": "3_2052131080174723072",
+              "start": 2,
+              "url": "https://t.co/MZJkI8g1ZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052131083052072997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1159,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苯 https://t.co/MZJkI8g1ZJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18255,
+          "following_count": 1982,
+          "like_count": 55659,
+          "listed_count": 24,
+          "media_count": 6659,
+          "tweet_count": 23426
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

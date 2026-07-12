@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2042891325679260071",
+    "created_at": "2026-04-11T13:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042955512937889973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1339017385647325187",
+          "start": 0,
+          "username": "JiangAspirin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042955512937889973",
+    "in_reply_to_user_id": "1339017385647325187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042922374761451595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiangAspirin 有个费多多黄喉兔不错！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2042891325679260071",
+        "created_at": "2026-04-11T13:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042955512937889973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1339017385647325187",
+              "start": 0,
+              "username": "JiangAspirin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042955512937889973",
+        "in_reply_to_user_id": "1339017385647325187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042922374761451595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiangAspirin 有个费多多黄喉兔不错！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339017385647325187",
+        "conversation_id": "2042891325679260071",
+        "created_at": "2026-04-11T11:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042922374761451595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042922374761451595",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042901235221827875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 那也给我推点北门的美食嘛(๑&gt;؂&lt;๑)下次我来北边吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17896,
+          "following_count": 2297,
+          "like_count": 54239,
+          "listed_count": 23,
+          "media_count": 6567,
+          "tweet_count": 22905
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-16T01:20:10.000Z",
+        "description": "🍥药娘 | hrt2025.01.01 | 家有妹魔大王@她不让我挂 | 超级无敌爱红烧肉 | 不喜键政 | 颜值非常抱歉，身材初具人形 | ❤️爱你们❤️",
+        "id": "1339017385647325187",
+        "location": "东部星区",
+        "name": "姜酱姜姜酱🌙",
+        "pinned_tweet_id": "1947127145018573136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013853703682289664/8UlZxPRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 216,
+          "like_count": 5912,
+          "listed_count": 7,
+          "media_count": 1359,
+          "tweet_count": 4707
+        },
+        "username": "JiangAspirin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1999426680314908767",
+    "created_at": "2025-12-12T10:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T11:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999426926965063744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807068693010198528",
+          "start": 0,
+          "username": "IItaxue1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999426926965063744",
+    "in_reply_to_user_id": "1807068693010198528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999426781552718091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IItaxue1 先扛着。。。饿了再吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1999426680314908767",
+        "created_at": "2025-12-12T10:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999426926965063744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807068693010198528",
+              "start": 0,
+              "username": "IItaxue1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999426926965063744",
+        "in_reply_to_user_id": "1807068693010198528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999426781552718091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IItaxue1 先扛着。。。饿了再吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807068693010198528",
+        "conversation_id": "1999426680314908767",
+        "created_at": "2025-12-12T10:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999426781552718091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999426781552718091",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999426680314908767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 好奇一餐吃几个😯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18441,
+          "following_count": 2378,
+          "like_count": 54581,
+          "listed_count": 24,
+          "media_count": 6355,
+          "tweet_count": 22209
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T15:08:54.000Z",
+        "description": "线上清水人 ｜我是我自己生活的导演，我讨厌烂片",
+        "id": "1807068693010198528",
+        "name": "踏雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998025872100704256/7DY_PO8N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 715,
+          "like_count": 4197,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 387
+        },
+        "username": "IItaxue1",
+        "verified": false
+      }
+    ]
+  }
+}

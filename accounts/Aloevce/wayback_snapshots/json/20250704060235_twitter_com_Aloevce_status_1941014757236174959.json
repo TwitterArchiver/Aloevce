@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1220824190619545601",
+          "name": "Tinder"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220824190619545601",
+          "name": "Tinder"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1433125517692002306",
+          "name": "Dating Apps"
+        }
+      }
+    ],
+    "conversation_id": "1941014757236174959",
+    "created_at": "2025-07-04T06:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T07:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941014757236174959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/Aloevce/status/1941013710790971639",
+          "start": 78,
+          "url": "https://t.co/XnGyiyKA3M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941014757236174959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941013710790971639",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要是我加的一百个人都要跟我聊这个我怎么办？我请问了？还有要是我想聊不如去下tinder，还有个流程。还有我说我要扩列才加，你非要加我vx恶心我这个，我服了 https://t.co/XnGyiyKA3M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1767,
+        "media_key": "3_1941013692662824960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu_dq2dWQAAXKo6.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433125517692002306",
+              "name": "Dating Apps"
+            }
+          }
+        ],
+        "conversation_id": "1941014757236174959",
+        "created_at": "2025-07-04T06:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T07:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941014757236174959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/Aloevce/status/1941013710790971639",
+              "start": 78,
+              "url": "https://t.co/XnGyiyKA3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941014757236174959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941013710790971639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是我加的一百个人都要跟我聊这个我怎么办？我请问了？还有要是我想聊不如去下tinder，还有个流程。还有我说我要扩列才加，你非要加我vx恶心我这个，我服了 https://t.co/XnGyiyKA3M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941013692662824960"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1941013710790971639",
+        "created_at": "2025-07-04T05:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T06:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941013710790971639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sMr7dpgPOb",
+              "end": 50,
+              "expanded_url": "https://x.com/Aloevce/status/1941013710790971639/photo/1",
+              "media_key": "3_1941013692662824960",
+              "start": 27,
+              "url": "https://t.co/sMr7dpgPOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941013710790971639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂加了好友一上来就收到这个的无力感，我有一股无名火 https://t.co/sMr7dpgPOb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19071,
+          "following_count": 2384,
+          "like_count": 55456,
+          "listed_count": 20,
+          "media_count": 6140,
+          "tweet_count": 21504
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

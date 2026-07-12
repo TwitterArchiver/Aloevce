@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2051083840664522752"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2051083923627606264",
+    "created_at": "2026-05-03T23:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T00:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051083923627606264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dvLSCSQy89",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/2051083923627606264/video/1",
+          "media_key": "7_2051083840664522752",
+          "start": 5,
+          "url": "https://t.co/dvLSCSQy89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051083923627606264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧水色 https://t.co/dvLSCSQy89"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10588,
+        "height": 1280,
+        "media_key": "7_2051083840664522752",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051083840664522752/pu/img/phhDx5NUyS0L_yca.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051083840664522752/pu/vid/avc1/320x568/yqH1cmNDq2-Kt5kp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051083840664522752/pu/vid/avc1/480x852/uDT9-e8lDAAsiqCv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051083840664522752/pu/vid/avc1/720x1280/FnkJvNq4m3afipvr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051083840664522752/pu/pl/fVXfUA93MC85Wt59.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051083840664522752"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2051083923627606264",
+        "created_at": "2026-05-03T23:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T00:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051083923627606264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvLSCSQy89",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/2051083923627606264/video/1",
+              "media_key": "7_2051083840664522752",
+              "start": 5,
+              "url": "https://t.co/dvLSCSQy89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051083923627606264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧水色 https://t.co/dvLSCSQy89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18197,
+          "following_count": 1963,
+          "like_count": 55379,
+          "listed_count": 24,
+          "media_count": 6631,
+          "tweet_count": 23283
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

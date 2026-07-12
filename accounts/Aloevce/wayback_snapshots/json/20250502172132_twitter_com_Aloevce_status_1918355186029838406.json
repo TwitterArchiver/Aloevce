@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1918352949631439211",
+    "created_at": "2025-05-02T17:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T18:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918355186029838406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666010240725450752",
+          "start": 0,
+          "username": "amedesu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918355186029838406",
+    "in_reply_to_user_id": "1666010240725450752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918352949631439211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amedesu8964 呃啊好像去年在推特就看见这个人被挂过😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_1918352939422490624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp9b1aQaoAAS9xe.jpg",
+        "width": 558
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1918352939376369664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp9b1aFa4AAn8Bi.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1918352939418304513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp9b1aPawAEYzmt.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1918352939388944388",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp9b1aIawAQgSRn.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1918352949631439211",
+        "created_at": "2025-05-02T17:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T18:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918355186029838406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666010240725450752",
+              "start": 0,
+              "username": "amedesu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918355186029838406",
+        "in_reply_to_user_id": "1666010240725450752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918352949631439211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amedesu8964 呃啊好像去年在推特就看见这个人被挂过😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918352939422490624",
+            "3_1918352939376369664",
+            "3_1918352939418304513",
+            "3_1918352939388944388"
+          ]
+        },
+        "author_id": "1666010240725450752",
+        "conversation_id": "1918352949631439211",
+        "created_at": "2025-05-02T17:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T18:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918352949631439211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bnRYYqvSQn",
+              "end": 79,
+              "expanded_url": "https://x.com/amedesu8964/status/1918352949631439211/photo/1",
+              "media_key": "3_1918352939422490624",
+              "start": 56,
+              "url": "https://t.co/bnRYYqvSQn"
+            },
+            {
+              "display_url": "pic.x.com/bnRYYqvSQn",
+              "end": 79,
+              "expanded_url": "https://x.com/amedesu8964/status/1918352949631439211/photo/1",
+              "media_key": "3_1918352939376369664",
+              "start": 56,
+              "url": "https://t.co/bnRYYqvSQn"
+            },
+            {
+              "display_url": "pic.x.com/bnRYYqvSQn",
+              "end": 79,
+              "expanded_url": "https://x.com/amedesu8964/status/1918352949631439211/photo/1",
+              "media_key": "3_1918352939418304513",
+              "start": 56,
+              "url": "https://t.co/bnRYYqvSQn"
+            },
+            {
+              "display_url": "pic.x.com/bnRYYqvSQn",
+              "end": 79,
+              "expanded_url": "https://x.com/amedesu8964/status/1918352949631439211/photo/1",
+              "media_key": "3_1918352939388944388",
+              "start": 56,
+              "url": "https://t.co/bnRYYqvSQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918352949631439211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家帮我转发一下我被这个人骗了快一万块，，他一直叫我帮他买游戏又不给我钱，，我现在搭进去快一万了他一直在拖着我 https://t.co/bnRYYqvSQn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17527,
+          "following_count": 2386,
+          "like_count": 54434,
+          "listed_count": 19,
+          "media_count": 5990,
+          "tweet_count": 21086
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T09:14:53.000Z",
+        "description": "我是ame呀 不互关不互转，会回关喜欢的人 ，過門檻諮詢線下and包養",
+        "id": "1666010240725450752",
+        "location": "🚪199/288/388/520/1314/5200",
+        "name": "急支血浆",
+        "pinned_tweet_id": "1916890929845375048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914007856669761536/65xKzozb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15292,
+          "following_count": 326,
+          "like_count": 9165,
+          "listed_count": 28,
+          "media_count": 569,
+          "tweet_count": 4866
+        },
+        "username": "amedesu8964",
+        "verified": false
+      }
+    ]
+  }
+}

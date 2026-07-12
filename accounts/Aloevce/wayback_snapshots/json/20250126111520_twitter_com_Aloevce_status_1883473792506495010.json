@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1883447489015230791",
+    "created_at": "2025-01-26T11:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T12:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883473792506495010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1478566853194788877",
+          "start": 0,
+          "username": "fuhua598646962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883473792506495010",
+    "in_reply_to_user_id": "1478566853194788877",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883472212587692419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuhua598646962 鱼丸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1883447489015230791",
+        "created_at": "2025-01-26T11:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T12:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883473792506495010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1478566853194788877",
+              "start": 0,
+              "username": "fuhua598646962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883473792506495010",
+        "in_reply_to_user_id": "1478566853194788877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883472212587692419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuhua598646962 鱼丸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478566853194788877",
+        "conversation_id": "1883447489015230791",
+        "created_at": "2025-01-26T11:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T12:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883472212587692419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883472212587692419",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883447489015230791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 那个星星是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1881182504969015531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17798,
+          "following_count": 2380,
+          "like_count": 54349,
+          "listed_count": 20,
+          "media_count": 5692,
+          "tweet_count": 20304
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T03:19:50.000Z",
+        "description": "",
+        "id": "1478566853194788877",
+        "name": "浮华 🇨🇳™",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742246581208838144/wGn0u4AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 117,
+          "like_count": 2286,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 249
+        },
+        "username": "fuhua598646962",
+        "verified": false
+      }
+    ]
+  }
+}

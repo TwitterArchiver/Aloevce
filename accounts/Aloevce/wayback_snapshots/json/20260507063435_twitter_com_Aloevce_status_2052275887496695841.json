@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052275883684311040"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2052275887496695841",
+    "created_at": "2026-05-07T06:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052275887496695841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/htIv6kaaNL",
+          "end": 116,
+          "expanded_url": "https://x.com/Aloevce/status/2052275887496695841/photo/1",
+          "media_key": "3_2052275883684311040",
+          "start": 93,
+          "url": "https://t.co/htIv6kaaNL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052275887496695841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有本来今天熬通宵去办健康证结果我困得在八点半睡着了（九点开门。然后我就不太愿意去了额。然后我两点就醒了结果对象哥又昏睡了。感觉今天恐怕是办不上了。还办健康证作息就不健康😤。健康个蛋。 https://t.co/htIv6kaaNL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052275883684311040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsmCvQasAAGvvJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052275883684311040"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2052275887496695841",
+        "created_at": "2026-05-07T06:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052275887496695841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/htIv6kaaNL",
+              "end": 116,
+              "expanded_url": "https://x.com/Aloevce/status/2052275887496695841/photo/1",
+              "media_key": "3_2052275883684311040",
+              "start": 93,
+              "url": "https://t.co/htIv6kaaNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052275887496695841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有本来今天熬通宵去办健康证结果我困得在八点半睡着了（九点开门。然后我就不太愿意去了额。然后我两点就醒了结果对象哥又昏睡了。感觉今天恐怕是办不上了。还办健康证作息就不健康😤。健康个蛋。 https://t.co/htIv6kaaNL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18214,
+          "following_count": 1977,
+          "like_count": 55584,
+          "listed_count": 24,
+          "media_count": 6647,
+          "tweet_count": 23387
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

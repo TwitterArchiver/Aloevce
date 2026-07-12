@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2066943046722429177",
+    "created_at": "2026-06-16T17:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066943046722429177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moremoreagain/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/moremoreagain/status/2056362452225519625",
+          "start": 7,
+          "url": "https://t.co/KC7NB1joXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066943046722429177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056362452225519625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是我服了 https://t.co/KC7NB1joXJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2066943046722429177",
+        "created_at": "2026-06-16T17:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066943046722429177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moremoreagain/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/moremoreagain/status/2056362452225519625",
+              "start": 7,
+              "url": "https://t.co/KC7NB1joXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066943046722429177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056362452225519625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是我服了 https://t.co/KC7NB1joXJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "2056362452225519625",
+        "created_at": "2026-05-18T13:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056362452225519625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moremoreagain/…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/moremoreagain/status/1949768111139483988",
+              "start": 61,
+              "url": "https://t.co/7YoKP8ksYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056362452225519625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949768111139483988",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在今年年初又买了一大堆，还没吃完，刚刚想拿点吃发现很多已经过期了，扔了一垃圾桶（（（\n我再一口气买三四百块的零食我是狗 https://t.co/7YoKP8ksYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18112,
+          "following_count": 1967,
+          "like_count": 56244,
+          "listed_count": 23,
+          "media_count": 6807,
+          "tweet_count": 23967
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "轻薄欢谑｜非自愿圣人",
+        "id": "1862933126466666496",
+        "location": "上阙",
+        "name": "相公痴",
+        "pinned_tweet_id": "2041380219974787240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 1098,
+          "like_count": 74680,
+          "listed_count": 4,
+          "media_count": 1652,
+          "tweet_count": 36343
+        },
+        "username": "moremoreagain",
+        "verified": false
+      }
+    ]
+  }
+}

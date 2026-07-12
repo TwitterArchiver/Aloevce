@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942344397586100225",
+        "3_1942344413243387905",
+        "3_1942344420797427712",
+        "3_1942344428871372800"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1942344432830873884",
+    "created_at": "2025-07-07T22:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T23:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942344432830873884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kynGp2QwyP",
+          "end": 183,
+          "expanded_url": "https://x.com/Aloevce/status/1942344432830873884/photo/1",
+          "media_key": "3_1942344397586100225",
+          "start": 160,
+          "url": "https://t.co/kynGp2QwyP"
+        },
+        {
+          "display_url": "pic.x.com/kynGp2QwyP",
+          "end": 183,
+          "expanded_url": "https://x.com/Aloevce/status/1942344432830873884/photo/1",
+          "media_key": "3_1942344413243387905",
+          "start": 160,
+          "url": "https://t.co/kynGp2QwyP"
+        },
+        {
+          "display_url": "pic.x.com/kynGp2QwyP",
+          "end": 183,
+          "expanded_url": "https://x.com/Aloevce/status/1942344432830873884/photo/1",
+          "media_key": "3_1942344420797427712",
+          "start": 160,
+          "url": "https://t.co/kynGp2QwyP"
+        },
+        {
+          "display_url": "pic.x.com/kynGp2QwyP",
+          "end": 183,
+          "expanded_url": "https://x.com/Aloevce/status/1942344432830873884/photo/1",
+          "media_key": "3_1942344428871372800",
+          "start": 160,
+          "url": "https://t.co/kynGp2QwyP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942344432830873884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "简介一下，\n闪焰王牌，雌性，墙内id叶曦蓝\n传媒专业已毕业，天津人，和长发男对象哥在成都有猫有小窝\n水瓶座inxp，欢迎互fo扩列，喜欢各种各样的人\n发疯大胖小子，抽象大师，宝可梦训练家，地雷系/lo/jk等水色娘\n二次推塔菲24级/阿梓23级/初音/洛天依/祥子\n三次推本兮\n雷❗爱猫\n神秘🐧粉丝群311869737 https://t.co/kynGp2QwyP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1942344397586100225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvSX8EmW8AEv-_Y.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942344413243387905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvSX8-7WMAEYdi1.jpg",
+        "width": 1154
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1942344420797427712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvSX9bEXsAAUvlb.jpg",
+        "width": 682
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1942344428871372800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvSX95JWUAAh7Dl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942344397586100225",
+            "3_1942344413243387905",
+            "3_1942344420797427712",
+            "3_1942344428871372800"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1942344432830873884",
+        "created_at": "2025-07-07T22:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T23:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942344432830873884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kynGp2QwyP",
+              "end": 183,
+              "expanded_url": "https://x.com/Aloevce/status/1942344432830873884/photo/1",
+              "media_key": "3_1942344397586100225",
+              "start": 160,
+              "url": "https://t.co/kynGp2QwyP"
+            },
+            {
+              "display_url": "pic.x.com/kynGp2QwyP",
+              "end": 183,
+              "expanded_url": "https://x.com/Aloevce/status/1942344432830873884/photo/1",
+              "media_key": "3_1942344413243387905",
+              "start": 160,
+              "url": "https://t.co/kynGp2QwyP"
+            },
+            {
+              "display_url": "pic.x.com/kynGp2QwyP",
+              "end": 183,
+              "expanded_url": "https://x.com/Aloevce/status/1942344432830873884/photo/1",
+              "media_key": "3_1942344420797427712",
+              "start": 160,
+              "url": "https://t.co/kynGp2QwyP"
+            },
+            {
+              "display_url": "pic.x.com/kynGp2QwyP",
+              "end": 183,
+              "expanded_url": "https://x.com/Aloevce/status/1942344432830873884/photo/1",
+              "media_key": "3_1942344428871372800",
+              "start": 160,
+              "url": "https://t.co/kynGp2QwyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942344432830873884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简介一下，\n闪焰王牌，雌性，墙内id叶曦蓝\n传媒专业已毕业，天津人，和长发男对象哥在成都有猫有小窝\n水瓶座inxp，欢迎互fo扩列，喜欢各种各样的人\n发疯大胖小子，抽象大师，宝可梦训练家，地雷系/lo/jk等水色娘\n二次推塔菲24级/阿梓23级/初音/洛天依/祥子\n三次推本兮\n雷❗爱猫\n神秘🐧粉丝群311869737 https://t.co/kynGp2QwyP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19125,
+          "following_count": 2435,
+          "like_count": 55594,
+          "listed_count": 21,
+          "media_count": 6154,
+          "tweet_count": 21538
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

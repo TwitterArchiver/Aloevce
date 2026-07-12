@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2028990034469372042",
+    "created_at": "2026-03-04T00:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T01:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028990034469372042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JLw_0693/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/JLw_0693/status/2028806899614040448",
+          "start": 6,
+          "url": "https://t.co/z0iKSN6Q9d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028990034469372042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028806899614040448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想喝🐴一下 https://t.co/z0iKSN6Q9d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028806882970968064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfFHGlaIAAdWG2.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2028990034469372042",
+        "created_at": "2026-03-04T00:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T01:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028990034469372042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JLw_0693/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/JLw_0693/status/2028806899614040448",
+              "start": 6,
+              "url": "https://t.co/z0iKSN6Q9d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028990034469372042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028806899614040448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想喝🐴一下 https://t.co/z0iKSN6Q9d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028806882970968064"
+          ]
+        },
+        "author_id": "1696523690366971904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028806899614040448",
+        "created_at": "2026-03-03T12:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028806899614040448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gQvW0AHSY",
+              "end": 39,
+              "expanded_url": "https://x.com/JLw_0693/status/2028806899614040448/photo/1",
+              "media_key": "3_2028806882970968064",
+              "start": 16,
+              "url": "https://t.co/9gQvW0AHSY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028806899614040448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 14907,
+          "like_count": 164,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别勾引我了。而且你真的有点贵。 https://t.co/9gQvW0AHSY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18395,
+          "following_count": 2302,
+          "like_count": 54737,
+          "listed_count": 22,
+          "media_count": 6527,
+          "tweet_count": 22769
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T14:03:09.000Z",
+        "description": "🌨️   09 我的电子日记本📝\n可以喊我小 y",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/w.y71445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/w.y71445",
+                "start": 0,
+                "url": "https://t.co/YwgncnGhvJ"
+              }
+            ]
+          }
+        },
+        "id": "1696523690366971904",
+        "location": "翻斗大街翻斗花园二号楼1001室",
+        "name": "w.y",
+        "pinned_tweet_id": "1836234078766666068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028003275690450944/tSFu4Zn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 623,
+          "like_count": 23624,
+          "listed_count": 4,
+          "media_count": 1885,
+          "tweet_count": 14464
+        },
+        "url": "https://t.co/YwgncnGhvJ",
+        "username": "JLw_0693",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1876587609641865329",
+    "created_at": "2025-01-07T11:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T12:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876587609641865329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Aloevce/status/1876587438283620861",
+          "start": 18,
+          "url": "https://t.co/R5rIWR1VNM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876587609641865329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876587438283620861",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "闪焰王牌成天到晚像个精虫上脑的男高 https://t.co/R5rIWR1VNM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1876587609641865329",
+        "created_at": "2025-01-07T11:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T12:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876587609641865329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Aloevce/status/1876587438283620861",
+              "start": 18,
+              "url": "https://t.co/R5rIWR1VNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876587609641865329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876587438283620861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "闪焰王牌成天到晚像个精虫上脑的男高 https://t.co/R5rIWR1VNM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1876587438283620861",
+        "created_at": "2025-01-07T11:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T12:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876587438283620861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876587438283620861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "左爱左爱左爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "额",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17721,
+          "following_count": 2368,
+          "like_count": 53859,
+          "listed_count": 20,
+          "media_count": 5558,
+          "tweet_count": 19945
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

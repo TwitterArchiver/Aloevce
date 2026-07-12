@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049621102973128704"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049621105720348946",
+    "created_at": "2026-04-29T22:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T23:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049621105720348946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lqSXbH9qCh",
+          "end": 26,
+          "expanded_url": "https://x.com/Aloevce/status/2049621105720348946/photo/1",
+          "media_key": "3_2049621102973128704",
+          "start": 3,
+          "url": "https://t.co/lqSXbH9qCh"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Aloevce/status/2049431419684823215",
+          "start": 27,
+          "url": "https://t.co/B5dcWqTwOD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049621105720348946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049431419684823215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尊嘟 https://t.co/lqSXbH9qCh https://t.co/B5dcWqTwOD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049621102973128704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHG3iKbbkAAsrro.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049621102973128704"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049621105720348946",
+        "created_at": "2026-04-29T22:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049621105720348946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lqSXbH9qCh",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/2049621105720348946/photo/1",
+              "media_key": "3_2049621102973128704",
+              "start": 3,
+              "url": "https://t.co/lqSXbH9qCh"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Aloevce/status/2049431419684823215",
+              "start": 27,
+              "url": "https://t.co/B5dcWqTwOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049621105720348946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049431419684823215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尊嘟 https://t.co/lqSXbH9qCh https://t.co/B5dcWqTwOD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2049431419684823215",
+        "created_at": "2026-04-29T10:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049431419684823215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Maorou_K8M/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Maorou_K8M/status/2049423888174747670",
+              "start": 6,
+              "url": "https://t.co/t02Pi1jmM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049431419684823215",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 583,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049423888174747670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也112 https://t.co/t02Pi1jmM7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18168,
+          "following_count": 1943,
+          "like_count": 55040,
+          "listed_count": 24,
+          "media_count": 6608,
+          "tweet_count": 23168
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

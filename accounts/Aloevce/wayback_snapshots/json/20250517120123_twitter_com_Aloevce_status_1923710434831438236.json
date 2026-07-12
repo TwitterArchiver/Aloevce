@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923710411582423040"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1923710434831438236",
+    "created_at": "2025-05-17T12:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T13:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923710434831438236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PxSEWUEh1F",
+          "end": 35,
+          "expanded_url": "https://x.com/Aloevce/status/1923710434831438236/photo/1",
+          "media_key": "3_1923710411582423040",
+          "start": 12,
+          "url": "https://t.co/PxSEWUEh1F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923710434831438236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用一下最后的大学生优惠 https://t.co/PxSEWUEh1F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1923710411582423040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJkbVUXQAAR49_.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923710411582423040"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1923710434831438236",
+        "created_at": "2025-05-17T12:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T13:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923710434831438236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxSEWUEh1F",
+              "end": 35,
+              "expanded_url": "https://x.com/Aloevce/status/1923710434831438236/photo/1",
+              "media_key": "3_1923710411582423040",
+              "start": 12,
+              "url": "https://t.co/PxSEWUEh1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923710434831438236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用一下最后的大学生优惠 https://t.co/PxSEWUEh1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19189,
+          "following_count": 2398,
+          "like_count": 55114,
+          "listed_count": 19,
+          "media_count": 6027,
+          "tweet_count": 21192
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

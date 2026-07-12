@@ -1,0 +1,148 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1794700093175799808"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1794700728604524697",
+    "created_at": "2024-05-26T12:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T13:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794700728604524697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ugqLpEMhhQ",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Aloevce/status/1794700728604524697/video/1",
+          "media_key": "7_1794700093175799808",
+          "start": 4,
+          "url": "https://t.co/ugqLpEMhhQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794700728604524697",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我累了 https://t.co/ugqLpEMhhQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3107,
+        "height": 1264,
+        "media_key": "7_1794700093175799808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1794700093175799808/pu/img/Z4GuCbKzzu2hHma-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794700093175799808/pu/vid/avc1/320x560/OtMjB1MaPMfDbL4e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794700093175799808/pu/vid/avc1/480x842/wNuBR7Ja7iND-2x7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794700093175799808/pu/vid/avc1/720x1264/NrSmEY6SCaeyMNBx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1794700093175799808/pu/pl/QzqX7ZnURJM4fTwL.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1794700093175799808"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1794700728604524697",
+        "created_at": "2024-05-26T12:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T13:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794700728604524697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ugqLpEMhhQ",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Aloevce/status/1794700728604524697/video/1",
+              "media_key": "7_1794700093175799808",
+              "start": 4,
+              "url": "https://t.co/ugqLpEMhhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794700728604524697",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我累了 https://t.co/ugqLpEMhhQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1793923054806175806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12766,
+          "following_count": 2237,
+          "like_count": 52130,
+          "listed_count": 19,
+          "tweet_count": 17480
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

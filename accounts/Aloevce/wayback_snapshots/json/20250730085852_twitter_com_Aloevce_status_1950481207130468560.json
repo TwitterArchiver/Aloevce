@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950481202315452416"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1950481207130468560",
+    "created_at": "2025-07-30T08:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T09:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950481207130468560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kMDXxEPcYt",
+          "end": 31,
+          "expanded_url": "https://x.com/Aloevce/status/1950481207130468560/photo/1",
+          "media_key": "3_1950481202315452416",
+          "start": 8,
+          "url": "https://t.co/kMDXxEPcYt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950481207130468560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "点完外卖就困了 https://t.co/kMDXxEPcYt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2030,
+        "media_key": "3_1950481202315452416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGAUcUW4AAHPbN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950481202315452416"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1950481207130468560",
+        "created_at": "2025-07-30T08:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T09:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950481207130468560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kMDXxEPcYt",
+              "end": 31,
+              "expanded_url": "https://x.com/Aloevce/status/1950481207130468560/photo/1",
+              "media_key": "3_1950481202315452416",
+              "start": 8,
+              "url": "https://t.co/kMDXxEPcYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950481207130468560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点完外卖就困了 https://t.co/kMDXxEPcYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19127,
+          "following_count": 2418,
+          "like_count": 55739,
+          "listed_count": 21,
+          "media_count": 6189,
+          "tweet_count": 21674
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

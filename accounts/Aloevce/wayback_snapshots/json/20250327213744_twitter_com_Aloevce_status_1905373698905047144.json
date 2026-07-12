@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1905373628948230144"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1905373698905047144",
+    "created_at": "2025-03-27T21:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T22:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905373698905047144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RNJdmq02Bk",
+          "end": 30,
+          "expanded_url": "https://x.com/Aloevce/status/1905373698905047144/video/1",
+          "media_key": "7_1905373628948230144",
+          "start": 7,
+          "url": "https://t.co/RNJdmq02Bk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905373698905047144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不要再打了啦 https://t.co/RNJdmq02Bk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3690,
+        "height": 1280,
+        "media_key": "7_1905373628948230144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1905373628948230144/pu/img/0vapQVi04EIbgPSG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905373628948230144/pu/vid/avc1/320x568/cR2Wq-pErFXKYxOY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905373628948230144/pu/vid/avc1/480x852/1uwNdDGB-Dkk41-U.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1905373628948230144/pu/vid/avc1/720x1280/D6wpZEz1QVZwroga.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1905373628948230144/pu/pl/PUkk4Etefjxv_t6B.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1905373628948230144"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1905373698905047144",
+        "created_at": "2025-03-27T21:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T22:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905373698905047144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RNJdmq02Bk",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/1905373698905047144/video/1",
+              "media_key": "7_1905373628948230144",
+              "start": 7,
+              "url": "https://t.co/RNJdmq02Bk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905373698905047144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要再打了啦 https://t.co/RNJdmq02Bk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17666,
+          "following_count": 2380,
+          "like_count": 54566,
+          "listed_count": 21,
+          "media_count": 5911,
+          "tweet_count": 20876
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

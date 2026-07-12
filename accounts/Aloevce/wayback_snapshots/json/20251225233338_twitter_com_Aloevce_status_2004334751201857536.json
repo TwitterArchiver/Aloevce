@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2004131439693250627",
+    "created_at": "2025-12-25T23:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T00:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004334751201857536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1239120348680863745",
+          "start": 0,
+          "username": "CharLotte_tysy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004334751201857536",
+    "in_reply_to_user_id": "1239120348680863745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004332775646826766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharLotte_tysy 羊肉米线喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2004131439693250627",
+        "created_at": "2025-12-25T23:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T00:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004334751201857536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1239120348680863745",
+              "start": 0,
+              "username": "CharLotte_tysy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004334751201857536",
+        "in_reply_to_user_id": "1239120348680863745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004332775646826766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharLotte_tysy 羊肉米线喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239120348680863745",
+        "conversation_id": "2004131439693250627",
+        "created_at": "2025-12-25T23:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T00:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004332775646826766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004332775646826766",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004131439693250627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 这个是桂林米粉吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18604,
+          "following_count": 2494,
+          "like_count": 55292,
+          "listed_count": 23,
+          "media_count": 6426,
+          "tweet_count": 22419
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-15T09:24:57.000Z",
+        "description": "吸血鬼就要无情的活在这世上！陷入药物滥用中的小蝙蝠一枚。",
+        "id": "1239120348680863745",
+        "location": "intelnet",
+        "name": "植野直花（小蝙蝠版",
+        "pinned_tweet_id": "1994373890597081575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998573104524873728/yC110Xn6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 191,
+          "like_count": 13274,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 8593
+        },
+        "username": "CharLotte_tysy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2008470657181393256",
+    "created_at": "2026-01-06T09:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T10:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008470657181393256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NGNGVXX/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/NGNGVXX/status/2008192149301694800",
+          "start": 2,
+          "url": "https://t.co/i4g7PZIP2S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008470657181393256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008192149301694800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/i4g7PZIP2S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2008470657181393256",
+        "created_at": "2026-01-06T09:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008470657181393256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NGNGVXX/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/NGNGVXX/status/2008192149301694800",
+              "start": 2,
+              "url": "https://t.co/i4g7PZIP2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008470657181393256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008192149301694800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/i4g7PZIP2S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2008192149301694800",
+        "created_at": "2026-01-05T15:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T16:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008192149301694800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008192149301694800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 169211,
+          "like_count": 2056,
+          "quote_count": 29,
+          "reply_count": 169,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "我替大家试过了，如果一个人长期不工作没有任何社交，每天躲在家里刷刷手机看看书养养花，大门不出二门不迈，饿了就吃吃了就是睡也不用和任何人交流，这样下去除了没有朋友以外简直不要太舒服了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18607,
+          "following_count": 2306,
+          "like_count": 55457,
+          "listed_count": 23,
+          "media_count": 6456,
+          "tweet_count": 22546
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4150,
+          "following_count": 6,
+          "like_count": 871,
+          "listed_count": 13,
+          "media_count": 51,
+          "tweet_count": 959
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

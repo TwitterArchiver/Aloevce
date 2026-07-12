@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2063596136460337660",
+    "created_at": "2026-06-07T14:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063629505017553124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1262004885223993345",
+          "start": 0,
+          "username": "Acforget"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063629505017553124",
+    "in_reply_to_user_id": "1262004885223993345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063608343650873504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acforget 啊啊啊啊啊啊啊谢谢你过几天来玩喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2063596136460337660",
+        "created_at": "2026-06-07T14:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063629505017553124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1262004885223993345",
+              "start": 0,
+              "username": "Acforget"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063629505017553124",
+        "in_reply_to_user_id": "1262004885223993345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063608343650873504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acforget 啊啊啊啊啊啊啊谢谢你过几天来玩喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262004885223993345",
+        "conversation_id": "2063596136460337660",
+        "created_at": "2026-06-07T13:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063608343650873504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063608343650873504",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063596136460337660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 笑疼了，我都不知道啥时候关注你的，结果一看主页居然还喜欢吉伊卡哇我改天特地带了一盒吉伊卡哇的卡过来哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18157,
+          "following_count": 1972,
+          "like_count": 56265,
+          "listed_count": 24,
+          "media_count": 6779,
+          "tweet_count": 23878
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-17T12:59:54.000Z",
+        "description": "Acforget",
+        "id": "1262004885223993345",
+        "location": "United States",
+        "name": "神叨叨",
+        "pinned_tweet_id": "1396888716585541636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1396503268784701444/Kz897ZRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 195,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 72
+        },
+        "username": "Acforget",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932087894820216832"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1932082203036389561",
+    "created_at": "2025-06-09T14:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T15:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932087898582466592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1747522737910988800",
+          "start": 0,
+          "username": "DongTao55458"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tVZhudNBzZ",
+          "end": 43,
+          "expanded_url": "https://x.com/Aloevce/status/1932087898582466592/photo/1",
+          "media_key": "3_1932087894820216832",
+          "start": 20,
+          "url": "https://t.co/tVZhudNBzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932087898582466592",
+    "in_reply_to_user_id": "1747522737910988800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932083709299368427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DongTao55458 已经cos https://t.co/tVZhudNBzZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1932087894820216832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtAntCWXYAAdkh1.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932087894820216832"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1932082203036389561",
+        "created_at": "2025-06-09T14:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T15:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932087898582466592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1747522737910988800",
+              "start": 0,
+              "username": "DongTao55458"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVZhudNBzZ",
+              "end": 43,
+              "expanded_url": "https://x.com/Aloevce/status/1932087898582466592/photo/1",
+              "media_key": "3_1932087894820216832",
+              "start": 20,
+              "url": "https://t.co/tVZhudNBzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932087898582466592",
+        "in_reply_to_user_id": "1747522737910988800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932083709299368427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DongTao55458 已经cos https://t.co/tVZhudNBzZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747522737910988800",
+        "conversation_id": "1932082203036389561",
+        "created_at": "2025-06-09T14:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T15:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932083709299368427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932083709299368427",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932082203036389561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 已经准备cos梓宝了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19189,
+          "following_count": 2393,
+          "like_count": 55460,
+          "listed_count": 20,
+          "media_count": 6099,
+          "tweet_count": 21380
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-17T07:34:32.000Z",
+        "description": "本纱手强势回归哈哈哈，我不想再被冻结账户了🥺",
+        "id": "1747522737910988800",
+        "name": "🎀异世界の纱手🎀",
+        "pinned_tweet_id": "1928887114344669270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921085841612341248/2Fo5w7Bz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 658,
+          "like_count": 14904,
+          "listed_count": 13,
+          "media_count": 37,
+          "tweet_count": 1214
+        },
+        "username": "DongTao55458",
+        "verified": false
+      }
+    ]
+  }
+}

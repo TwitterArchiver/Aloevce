@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2041589540431757546",
+    "created_at": "2026-04-07T18:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T19:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041589540431757546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ANMAMIRUNAYO/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/ANMAMIRUNAYO/status/2041484921924100380",
+          "start": 8,
+          "url": "https://t.co/y1oMTnw1fg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041589540431757546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041484921924100380",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对象哥就这样 https://t.co/y1oMTnw1fg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041484915120979968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTPtswawAA_KMq.jpg",
+        "width": 1166
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041484915121016832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTPtswbUAANIQl.jpg",
+        "width": 1313
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2041589540431757546",
+        "created_at": "2026-04-07T18:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041589540431757546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ANMAMIRUNAYO/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ANMAMIRUNAYO/status/2041484921924100380",
+              "start": 8,
+              "url": "https://t.co/y1oMTnw1fg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041589540431757546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041484921924100380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对象哥就这样 https://t.co/y1oMTnw1fg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041484915120979968",
+            "3_2041484915121016832"
+          ]
+        },
+        "author_id": "1786569587460624384",
+        "conversation_id": "2041484921924100380",
+        "created_at": "2026-04-07T11:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041484921924100380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ex2tCv0pV",
+              "end": 85,
+              "expanded_url": "https://x.com/ANMAMIRUNAYO/status/2041484921924100380/photo/1",
+              "media_key": "3_2041484915120979968",
+              "start": 62,
+              "url": "https://t.co/9ex2tCv0pV"
+            },
+            {
+              "display_url": "pic.x.com/9ex2tCv0pV",
+              "end": 85,
+              "expanded_url": "https://x.com/ANMAMIRUNAYO/status/2041484921924100380/photo/1",
+              "media_key": "3_2041484915121016832",
+              "start": 62,
+              "url": "https://t.co/9ex2tCv0pV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041484921924100380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 24091,
+          "like_count": 547,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "マチアプで花見デート誘われたから\n会いに行ったんだけど、帰られた。\nマジでありえん、どゆこと？\n\n←見せた写真　　　現実→ https://t.co/9ex2tCv0pV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18017,
+          "following_count": 2304,
+          "like_count": 54017,
+          "listed_count": 22,
+          "media_count": 6562,
+          "tweet_count": 22824
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T01:33:19.000Z",
+        "description": "ネオニート",
+        "id": "1786569587460624384",
+        "name": "とりあえずニートTV",
+        "pinned_tweet_id": "1975827568411734025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859114757867139072/NExP1HSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2570,
+          "following_count": 78,
+          "like_count": 6722,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 941
+        },
+        "username": "ANMAMIRUNAYO",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1836765553328795648"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1836765576900862322",
+    "created_at": "2024-09-19T13:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T14:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836765576900862322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2hc2by6jl8",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Aloevce/status/1836765576900862322/photo/1",
+          "media_key": "3_1836765553328795648",
+          "start": 4,
+          "url": "https://t.co/2HC2bY6jl8"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Aloevce/status/1836658327666708894",
+          "start": 28,
+          "url": "https://t.co/vnQg3oE7qP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836765576900862322",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836658327666708894",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁敢闻 https://t.co/2HC2bY6jl8 https://t.co/vnQg3oE7qP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836765576900862322].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836765576900862322",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836765576900862322"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1836765553328795648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GX2AigXWMAAOzW-.jpg",
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1836658327666708894",
+        "created_at": "2024-09-19T06:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T07:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836658327666708894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836658327666708894",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 555,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃mm豆的蓝色我的👅也呈现出了蓝色。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17939,
+          "following_count": 2252,
+          "like_count": 53116,
+          "listed_count": 22,
+          "tweet_count": 18914
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

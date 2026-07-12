@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2065839778138829029",
+    "created_at": "2026-06-13T16:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065839778138829029"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bibby_dqb/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/bibby_dqb/status/2065737104504783192",
+          "start": 4,
+          "url": "https://t.co/v7d0ajrst0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065839778138829029",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065737104504783192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "存一下 https://t.co/v7d0ajrst0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2065737099429683200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr48nraIAAFOGW.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2065737099442372608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr48nubwAAHdFI.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2065737099417120768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr48noacAAYGEg.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2065737099421351936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr48npbAAAlWTf.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2065839778138829029",
+        "created_at": "2026-06-13T16:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065839778138829029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bibby_dqb/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/bibby_dqb/status/2065737104504783192",
+              "start": 4,
+              "url": "https://t.co/v7d0ajrst0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065839778138829029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065737104504783192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "存一下 https://t.co/v7d0ajrst0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065737099429683200",
+            "3_2065737099442372608",
+            "3_2065737099417120768",
+            "3_2065737099421351936"
+          ]
+        },
+        "author_id": "4652555713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065737104504783192",
+        "created_at": "2026-06-13T10:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065737104504783192"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 46,
+              "tag": "ぽこあポケモン"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "ぽこポケ"
+            },
+            {
+              "end": 79,
+              "start": 71,
+              "tag": "pokopia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QjNyd5WYO9",
+              "end": 103,
+              "expanded_url": "https://x.com/bibby_dqb/status/2065737104504783192/photo/1",
+              "media_key": "3_2065737099429683200",
+              "start": 80,
+              "url": "https://t.co/QjNyd5WYO9"
+            },
+            {
+              "display_url": "pic.x.com/QjNyd5WYO9",
+              "end": 103,
+              "expanded_url": "https://x.com/bibby_dqb/status/2065737104504783192/photo/1",
+              "media_key": "3_2065737099442372608",
+              "start": 80,
+              "url": "https://t.co/QjNyd5WYO9"
+            },
+            {
+              "display_url": "pic.x.com/QjNyd5WYO9",
+              "end": 103,
+              "expanded_url": "https://x.com/bibby_dqb/status/2065737104504783192/photo/1",
+              "media_key": "3_2065737099417120768",
+              "start": 80,
+              "url": "https://t.co/QjNyd5WYO9"
+            },
+            {
+              "display_url": "pic.x.com/QjNyd5WYO9",
+              "end": 103,
+              "expanded_url": "https://x.com/bibby_dqb/status/2065737104504783192/photo/1",
+              "media_key": "3_2065737099421351936",
+              "start": 80,
+              "url": "https://t.co/QjNyd5WYO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065737104504783192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 6993,
+          "like_count": 196,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "シェフバリスのレストラン🍛\nステレオロトムの野外ライブ会場に\n隣接させて建築しました❗️\n\n#ぽこあポケモン  \n#ぽこポケ        \n#pokopia https://t.co/QjNyd5WYO9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18131,
+          "following_count": 1968,
+          "like_count": 56330,
+          "listed_count": 24,
+          "media_count": 6799,
+          "tweet_count": 23946
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-26T01:48:08.000Z",
+        "description": "DQB2、 ドラクエウォーク、などをゆる〜くやってます！",
+        "id": "4652555713",
+        "name": "S・ブライト",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/999574615587373056/5wtvgq8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 851,
+          "like_count": 7276,
+          "listed_count": 7,
+          "media_count": 850,
+          "tweet_count": 2795
+        },
+        "username": "bibby_dqb",
+        "verified": false
+      }
+    ]
+  }
+}

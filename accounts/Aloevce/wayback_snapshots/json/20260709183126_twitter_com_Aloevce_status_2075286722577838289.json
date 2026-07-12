@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2075286722577838289",
+    "created_at": "2026-07-09T18:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075286722577838289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Aloevce/status/2075286485327106471",
+          "start": 15,
+          "url": "https://t.co/xiykFRVEhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075286722577838289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075286485327106471",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃了一个小时分量好足吃得好饱 https://t.co/xiykFRVEhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2075286722577838289",
+        "created_at": "2026-07-09T18:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075286722577838289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Aloevce/status/2075286485327106471",
+              "start": 15,
+              "url": "https://t.co/xiykFRVEhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075286722577838289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075286485327106471",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃了一个小时分量好足吃得好饱 https://t.co/xiykFRVEhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2075286485327106471",
+        "created_at": "2026-07-09T18:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075286485327106471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Aloevce/status/2075261326453305530",
+              "start": 19,
+              "url": "https://t.co/oiisb67yvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075286485327106471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075261326453305530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去没看勇哥 一直在补习火影世界观额 https://t.co/oiisb67yvm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18049,
+          "following_count": 1956,
+          "like_count": 56372,
+          "listed_count": 23,
+          "media_count": 6877,
+          "tweet_count": 24142
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

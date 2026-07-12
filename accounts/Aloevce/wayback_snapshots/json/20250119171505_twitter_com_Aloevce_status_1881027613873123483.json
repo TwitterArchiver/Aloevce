@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1880990992062640559",
+    "created_at": "2025-01-19T17:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T18:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881027613873123483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1291040213351854080",
+          "start": 0,
+          "username": "5a4JL4ZpKsDUPrs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881027613873123483",
+    "in_reply_to_user_id": "1291040213351854080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881003422461366530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5a4JL4ZpKsDUPrs 不敢吃"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1881003422461366530].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1881003422461366530",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1881003422461366530"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1880990992062640559",
+        "created_at": "2025-01-19T17:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T18:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881027613873123483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1291040213351854080",
+              "start": 0,
+              "username": "5a4JL4ZpKsDUPrs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881027613873123483",
+        "in_reply_to_user_id": "1291040213351854080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881003422461366530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5a4JL4ZpKsDUPrs 不敢吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1879847418914881656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17827,
+          "following_count": 2371,
+          "like_count": 54149,
+          "listed_count": 20,
+          "media_count": 5646,
+          "tweet_count": 20155
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-05T15:56:15.000Z",
+        "description": "让他们见识一下吧马夫蒂\n总会有办法的\n居然是高达？",
+        "id": "1291040213351854080",
+        "location": "西西伯利亚临时政府",
+        "name": "瞎鸡儿过日子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678426243258257408/GSOmmNcq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 1578,
+          "like_count": 88176,
+          "listed_count": 24,
+          "media_count": 98,
+          "tweet_count": 6395
+        },
+        "username": "5a4JL4ZpKsDUPrs",
+        "verified": false
+      }
+    ]
+  }
+}

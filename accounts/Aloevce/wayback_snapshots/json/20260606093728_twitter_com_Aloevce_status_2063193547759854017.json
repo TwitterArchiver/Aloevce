@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2063193547759854017",
+    "created_at": "2026-06-06T09:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063193547759854017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hensinsimasen/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/hensinsimasen/status/2063045614808727960",
+          "start": 2,
+          "url": "https://t.co/0fX8B4IONG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063193547759854017",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063045614808727960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/0fX8B4IONG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2063045611138781184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFpDYdbEAA2YZe.jpg",
+        "width": 1280
+      },
+      {
+        "height": 768,
+        "media_key": "3_2063045611184848896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFpDYoaAAAGZpN.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2063193547759854017",
+        "created_at": "2026-06-06T09:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063193547759854017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hensinsimasen/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/hensinsimasen/status/2063045614808727960",
+              "start": 2,
+              "url": "https://t.co/0fX8B4IONG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063193547759854017",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063045614808727960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/0fX8B4IONG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063045611138781184",
+            "3_2063045611184848896"
+          ]
+        },
+        "author_id": "1932010345704706048",
+        "conversation_id": "2063045614808727960",
+        "created_at": "2026-06-05T23:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063045614808727960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i45G9xGF3n",
+              "end": 23,
+              "expanded_url": "https://x.com/hensinsimasen/status/2063045614808727960/photo/1",
+              "media_key": "3_2063045611138781184",
+              "start": 0,
+              "url": "https://t.co/i45G9xGF3n"
+            },
+            {
+              "display_url": "pic.x.com/i45G9xGF3n",
+              "end": 23,
+              "expanded_url": "https://x.com/hensinsimasen/status/2063045614808727960/photo/1",
+              "media_key": "3_2063045611184848896",
+              "start": 0,
+              "url": "https://t.co/i45G9xGF3n"
+            },
+            {
+              "display_url": "x.com/sangeki0822/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/sangeki0822/status/2062905311674180017",
+              "start": 24,
+              "url": "https://t.co/QLbPMgFrIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063045614808727960",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 673894,
+          "like_count": 2267,
+          "quote_count": 36,
+          "reply_count": 7,
+          "retweet_count": 267
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062905311674180017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/i45G9xGF3n https://t.co/QLbPMgFrIk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18156,
+          "following_count": 1971,
+          "like_count": 56249,
+          "listed_count": 24,
+          "media_count": 6779,
+          "tweet_count": 23870
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T09:42:25.000Z",
+        "description": "- 返信する価値のあるリプは少ない\n- ネタツイ以外は非表示がち\n- 旧帝上場大手",
+        "id": "1932010345704706048",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503320969596928/X3nxOzWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 12,
+          "like_count": 3626,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 3265
+        },
+        "username": "hensinsimasen",
+        "verified": false
+      }
+    ]
+  }
+}

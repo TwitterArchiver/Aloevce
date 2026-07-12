@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1875952468674376105",
+    "created_at": "2025-01-05T17:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T18:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875952468674376105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KRY_official_/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/KRY_official_/status/1872895579120144647",
+          "start": 5,
+          "url": "https://t.co/TpA3vqikLH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875952468674376105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872895579120144647",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要蓝白 https://t.co/TpA3vqikLH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1875952468674376105",
+        "created_at": "2025-01-05T17:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T18:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875952468674376105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KRY_official_/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/KRY_official_/status/1872895579120144647",
+              "start": 5,
+              "url": "https://t.co/TpA3vqikLH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875952468674376105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872895579120144647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要蓝白 https://t.co/TpA3vqikLH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872895557146230785",
+            "3_1872895557150318592",
+            "3_1872895557158731776"
+          ]
+        },
+        "author_id": "2353567248",
+        "conversation_id": "1872895579120144647",
+        "created_at": "2024-12-28T06:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T07:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872895579120144647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oiSUTtBOFH",
+              "end": 23,
+              "expanded_url": "https://x.com/KRY_official_/status/1872895579120144647/photo/1",
+              "media_key": "3_1872895557146230785",
+              "start": 0,
+              "url": "https://t.co/oiSUTtBOFH"
+            },
+            {
+              "display_url": "pic.x.com/oiSUTtBOFH",
+              "end": 23,
+              "expanded_url": "https://x.com/KRY_official_/status/1872895579120144647/photo/1",
+              "media_key": "3_1872895557150318592",
+              "start": 0,
+              "url": "https://t.co/oiSUTtBOFH"
+            },
+            {
+              "display_url": "pic.x.com/oiSUTtBOFH",
+              "end": 23,
+              "expanded_url": "https://x.com/KRY_official_/status/1872895579120144647/photo/1",
+              "media_key": "3_1872895557158731776",
+              "start": 0,
+              "url": "https://t.co/oiSUTtBOFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872895579120144647",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10039,
+          "like_count": 177,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oiSUTtBOFH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "额",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17716,
+          "following_count": 2355,
+          "like_count": 53763,
+          "listed_count": 20,
+          "media_count": 5548,
+          "tweet_count": 19897
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-20T17:40:32.000Z",
+        "description": "《instagram》https://t.co/IwirIVabG5 †††††††††††††††† 《原宿竹下通り店》 https://t.co/ghhIvV31fq ††††††††††††《TikTok》https://t.co/uPrWJxeSic",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/kry231",
+                "end": 34,
+                "expanded_url": "http://Instagram.com/kry231",
+                "start": 11,
+                "url": "https://t.co/IwirIVabG5"
+              },
+              {
+                "display_url": "x.com/kry_harajuku",
+                "end": 85,
+                "expanded_url": "https://x.com/kry_harajuku",
+                "start": 62,
+                "url": "https://t.co/ghhIvV31fq"
+              },
+              {
+                "display_url": "tiktok.com/@kryclothing231",
+                "end": 129,
+                "expanded_url": "https://www.tiktok.com/@kryclothing231",
+                "start": 106,
+                "url": "https://t.co/uPrWJxeSic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kry.tokyo",
+                "end": 23,
+                "expanded_url": "http://www.kry.tokyo/",
+                "start": 0,
+                "url": "https://t.co/tizARXgkfE"
+              }
+            ]
+          }
+        },
+        "id": "2353567248",
+        "location": "TOKYO",
+        "name": "KRYclothing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507544673732096004/fcwNKSVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69356,
+          "following_count": 20459,
+          "like_count": 98462,
+          "listed_count": 555,
+          "media_count": 32461,
+          "tweet_count": 98712
+        },
+        "url": "https://t.co/tizARXgkfE",
+        "username": "KRY_official_",
+        "verified": true
+      }
+    ]
+  }
+}

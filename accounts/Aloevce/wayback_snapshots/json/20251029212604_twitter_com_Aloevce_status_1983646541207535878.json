@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1983646541207535878",
+    "created_at": "2025-10-29T21:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T22:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983646541207535878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GG594058308536…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/GG5940583085364/status/1983348650454798690",
+          "start": 4,
+          "url": "https://t.co/s0UaTnn7oy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983646541207535878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983348650454798690",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我微信 https://t.co/s0UaTnn7oy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983348644595236864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ZFFYLaAAAUHns.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1983646541207535878",
+        "created_at": "2025-10-29T21:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T22:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983646541207535878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GG594058308536…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/GG5940583085364/status/1983348650454798690",
+              "start": 4,
+              "url": "https://t.co/s0UaTnn7oy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983646541207535878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983348650454798690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我微信 https://t.co/s0UaTnn7oy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983348644595236864"
+          ]
+        },
+        "author_id": "1676285751669956612",
+        "conversation_id": "1983348650454798690",
+        "created_at": "2025-10-29T01:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T02:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983348650454798690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D36cg1X1vE",
+              "end": 37,
+              "expanded_url": "https://x.com/GG5940583085364/status/1983348650454798690/photo/1",
+              "media_key": "3_1983348644595236864",
+              "start": 14,
+              "url": "https://t.co/D36cg1X1vE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983348650454798690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 379,
+          "impression_count": 1632854,
+          "like_count": 3114,
+          "quote_count": 4,
+          "reply_count": 254,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "全世界都在欺负这个女孩子。 https://t.co/D36cg1X1vE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1982452373940207969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18583,
+          "following_count": 2396,
+          "like_count": 54746,
+          "listed_count": 24,
+          "media_count": 6287,
+          "tweet_count": 21962
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T17:44:15.000Z",
+        "description": "给我钱好不好",
+        "id": "1676285751669956612",
+        "location": "天堂",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754476974204928000/R3axqwsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58805,
+          "following_count": 175,
+          "like_count": 2336,
+          "listed_count": 115,
+          "media_count": 281,
+          "tweet_count": 4589
+        },
+        "username": "GG5940583085364",
+        "verified": false
+      }
+    ]
+  }
+}

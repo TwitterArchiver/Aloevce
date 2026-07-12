@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1827441422636560492",
+    "created_at": "2024-08-24T20:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T21:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1827441422636560492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_ykt_ykt_/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/_ykt_ykt_/status/1818259320251076813",
+          "start": 5,
+          "url": "https://t.co/erCoDEorXA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827441422636560492",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818259320251076813",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我长这样 https://t.co/erCoDEorXA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1827441422636560492",
+        "created_at": "2024-08-24T20:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T21:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827441422636560492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_ykt_ykt_/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/_ykt_ykt_/status/1818259320251076813",
+              "start": 5,
+              "url": "https://t.co/erCoDEorXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827441422636560492",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818259320251076813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我长这样 https://t.co/erCoDEorXA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818259313649123328"
+          ]
+        },
+        "author_id": "1491720835698028544",
+        "conversation_id": "1818259320251076813",
+        "created_at": "2024-07-30T12:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T13:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818259320251076813"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "韓国",
+              "probability": 0.9513,
+              "start": 11,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2zbgtambj",
+              "end": 123,
+              "expanded_url": "https://twitter.com/_ykt_ykt_/status/1818259320251076813/photo/1",
+              "media_key": "3_1818259313649123328",
+              "start": 100,
+              "url": "https://t.co/m2ZbGTambJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818259320251076813",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13175,
+          "like_count": 91,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "本日予約出勤でした！\n韓国から来てくれた子と4年の付き合いの子3人で話せて楽しかったよ〜ありがねჱ̒^.  ̫ .^）♡\nしゃんぱんもありがとねჱ̒^.  ̫ .^）♡\n次の出勤は3日18時からです https://t.co/m2ZbGTambJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18164,
+          "following_count": 2257,
+          "like_count": 52901,
+          "listed_count": 22,
+          "tweet_count": 18599
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T10:29:08.000Z",
+        "description": "@BarSyrupにいるよ       本垢→@ykt_muhochitai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "BarSyrup"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "ykt_muhochitai"
+              }
+            ]
+          }
+        },
+        "id": "1491720835698028544",
+        "name": "やくてゃ",
+        "pinned_tweet_id": "1824414736848675288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825734443337920513/lcH0hXvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 14,
+          "like_count": 230,
+          "listed_count": 10,
+          "tweet_count": 210
+        },
+        "username": "_ykt_ykt_",
+        "verified": false
+      }
+    ]
+  }
+}

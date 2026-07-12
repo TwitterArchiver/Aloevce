@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1837563893943599548",
+    "created_at": "2024-09-21T18:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T19:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837563893943599548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sengogogogo11/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/sengogogogo11/status/1837545201147301890",
+          "start": 6,
+          "url": "https://t.co/lvneMMRCVg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837563893943599548",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837545201147301890",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我之前也是 https://t.co/lvneMMRCVg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1837563893943599548",
+        "created_at": "2024-09-21T18:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T19:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837563893943599548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sengogogogo11/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/sengogogogo11/status/1837545201147301890",
+              "start": 6,
+              "url": "https://t.co/lvneMMRCVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837563893943599548",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837545201147301890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我之前也是 https://t.co/lvneMMRCVg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489254576746156035",
+        "conversation_id": "1837545201147301890",
+        "created_at": "2024-09-21T17:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T18:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837545201147301890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837545201147301890",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃饭舌钉给大牙硌碎一小块……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18015,
+          "following_count": 2254,
+          "like_count": 53108,
+          "listed_count": 22,
+          "tweet_count": 18930
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T15:09:09.000Z",
+        "description": "此号皮下双重人格1号人格为企鹅大王2号人格为爱骂人刻薄泛性恋女娃，谁被骂了都怪2号人格 不加联系方式不要问我住址等隐私做人有点分寸 点菜的拉黑看别人去",
+        "id": "1489254576746156035",
+        "location": "Antarctica",
+        "name": "陈不挡鹅一",
+        "pinned_tweet_id": "1815068340634759267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832829129517117440/KHxl7WLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 108,
+          "like_count": 3416,
+          "listed_count": 14,
+          "tweet_count": 1687
+        },
+        "username": "sengogogogo11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050940693498224640",
+        "3_2050940694014095360"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2050940698061586853",
+    "created_at": "2026-05-03T14:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050940698061586853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N1rqQHGOOq",
+          "end": 43,
+          "expanded_url": "https://x.com/Aloevce/status/2050940698061586853/photo/1",
+          "media_key": "3_2050940693498224640",
+          "start": 20,
+          "url": "https://t.co/N1rqQHGOOq"
+        },
+        {
+          "display_url": "pic.x.com/N1rqQHGOOq",
+          "end": 43,
+          "expanded_url": "https://x.com/Aloevce/status/2050940698061586853/photo/1",
+          "media_key": "3_2050940694014095360",
+          "start": 20,
+          "url": "https://t.co/N1rqQHGOOq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050940698061586853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个长发版王橹杰也太美萌了。虽然是p的 https://t.co/N1rqQHGOOq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1474,
+        "media_key": "3_2050940693498224640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZnscNa4AAFCYg.jpg",
+        "width": 1078
+      },
+      {
+        "height": 1465,
+        "media_key": "3_2050940694014095360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZnseIacAAFBHq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050940693498224640",
+            "3_2050940694014095360"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2050940698061586853",
+        "created_at": "2026-05-03T14:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050940698061586853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N1rqQHGOOq",
+              "end": 43,
+              "expanded_url": "https://x.com/Aloevce/status/2050940698061586853/photo/1",
+              "media_key": "3_2050940693498224640",
+              "start": 20,
+              "url": "https://t.co/N1rqQHGOOq"
+            },
+            {
+              "display_url": "pic.x.com/N1rqQHGOOq",
+              "end": 43,
+              "expanded_url": "https://x.com/Aloevce/status/2050940698061586853/photo/1",
+              "media_key": "3_2050940694014095360",
+              "start": 20,
+              "url": "https://t.co/N1rqQHGOOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050940698061586853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个长发版王橹杰也太美萌了。虽然是p的 https://t.co/N1rqQHGOOq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18196,
+          "following_count": 1972,
+          "like_count": 55336,
+          "listed_count": 24,
+          "media_count": 6629,
+          "tweet_count": 23252
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

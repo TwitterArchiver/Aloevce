@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2051517087785660522",
+    "created_at": "2026-05-05T04:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051517087785660522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/goro_5563/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/goro_5563/status/2051234514173841467",
+          "start": 7,
+          "url": "https://t.co/Hl9qFjHnym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051517087785660522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051234514173841467",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刷到了妃英理 https://t.co/Hl9qFjHnym"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1597,
+        "media_key": "3_2051234494796222464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdy57VbUAAmqgx.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051234494796201985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdy57VbAAE7i_k.jpg",
+        "width": 1517
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2051517087785660522",
+        "created_at": "2026-05-05T04:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051517087785660522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/goro_5563/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/goro_5563/status/2051234514173841467",
+              "start": 7,
+              "url": "https://t.co/Hl9qFjHnym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051517087785660522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051234514173841467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刷到了妃英理 https://t.co/Hl9qFjHnym"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051234494796222464",
+            "3_2051234494796201985"
+          ]
+        },
+        "author_id": "2026205659562393600",
+        "conversation_id": "2051234514173841467",
+        "created_at": "2026-05-04T09:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051234514173841467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQe7z8nDPG",
+              "end": 42,
+              "expanded_url": "https://x.com/goro_5563/status/2051234514173841467/photo/1",
+              "media_key": "3_2051234494796222464",
+              "start": 19,
+              "url": "https://t.co/IQe7z8nDPG"
+            },
+            {
+              "display_url": "pic.x.com/IQe7z8nDPG",
+              "end": 42,
+              "expanded_url": "https://x.com/goro_5563/status/2051234514173841467/photo/1",
+              "media_key": "3_2051234494796201985",
+              "start": 19,
+              "url": "https://t.co/IQe7z8nDPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051234514173841467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2611,
+          "impression_count": 2592832,
+          "like_count": 25249,
+          "quote_count": 1184,
+          "reply_count": 56,
+          "retweet_count": 1053
+        },
+        "reply_settings": "everyone",
+        "text": "これは報われないおとぎ話⸝⸝⸝🪄︎︎ https://t.co/IQe7z8nDPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18204,
+          "following_count": 1976,
+          "like_count": 55432,
+          "listed_count": 24,
+          "media_count": 6635,
+          "tweet_count": 23313
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T08:03:13.000Z",
+        "description": "絶対探偵辞めないで（まじで）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/goro_5563",
+                "end": 23,
+                "expanded_url": "https://lit.link/goro_5563",
+                "start": 0,
+                "url": "https://t.co/iqO7ydV0mG"
+              }
+            ]
+          }
+        },
+        "id": "2026205659562393600",
+        "location": "東京都米花町5丁目🚬",
+        "name": "ｺﾞﾛ",
+        "pinned_tweet_id": "2029121284240752724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051275585679511552/Qgr4GF5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 130,
+          "like_count": 2205,
+          "listed_count": 11,
+          "media_count": 23,
+          "tweet_count": 1212
+        },
+        "url": "https://t.co/iqO7ydV0mG",
+        "username": "goro_5563",
+        "verified": false
+      }
+    ]
+  }
+}

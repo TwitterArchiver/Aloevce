@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1817547692916294071",
+    "created_at": "2024-07-28T13:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T14:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1817547692916294071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1178342689206493185",
+          "start": 2,
+          "username": "NANIMONO_purin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817547692916294071",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我推@NANIMONO_purin 好可爱 😻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1817547692916294071",
+        "created_at": "2024-07-28T13:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T14:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817547692916294071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1178342689206493185",
+              "start": 2,
+              "username": "NANIMONO_purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817547692916294071",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我推@NANIMONO_purin 好可爱 😻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17248,
+          "following_count": 2190,
+          "like_count": 52006,
+          "listed_count": 19,
+          "tweet_count": 18083
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-29T16:16:12.000Z",
+        "description": "NANIMONO(@NANIMONO_idol) 黄色 ねぎしぷりんだよ🍮絶対ぷっちんしような〜！！！きょうもビールがうまい！6/13 TOKYO DOME CITY HALL ライブあります",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "NANIMONO_idol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/purin__oi4?igs…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/purin__oi4?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/sjgBxGegEm"
+              }
+            ]
+          }
+        },
+        "id": "1178342689206493185",
+        "location": " #せーのでぷっちん  #きょうもぷりんがうまい ",
+        "name": "眠岸ぷりん",
+        "pinned_tweet_id": "1801972885986447415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796860392771379200/PLGYspDc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93889,
+          "following_count": 205,
+          "like_count": 119412,
+          "listed_count": 636,
+          "tweet_count": 12974
+        },
+        "url": "https://t.co/sjgBxGegEm",
+        "username": "NANIMONO_purin",
+        "verified": true
+      }
+    ]
+  }
+}

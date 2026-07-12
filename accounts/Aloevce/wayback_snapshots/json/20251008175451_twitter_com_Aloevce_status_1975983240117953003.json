@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1975983240117953003",
+    "created_at": "2025-10-08T17:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T18:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975983240117953003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DongTao55458/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/DongTao55458/status/1975797567335374867",
+          "start": 4,
+          "url": "https://t.co/Z0HUnTgrxr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975983240117953003",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975797567335374867",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日过我 https://t.co/Z0HUnTgrxr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1975983240117953003",
+        "created_at": "2025-10-08T17:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T18:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975983240117953003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DongTao55458/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/DongTao55458/status/1975797567335374867",
+              "start": 4,
+              "url": "https://t.co/Z0HUnTgrxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975983240117953003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975797567335374867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日过我 https://t.co/Z0HUnTgrxr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747522737910988800",
+        "conversation_id": "1975631411819520095",
+        "created_at": "2025-10-08T05:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T06:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975797567335374867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975797567335374867",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975631411819520095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 天津人怎么你了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18744,
+          "following_count": 2401,
+          "like_count": 54910,
+          "listed_count": 25,
+          "media_count": 6264,
+          "tweet_count": 21876
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-17T07:34:32.000Z",
+        "description": "本纱手本来就是懒猪更新频率，13号上学后更没空更新了…补药取关我对不起喵",
+        "id": "1747522737910988800",
+        "name": "🎀异世界の纱手🎀",
+        "pinned_tweet_id": "1928887114344669270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921085841612341248/2Fo5w7Bz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3989,
+          "following_count": 816,
+          "like_count": 28329,
+          "listed_count": 24,
+          "media_count": 42,
+          "tweet_count": 1911
+        },
+        "username": "DongTao55458",
+        "verified": false
+      }
+    ]
+  }
+}

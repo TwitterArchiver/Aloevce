@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2045476769957138807",
+    "created_at": "2026-04-18T12:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T13:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045476769957138807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/474g4qq/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/474g4qq/status/2045171500194648238",
+          "start": 3,
+          "url": "https://t.co/qHZEyvSYqS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045476769957138807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045171500194648238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱 https://t.co/qHZEyvSYqS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18108,
+        "height": 720,
+        "media_key": "13_2045171440891371520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045171440891371520/img/gPV4-In6WJ5pr8uE.jpg",
+        "public_metrics": {
+          "view_count": 1710
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045171440891371520/vid/avc1/480x270/kIfH3XT5BOiYG9L2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045171440891371520/vid/avc1/640x360/5UDT6H9eu8XeHZT-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045171440891371520/vid/avc1/1280x720/cD4_YpApYpdwW6Ol.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045171440891371520/pl/erF9LNcImGcnPFJi.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2045476769957138807",
+        "created_at": "2026-04-18T12:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045476769957138807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/474g4qq/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/474g4qq/status/2045171500194648238",
+              "start": 3,
+              "url": "https://t.co/qHZEyvSYqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045476769957138807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045171500194648238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱 https://t.co/qHZEyvSYqS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045171440891371520"
+          ]
+        },
+        "author_id": "1636046211013824514",
+        "conversation_id": "2045171500194648238",
+        "created_at": "2026-04-17T16:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045171500194648238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T32vjNjJsl",
+              "end": 23,
+              "expanded_url": "https://x.com/474g4qq/status/2045171500194648238/video/1",
+              "media_key": "13_2045171440891371520",
+              "start": 0,
+              "url": "https://t.co/T32vjNjJsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045171500194648238",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 5838,
+          "like_count": 401,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/T32vjNjJsl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17816,
+          "following_count": 2304,
+          "like_count": 54450,
+          "listed_count": 21,
+          "media_count": 6588,
+          "tweet_count": 23012
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T16:46:38.000Z",
+        "description": "フシデと出勤する日々 写真やイラスト等の無断転載、無断使用、AI使用はやめてください。",
+        "id": "1636046211013824514",
+        "location": "🇯🇵",
+        "name": "𐂂",
+        "pinned_tweet_id": "1821558539435098328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918539245792477184/jogDrJC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2504,
+          "following_count": 169,
+          "like_count": 6479,
+          "listed_count": 11,
+          "media_count": 528,
+          "tweet_count": 1219
+        },
+        "username": "474g4qq",
+        "verified": false
+      }
+    ]
+  }
+}

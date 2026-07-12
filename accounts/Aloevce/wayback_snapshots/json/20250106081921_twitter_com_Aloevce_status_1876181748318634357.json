@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1876181748318634357",
+    "created_at": "2025-01-06T08:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T09:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876181748318634357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1703817330130870272",
+          "start": 3,
+          "username": "blueBye_07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876181748318634357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875761492743836064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blueBye_07: 我是卡卡，重新更新一个置顶！实在没钱了我又来接线下了，求求大人们转转\n目前坐标广州！过门可接广东周边非绿半绿，外地付路费也可飞。下半月后就回杭州接单啦！过门有长期陪聊/图包/解锁线下福利门槛哥看看我入门不亏情绪价值都会给足🥺\n此条转发里抽299*…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1876181748318634357].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1876181748318634357",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1876181748318634357"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875761480349720576",
+            "3_1875761480349708292",
+            "3_1875761480345522176"
+          ]
+        },
+        "author_id": "1703817330130870272",
+        "conversation_id": "1875761492743836064",
+        "created_at": "2025-01-05T04:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T05:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875761492743836064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VyJtAzX9iA",
+              "end": 169,
+              "expanded_url": "https://x.com/WoYan94498/status/1875761492743836064/photo/1",
+              "media_key": "3_1875761480349720576",
+              "start": 146,
+              "url": "https://t.co/VyJtAzX9iA"
+            },
+            {
+              "display_url": "pic.x.com/VyJtAzX9iA",
+              "end": 169,
+              "expanded_url": "https://x.com/WoYan94498/status/1875761492743836064/photo/1",
+              "media_key": "3_1875761480349708292",
+              "start": 146,
+              "url": "https://t.co/VyJtAzX9iA"
+            },
+            {
+              "display_url": "pic.x.com/VyJtAzX9iA",
+              "end": 169,
+              "expanded_url": "https://x.com/WoYan94498/status/1875761492743836064/photo/1",
+              "media_key": "3_1875761480345522176",
+              "start": 146,
+              "url": "https://t.co/VyJtAzX9iA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875761492743836064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8368,
+          "like_count": 72,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "我是卡卡，重新更新一个置顶！实在没钱了我又来接线下了，求求大人们转转\n目前坐标广州！过门可接广东周边非绿半绿，外地付路费也可飞。下半月后就回杭州接单啦！过门有长期陪聊/图包/解锁线下福利门槛哥看看我入门不亏情绪价值都会给足🥺\n此条转发里抽299*1 131.4*2 52*3 10号开奖❤️ https://t.co/VyJtAzX9iA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "额",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17725,
+          "following_count": 2357,
+          "like_count": 53777,
+          "listed_count": 20,
+          "media_count": 5554,
+          "tweet_count": 19922
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T17:04:53.000Z",
+        "description": "",
+        "id": "1703817330130870272",
+        "location": "约线下🚪188",
+        "name": "再见蓝色",
+        "pinned_tweet_id": "1875761492743836064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875942436763267072/pU-WJgRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6021,
+          "following_count": 25,
+          "like_count": 147,
+          "listed_count": 19,
+          "media_count": 40,
+          "tweet_count": 120
+        },
+        "username": "blueBye_07",
+        "verified": false
+      }
+    ]
+  }
+}

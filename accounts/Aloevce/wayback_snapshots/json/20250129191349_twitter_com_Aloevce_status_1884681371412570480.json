@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1884678084554637334",
+    "created_at": "2025-01-29T19:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T20:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884681371412570480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1295739811853004800",
+          "start": 0,
+          "username": "KenHaPqpolZuBZA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884681371412570480",
+    "in_reply_to_user_id": "1295739811853004800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884680425970557409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KenHaPqpolZuBZA 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1884678084554637334",
+        "created_at": "2025-01-29T19:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T20:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884681371412570480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1295739811853004800",
+              "start": 0,
+              "username": "KenHaPqpolZuBZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884681371412570480",
+        "in_reply_to_user_id": "1295739811853004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884680425970557409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KenHaPqpolZuBZA 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295739811853004800",
+        "conversation_id": "1884678084554637334",
+        "created_at": "2025-01-29T19:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T20:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884680425970557409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884680425970557409",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884678084554637334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 不是哥们是不是有点大小眼啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰王牌从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1883941576986276044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17799,
+          "following_count": 2396,
+          "like_count": 54525,
+          "listed_count": 20,
+          "media_count": 5743,
+          "tweet_count": 20470
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-18T15:10:26.000Z",
+        "description": "多吃点好吗",
+        "id": "1295739811853004800",
+        "location": "广州",
+        "name": "操所有人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717234701952520192/5CJtpUXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 344,
+          "like_count": 1308,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 433
+        },
+        "username": "KenHaPqpolZuBZA",
+        "verified": false
+      }
+    ]
+  }
+}

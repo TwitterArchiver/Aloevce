@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2053181137468498173",
+    "created_at": "2026-05-09T18:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T19:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053181137468498173"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kyanu_tut/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Kyanu_tut/status/2053174914820317428",
+          "start": 4,
+          "url": "https://t.co/XeihJ7qOtL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053181137468498173",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053174914820317428",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我调酒 https://t.co/XeihJ7qOtL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2053174911053803521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5XtBMbMAEp5NW.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2053181137468498173",
+        "created_at": "2026-05-09T18:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053181137468498173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kyanu_tut/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Kyanu_tut/status/2053174914820317428",
+              "start": 4,
+              "url": "https://t.co/XeihJ7qOtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053181137468498173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053174914820317428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我调酒 https://t.co/XeihJ7qOtL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053174911053803521"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2053174914820317428",
+        "created_at": "2026-05-09T18:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053174914820317428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ap4mjhyZ2T",
+              "end": 23,
+              "expanded_url": "https://x.com/Kyanu_tut/status/2053174914820317428/photo/1",
+              "media_key": "3_2053174911053803521",
+              "start": 0,
+              "url": "https://t.co/Ap4mjhyZ2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053174914820317428",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ap4mjhyZ2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18256,
+          "following_count": 1989,
+          "like_count": 55695,
+          "listed_count": 24,
+          "media_count": 6661,
+          "tweet_count": 23443
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 411,
+          "like_count": 708,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 1913
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

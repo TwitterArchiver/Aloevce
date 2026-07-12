@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1788921963282595934",
+    "created_at": "2024-05-10T16:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T17:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788971435199000672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1223780481537204224",
+          "start": 0,
+          "username": "4ever_Ginger_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788971435199000672",
+    "in_reply_to_user_id": "1223780481537204224",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788921963282595934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4ever_Ginger_ 臭泥"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1788921963282595934].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1788921963282595934",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1788921963282595934"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1788921963282595934",
+        "created_at": "2024-05-10T16:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T17:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788971435199000672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1223780481537204224",
+              "start": 0,
+              "username": "4ever_Ginger_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788971435199000672",
+        "in_reply_to_user_id": "1223780481537204224",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788921963282595934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ever_Ginger_ 臭泥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "评论罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12818,
+          "following_count": 2181,
+          "like_count": 51572,
+          "listed_count": 18,
+          "tweet_count": 17294
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T01:29:49.000Z",
+        "description": "一辈子当公主🎀召唤小小姜@kokoro_Ginger ♡ 小小姜2.0 @Ginger_kokoro 乱七八糟什么圈都混 四大名捕盛崖余梦女 同担拒否",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "kokoro_Ginger"
+              },
+              {
+                "end": 50,
+                "start": 36,
+                "username": "Ginger_kokoro"
+              }
+            ]
+          }
+        },
+        "id": "1223780481537204224",
+        "location": "阿宅的卧室",
+        "name": "姜子Ginger",
+        "pinned_tweet_id": "1639294907675471879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772896796421083136/mfvNFcSN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 429,
+          "like_count": 8776,
+          "listed_count": 10,
+          "tweet_count": 6645
+        },
+        "username": "4ever_Ginger_",
+        "verified": false
+      }
+    ]
+  }
+}

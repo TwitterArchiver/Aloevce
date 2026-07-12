@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2062925641637363875",
+    "created_at": "2026-06-05T15:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062925641637363875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/houf521/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/houf521/status/2062920724894118055",
+          "start": 5,
+          "url": "https://t.co/VvRVzjQvu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062925641637363875",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062920724894118055",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以可以 https://t.co/VvRVzjQvu9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2062925641637363875",
+        "created_at": "2026-06-05T15:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062925641637363875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/houf521/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/houf521/status/2062920724894118055",
+              "start": 5,
+              "url": "https://t.co/VvRVzjQvu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062925641637363875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062920724894118055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以可以 https://t.co/VvRVzjQvu9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "929833400",
+        "conversation_id": "2062917088579027347",
+        "created_at": "2026-06-05T15:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062920724894118055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062920724894118055",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062917088579027347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 卧槽！真开了！？我觉得需要2个皮卡丘和小八和乌萨奇放椅子上，这样会比较有特点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18153,
+          "following_count": 1976,
+          "like_count": 56254,
+          "listed_count": 24,
+          "media_count": 6777,
+          "tweet_count": 23864
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-06T14:23:20.000Z",
+        "description": "",
+        "id": "929833400",
+        "name": "全身全霊 うまいᕦ(ò_óˇ)ᕤ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568383705881903106/rcEpQBqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 662,
+          "like_count": 963,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 178
+        },
+        "username": "houf521",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2053366271178129432",
+    "created_at": "2026-05-10T06:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053366271178129432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2053325310628946352",
+          "start": 2,
+          "url": "https://t.co/i4tQVNNrzE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053366271178129432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053325310628946352",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/i4tQVNNrzE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2053366271178129432",
+        "created_at": "2026-05-10T06:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053366271178129432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2053325310628946352",
+              "start": 2,
+              "url": "https://t.co/i4tQVNNrzE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053366271178129432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053325310628946352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/i4tQVNNrzE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2053325310628946352",
+        "created_at": "2026-05-10T04:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053325310628946352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053325310628946352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 195,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿着女装的纤细软萌水灵灵的男子露出自己18厘米的大鸡鸡草肌肉男的样子实在是太迷人了口牙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18263,
+          "following_count": 1991,
+          "like_count": 55706,
+          "listed_count": 24,
+          "media_count": 6661,
+          "tweet_count": 23455
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2806,
+          "following_count": 882,
+          "like_count": 3507,
+          "listed_count": 6,
+          "media_count": 181,
+          "tweet_count": 2647
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1256292690309689344",
+          "name": "Tamagotchi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256292690309689344",
+          "name": "Tamagotchi"
+        }
+      }
+    ],
+    "conversation_id": "1976640990422475230",
+    "created_at": "2025-10-10T13:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T14:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976640990422475230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TMGC_net/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/TMGC_net/status/1976467724940595528",
+          "start": 5,
+          "url": "https://t.co/bmXNrXCHGd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976640990422475230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976467724940595528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我请问了 https://t.co/bmXNrXCHGd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_1976098017444077568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2yCrVMboAA9MdM.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1256292690309689344",
+              "name": "Tamagotchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256292690309689344",
+              "name": "Tamagotchi"
+            }
+          }
+        ],
+        "conversation_id": "1976640990422475230",
+        "created_at": "2025-10-10T13:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T14:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976640990422475230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TMGC_net/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/TMGC_net/status/1976467724940595528",
+              "start": 5,
+              "url": "https://t.co/bmXNrXCHGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976640990422475230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976467724940595528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我请问了 https://t.co/bmXNrXCHGd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976098017444077568"
+          ]
+        },
+        "author_id": "600575995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1256292690309689344",
+              "name": "Tamagotchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256292690309689344",
+              "name": "Tamagotchi"
+            }
+          }
+        ],
+        "conversation_id": "1976467724940595528",
+        "created_at": "2025-10-10T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976467724940595528"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Tamagotchi Paradise",
+              "probability": 0.5115,
+              "start": 2,
+              "type": "Organization"
+            },
+            {
+              "end": 77,
+              "normalized_text": "Tamagotchi Paradise - Jade Forest",
+              "probability": 0.3745,
+              "start": 45,
+              "type": "Product"
+            },
+            {
+              "end": 89,
+              "normalized_text": "たまごっちラボ",
+              "probability": 0.3825,
+              "start": 83,
+              "type": "Organization"
+            },
+            {
+              "end": 114,
+              "normalized_text": "竹下☆ぱらだいすさんとの",
+              "probability": 0.3046,
+              "start": 103,
+              "type": "Organization"
+            },
+            {
+              "end": 155,
+              "normalized_text": "Tamagotchi Paradise - Purple Sky",
+              "probability": 0.1937,
+              "start": 124,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sc1IY6DCIk",
+              "end": 179,
+              "expanded_url": "https://x.com/TMGC_net/status/1976467724940595528/photo/1",
+              "media_key": "3_1976098017444077568",
+              "start": 156,
+              "url": "https://t.co/sc1IY6DCIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976467724940595528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 242,
+                "start": 231,
+                "tag": "Tamagotchi"
+              },
+              {
+                "end": 249,
+                "start": 243,
+                "tag": "たまごっち"
+              },
+              {
+                "end": 269,
+                "start": 250,
+                "tag": "Tamagotchiparadise"
+              },
+              {
+                "end": 275,
+                "start": 270,
+                "tag": "たまパラ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tamagotchi-official.com/jp/series/para…",
+                "end": 229,
+                "expanded_url": "https://tamagotchi-official.com/jp/series/paradise/news/01_1165/",
+                "start": 206,
+                "url": "https://t.co/pVEpaX8lR8"
+              }
+            ]
+          },
+          "text": "📣Tamagotchi Paradise新商品情報！！\n新種発見！森のエリアが登場した『Tamagotchi Paradise - Jade Forest』と、\n「たまごっちラボ」特別研究員のしなこさん、竹下☆ぱらだいすさんとのコラボで誕生した『Tamagotchi Paradise - Purple Sky 竹下☆ぱらだいす&しなこスペシャルセット』が11/22(土)より発売✨\n\n商品の詳細はこちらから▼\nhttps://t.co/pVEpaX8lR8\n\n#Tamagotchi #たまごっち #Tamagotchiparadise #たまパラ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1055,
+          "impression_count": 703903,
+          "like_count": 7144,
+          "quote_count": 1221,
+          "reply_count": 36,
+          "retweet_count": 2482
+        },
+        "reply_settings": "everyone",
+        "text": "📣Tamagotchi Paradise新商品情報！！\n新種発見！森のエリアが登場した『Tamagotchi Paradise - Jade Forest』と、\n「たまごっちラボ」特別研究員のしなこさん、竹下☆ぱらだいすさんとのコラボで誕生した『Tamagotchi Paradise - Purple Sky https://t.co/sc1IY6DCIk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18718,
+          "following_count": 2406,
+          "like_count": 54921,
+          "listed_count": 25,
+          "media_count": 6267,
+          "tweet_count": 21899
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-06T01:28:01.000Z",
+        "description": "たまごっち公式X。イベント、各種グッズなどの最新情報を発信していくよ！※公式推奨ハッシュタグ ＃たまごっち #Tamagotchi ※お問合せに対する回答などについては承っておりません。予めご了承ください。 Instagramアカウント：tmgc_official_jp",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "たまごっち"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "tag": "Tamagotchi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "toy.bandai.co.jp/series/tamagot…",
+                "end": 23,
+                "expanded_url": "https://toy.bandai.co.jp/series/tamagotchi/",
+                "start": 0,
+                "url": "https://t.co/kTSgIUXX37"
+              }
+            ]
+          }
+        },
+        "id": "600575995",
+        "location": "たまごっち星",
+        "name": "【公式】たまごっち",
+        "pinned_tweet_id": "1976467724940595528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925057982100078595/TBrs7109_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213179,
+          "following_count": 46,
+          "like_count": 1360,
+          "listed_count": 427,
+          "media_count": 3109,
+          "tweet_count": 5427
+        },
+        "url": "https://t.co/kTSgIUXX37",
+        "username": "TMGC_net",
+        "verified": true
+      }
+    ]
+  }
+}

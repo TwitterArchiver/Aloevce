@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2007393570211467449",
+    "created_at": "2026-01-03T10:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T11:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007393570211467449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KRY_official_/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/KRY_official_/status/1745454774743654436",
+          "start": 17,
+          "url": "https://t.co/mqPJKM9Zyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007393570211467449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1745454774743654436",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我买了这件。但是图案很瑟琴。咋办 https://t.co/mqPJKM9Zyl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1745454768028545024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GDkZ3RvacAABRkW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1745454767995031552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GDkZ3RnbEAALDbv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1745454767961518080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GDkZ3RfbsAAu0CQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1745454767973990400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GDkZ3RiaAAAc9lB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2007393570211467449",
+        "created_at": "2026-01-03T10:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T11:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007393570211467449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KRY_official_/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/KRY_official_/status/1745454774743654436",
+              "start": 17,
+              "url": "https://t.co/mqPJKM9Zyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007393570211467449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1745454774743654436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我买了这件。但是图案很瑟琴。咋办 https://t.co/mqPJKM9Zyl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1745454768028545024",
+            "3_1745454767995031552",
+            "3_1745454767961518080",
+            "3_1745454767973990400"
+          ]
+        },
+        "author_id": "2353567248",
+        "conversation_id": "1745454774743654436",
+        "created_at": "2024-01-11T14:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-01-11T15:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1745454774743654436"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "KRY",
+              "probability": 0.5491,
+              "start": 23,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKsOV7LwMA",
+              "end": 171,
+              "expanded_url": "https://x.com/KRY_official_/status/1745454774743654436/photo/1",
+              "media_key": "3_1745454768028545024",
+              "start": 148,
+              "url": "https://t.co/kKsOV7LwMA"
+            },
+            {
+              "display_url": "pic.x.com/kKsOV7LwMA",
+              "end": 171,
+              "expanded_url": "https://x.com/KRY_official_/status/1745454774743654436/photo/1",
+              "media_key": "3_1745454767995031552",
+              "start": 148,
+              "url": "https://t.co/kKsOV7LwMA"
+            },
+            {
+              "display_url": "pic.x.com/kKsOV7LwMA",
+              "end": 171,
+              "expanded_url": "https://x.com/KRY_official_/status/1745454774743654436/photo/1",
+              "media_key": "3_1745454767961518080",
+              "start": 148,
+              "url": "https://t.co/kKsOV7LwMA"
+            },
+            {
+              "display_url": "pic.x.com/kKsOV7LwMA",
+              "end": 171,
+              "expanded_url": "https://x.com/KRY_official_/status/1745454774743654436/photo/1",
+              "media_key": "3_1745454767973990400",
+              "start": 148,
+              "url": "https://t.co/kKsOV7LwMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1745454774743654436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 24201,
+          "like_count": 91,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "【news】\n明日21:00-\n\n佐藤べに仔×KRY\nコラボ第二弾\n\nオンライン販売開始\n\n10オンス 裏パイル地\nスウェットTOPS\n\n着丈81cm\nルーズシルエットのユニセックスサイズ\n\nインナーや春秋は1枚でも\n\nブラック×パープル\n\n価格\n¥6800+tax\n\nmodel\n小鳥遊くれあ https://t.co/kKsOV7LwMA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18622,
+          "following_count": 2311,
+          "like_count": 55448,
+          "listed_count": 23,
+          "media_count": 6450,
+          "tweet_count": 22532
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-20T17:40:32.000Z",
+        "description": "《instagram》https://t.co/IwirIV9DQx ††††††††††††《原宿竹下通り店》 https://t.co/ghhIvV2tpS††††††††††††《TikTok》https://t.co/eWpnFHrnbZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/kry231",
+                "end": 34,
+                "expanded_url": "http://Instagram.com/kry231",
+                "start": 11,
+                "url": "https://t.co/IwirIV9DQx"
+              },
+              {
+                "display_url": "x.com/kry_harajuku",
+                "end": 80,
+                "expanded_url": "https://x.com/kry_harajuku",
+                "start": 57,
+                "url": "https://t.co/ghhIvV2tpS"
+              },
+              {
+                "display_url": "tiktok.com/@kryclothing",
+                "end": 123,
+                "expanded_url": "https://www.tiktok.com/@kryclothing",
+                "start": 100,
+                "url": "https://t.co/eWpnFHrnbZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kry.tokyo",
+                "end": 23,
+                "expanded_url": "http://www.kry.tokyo/",
+                "start": 0,
+                "url": "https://t.co/tizARXfMq6"
+              }
+            ]
+          }
+        },
+        "id": "2353567248",
+        "location": "TOKYO",
+        "name": "KRYclothing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507544673732096004/fcwNKSVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71314,
+          "following_count": 20292,
+          "like_count": 105862,
+          "listed_count": 540,
+          "media_count": 34569,
+          "tweet_count": 105464
+        },
+        "url": "https://t.co/tizARXfMq6",
+        "username": "KRY_official_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1615335572675104768",
+    "created_at": "2023-01-17T13:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2023-01-17T13:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1615335572675104768"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1615335572675104768",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下学期一天只吃一顿饭👊🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1615335572675104768",
+        "created_at": "2023-01-17T13:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-17T13:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1615335572675104768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1615335572675104768",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下学期一天只吃一顿饭👊🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "深井冰一枚",
+        "id": "1495662254544789506",
+        "name": "エースバーン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1495849467026706434/ml-8TLLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 8,
+          "listed_count": 0,
+          "tweet_count": 7
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

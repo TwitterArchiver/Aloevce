@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2049332175946879246",
+    "created_at": "2026-04-29T03:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T04:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049332175946879246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Pokemonpshot/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Pokemonpshot/status/2049115674765627659",
+          "start": 6,
+          "url": "https://t.co/Gdh6udP7vi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049332175946879246",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049115674765627659",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "脑子痒痒的 https://t.co/Gdh6udP7vi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 487,
+        "media_key": "3_2049115672936927232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_r2Q0XUAA7gCr.jpg",
+        "width": 567
+      },
+      {
+        "height": 226,
+        "media_key": "3_2049115672194506753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_r2ODW4AEsmcY.jpg",
+        "width": 188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2049332175946879246",
+        "created_at": "2026-04-29T03:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049332175946879246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pokemonpshot/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Pokemonpshot/status/2049115674765627659",
+              "start": 6,
+              "url": "https://t.co/Gdh6udP7vi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049332175946879246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049115674765627659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "脑子痒痒的 https://t.co/Gdh6udP7vi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049115672936927232",
+            "3_2049115672194506753"
+          ]
+        },
+        "author_id": "1796782611215302657",
+        "conversation_id": "2049115674765627659",
+        "created_at": "2026-04-28T13:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049115674765627659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJthi8OzMA",
+              "end": 25,
+              "expanded_url": "https://x.com/Pokemonpshot/status/2049115674765627659/photo/1",
+              "media_key": "3_2049115672936927232",
+              "start": 2,
+              "url": "https://t.co/VJthi8OzMA"
+            },
+            {
+              "display_url": "pic.x.com/VJthi8OzMA",
+              "end": 25,
+              "expanded_url": "https://x.com/Pokemonpshot/status/2049115674765627659/photo/1",
+              "media_key": "3_2049115672194506753",
+              "start": 2,
+              "url": "https://t.co/VJthi8OzMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049115674765627659",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 517,
+          "impression_count": 129565,
+          "like_count": 17497,
+          "quote_count": 51,
+          "reply_count": 28,
+          "retweet_count": 1214
+        },
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/VJthi8OzMA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18156,
+          "following_count": 1926,
+          "like_count": 55012,
+          "listed_count": 24,
+          "media_count": 6606,
+          "tweet_count": 23161
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T05:56:07.000Z",
+        "description": "Daily Pokemon content | Fan account",
+        "id": "1796782611215302657",
+        "name": "Pokémon Perfect Shots",
+        "pinned_tweet_id": "2049129030096466050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045296278670647296/_LTGIlm4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49820,
+          "following_count": 228,
+          "like_count": 11805,
+          "listed_count": 51,
+          "media_count": 7621,
+          "tweet_count": 7798
+        },
+        "username": "Pokemonpshot",
+        "verified": true
+      }
+    ]
+  }
+}

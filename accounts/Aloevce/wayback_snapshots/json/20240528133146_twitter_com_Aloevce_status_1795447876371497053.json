@@ -1,0 +1,137 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1795447858428284928"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1795447876371497053",
+    "created_at": "2024-05-28T13:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T14:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1795447876371497053"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/O8Fw4CS06j",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Aloevce/status/1795447876371497053/photo/1",
+          "media_key": "3_1795447858428284928",
+          "start": 5,
+          "url": "https://t.co/O8Fw4CS06j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795447876371497053",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/O8Fw4CS06j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1795447858428284928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOq2UIZakAA7oDm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795447858428284928"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1795447876371497053",
+        "created_at": "2024-05-28T13:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T14:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795447876371497053"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/O8Fw4CS06j",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Aloevce/status/1795447876371497053/photo/1",
+              "media_key": "3_1795447858428284928",
+              "start": 5,
+              "url": "https://t.co/O8Fw4CS06j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795447876371497053",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/O8Fw4CS06j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795447835732881408/Lypwm-n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12737,
+          "following_count": 2234,
+          "like_count": 52159,
+          "listed_count": 19,
+          "tweet_count": 17500
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

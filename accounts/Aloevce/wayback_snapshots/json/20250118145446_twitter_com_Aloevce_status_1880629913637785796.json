@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1880629913637785796",
+    "created_at": "2025-01-18T14:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T15:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880629913637785796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kirakira4th/st…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/kirakira4th/status/1880505264903975203",
+          "start": 23,
+          "url": "https://t.co/KOOPcjXdUQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880629913637785796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880505264903975203",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "屁眼被草成批的形状了\n要怎么做才能恢复原状？ https://t.co/KOOPcjXdUQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1880629913637785796",
+        "created_at": "2025-01-18T14:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T15:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880629913637785796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kirakira4th/st…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/kirakira4th/status/1880505264903975203",
+              "start": 23,
+              "url": "https://t.co/KOOPcjXdUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880629913637785796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880505264903975203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "屁眼被草成批的形状了\n要怎么做才能恢复原状？ https://t.co/KOOPcjXdUQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1880505264903975203",
+        "created_at": "2025-01-18T06:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T07:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880505264903975203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880505264903975203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 20351,
+          "like_count": 197,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "屁眼被草成批的形状了\n要怎么做才能恢复原状？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1879847418914881656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17796,
+          "following_count": 2373,
+          "like_count": 54098,
+          "listed_count": 20,
+          "media_count": 5638,
+          "tweet_count": 20131
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "你觉得是那就是",
+        "id": "1666599054917218305",
+        "name": "仿生井盖会梦见电子河南人吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875792193795088384/0kEOTGgO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10709,
+          "following_count": 2344,
+          "like_count": 42313,
+          "listed_count": 15,
+          "media_count": 252,
+          "tweet_count": 11011
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

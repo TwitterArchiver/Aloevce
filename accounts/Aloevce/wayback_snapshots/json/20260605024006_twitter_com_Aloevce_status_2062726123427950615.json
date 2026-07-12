@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2062726123427950615",
+    "created_at": "2026-06-05T02:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062726123427950615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/goldengyul/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/goldengyul/status/2062655688682479757",
+          "start": 9,
+          "url": "https://t.co/hwESJZIlsZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062726123427950615",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062655688682479757",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "❤️鬼❤️魂❤️ https://t.co/hwESJZIlsZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1449,
+        "media_key": "3_2062655683863179264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAGaoKa8AAJVXD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2062726123427950615",
+        "created_at": "2026-06-05T02:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062726123427950615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/goldengyul/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/goldengyul/status/2062655688682479757",
+              "start": 9,
+              "url": "https://t.co/hwESJZIlsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062726123427950615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062655688682479757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "❤️鬼❤️魂❤️ https://t.co/hwESJZIlsZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062655683863179264"
+          ]
+        },
+        "author_id": "1510965079877251072",
+        "conversation_id": "2062655688682479757",
+        "created_at": "2026-06-04T22:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T23:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062655688682479757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wj2br2kc95",
+              "end": 68,
+              "expanded_url": "https://x.com/goldengyul/status/2062655688682479757/photo/1",
+              "media_key": "3_2062655683863179264",
+              "start": 45,
+              "url": "https://t.co/Wj2br2kc95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062655688682479757",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 47712,
+          "like_count": 1127,
+          "quote_count": 153,
+          "reply_count": 1,
+          "retweet_count": 687
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "오다이바에서 치이카와 귀신의 숲 생긴대요\n새로운 귀신 굿즈들을 판매하는 샵입니다 https://t.co/Wj2br2kc95"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18155,
+          "following_count": 1975,
+          "like_count": 56254,
+          "listed_count": 24,
+          "media_count": 6775,
+          "tweet_count": 23859
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-04T12:59:01.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/goldengyul",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/goldengyul",
+                "start": 0,
+                "url": "https://t.co/EmzYnOuTXD"
+              }
+            ]
+          }
+        },
+        "id": "1510965079877251072",
+        "location": "Do not repost my photos",
+        "name": "귤",
+        "pinned_tweet_id": "1957362780182626728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057362796363608064/4MFXNjBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 486,
+          "like_count": 100321,
+          "listed_count": 8,
+          "media_count": 3234,
+          "tweet_count": 45297
+        },
+        "url": "https://t.co/EmzYnOuTXD",
+        "username": "goldengyul",
+        "verified": false
+      }
+    ]
+  }
+}

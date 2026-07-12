@@ -1,0 +1,158 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1816541962083938742",
+    "created_at": "2024-07-25T18:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T19:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1816541962083938742"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/Aloevce/status/1816540854494072945",
+          "start": 62,
+          "url": "https://t.co/e9N87M76Sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816541962083938742",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816540854494072945",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我不想跟你桌爱，我想你抱着我睡觉，其实我不想你抱着我睡觉，我想听你说你爱我，其实我不想听你说爱我，其实我想让你永远陪我 https://t.co/e9N87M76Sy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1816541962083938742",
+        "created_at": "2024-07-25T18:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T19:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816541962083938742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/Aloevce/status/1816540854494072945",
+              "start": 62,
+              "url": "https://t.co/e9N87M76Sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816541962083938742",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816540854494072945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我不想跟你桌爱，我想你抱着我睡觉，其实我不想你抱着我睡觉，我想听你说你爱我，其实我不想听你说爱我，其实我想让你永远陪我 https://t.co/e9N87M76Sy"
+      },
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1816540854494072945",
+        "created_at": "2024-07-25T18:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T19:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816540854494072945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816540854494072945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥现任哥喜欢手冲却不跟我桌爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17408,
+          "following_count": 2192,
+          "like_count": 52013,
+          "listed_count": 19,
+          "tweet_count": 18064
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

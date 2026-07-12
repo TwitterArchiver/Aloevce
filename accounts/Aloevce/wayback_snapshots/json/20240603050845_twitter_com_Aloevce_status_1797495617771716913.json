@@ -1,0 +1,83 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1797495617771716913",
+    "created_at": "2024-06-03T05:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T06:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797495617771716913"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1797495617771716913",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁给我推一个笔记本可以用的直播麦克风"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1797495617771716913",
+        "created_at": "2024-06-03T05:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T06:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797495617771716913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797495617771716913",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁给我推一个笔记本可以用的直播麦克风"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795447835732881408/Lypwm-n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13132,
+          "following_count": 2223,
+          "like_count": 51723,
+          "listed_count": 18,
+          "tweet_count": 17543
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1880965963652444577",
+    "created_at": "2025-01-19T13:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T14:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880965963652444577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WaveMono/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/WaveMono/status/1880962684860112950",
+          "start": 18,
+          "url": "https://t.co/ajYKdfmot1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880965963652444577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880962684860112950",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被发现了🙀我不会用筷子😭😭😭😭😭😭 https://t.co/ajYKdfmot1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1880965963652444577",
+        "created_at": "2025-01-19T13:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T14:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880965963652444577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WaveMono/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/WaveMono/status/1880962684860112950",
+              "start": 18,
+              "url": "https://t.co/ajYKdfmot1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880965963652444577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880962684860112950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被发现了🙀我不会用筷子😭😭😭😭😭😭 https://t.co/ajYKdfmot1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132969730271133696",
+        "conversation_id": "1880917579893764547",
+        "created_at": "2025-01-19T12:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T13:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880962684860112950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880962684860112950",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880917579893764547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 神人王牌叉子吃一切"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1879847418914881656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17837,
+          "following_count": 2373,
+          "like_count": 54137,
+          "listed_count": 20,
+          "media_count": 5641,
+          "tweet_count": 20148
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-27T11:20:08.000Z",
+        "description": "",
+        "id": "1132969730271133696",
+        "name": "cloudWave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325645322811551745/3yL35bgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 2115,
+          "like_count": 1557,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 395
+        },
+        "username": "WaveMono",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1964999024244904283",
+    "created_at": "2025-09-09T04:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T05:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965268817409704362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "853979972314120194",
+          "start": 0,
+          "username": "Gore5520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965268817409704362",
+    "in_reply_to_user_id": "853979972314120194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964999841534419048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gore5520 苍蝇🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1964999024244904283",
+        "created_at": "2025-09-09T04:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T05:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965268817409704362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "853979972314120194",
+              "start": 0,
+              "username": "Gore5520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965268817409704362",
+        "in_reply_to_user_id": "853979972314120194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964999841534419048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gore5520 苍蝇🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "853979972314120194",
+        "conversation_id": "1964999024244904283",
+        "created_at": "2025-09-08T10:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T11:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964999841534419048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964999841534419048",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964999024244904283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 眼神在看哪里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18965,
+          "following_count": 2402,
+          "like_count": 55421,
+          "listed_count": 24,
+          "media_count": 6241,
+          "tweet_count": 21788
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-17T14:34:26.000Z",
+        "description": "喜欢白幼瘦。胸小小的。太大我怕窒息。😂😂😂",
+        "id": "853979972314120194",
+        "location": "Cambodia",
+        "name": "阿木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956579972258410496/6oyYTOt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 80,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 251
+        },
+        "username": "Gore5520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000478400721670144"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2000478403376631887",
+    "created_at": "2025-12-15T08:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T09:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000478403376631887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZbppoyGkY3",
+          "end": 30,
+          "expanded_url": "https://x.com/Aloevce/status/2000478403376631887/photo/1",
+          "media_key": "3_2000478400721670144",
+          "start": 7,
+          "url": "https://t.co/ZbppoyGkY3"
+        },
+        {
+          "display_url": "x.com/Li_Qianmo/stat…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Li_Qianmo/status/1996491663288443285",
+          "start": 31,
+          "url": "https://t.co/LHCK6T9r3M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000478403376631887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996491663288443285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么近那么美 https://t.co/ZbppoyGkY3 https://t.co/LHCK6T9r3M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_2000478400721670144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MggafbUAAOhQ9.jpg",
+        "width": 1244
+      },
+      {
+        "height": 1656,
+        "media_key": "3_1996358485311651840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7R9dxlWgAAPMKj.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000478400721670144"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2000478403376631887",
+        "created_at": "2025-12-15T08:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T09:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000478403376631887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbppoyGkY3",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/2000478403376631887/photo/1",
+              "media_key": "3_2000478400721670144",
+              "start": 7,
+              "url": "https://t.co/ZbppoyGkY3"
+            },
+            {
+              "display_url": "x.com/Li_Qianmo/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Li_Qianmo/status/1996491663288443285",
+              "start": 31,
+              "url": "https://t.co/LHCK6T9r3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000478403376631887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996491663288443285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么近那么美 https://t.co/ZbppoyGkY3 https://t.co/LHCK6T9r3M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996358485311651840"
+          ]
+        },
+        "author_id": "1831550851191816192",
+        "conversation_id": "1996491663288443285",
+        "created_at": "2025-12-04T08:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T09:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996491663288443285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RqOfhMMDUt",
+              "end": 40,
+              "expanded_url": "https://x.com/ALtay_juan/status/1996491663288443285/photo/1",
+              "media_key": "3_1996358485311651840",
+              "start": 17,
+              "url": "https://t.co/RqOfhMMDUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996491663288443285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 448798,
+          "like_count": 594,
+          "quote_count": 101,
+          "reply_count": 1266,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "这20个城市，去过8个算你牛❗️ https://t.co/RqOfhMMDUt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18436,
+          "following_count": 2393,
+          "like_count": 54766,
+          "listed_count": 24,
+          "media_count": 6365,
+          "tweet_count": 22253
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T04:32:25.000Z",
+        "description": "Thanks for your following\n❤️逐步回关 🙅私信不回",
+        "id": "1831550851191816192",
+        "name": "李阡陌",
+        "pinned_tweet_id": "1999662054010204516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849758836317736960/u0gy_2ze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15766,
+          "following_count": 7093,
+          "like_count": 12700,
+          "listed_count": 55,
+          "media_count": 2347,
+          "tweet_count": 5969
+        },
+        "username": "Li_Qianmo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1857739719435558912"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1857739790361210927",
+    "created_at": "2024-11-16T10:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T11:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857739790361210927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PTWQsUWsmm",
+          "end": 27,
+          "expanded_url": "https://x.com/Aloevce/status/1857739790361210927/video/1",
+          "media_key": "7_1857739719435558912",
+          "start": 4,
+          "url": "https://t.co/PTWQsUWsmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857739790361210927",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵喵喵 https://t.co/PTWQsUWsmm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3506,
+        "height": 1264,
+        "media_key": "7_1857739719435558912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1857739719435558912/pu/img/MR_gliqmhd3N54_u.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857739719435558912/pu/vid/avc1/320x560/fiseFbSoseorsl1V.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857739719435558912/pu/vid/avc1/480x842/Xtcf2rM5YV6xBzTg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857739719435558912/pu/vid/avc1/720x1264/yOQkVLBnneWkYTRy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1857739719435558912/pu/pl/ymlSLlmziS4SXScI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1857739719435558912"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1857739790361210927",
+        "created_at": "2024-11-16T10:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T11:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857739790361210927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTWQsUWsmm",
+              "end": 27,
+              "expanded_url": "https://x.com/Aloevce/status/1857739790361210927/video/1",
+              "media_key": "7_1857739719435558912",
+              "start": 4,
+              "url": "https://t.co/PTWQsUWsmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857739790361210927",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵 https://t.co/PTWQsUWsmm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17586,
+          "following_count": 2288,
+          "like_count": 53374,
+          "listed_count": 21,
+          "tweet_count": 19377
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

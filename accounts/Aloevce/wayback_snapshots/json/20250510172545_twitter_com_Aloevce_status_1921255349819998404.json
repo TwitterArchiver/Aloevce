@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921255204684787714",
+        "3_1921255313828966400",
+        "3_1921255333315444736",
+        "3_1921255336981254144"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1921255349819998404",
+    "created_at": "2025-05-10T17:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T18:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921255349819998404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9CYJ93qP2g",
+          "end": 26,
+          "expanded_url": "https://x.com/Aloevce/status/1921255349819998404/photo/1",
+          "media_key": "3_1921255204684787714",
+          "start": 3,
+          "url": "https://t.co/9CYJ93qP2g"
+        },
+        {
+          "display_url": "pic.x.com/9CYJ93qP2g",
+          "end": 26,
+          "expanded_url": "https://x.com/Aloevce/status/1921255349819998404/photo/1",
+          "media_key": "3_1921255313828966400",
+          "start": 3,
+          "url": "https://t.co/9CYJ93qP2g"
+        },
+        {
+          "display_url": "pic.x.com/9CYJ93qP2g",
+          "end": 26,
+          "expanded_url": "https://x.com/Aloevce/status/1921255349819998404/photo/1",
+          "media_key": "3_1921255333315444736",
+          "start": 3,
+          "url": "https://t.co/9CYJ93qP2g"
+        },
+        {
+          "display_url": "pic.x.com/9CYJ93qP2g",
+          "end": 26,
+          "expanded_url": "https://x.com/Aloevce/status/1921255349819998404/photo/1",
+          "media_key": "3_1921255336981254144",
+          "start": 3,
+          "url": "https://t.co/9CYJ93qP2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921255349819998404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "逼射 https://t.co/9CYJ93qP2g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921255204684787714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqmrbe4bcAIDZPg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921255313828966400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqmrh1ebcAAOYQv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1921255333315444736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqmri-EXgAAv_ep.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1577,
+        "media_key": "3_1921255336981254144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqmrjLuXUAAS-mJ.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921255204684787714",
+            "3_1921255313828966400",
+            "3_1921255333315444736",
+            "3_1921255336981254144"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1921255349819998404",
+        "created_at": "2025-05-10T17:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T18:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921255349819998404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9CYJ93qP2g",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/1921255349819998404/photo/1",
+              "media_key": "3_1921255204684787714",
+              "start": 3,
+              "url": "https://t.co/9CYJ93qP2g"
+            },
+            {
+              "display_url": "pic.x.com/9CYJ93qP2g",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/1921255349819998404/photo/1",
+              "media_key": "3_1921255313828966400",
+              "start": 3,
+              "url": "https://t.co/9CYJ93qP2g"
+            },
+            {
+              "display_url": "pic.x.com/9CYJ93qP2g",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/1921255349819998404/photo/1",
+              "media_key": "3_1921255333315444736",
+              "start": 3,
+              "url": "https://t.co/9CYJ93qP2g"
+            },
+            {
+              "display_url": "pic.x.com/9CYJ93qP2g",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/1921255349819998404/photo/1",
+              "media_key": "3_1921255336981254144",
+              "start": 3,
+              "url": "https://t.co/9CYJ93qP2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921255349819998404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逼射 https://t.co/9CYJ93qP2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17499,
+          "following_count": 2377,
+          "like_count": 54473,
+          "listed_count": 19,
+          "media_count": 6000,
+          "tweet_count": 21116
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

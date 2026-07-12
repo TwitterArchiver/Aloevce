@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2047937183697526784",
+        "3_2047937190085394432"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2047937229348376950",
+    "created_at": "2026-04-25T07:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047937229348376950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mFdjKFOi14",
+          "end": 64,
+          "expanded_url": "https://x.com/Aloevce/status/2047937229348376950/video/1",
+          "media_key": "7_2047937183697526784",
+          "start": 41,
+          "url": "https://t.co/mFdjKFOi14"
+        },
+        {
+          "display_url": "pic.x.com/mFdjKFOi14",
+          "end": 64,
+          "expanded_url": "https://x.com/Aloevce/status/2047937229348376950/video/1",
+          "media_key": "3_2047937190085394432",
+          "start": 41,
+          "url": "https://t.co/mFdjKFOi14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047937229348376950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天晚上跟对象哥朋友琴行排练喝了两瓶乌苏五瓶雪花一瓶白啤今天宿醉难受得要死orz https://t.co/mFdjKFOi14"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11312,
+        "height": 1280,
+        "media_key": "7_2047937183697526784",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2047937183697526784/pu/img/0BACrY25AhS4tALE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047937183697526784/pu/vid/avc1/320x568/fZ7WfDQOjxfO7sZe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047937183697526784/pu/vid/avc1/480x852/BSpRbWGD6si0xt5c.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047937183697526784/pu/vid/avc1/720x1280/hT9gdfcIrmlRdRIP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2047937183697526784/pu/pl/cu5h2reM9DxUK_RA.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047937190085394432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGu8BiFaAAA3vlA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047937183697526784",
+            "3_2047937190085394432"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047937229348376950",
+        "created_at": "2026-04-25T07:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047937229348376950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFdjKFOi14",
+              "end": 64,
+              "expanded_url": "https://x.com/Aloevce/status/2047937229348376950/video/1",
+              "media_key": "7_2047937183697526784",
+              "start": 41,
+              "url": "https://t.co/mFdjKFOi14"
+            },
+            {
+              "display_url": "pic.x.com/mFdjKFOi14",
+              "end": 64,
+              "expanded_url": "https://x.com/Aloevce/status/2047937229348376950/video/1",
+              "media_key": "3_2047937190085394432",
+              "start": 41,
+              "url": "https://t.co/mFdjKFOi14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047937229348376950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上跟对象哥朋友琴行排练喝了两瓶乌苏五瓶雪花一瓶白啤今天宿醉难受得要死orz https://t.co/mFdjKFOi14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17873,
+          "following_count": 2321,
+          "like_count": 54596,
+          "listed_count": 21,
+          "media_count": 6602,
+          "tweet_count": 23125
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

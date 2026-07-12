@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055750108927733760"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055750127864951184",
+    "created_at": "2026-05-16T20:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T21:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055750127864951184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CJjCehpx7j",
+          "end": 67,
+          "expanded_url": "https://x.com/Aloevce/status/2055750127864951184/photo/1",
+          "media_key": "3_2055750108927733760",
+          "start": 44,
+          "url": "https://t.co/CJjCehpx7j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055750127864951184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天摆摊又收获了新顾客。。。。。。。。。并且发现对象哥跟每个顾客聊得开放程度不亚于推特 https://t.co/CJjCehpx7j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055750108927733760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HId91Q2bsAAF1Uo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055750108927733760"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055750127864951184",
+        "created_at": "2026-05-16T20:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055750127864951184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJjCehpx7j",
+              "end": 67,
+              "expanded_url": "https://x.com/Aloevce/status/2055750127864951184/photo/1",
+              "media_key": "3_2055750108927733760",
+              "start": 44,
+              "url": "https://t.co/CJjCehpx7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055750127864951184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天摆摊又收获了新顾客。。。。。。。。。并且发现对象哥跟每个顾客聊得开放程度不亚于推特 https://t.co/CJjCehpx7j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18239,
+          "following_count": 1981,
+          "like_count": 55863,
+          "listed_count": 24,
+          "media_count": 6688,
+          "tweet_count": 23552
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

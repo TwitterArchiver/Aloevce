@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2066522615594754386",
+    "created_at": "2026-06-15T14:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066522615594754386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/usagimm208/status/2066446589854646439",
+          "start": 3,
+          "url": "https://t.co/vcHXCBLFip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066522615594754386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066446589854646439",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女王 https://t.co/vcHXCBLFip"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066446532375900161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1-LDWacAEyjGj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2066522615594754386",
+        "created_at": "2026-06-15T14:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066522615594754386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/usagimm208/status/2066446589854646439",
+              "start": 3,
+              "url": "https://t.co/vcHXCBLFip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066522615594754386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066446589854646439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女王 https://t.co/vcHXCBLFip"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066446532375900161"
+          ]
+        },
+        "author_id": "2005739449058230272",
+        "conversation_id": "2066446589854646439",
+        "created_at": "2026-06-15T09:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066446589854646439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohwMAO4DH2",
+              "end": 32,
+              "expanded_url": "https://x.com/usagimm208/status/2066446589854646439/photo/1",
+              "media_key": "3_2066446532375900161",
+              "start": 9,
+              "url": "https://t.co/ohwMAO4DH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066446589854646439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已染，花费350 https://t.co/ohwMAO4DH2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18124,
+          "following_count": 1964,
+          "like_count": 56360,
+          "listed_count": 23,
+          "media_count": 6802,
+          "tweet_count": 23957
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "そちゃ",
+        "pinned_tweet_id": "2058643879059190070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 34,
+          "like_count": 2218,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 840
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

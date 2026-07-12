@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1888302455957467213",
+    "created_at": "2025-02-08T19:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T20:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888302455957467213"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1888302455957467213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和高中好朋友聊天：高中同学老师都是神人了，大学同学老师也都是神人了，前夫也是神人了，都是神人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1888302455957467213",
+        "created_at": "2025-02-08T19:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T20:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888302455957467213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888302455957467213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和高中好朋友聊天：高中同学老师都是神人了，大学同学老师也都是神人了，前夫也是神人了，都是神人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很王牌",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1883941576986276044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17786,
+          "following_count": 2405,
+          "like_count": 54640,
+          "listed_count": 20,
+          "media_count": 5780,
+          "tweet_count": 20607
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

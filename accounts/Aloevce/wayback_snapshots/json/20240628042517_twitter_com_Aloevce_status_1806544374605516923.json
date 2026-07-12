@@ -1,0 +1,367 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1806387773068476416",
+        "3_1806387772300894208",
+        "3_1806387772296708096",
+        "7_1806387772309340160"
+      ],
+      "media_source_tweet_id": [
+        "1806387790487425035",
+        "1806387790487425035",
+        "1806387790487425035",
+        "1806387790487425035"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1806544374605516923",
+    "created_at": "2024-06-28T04:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T05:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806544374605516923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1800161761771044864",
+          "start": 3,
+          "username": "Seiiiiiiy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/AfYNjC8kc0",
+          "end": 135,
+          "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806387790487425035/video/1",
+          "media_key": "3_1806387773068476416",
+          "start": 112,
+          "url": "https://t.co/AfYNjC8kc0"
+        },
+        {
+          "display_url": "pic.twitter.com/AfYNjC8kc0",
+          "end": 135,
+          "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806387790487425035/video/1",
+          "media_key": "3_1806387772300894208",
+          "start": 112,
+          "url": "https://t.co/AfYNjC8kc0"
+        },
+        {
+          "display_url": "pic.twitter.com/AfYNjC8kc0",
+          "end": 135,
+          "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806387790487425035/video/1",
+          "media_key": "3_1806387772296708096",
+          "start": 112,
+          "url": "https://t.co/AfYNjC8kc0"
+        },
+        {
+          "display_url": "pic.twitter.com/AfYNjC8kc0",
+          "end": 135,
+          "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806387790487425035/video/1",
+          "media_key": "7_1806387772309340160",
+          "start": 112,
+          "url": "https://t.co/AfYNjC8kc0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806544374605516923",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806387790487425035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seiiiiiiy: 私はそうだ东莨菪碱/yoh kamiyama\n\n-welcome to my dark temple-\n\n法医学/毒理分析科普/自拍博/搞抽象\n\n（不是人机号 头像推特限制不让改啊啊啊啊啊啊） https://t.co/AfYNjC8kc0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_1806387773068476416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRGUG-RbAAAbv96.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1806387772300894208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRGUG7aaoAAqau6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1806387772296708096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRGUG7ZawAAsGTk.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 1648,
+        "height": 960,
+        "media_key": "7_1806387772309340160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1806387772309340160/pu/img/1yGc0uk8CaD23oMS.jpg",
+        "public_metrics": {
+          "view_count": 109
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806387772309340160/pu/vid/avc1/320x426/cfiHK_Ny1algZpsF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806387772309340160/pu/vid/avc1/480x640/o1yCq3iUuu7tqHF_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806387772309340160/pu/vid/avc1/720x960/eaIAkOCDm4_u_SVW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1806387772309340160/pu/pl/SyCRwgoTfH76EOqj.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806387773068476416",
+            "3_1806387772300894208",
+            "3_1806387772296708096",
+            "7_1806387772309340160"
+          ],
+          "media_source_tweet_id": [
+            "1806387790487425035",
+            "1806387790487425035",
+            "1806387790487425035",
+            "1806387790487425035"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1806544374605516923",
+        "created_at": "2024-06-28T04:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T05:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806544374605516923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1800161761771044864",
+              "start": 3,
+              "username": "Seiiiiiiy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/AfYNjC8kc0",
+              "end": 135,
+              "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806387790487425035/video/1",
+              "media_key": "3_1806387773068476416",
+              "start": 112,
+              "url": "https://t.co/AfYNjC8kc0"
+            },
+            {
+              "display_url": "pic.twitter.com/AfYNjC8kc0",
+              "end": 135,
+              "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806387790487425035/video/1",
+              "media_key": "3_1806387772300894208",
+              "start": 112,
+              "url": "https://t.co/AfYNjC8kc0"
+            },
+            {
+              "display_url": "pic.twitter.com/AfYNjC8kc0",
+              "end": 135,
+              "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806387790487425035/video/1",
+              "media_key": "3_1806387772296708096",
+              "start": 112,
+              "url": "https://t.co/AfYNjC8kc0"
+            },
+            {
+              "display_url": "pic.twitter.com/AfYNjC8kc0",
+              "end": 135,
+              "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806387790487425035/video/1",
+              "media_key": "7_1806387772309340160",
+              "start": 112,
+              "url": "https://t.co/AfYNjC8kc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806544374605516923",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806387790487425035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seiiiiiiy: 私はそうだ东莨菪碱/yoh kamiyama\n\n-welcome to my dark temple-\n\n法医学/毒理分析科普/自拍博/搞抽象\n\n（不是人机号 头像推特限制不让改啊啊啊啊啊啊） https://t.co/AfYNjC8kc0"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806387773068476416",
+            "3_1806387772300894208",
+            "3_1806387772296708096",
+            "7_1806387772309340160"
+          ]
+        },
+        "author_id": "1800161761771044864",
+        "conversation_id": "1806387790487425035",
+        "created_at": "2024-06-27T18:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T19:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806387790487425035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/AfYNjC8kc0",
+              "end": 120,
+              "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806387790487425035/video/1",
+              "media_key": "3_1806387773068476416",
+              "start": 97,
+              "url": "https://t.co/AfYNjC8kc0"
+            },
+            {
+              "display_url": "pic.twitter.com/AfYNjC8kc0",
+              "end": 120,
+              "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806387790487425035/video/1",
+              "media_key": "3_1806387772300894208",
+              "start": 97,
+              "url": "https://t.co/AfYNjC8kc0"
+            },
+            {
+              "display_url": "pic.twitter.com/AfYNjC8kc0",
+              "end": 120,
+              "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806387790487425035/video/1",
+              "media_key": "3_1806387772296708096",
+              "start": 97,
+              "url": "https://t.co/AfYNjC8kc0"
+            },
+            {
+              "display_url": "pic.twitter.com/AfYNjC8kc0",
+              "end": 120,
+              "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806387790487425035/video/1",
+              "media_key": "7_1806387772309340160",
+              "start": 97,
+              "url": "https://t.co/AfYNjC8kc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806387790487425035",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 716,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "私はそうだ东莨菪碱/yoh kamiyama\n\n-welcome to my dark temple-\n\n法医学/毒理分析科普/自拍博/搞抽象\n\n（不是人机号 头像推特限制不让改啊啊啊啊啊啊） https://t.co/AfYNjC8kc0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14057,
+          "following_count": 2211,
+          "like_count": 51876,
+          "listed_count": 18,
+          "tweet_count": 17798
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T13:43:17.000Z",
+        "description": "我是东莨菪碱 我宝宝@fumsk719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "fumsk719"
+              }
+            ]
+          }
+        },
+        "id": "1800161761771044864",
+        "location": "Darktemple",
+        "name": "东莨菪碱",
+        "pinned_tweet_id": "1806387790487425035",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 146,
+          "like_count": 385,
+          "listed_count": 3,
+          "tweet_count": 215
+        },
+        "username": "Seiiiiiiy",
+        "verified": false
+      }
+    ]
+  }
+}

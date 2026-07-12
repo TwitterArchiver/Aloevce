@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016557575664521225",
+        "3_2016557587487916033",
+        "3_2016557598066298881"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016557602113802361",
+    "created_at": "2026-01-28T17:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T18:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016557602113802361"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wOEyqzm7fm",
+          "end": 72,
+          "expanded_url": "https://x.com/Aloevce/status/2016557602113802361/photo/1",
+          "media_key": "3_2016557575664521225",
+          "start": 49,
+          "url": "https://t.co/wOEyqzm7fm"
+        },
+        {
+          "display_url": "pic.x.com/wOEyqzm7fm",
+          "end": 72,
+          "expanded_url": "https://x.com/Aloevce/status/2016557602113802361/photo/1",
+          "media_key": "3_2016557587487916033",
+          "start": 49,
+          "url": "https://t.co/wOEyqzm7fm"
+        },
+        {
+          "display_url": "pic.x.com/wOEyqzm7fm",
+          "end": 72,
+          "expanded_url": "https://x.com/Aloevce/status/2016557602113802361/photo/1",
+          "media_key": "3_2016557598066298881",
+          "start": 49,
+          "url": "https://t.co/wOEyqzm7fm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016557602113802361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "由于前天徒步下了苍山导致腿疼在丽江挂壁了两天。。。。。又不甘心回成都orz我是谁我在哪明天去哪。 https://t.co/wOEyqzm7fm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2016557575664521225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_xAbk6bUAkCmQG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2016557587487916033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_xAcQ9WAAEtxnL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2016557598066298881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_xAc4XbUAErtNB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016557575664521225",
+            "3_2016557587487916033",
+            "3_2016557598066298881"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016557602113802361",
+        "created_at": "2026-01-28T17:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016557602113802361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOEyqzm7fm",
+              "end": 72,
+              "expanded_url": "https://x.com/Aloevce/status/2016557602113802361/photo/1",
+              "media_key": "3_2016557575664521225",
+              "start": 49,
+              "url": "https://t.co/wOEyqzm7fm"
+            },
+            {
+              "display_url": "pic.x.com/wOEyqzm7fm",
+              "end": 72,
+              "expanded_url": "https://x.com/Aloevce/status/2016557602113802361/photo/1",
+              "media_key": "3_2016557587487916033",
+              "start": 49,
+              "url": "https://t.co/wOEyqzm7fm"
+            },
+            {
+              "display_url": "pic.x.com/wOEyqzm7fm",
+              "end": 72,
+              "expanded_url": "https://x.com/Aloevce/status/2016557602113802361/photo/1",
+              "media_key": "3_2016557598066298881",
+              "start": 49,
+              "url": "https://t.co/wOEyqzm7fm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016557602113802361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于前天徒步下了苍山导致腿疼在丽江挂壁了两天。。。。。又不甘心回成都orz我是谁我在哪明天去哪。 https://t.co/wOEyqzm7fm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18461,
+          "following_count": 2296,
+          "like_count": 55471,
+          "listed_count": 23,
+          "media_count": 6486,
+          "tweet_count": 22632
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

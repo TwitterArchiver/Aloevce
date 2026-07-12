@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2027207132496511445",
+    "created_at": "2026-02-27T02:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T03:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027207132496511445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Meltss03/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Meltss03/status/2026898629697438142",
+          "start": 2,
+          "url": "https://t.co/1Er45JjMrU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027207132496511445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026898629697438142",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/1Er45JjMrU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2027207132496511445",
+        "created_at": "2026-02-27T02:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T03:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027207132496511445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Meltss03/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Meltss03/status/2026898629697438142",
+              "start": 2,
+              "url": "https://t.co/1Er45JjMrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027207132496511445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026898629697438142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/1Er45JjMrU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022232330752925696",
+        "conversation_id": "2026898629697438142",
+        "created_at": "2026-02-26T05:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026898629697438142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026898629697438142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 123967,
+          "like_count": 809,
+          "quote_count": 20,
+          "reply_count": 330,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "我上推特从来没跟人聊过骚，谁能做到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18390,
+          "following_count": 2288,
+          "like_count": 54571,
+          "listed_count": 22,
+          "media_count": 6507,
+          "tweet_count": 22676
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:56:27.000Z",
+        "description": "一个转世七级恶灵胎儿的碎碎咒怨，我会一直盯着你哟…👁️👁️ 没网感的土逼不要评论关注我我是说永远",
+        "id": "2022232330752925696",
+        "name": "CO₂",
+        "pinned_tweet_id": "2026636031663980992",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 34,
+          "like_count": 882,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1401
+        },
+        "username": "Meltss03",
+        "verified": false
+      }
+    ]
+  }
+}

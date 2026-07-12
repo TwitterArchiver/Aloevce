@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880561033535758336"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1880561037084385598",
+    "created_at": "2025-01-18T10:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T11:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880561037084385598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cql23ctbgn",
+          "end": 32,
+          "expanded_url": "https://x.com/Aloevce/status/1880561037084385598/photo/1",
+          "media_key": "3_1880561033535758336",
+          "start": 9,
+          "url": "https://t.co/cql23ctbgn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880561037084385598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挑战滴泪学历癫疯 https://t.co/cql23ctbgn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1032,
+        "media_key": "3_1880561033535758336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhkYS95XIAAbq_Y.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880561033535758336"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1880561037084385598",
+        "created_at": "2025-01-18T10:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T11:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880561037084385598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cql23ctbgn",
+              "end": 32,
+              "expanded_url": "https://x.com/Aloevce/status/1880561037084385598/photo/1",
+              "media_key": "3_1880561033535758336",
+              "start": 9,
+              "url": "https://t.co/cql23ctbgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880561037084385598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挑战滴泪学历癫疯 https://t.co/cql23ctbgn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1879847418914881656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17789,
+          "following_count": 2371,
+          "like_count": 54075,
+          "listed_count": 20,
+          "media_count": 5634,
+          "tweet_count": 20123
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1929853585497453034",
+    "created_at": "2025-06-03T18:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T19:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929976216003510700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1791348768690089984",
+          "start": 0,
+          "username": "owl8964cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929976216003510700",
+    "in_reply_to_user_id": "1791348768690089984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929862099758661660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owl8964cat 另一部手机喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929862099758661660].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929862099758661660",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929862099758661660"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1929853585497453034",
+        "created_at": "2025-06-03T18:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T19:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929976216003510700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1791348768690089984",
+              "start": 0,
+              "username": "owl8964cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929976216003510700",
+        "in_reply_to_user_id": "1791348768690089984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929862099758661660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owl8964cat 另一部手机喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19181,
+          "following_count": 2396,
+          "like_count": 55445,
+          "listed_count": 20,
+          "media_count": 6085,
+          "tweet_count": 21339
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T06:03:53.000Z",
+        "description": "福建|美少女ゲーム|液态 貓貓:@SakuraCatMoe @Romanorum_ @LycoReco_neneko @niukecat铁道友@kiming568416 茉莉姐:@shirasu8964228喵派:@honxine8964 p宝:@M600_spitfire 麦:@2SJ7ntKBdEtTKr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "SakuraCatMoe"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Romanorum_"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "LycoReco_neneko"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "niukecat"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "kiming568416"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "shirasu8964228"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "honxine8964"
+              },
+              {
+                "end": 137,
+                "start": 123,
+                "username": "M600_spitfire"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "2SJ7ntKBdEtTKr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "10.191.5.5.com",
+                "end": 23,
+                "expanded_url": "http://10.191.5.5.com",
+                "start": 0,
+                "url": "https://t.co/7b5QKZSVTF"
+              }
+            ]
+          }
+        },
+        "id": "1791348768690089984",
+        "location": "北京市东城区新开路胡同71号",
+        "name": "魔法使いねこ",
+        "pinned_tweet_id": "1928444137163964667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812771583234068481/3J6UZdqY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 950,
+          "like_count": 67341,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 20848
+        },
+        "url": "https://t.co/7b5QKZSVTF",
+        "username": "owl8964cat",
+        "verified": false
+      }
+    ]
+  }
+}

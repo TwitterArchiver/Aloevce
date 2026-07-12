@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2053173379193000244",
+    "created_at": "2026-05-09T18:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T19:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053173379193000244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/999Takumi_/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/999Takumi_/status/2053170021170626723",
+          "start": 2,
+          "url": "https://t.co/bOQmz30elI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053173379193000244",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053170021170626723",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/bOQmz30elI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 530,
+        "media_key": "3_2053170018175893504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5TQNzbQAAO9up.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2053173379193000244",
+        "created_at": "2026-05-09T18:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053173379193000244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/999Takumi_/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/999Takumi_/status/2053170021170626723",
+              "start": 2,
+              "url": "https://t.co/bOQmz30elI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053173379193000244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053170021170626723",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/bOQmz30elI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053170018175893504"
+          ]
+        },
+        "author_id": "1884772546111049728",
+        "conversation_id": "2053170021170626723",
+        "created_at": "2026-05-09T17:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053170021170626723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRUgAecdTJ",
+              "end": 23,
+              "expanded_url": "https://x.com/999Takumi_/status/2053170021170626723/photo/1",
+              "media_key": "3_2053170018175893504",
+              "start": 0,
+              "url": "https://t.co/hRUgAecdTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053170021170626723",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hRUgAecdTJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18256,
+          "following_count": 1989,
+          "like_count": 55685,
+          "listed_count": 24,
+          "media_count": 6661,
+          "tweet_count": 23438
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "巧^「たくみ / Takumi」/病み垢/OD/我死了",
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "たくみ",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024045495673634816/3pG4pWZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 434,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 159
+        },
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

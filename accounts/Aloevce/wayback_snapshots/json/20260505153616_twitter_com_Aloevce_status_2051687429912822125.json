@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2051687429912822125",
+    "created_at": "2026-05-05T15:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051687429912822125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Akagi0021/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Akagi0021/status/2051681396343574726",
+          "start": 3,
+          "url": "https://t.co/opZy7yiAck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051687429912822125",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051681396343574726",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求法 https://t.co/opZy7yiAck"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2051687429912822125",
+        "created_at": "2026-05-05T15:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051687429912822125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Akagi0021/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Akagi0021/status/2051681396343574726",
+              "start": 3,
+              "url": "https://t.co/opZy7yiAck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051687429912822125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051681396343574726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求法 https://t.co/opZy7yiAck"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128993251770241024",
+        "conversation_id": "2051678624932085832",
+        "created_at": "2026-05-05T15:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051681396343574726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051681396343574726",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051678624932085832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 为啥不法你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18206,
+          "following_count": 1981,
+          "like_count": 55471,
+          "listed_count": 24,
+          "media_count": 6638,
+          "tweet_count": 23335
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-16T11:59:01.000Z",
+        "description": "この世界を愛したい\n久美子SUKI！",
+        "id": "1128993251770241024",
+        "location": "China",
+        "name": "YanagiShion",
+        "pinned_tweet_id": "1129008982205407232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224807092494336/pQtYW-qb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 1522,
+          "like_count": 15680,
+          "listed_count": 19,
+          "media_count": 39,
+          "tweet_count": 8878
+        },
+        "username": "Akagi0021",
+        "verified": false
+      }
+    ]
+  }
+}

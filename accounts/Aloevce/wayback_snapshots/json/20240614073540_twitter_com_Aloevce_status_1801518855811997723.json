@@ -1,0 +1,148 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1801518799054671872"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1801518855811997723",
+    "created_at": "2024-06-14T07:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T08:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1801518855811997723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/hZZARNxFUJ",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Aloevce/status/1801518855811997723/video/1",
+          "media_key": "7_1801518799054671872",
+          "start": 4,
+          "url": "https://t.co/hZZARNxFUJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801518855811997723",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我嘞个 https://t.co/hZZARNxFUJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10197,
+        "height": 1280,
+        "media_key": "7_1801518799054671872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1801518799054671872/pu/img/pv_MToC-YXy1RxZw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801518799054671872/pu/vid/avc1/320x568/xoJCPuR1w1pMl8ck.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801518799054671872/pu/vid/avc1/480x852/yd59omFJ6M_x9UM-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801518799054671872/pu/vid/avc1/720x1280/qdZ6enXP1-WvYBhP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1801518799054671872/pu/pl/E6vlmEvj6nq7lL0i.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1801518799054671872"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1801518855811997723",
+        "created_at": "2024-06-14T07:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T08:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801518855811997723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hZZARNxFUJ",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Aloevce/status/1801518855811997723/video/1",
+              "media_key": "7_1801518799054671872",
+              "start": 4,
+              "url": "https://t.co/hZZARNxFUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801518855811997723",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我嘞个 https://t.co/hZZARNxFUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795447835732881408/Lypwm-n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13165,
+          "following_count": 2220,
+          "like_count": 51784,
+          "listed_count": 17,
+          "tweet_count": 17670
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

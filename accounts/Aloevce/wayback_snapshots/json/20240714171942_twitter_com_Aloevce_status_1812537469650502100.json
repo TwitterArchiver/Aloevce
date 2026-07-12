@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1812537469650502100",
+    "created_at": "2024-07-14T17:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T18:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812537469650502100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527936456324395008",
+          "start": 3,
+          "username": "Myonlyyy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812537469650502100",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812536010653475094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Myonlyyy_: 感觉自己已经没脸用这副115斤的臃肿的身体活着了，我再不减肥就要跟恶心大妈没差别了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1812537469650502100",
+        "created_at": "2024-07-14T17:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T18:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812537469650502100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1527936456324395008",
+              "start": 3,
+              "username": "Myonlyyy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812537469650502100",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812536010653475094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Myonlyyy_: 感觉自己已经没脸用这副115斤的臃肿的身体活着了，我再不减肥就要跟恶心大妈没差别了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1527936456324395008",
+        "conversation_id": "1812536010653475094",
+        "created_at": "2024-07-14T17:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T18:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812536010653475094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812536010653475094",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己已经没脸用这副115斤的臃肿的身体活着了，我再不减肥就要跟恶心大妈没差别了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1810653866171539792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17392,
+          "following_count": 2198,
+          "like_count": 52020,
+          "listed_count": 21,
+          "tweet_count": 17937
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T08:57:01.000Z",
+        "description": "用最粗糙的文笔记录被挥霍的幸福",
+        "id": "1527936456324395008",
+        "name": "姓名不能为空",
+        "pinned_tweet_id": "1796345397113475453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811434817705385984/hYik53T6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 117,
+          "like_count": 1370,
+          "listed_count": 0,
+          "tweet_count": 243
+        },
+        "username": "Myonlyyy_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1842479715669471661",
+    "created_at": "2024-10-05T08:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T09:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1842479715669471661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChiliYiin/stat…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/ChiliYiin/status/1842473341946650702",
+          "start": 52,
+          "url": "https://t.co/hrZpOC6GxD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842479715669471661",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842473341946650702",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么，去哪可以找到长相甜美，身材苗条，性格可爱，爱好吃饭打游戏cosplay，还喜欢看永雏塔菲的对象呢 https://t.co/hrZpOC6GxD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1842479715669471661",
+        "created_at": "2024-10-05T08:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T09:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842479715669471661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChiliYiin/stat…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/ChiliYiin/status/1842473341946650702",
+              "start": 52,
+              "url": "https://t.co/hrZpOC6GxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842479715669471661",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842473341946650702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么，去哪可以找到长相甜美，身材苗条，性格可爱，爱好吃饭打游戏cosplay，还喜欢看永雏塔菲的对象呢 https://t.co/hrZpOC6GxD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552602100634251265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1842473341946650702",
+        "created_at": "2024-10-05T07:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T08:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842473341946650702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/feifei1247546/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/feifei1247546/status/1842414428530278569",
+              "start": 52,
+              "url": "https://t.co/QQwU5pQiEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842473341946650702",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842414428530278569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么，去哪可以找到长相甜美，身材苗条，性格可爱，爱好吃饭打游戏cosplay，还喜欢看永雏塔菲的对象呢 https://t.co/QQwU5pQiEB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17936,
+          "following_count": 2250,
+          "like_count": 52921,
+          "listed_count": 22,
+          "tweet_count": 18986
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T10:29:33.000Z",
+        "description": "陳巧弦是廣東香山土著雏草姬喵丨男的♂丨isfp丨大爱东亚❤️🇨🇳🇹🇼🇯🇵🇰🇷❤️丨Chili🌶️是喜欢乐队的前缀，Yin🎼是弦的粤语读音，但用户名被占辽所以多出个i😾丨叫我小弦、阿弦、巧弦、小陈随便都行喵丨\n#巧弦的置顶 （有塔照喵）\n#巧弦的翻唱\n#巧弦的切片",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 104,
+                "tag": "巧弦的置顶"
+              },
+              {
+                "end": 124,
+                "start": 118,
+                "tag": "巧弦的翻唱"
+              },
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "巧弦的切片"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiliyin?si=L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiliyin?si=LGU4ACqix6eS_odl",
+                "start": 0,
+                "url": "https://t.co/rhXAcjwhhK"
+              }
+            ]
+          }
+        },
+        "id": "1552602100634251265",
+        "location": "廣東香山县",
+        "name": "永雏/弓玄🎼🔮🌊",
+        "pinned_tweet_id": "1830924228390187500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840976017831473152/YBIi1NOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 957,
+          "like_count": 76989,
+          "listed_count": 9,
+          "tweet_count": 15591
+        },
+        "url": "https://t.co/rhXAcjwhhK",
+        "username": "ChiliYiin",
+        "verified": false
+      }
+    ]
+  }
+}

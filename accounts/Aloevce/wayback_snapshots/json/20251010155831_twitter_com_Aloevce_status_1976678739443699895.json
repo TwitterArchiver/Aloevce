@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1976678739443699895",
+    "created_at": "2025-10-10T15:58:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T16:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976678739443699895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yepa41/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/yepa41/status/1976219420751245777",
+          "start": 4,
+          "url": "https://t.co/NPDLxd2a8g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976678739443699895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976219420751245777",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要谈 https://t.co/NPDLxd2a8g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1976219412408696836",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2zxFcraAAQYXGD.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1976678739443699895",
+        "created_at": "2025-10-10T15:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T16:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976678739443699895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yepa41/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yepa41/status/1976219420751245777",
+              "start": 4,
+              "url": "https://t.co/NPDLxd2a8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976678739443699895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976219420751245777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要谈 https://t.co/NPDLxd2a8g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976219412408696836"
+          ]
+        },
+        "author_id": "1926313840557355008",
+        "conversation_id": "1976219420751245777",
+        "created_at": "2025-10-09T09:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T10:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976219420751245777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L4ik7WUKwj",
+              "end": 27,
+              "expanded_url": "https://x.com/yepa41/status/1976219420751245777/photo/1",
+              "media_key": "3_1976219412408696836",
+              "start": 4,
+              "url": "https://t.co/L4ik7WUKwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976219420751245777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 68422,
+          "like_count": 480,
+          "quote_count": 18,
+          "reply_count": 71,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "挂个人 https://t.co/L4ik7WUKwj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18718,
+          "following_count": 2406,
+          "like_count": 54921,
+          "listed_count": 25,
+          "media_count": 6268,
+          "tweet_count": 21901
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:26:40.000Z",
+        "description": "有无人生金手指，在线等",
+        "id": "1926313840557355008",
+        "name": "斯德哥尔摩第二吉他手",
+        "pinned_tweet_id": "1968260064982233494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926626530458841089/XGA2cnHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 418,
+          "like_count": 35418,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 1609
+        },
+        "username": "yepa41",
+        "verified": false
+      }
+    ]
+  }
+}

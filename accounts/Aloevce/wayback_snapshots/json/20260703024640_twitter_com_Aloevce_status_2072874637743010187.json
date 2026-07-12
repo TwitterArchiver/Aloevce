@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072874634421161984"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2072874637743010187",
+    "created_at": "2026-07-03T02:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T03:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072874637743010187"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IqU9cig8QF",
+          "end": 50,
+          "expanded_url": "https://x.com/Aloevce/status/2072874637743010187/photo/1",
+          "media_key": "3_2072874634421161984",
+          "start": 27,
+          "url": "https://t.co/IqU9cig8QF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072874637743010187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "入了以下六款lo的定金。我very贫穷且肥胖呜呜呜呜 https://t.co/IqU9cig8QF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072874634421161984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRUf1iXUAAk1bj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072874634421161984"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2072874637743010187",
+        "created_at": "2026-07-03T02:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072874637743010187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IqU9cig8QF",
+              "end": 50,
+              "expanded_url": "https://x.com/Aloevce/status/2072874637743010187/photo/1",
+              "media_key": "3_2072874634421161984",
+              "start": 27,
+              "url": "https://t.co/IqU9cig8QF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072874637743010187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "入了以下六款lo的定金。我very贫穷且肥胖呜呜呜呜 https://t.co/IqU9cig8QF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18060,
+          "following_count": 1953,
+          "like_count": 56271,
+          "listed_count": 23,
+          "media_count": 6847,
+          "tweet_count": 24051
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

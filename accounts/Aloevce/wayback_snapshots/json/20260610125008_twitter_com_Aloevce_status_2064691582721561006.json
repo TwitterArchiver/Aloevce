@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2064691582721561006",
+    "created_at": "2026-06-10T12:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064691582721561006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bhngter/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/bhngter/status/2063975324237299844",
+          "start": 2,
+          "url": "https://t.co/8Lk3gu1lsL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064691582721561006",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063975324237299844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/8Lk3gu1lsL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1081,
+        "media_key": "3_2063975318222766080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKS2ndPXgAA6Vrm.jpg",
+        "width": 1080
+      },
+      {
+        "height": 480,
+        "media_key": "3_2063975322626736128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKS2ntpWwAAdfCf.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2064691582721561006",
+        "created_at": "2026-06-10T12:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064691582721561006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bhngter/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/bhngter/status/2063975324237299844",
+              "start": 2,
+              "url": "https://t.co/8Lk3gu1lsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064691582721561006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063975324237299844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/8Lk3gu1lsL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063975318222766080",
+            "3_2063975322626736128"
+          ]
+        },
+        "author_id": "1737621024114376704",
+        "conversation_id": "2063975324237299844",
+        "created_at": "2026-06-08T13:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063975324237299844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/loAYA5zXKx",
+              "end": 72,
+              "expanded_url": "https://x.com/bhngter/status/2063975324237299844/photo/1",
+              "media_key": "3_2063975318222766080",
+              "start": 49,
+              "url": "https://t.co/loAYA5zXKx"
+            },
+            {
+              "display_url": "pic.x.com/loAYA5zXKx",
+              "end": 72,
+              "expanded_url": "https://x.com/bhngter/status/2063975324237299844/photo/1",
+              "media_key": "3_2063975322626736128",
+              "start": 49,
+              "url": "https://t.co/loAYA5zXKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063975324237299844",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 48697,
+          "like_count": 7951,
+          "quote_count": 14,
+          "reply_count": 13,
+          "retweet_count": 1756
+        },
+        "reply_settings": "everyone",
+        "text": "Mi closet soñado se ve así \nMientras tanto yo :: https://t.co/loAYA5zXKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18142,
+          "following_count": 1971,
+          "like_count": 56318,
+          "listed_count": 24,
+          "media_count": 6784,
+          "tweet_count": 23914
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T23:48:41.000Z",
+        "description": "🍽   my  dream  :  to  be  an  angel   ✝︎                     ☆(ゝω·)v      -     #edrtwt   #edtwt   #edtw  ☘️🐇     ::     Dm's  abiertos  !   ⸜( •⌄• )⸝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 80,
+                "tag": "edrtwt"
+              },
+              {
+                "end": 96,
+                "start": 90,
+                "tag": "edtwt"
+              },
+              {
+                "end": 104,
+                "start": 99,
+                "tag": "edtw"
+              }
+            ]
+          }
+        },
+        "id": "1737621024114376704",
+        "name": "𝗌𝗐𝖾𝖾𝗍𝗒'𝗌 𝗄𝗈𝗋𝗉ა𝖾",
+        "pinned_tweet_id": "2052222885733831053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040685003068018688/zw5co6ym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2910,
+          "following_count": 91,
+          "like_count": 5508,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 2584
+        },
+        "username": "bhngter",
+        "verified": false
+      }
+    ]
+  }
+}

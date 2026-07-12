@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012831642574782464"
+      ],
+      "media_source_tweet_id": [
+        "2012831913510146546"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2014715221403701661",
+    "created_at": "2026-01-23T15:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T16:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014715221403701661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1786009960398405632",
+          "start": 3,
+          "username": "fiy1827565"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hqZ0kSmL1v",
+          "end": 43,
+          "expanded_url": "https://x.com/fiy1827565/status/2012831913510146546/photo/1",
+          "media_key": "3_2012831642574782464",
+          "start": 20,
+          "url": "https://t.co/hqZ0kSmL1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014715221403701661",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12595
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012831913510146546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fiy1827565: 家人😊 https://t.co/hqZ0kSmL1v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2012831642574782464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8DtuhWAAA_HjT.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012831642574782464"
+          ],
+          "media_source_tweet_id": [
+            "2012831913510146546"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2014715221403701661",
+        "created_at": "2026-01-23T15:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T16:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014715221403701661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1786009960398405632",
+              "start": 3,
+              "username": "fiy1827565"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hqZ0kSmL1v",
+              "end": 43,
+              "expanded_url": "https://x.com/fiy1827565/status/2012831913510146546/photo/1",
+              "media_key": "3_2012831642574782464",
+              "start": 20,
+              "url": "https://t.co/hqZ0kSmL1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014715221403701661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12595
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012831913510146546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fiy1827565: 家人😊 https://t.co/hqZ0kSmL1v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012831642574782464"
+          ]
+        },
+        "author_id": "1786009960398405632",
+        "conversation_id": "2012831913510146546",
+        "created_at": "2026-01-18T10:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012831913510146546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hqZ0kSmL1v",
+              "end": 27,
+              "expanded_url": "https://x.com/fiy1827565/status/2012831913510146546/photo/1",
+              "media_key": "3_2012831642574782464",
+              "start": 4,
+              "url": "https://t.co/hqZ0kSmL1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012831913510146546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5556,
+          "impression_count": 1018291,
+          "like_count": 85149,
+          "quote_count": 133,
+          "reply_count": 81,
+          "retweet_count": 12595
+        },
+        "reply_settings": "everyone",
+        "text": "家人😊 https://t.co/hqZ0kSmL1v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18491,
+          "following_count": 2299,
+          "like_count": 55470,
+          "listed_count": 23,
+          "media_count": 6482,
+          "tweet_count": 22612
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T12:29:10.000Z",
+        "description": "20⬆️｜🍏🍎pkmnグリレ｜左右固定｜无授权转载，AI學習禁止\ni'm not good at english,I use a translator   日本語勉強中  感谢喜欢！！",
+        "id": "1786009960398405632",
+        "name": "沸鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995450045626535936/AuyyIV_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4712,
+          "following_count": 111,
+          "like_count": 668,
+          "listed_count": 16,
+          "media_count": 60,
+          "tweet_count": 198
+        },
+        "username": "fiy1827565",
+        "verified": false
+      }
+    ]
+  }
+}

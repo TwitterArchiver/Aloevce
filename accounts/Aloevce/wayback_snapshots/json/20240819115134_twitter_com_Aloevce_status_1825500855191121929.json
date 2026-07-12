@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1825500855191121929",
+    "created_at": "2024-08-19T11:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T12:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1825500855191121929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Aloevce/status/1825500411190563228",
+          "start": 7,
+          "url": "https://t.co/68THeyHFCo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825500855191121929",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825500411190563228",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幺幺我想你了 https://t.co/68THeyHFCo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1825500855191121929",
+        "created_at": "2024-08-19T11:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T12:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825500855191121929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Aloevce/status/1825500411190563228",
+              "start": 7,
+              "url": "https://t.co/68THeyHFCo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825500855191121929",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825500411190563228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幺幺我想你了 https://t.co/68THeyHFCo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825500407679909888"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1825500411190563228",
+        "created_at": "2024-08-19T11:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T12:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825500411190563228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xgmbamryqi",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Aloevce/status/1825500411190563228/photo/1",
+              "media_key": "3_1825500407679909888",
+              "start": 18,
+              "url": "https://t.co/xgmbAMRYqI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825500411190563228",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁特么说我皮下男说我演的请出来对线 https://t.co/xgmbAMRYqI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17905,
+          "following_count": 2238,
+          "like_count": 52561,
+          "listed_count": 22,
+          "tweet_count": 18433
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

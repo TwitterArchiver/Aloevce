@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889251807886491648"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1889251811980161176",
+    "created_at": "2025-02-11T09:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T10:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889251811980161176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FAQ6plUkUQ",
+          "end": 44,
+          "expanded_url": "https://x.com/Aloevce/status/1889251811980161176/photo/1",
+          "media_key": "3_1889251807886491648",
+          "start": 21,
+          "url": "https://t.co/FAQ6plUkUQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889251811980161176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚才拉屎出来了金针菇和玉米，谁有什么头猪 https://t.co/FAQ6plUkUQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2003,
+        "media_key": "3_1889251807886491648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjf4gnRWwAAPZ5r.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889251807886491648"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1889251811980161176",
+        "created_at": "2025-02-11T09:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T10:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889251811980161176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FAQ6plUkUQ",
+              "end": 44,
+              "expanded_url": "https://x.com/Aloevce/status/1889251811980161176/photo/1",
+              "media_key": "3_1889251807886491648",
+              "start": 21,
+              "url": "https://t.co/FAQ6plUkUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889251811980161176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才拉屎出来了金针菇和玉米，谁有什么头猪 https://t.co/FAQ6plUkUQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17801,
+          "following_count": 2437,
+          "like_count": 54786,
+          "listed_count": 20,
+          "media_count": 5805,
+          "tweet_count": 20669
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

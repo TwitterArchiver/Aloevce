@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2061381345608188271",
+    "created_at": "2026-06-01T09:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061381345608188271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ScreamButSilen…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ScreamButSilent/status/2061287880602038541",
+          "start": 2,
+          "url": "https://t.co/8lx3SinzVr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061381345608188271",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061287880602038541",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/8lx3SinzVr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2061381345608188271",
+        "created_at": "2026-06-01T09:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061381345608188271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ScreamButSilen…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ScreamButSilent/status/2061287880602038541",
+              "start": 2,
+              "url": "https://t.co/8lx3SinzVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061381345608188271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061287880602038541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/8lx3SinzVr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857471601454768128",
+        "conversation_id": "2061287880602038541",
+        "created_at": "2026-06-01T03:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061287880602038541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061287880602038541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3244,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有多少人偷偷是把生活费当成六一礼物发朋友圈佯装的很幸福的样子.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18170,
+          "following_count": 1972,
+          "like_count": 56173,
+          "listed_count": 24,
+          "media_count": 6761,
+          "tweet_count": 23820
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:12:16.000Z",
+        "description": "别再叹息皱眉头",
+        "id": "1857471601454768128",
+        "name": "梨从",
+        "pinned_tweet_id": "1931283850761830468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060358433245904896/P3CkZcFo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 259,
+          "like_count": 750,
+          "listed_count": 6,
+          "media_count": 77,
+          "tweet_count": 3659
+        },
+        "username": "ScreamButSilent",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1843459882470756352",
+        "3_1843459882470780928"
+      ],
+      "media_source_tweet_id": [
+        "1843459902213333455",
+        "1843459902213333455"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1843589477031391453",
+    "created_at": "2024-10-08T09:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T10:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843589477031391453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778144875134984196",
+          "start": 3,
+          "username": "pan_mazari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AYAQ9oDL9U",
+          "end": 51,
+          "expanded_url": "https://x.com/pan_mazari/status/1843459902213333455/photo/1",
+          "media_key": "3_1843459882470756352",
+          "start": 28,
+          "url": "https://t.co/AYAQ9oDL9U"
+        },
+        {
+          "display_url": "pic.x.com/AYAQ9oDL9U",
+          "end": 51,
+          "expanded_url": "https://x.com/pan_mazari/status/1843459902213333455/photo/1",
+          "media_key": "3_1843459882470780928",
+          "start": 28,
+          "url": "https://t.co/AYAQ9oDL9U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843589477031391453",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843459902213333455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pan_mazari: 脳内わたしで全部埋めて https://t.co/AYAQ9oDL9U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1843459882470756352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZVI_vxaUAAhmR4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1843459882470780928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZVI_vxasAActQa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843459882470756352",
+            "3_1843459882470780928"
+          ],
+          "media_source_tweet_id": [
+            "1843459902213333455",
+            "1843459902213333455"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1843589477031391453",
+        "created_at": "2024-10-08T09:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T10:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843589477031391453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778144875134984196",
+              "start": 3,
+              "username": "pan_mazari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AYAQ9oDL9U",
+              "end": 51,
+              "expanded_url": "https://x.com/pan_mazari/status/1843459902213333455/photo/1",
+              "media_key": "3_1843459882470756352",
+              "start": 28,
+              "url": "https://t.co/AYAQ9oDL9U"
+            },
+            {
+              "display_url": "pic.x.com/AYAQ9oDL9U",
+              "end": 51,
+              "expanded_url": "https://x.com/pan_mazari/status/1843459902213333455/photo/1",
+              "media_key": "3_1843459882470780928",
+              "start": 28,
+              "url": "https://t.co/AYAQ9oDL9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843589477031391453",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843459902213333455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pan_mazari: 脳内わたしで全部埋めて https://t.co/AYAQ9oDL9U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843459882470756352",
+            "3_1843459882470780928"
+          ]
+        },
+        "author_id": "1778144875134984196",
+        "conversation_id": "1843459902213333455",
+        "created_at": "2024-10-08T01:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T02:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843459902213333455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AYAQ9oDL9U",
+              "end": 35,
+              "expanded_url": "https://x.com/pan_mazari/status/1843459902213333455/photo/1",
+              "media_key": "3_1843459882470756352",
+              "start": 12,
+              "url": "https://t.co/AYAQ9oDL9U"
+            },
+            {
+              "display_url": "pic.x.com/AYAQ9oDL9U",
+              "end": 35,
+              "expanded_url": "https://x.com/pan_mazari/status/1843459902213333455/photo/1",
+              "media_key": "3_1843459882470780928",
+              "start": 12,
+              "url": "https://t.co/AYAQ9oDL9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843459902213333455",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 38880,
+          "like_count": 1227,
+          "quote_count": 11,
+          "reply_count": 21,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "脳内わたしで全部埋めて https://t.co/AYAQ9oDL9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17897,
+          "following_count": 2257,
+          "like_count": 52948,
+          "listed_count": 22,
+          "tweet_count": 19008
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-10T19:36:03.000Z",
+        "description": "@mazari_info 白色担当🍞  #ピンポンパンさん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 20,
+                "tag": "ピンポンパンさん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "mazari_info"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pa_n525?igsh=d…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/pa_n525?igsh=dTZ1dnhudm9jeG81",
+                "start": 0,
+                "url": "https://t.co/HpO09AZJIl"
+              }
+            ]
+          }
+        },
+        "id": "1778144875134984196",
+        "name": "米粉パン",
+        "pinned_tweet_id": "1837811482391990636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837809302981300225/WbFo9V-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3875,
+          "following_count": 49,
+          "like_count": 3263,
+          "listed_count": 26,
+          "tweet_count": 879
+        },
+        "url": "https://t.co/HpO09AZJIl",
+        "username": "pan_mazari",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1799018836295057504",
+    "created_at": "2024-06-07T10:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T11:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799018836295057504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1594948026870599680",
+          "start": 3,
+          "username": "conchmagic0807"
+        },
+        {
+          "end": 28,
+          "id": "1495662254544789506",
+          "start": 20,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799018836295057504",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799018383188656329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @conchmagic0807: @Aloevce 宝宝，因为欣赏抽象中间是需要隔着一层玻璃的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1799018836295057504",
+        "created_at": "2024-06-07T10:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T11:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799018836295057504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1594948026870599680",
+              "start": 3,
+              "username": "conchmagic0807"
+            },
+            {
+              "end": 28,
+              "id": "1495662254544789506",
+              "start": 20,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799018836295057504",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799018383188656329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @conchmagic0807: @Aloevce 宝宝，因为欣赏抽象中间是需要隔着一层玻璃的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1594948026870599680",
+        "conversation_id": "1799007993025196244",
+        "created_at": "2024-06-07T09:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T10:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799018383188656329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799018383188656329",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799007993025196244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 宝宝，因为欣赏抽象中间是需要隔着一层玻璃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795447835732881408/Lypwm-n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13015,
+          "following_count": 2225,
+          "like_count": 51824,
+          "listed_count": 16,
+          "tweet_count": 17612
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T06:57:08.000Z",
+        "description": "复杂XP多变属性人类，绝对平衡Switch",
+        "id": "1594948026870599680",
+        "location": "地球",
+        "name": "坏坏比魔王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594951732748251136/3HqGpmd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 1773,
+          "like_count": 1751,
+          "listed_count": 0,
+          "tweet_count": 818
+        },
+        "username": "conchmagic0807",
+        "verified": false
+      }
+    ]
+  }
+}

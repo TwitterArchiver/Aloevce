@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2039697649155317848",
+    "created_at": "2026-04-23T11:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047275537014645098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "990228677794279429",
+          "start": 0,
+          "username": "yamada_suzumeP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047275537014645098",
+    "in_reply_to_user_id": "990228677794279429",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039697649155317848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamada_suzumeP めっちゃすごい! その体と口はそれぞれどんな材質でできているのか聞きたいですね"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2039697644591951873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE52M3MasAE_8mf.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2039697644717805568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE52M3qbEAANuRL.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2039697649155317848",
+        "created_at": "2026-04-23T11:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047275537014645098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "990228677794279429",
+              "start": 0,
+              "username": "yamada_suzumeP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047275537014645098",
+        "in_reply_to_user_id": "990228677794279429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039697649155317848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamada_suzumeP めっちゃすごい! その体と口はそれぞれどんな材質でできているのか聞きたいですね"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039697644591951873",
+            "3_2039697644717805568"
+          ]
+        },
+        "author_id": "990228677794279429",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039697649155317848",
+        "created_at": "2026-04-02T13:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039697649155317848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aYKZJCLMp5",
+              "end": 67,
+              "expanded_url": "https://x.com/yamada_suzumeP/status/2039697649155317848/photo/1",
+              "media_key": "3_2039697644591951873",
+              "start": 44,
+              "url": "https://t.co/aYKZJCLMp5"
+            },
+            {
+              "display_url": "pic.x.com/aYKZJCLMp5",
+              "end": 67,
+              "expanded_url": "https://x.com/yamada_suzumeP/status/2039697649155317848/photo/1",
+              "media_key": "3_2039697644717805568",
+              "start": 44,
+              "url": "https://t.co/aYKZJCLMp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039697649155317848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 917774,
+          "like_count": 362,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "ぽこポケでヌオー作ってるんだけど、途中経過見て(ˊ⸝⸝o̴̶̷  ̫ o̴̶̷⸝⸝ˋ) https://t.co/aYKZJCLMp5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17845,
+          "following_count": 2335,
+          "like_count": 54493,
+          "listed_count": 21,
+          "media_count": 6599,
+          "tweet_count": 23097
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-28T13:58:09.000Z",
+        "description": "配信,イラスト,デザインetc.｜別名義：うめの(@umtr_mn)｜YouTube：https://t.co/KNdwkClktF｜Link：https://t.co/CFiQWD2cml｜FA：#sparrow_art｜配信タグ：#やまだのおはなし",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 99,
+                "tag": "sparrow_art"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "tag": "やまだのおはなし"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 33,
+                "start": 25,
+                "username": "umtr_mn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@yamada_suzumeP",
+                "end": 66,
+                "expanded_url": "http://youtube.com/@yamada_suzumeP",
+                "start": 43,
+                "url": "https://t.co/KNdwkClktF"
+              },
+              {
+                "display_url": "linktr.ee/suzumep",
+                "end": 95,
+                "expanded_url": "http://linktr.ee/suzumep",
+                "start": 72,
+                "url": "https://t.co/CFiQWD2cml"
+              }
+            ]
+          }
+        },
+        "id": "990228677794279429",
+        "name": "山田すずめ🕊",
+        "pinned_tweet_id": "2044421356864094592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008494029613453312/spx5_mmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5171,
+          "following_count": 1114,
+          "like_count": 34777,
+          "listed_count": 149,
+          "media_count": 772,
+          "tweet_count": 16147
+        },
+        "username": "yamada_suzumeP",
+        "verified": false
+      }
+    ]
+  }
+}

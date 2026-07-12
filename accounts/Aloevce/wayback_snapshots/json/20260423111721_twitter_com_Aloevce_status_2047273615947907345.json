@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2047273615947907345",
+    "created_at": "2026-04-23T11:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047273615947907345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/noaayoyaoaya/s…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/noaayoyaoaya/status/2047229338416775673",
+          "start": 26,
+          "url": "https://t.co/7GheIdWGKb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047273615947907345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047229338416775673",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是18年留的为什么没那么长。好后悔之前染过。😭 https://t.co/7GheIdWGKb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2047273615947907345",
+        "created_at": "2026-04-23T11:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047273615947907345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/noaayoyaoaya/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/noaayoyaoaya/status/2047229338416775673",
+              "start": 26,
+              "url": "https://t.co/7GheIdWGKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047273615947907345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047229338416775673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是18年留的为什么没那么长。好后悔之前染过。😭 https://t.co/7GheIdWGKb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397850509323554817",
+        "conversation_id": "2047226256458981637",
+        "created_at": "2026-04-23T08:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047229338416775673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047229338416775673",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047228081895841863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 我从2018年到现在其实已经8年了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17845,
+          "following_count": 2335,
+          "like_count": 54491,
+          "listed_count": 21,
+          "media_count": 6599,
+          "tweet_count": 23094
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由//小号 @noaayoyaoaya1//自己的频道https://t.co/AqilBn0S8E",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "noaayoyaoaya1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 56,
+                "expanded_url": "https://t.me/+Hp2U0Rck9wU5OGY0//",
+                "start": 33,
+                "url": "https://t.co/AqilBn0S8E"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "pinned_tweet_id": "1947921475203436797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20210,
+          "following_count": 789,
+          "like_count": 10591,
+          "listed_count": 29,
+          "media_count": 111,
+          "tweet_count": 5132
+        },
+        "username": "noaayoyaoaya",
+        "verified": true
+      }
+    ]
+  }
+}

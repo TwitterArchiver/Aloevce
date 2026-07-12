@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1826512744087998958",
+    "created_at": "2024-08-22T06:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T07:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1826512744087998958"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meimeiderichan…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/meimeiderichang/status/1823737559333392772",
+          "start": 4,
+          "url": "https://t.co/AUpBBg90Vl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826512744087998958",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823737559333392772",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好瑟琴 https://t.co/AUpBBg90Vl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1823737559333392772].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1823737559333392772",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1823737559333392772"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1826512744087998958",
+        "created_at": "2024-08-22T06:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T07:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826512744087998958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meimeiderichan…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/meimeiderichang/status/1823737559333392772",
+              "start": 4,
+              "url": "https://t.co/AUpBBg90Vl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826512744087998958",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823737559333392772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好瑟琴 https://t.co/AUpBBg90Vl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18115,
+          "following_count": 2245,
+          "like_count": 52696,
+          "listed_count": 22,
+          "tweet_count": 18498
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

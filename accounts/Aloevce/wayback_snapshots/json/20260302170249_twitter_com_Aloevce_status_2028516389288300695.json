@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2028516389288300695",
+    "created_at": "2026-03-02T17:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T18:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028516389288300695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Aloevce/status/2028460350991999069",
+          "start": 19,
+          "url": "https://t.co/qAj6M7Q1c7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028516389288300695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028460350991999069",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我一直口嗨从来没发过图。除了⚽。 https://t.co/qAj6M7Q1c7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2028516389288300695",
+        "created_at": "2026-03-02T17:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028516389288300695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Aloevce/status/2028460350991999069",
+              "start": 19,
+              "url": "https://t.co/qAj6M7Q1c7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028516389288300695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028460350991999069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我一直口嗨从来没发过图。除了⚽。 https://t.co/qAj6M7Q1c7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2028460347275829248"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2028460350991999069",
+        "created_at": "2026-03-02T13:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028460350991999069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028460350991999069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 855,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的真爱粉是否喜欢我发瑟琴内容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18396,
+          "following_count": 2310,
+          "like_count": 54697,
+          "listed_count": 22,
+          "media_count": 6517,
+          "tweet_count": 22749
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

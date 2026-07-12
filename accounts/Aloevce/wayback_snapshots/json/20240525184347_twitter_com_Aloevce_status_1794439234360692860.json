@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1794439234360692860",
+    "created_at": "2024-05-25T18:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T19:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794439234360692860"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1794439234360692860",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发现我每每认识一个新朋友通过交流或者视奸的方法或者发生什么大事时都会增长一些我的认知，我的生活里百分之九十的时间在思考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1794439234360692860",
+        "created_at": "2024-05-25T18:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T19:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794439234360692860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794439234360692860",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现我每每认识一个新朋友通过交流或者视奸的方法或者发生什么大事时都会增长一些我的认知，我的生活里百分之九十的时间在思考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1793923054806175806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12846,
+          "following_count": 2240,
+          "like_count": 52138,
+          "listed_count": 19,
+          "tweet_count": 17476
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

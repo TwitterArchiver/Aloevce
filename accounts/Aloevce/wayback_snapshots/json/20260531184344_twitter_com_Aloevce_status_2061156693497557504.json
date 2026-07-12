@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2061156693497557504",
+    "created_at": "2026-05-31T18:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T19:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061156693497557504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CCDY_ch1/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/CCDY_ch1/status/2061053282366464135",
+          "start": 5,
+          "url": "https://t.co/LWTVtrlsK5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061156693497557504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061053282366464135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我长这样 https://t.co/LWTVtrlsK5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1261,
+        "media_key": "3_2061053254969241600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpVA_WasAAcV-L.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2061156693497557504",
+        "created_at": "2026-05-31T18:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061156693497557504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CCDY_ch1/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/CCDY_ch1/status/2061053282366464135",
+              "start": 5,
+              "url": "https://t.co/LWTVtrlsK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061156693497557504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061053282366464135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我长这样 https://t.co/LWTVtrlsK5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061053254969241600"
+          ]
+        },
+        "author_id": "1525754529769132032",
+        "conversation_id": "2061053282366464135",
+        "created_at": "2026-05-31T11:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061053282366464135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/92JBMdRJ6y",
+              "end": 39,
+              "expanded_url": "https://x.com/CCDY_ch1/status/2061053282366464135/photo/1",
+              "media_key": "3_2061053254969241600",
+              "start": 16,
+              "url": "https://t.co/92JBMdRJ6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061053282366464135",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 8267,
+          "like_count": 732,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "100万年ぶりにドレス着ました https://t.co/92JBMdRJ6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18176,
+          "following_count": 1973,
+          "like_count": 56150,
+          "listed_count": 24,
+          "media_count": 6757,
+          "tweet_count": 23810
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T08:26:52.000Z",
+        "description": "20↑趣味垢💛アパレル勤務でお洋服大好き◡̈バンドでドラムとキックボクシングやってます！通勤にクロスとロード乗ります！🤪🤪",
+        "id": "1525754529769132032",
+        "name": "たばこちゃん♥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579376259460517888/vXj1oN6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4839,
+          "following_count": 2012,
+          "like_count": 20146,
+          "listed_count": 72,
+          "media_count": 64,
+          "tweet_count": 1321
+        },
+        "username": "CCDY_ch1",
+        "verified": false
+      }
+    ]
+  }
+}

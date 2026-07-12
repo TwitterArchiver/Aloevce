@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1816435494009397707",
+    "created_at": "2024-07-25T11:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T12:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816435494009397707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1731243248205852672",
+          "start": 3,
+          "username": "yyyyyxcta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816435494009397707",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816330832333930994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yyyyyxcta: 还我漂亮鼻子👃还我妈生鼻👃还我小翘鼻👃欧雅医疗美容不会放过你的🤓把我整成格格巫🧙‍♀️让我自卑半年多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1816435494009397707",
+        "created_at": "2024-07-25T11:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T12:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816435494009397707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1731243248205852672",
+              "start": 3,
+              "username": "yyyyyxcta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816435494009397707",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816330832333930994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yyyyyxcta: 还我漂亮鼻子👃还我妈生鼻👃还我小翘鼻👃欧雅医疗美容不会放过你的🤓把我整成格格巫🧙‍♀️让我自卑半年多"
+      },
+      {
+        "attachments": {},
+        "author_id": "1731243248205852672",
+        "conversation_id": "1816330832333930994",
+        "created_at": "2024-07-25T04:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T05:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816330832333930994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816330832333930994",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6486,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "还我漂亮鼻子👃还我妈生鼻👃还我小翘鼻👃欧雅医疗美容不会放过你的🤓把我整成格格巫🧙‍♀️让我自卑半年多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17412,
+          "following_count": 2196,
+          "like_count": 52022,
+          "listed_count": 19,
+          "tweet_count": 18064
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T09:25:39.000Z",
+        "description": "时间不是良药 是麻药",
+        "id": "1731243248205852672",
+        "location": "距离你1.18Km",
+        "name": "拜金犬",
+        "pinned_tweet_id": "1791040589259329608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816066312894046212/3yB8uyt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6873,
+          "following_count": 98,
+          "like_count": 4896,
+          "listed_count": 11,
+          "tweet_count": 2090
+        },
+        "username": "yyyyyxcta",
+        "verified": false
+      }
+    ]
+  }
+}

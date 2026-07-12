@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2027201896486781244",
+    "created_at": "2026-02-27T15:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027408916389286029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013000409003315200",
+          "start": 0,
+          "username": "imyy1567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027408916389286029",
+    "in_reply_to_user_id": "2013000409003315200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027390253930299858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imyy1567 我结婚了小宝😭现在也爱穿水色捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2027201896486781244",
+        "created_at": "2026-02-27T15:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027408916389286029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013000409003315200",
+              "start": 0,
+              "username": "imyy1567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027408916389286029",
+        "in_reply_to_user_id": "2013000409003315200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027390253930299858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imyy1567 我结婚了小宝😭现在也爱穿水色捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013000409003315200",
+        "conversation_id": "2027201896486781244",
+        "created_at": "2026-02-27T14:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027390253930299858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027390253930299858",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027201896486781244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce ？你结婚了吗 之前眼熟很久 但是我注销了 没记错你好像有阵子很爱穿水色的裙子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18383,
+          "following_count": 2287,
+          "like_count": 54576,
+          "listed_count": 22,
+          "media_count": 6507,
+          "tweet_count": 22677
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T21:28:05.000Z",
+        "description": "小川/爱好是输出垃圾话 🚪88请移步私信",
+        "id": "2013000409003315200",
+        "name": "川",
+        "pinned_tweet_id": "2025996122632917016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013000918875201536/zcutPwqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 38,
+          "like_count": 71,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 199
+        },
+        "username": "imyy1567",
+        "verified": false
+      }
+    ]
+  }
+}

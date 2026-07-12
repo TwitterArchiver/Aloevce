@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1826212955337171086",
+    "created_at": "2024-08-21T11:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T12:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1826212955337171086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bocchi1chan/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/bocchi1chan/status/1826205375965909231",
+          "start": 5,
+          "url": "https://t.co/JZ49YuWvfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826212955337171086",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826205375965909231",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全是我 https://t.co/JZ49YuWvfn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1826212955337171086",
+        "created_at": "2024-08-21T11:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T12:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826212955337171086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bocchi1chan/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bocchi1chan/status/1826205375965909231",
+              "start": 5,
+              "url": "https://t.co/JZ49YuWvfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826212955337171086",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826205375965909231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全是我 https://t.co/JZ49YuWvfn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826205361222918144",
+            "3_1826205361952698368",
+            "3_1826205361650683904",
+            "3_1826205362305040384"
+          ]
+        },
+        "author_id": "1522976249173450759",
+        "conversation_id": "1826200092862492974",
+        "created_at": "2024-08-21T10:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T11:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826205375965909231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vzydwf0gl",
+              "end": 68,
+              "expanded_url": "https://twitter.com/bocchi1chan/status/1826205375965909231/photo/1",
+              "media_key": "3_1826205361222918144",
+              "start": 45,
+              "url": "https://t.co/2VZYdwf0gL"
+            },
+            {
+              "display_url": "pic.x.com/2vzydwf0gl",
+              "end": 68,
+              "expanded_url": "https://twitter.com/bocchi1chan/status/1826205375965909231/photo/1",
+              "media_key": "3_1826205361952698368",
+              "start": 45,
+              "url": "https://t.co/2VZYdwf0gL"
+            },
+            {
+              "display_url": "pic.x.com/2vzydwf0gl",
+              "end": 68,
+              "expanded_url": "https://twitter.com/bocchi1chan/status/1826205375965909231/photo/1",
+              "media_key": "3_1826205361650683904",
+              "start": 45,
+              "url": "https://t.co/2VZYdwf0gL"
+            },
+            {
+              "display_url": "pic.x.com/2vzydwf0gl",
+              "end": 68,
+              "expanded_url": "https://twitter.com/bocchi1chan/status/1826205375965909231/photo/1",
+              "media_key": "3_1826205362305040384",
+              "start": 45,
+              "url": "https://t.co/2VZYdwf0gL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826205375965909231",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826200092862492974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 你喜欢长发男，不喜欢短发男\n就好像李奈奈喜欢长发女生，不喜欢短发女生🤣 https://t.co/2VZYdwf0gL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18042,
+          "following_count": 2240,
+          "like_count": 52651,
+          "listed_count": 22,
+          "tweet_count": 18478
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T16:27:09.000Z",
+        "description": "music producer&photographer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bocchi1chan/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/bocchi1chan/",
+                "start": 0,
+                "url": "https://t.co/jYpgMIVDT2"
+              }
+            ]
+          }
+        },
+        "id": "1522976249173450759",
+        "location": "距离你369m",
+        "name": "喵了个咪的",
+        "pinned_tweet_id": "1776982183221374979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637786167621070849/PM6I1hNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14444,
+          "following_count": 1923,
+          "like_count": 17645,
+          "listed_count": 18,
+          "tweet_count": 1688
+        },
+        "url": "https://t.co/jYpgMIVDT2",
+        "username": "bocchi1chan",
+        "verified": true
+      }
+    ]
+  }
+}

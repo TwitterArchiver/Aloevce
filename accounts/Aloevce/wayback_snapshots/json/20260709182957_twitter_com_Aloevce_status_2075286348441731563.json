@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2075286348441731563",
+    "created_at": "2026-07-09T18:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075286348441731563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bs7thf/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Bs7thf/status/2075266284753932425",
+          "start": 12,
+          "url": "https://t.co/9k9tGFxVLk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075286348441731563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075266284753932425",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "生日 外卖 手淫 五秒 https://t.co/9k9tGFxVLk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2075286348441731563",
+        "created_at": "2026-07-09T18:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075286348441731563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bs7thf/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Bs7thf/status/2075266284753932425",
+              "start": 12,
+              "url": "https://t.co/9k9tGFxVLk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075286348441731563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075266284753932425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生日 外卖 手淫 五秒 https://t.co/9k9tGFxVLk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062704268726185984",
+        "conversation_id": "2075259380019101876",
+        "created_at": "2026-07-09T17:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075266284753932425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075266284753932425",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075259380019101876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 生日 外卖 手淫 五秒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18049,
+          "following_count": 1956,
+          "like_count": 56372,
+          "listed_count": 23,
+          "media_count": 6877,
+          "tweet_count": 24140
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T01:15:01.000Z",
+        "description": "",
+        "id": "2062704268726185984",
+        "name": "B",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062705462462824448/FCCIJIe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 290,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Bs7thf",
+        "verified": false
+      }
+    ]
+  }
+}

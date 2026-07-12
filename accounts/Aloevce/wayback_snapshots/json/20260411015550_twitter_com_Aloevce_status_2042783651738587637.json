@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2042783651738587637",
+    "created_at": "2026-04-11T01:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T02:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042783651738587637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LVTGW666/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/LVTGW666/status/2042645512478953515",
+          "start": 16,
+          "url": "https://t.co/qi0aCLhJmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042783651738587637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042645512478953515",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呵呵其实老子小学也被扒过裤子。 https://t.co/qi0aCLhJmb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1272,
+        "media_key": "3_2042645502664282113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjvQyRakAEPe5_.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2042783651738587637",
+        "created_at": "2026-04-11T01:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042783651738587637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LVTGW666/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/LVTGW666/status/2042645512478953515",
+              "start": 16,
+              "url": "https://t.co/qi0aCLhJmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042783651738587637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042645512478953515",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呵呵其实老子小学也被扒过裤子。 https://t.co/qi0aCLhJmb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042645502664282113"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "conversation_id": "2042645512478953515",
+        "created_at": "2026-04-10T16:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042645512478953515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OvmrUiR1TJ",
+              "end": 30,
+              "expanded_url": "https://x.com/LVTGW666/status/2042645512478953515/photo/1",
+              "media_key": "3_2042645502664282113",
+              "start": 7,
+              "url": "https://t.co/OvmrUiR1TJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042645512478953515",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 24042,
+          "like_count": 372,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "可以，很倔强 https://t.co/OvmrUiR1TJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17905,
+          "following_count": 2292,
+          "like_count": 54198,
+          "listed_count": 23,
+          "media_count": 6570,
+          "tweet_count": 22904
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 想投稿直接私信 求求腊畜别来恶心我 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77lTAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 105,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 82,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2008518971486806332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68167,
+          "following_count": 893,
+          "like_count": 14291,
+          "listed_count": 291,
+          "media_count": 4473,
+          "tweet_count": 11672
+        },
+        "url": "https://t.co/wPvV77lTAw",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060647489124921345"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sushi",
+          "id": "825054873343234048",
+          "name": "Sushi"
+        }
+      }
+    ],
+    "conversation_id": "2060647493059154089",
+    "created_at": "2026-05-30T09:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060647493059154089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nu3RJPcm61",
+          "end": 27,
+          "expanded_url": "https://x.com/Aloevce/status/2060647493059154089/photo/1",
+          "media_key": "3_2060647489124921345",
+          "start": 4,
+          "url": "https://t.co/nu3RJPcm61"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Aloevce/status/2060631503223296268",
+          "start": 28,
+          "url": "https://t.co/LcIJIxKGyU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060647493059154089",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060631503223296268",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦一吸 https://t.co/nu3RJPcm61 https://t.co/LcIJIxKGyU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060647489124921345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjj-TyXcAEKEX6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060647489124921345"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          }
+        ],
+        "conversation_id": "2060647493059154089",
+        "created_at": "2026-05-30T09:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060647493059154089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nu3RJPcm61",
+              "end": 27,
+              "expanded_url": "https://x.com/Aloevce/status/2060647493059154089/photo/1",
+              "media_key": "3_2060647489124921345",
+              "start": 4,
+              "url": "https://t.co/nu3RJPcm61"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Aloevce/status/2060631503223296268",
+              "start": 28,
+              "url": "https://t.co/LcIJIxKGyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060647493059154089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060631503223296268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦一吸 https://t.co/nu3RJPcm61 https://t.co/LcIJIxKGyU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          }
+        ],
+        "conversation_id": "2060631503223296268",
+        "created_at": "2026-05-30T07:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060631503223296268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060631503223296268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想吃寿司"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18180,
+          "following_count": 1975,
+          "like_count": 56249,
+          "listed_count": 24,
+          "media_count": 6751,
+          "tweet_count": 23801
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

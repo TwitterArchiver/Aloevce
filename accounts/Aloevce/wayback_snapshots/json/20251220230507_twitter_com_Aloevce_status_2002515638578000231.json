@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2002515638578000231",
+    "created_at": "2025-12-20T23:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T00:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002515638578000231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Aloevce/status/2002503041656991869",
+          "start": 5,
+          "url": "https://t.co/05kZJnZe6q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002515638578000231",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002503041656991869",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又复婚了 https://t.co/05kZJnZe6q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2002515638578000231",
+        "created_at": "2025-12-20T23:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T00:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002515638578000231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Aloevce/status/2002503041656991869",
+              "start": 5,
+              "url": "https://t.co/05kZJnZe6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002515638578000231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002503041656991869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又复婚了 https://t.co/05kZJnZe6q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2002503041656991869",
+        "created_at": "2025-12-20T22:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T23:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002503041656991869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Aloevce/status/2002345251206283583",
+              "start": 5,
+              "url": "https://t.co/qGiGZY6Lzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002503041656991869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002345251206283583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又离异了 https://t.co/qGiGZY6Lzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18524,
+          "following_count": 2486,
+          "like_count": 55065,
+          "listed_count": 23,
+          "media_count": 6400,
+          "tweet_count": 22371
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

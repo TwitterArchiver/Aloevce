@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992232186502840320",
+        "3_1992232186490343424"
+      ],
+      "media_source_tweet_id": [
+        "1992232227720319030",
+        "1992232227720319030"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1992323042211725798",
+    "created_at": "2025-11-22T20:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T21:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992323042211725798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1876377363854053376",
+          "start": 3,
+          "username": "woooocaonimabi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QlSMdLuucA",
+          "end": 83,
+          "expanded_url": "https://x.com/woooocaonimabi/status/1992232227720319030/photo/1",
+          "media_key": "3_1992232186502840320",
+          "start": 60,
+          "url": "https://t.co/QlSMdLuucA"
+        },
+        {
+          "display_url": "pic.x.com/QlSMdLuucA",
+          "end": 83,
+          "expanded_url": "https://x.com/woooocaonimabi/status/1992232227720319030/photo/1",
+          "media_key": "3_1992232186490343424",
+          "start": 60,
+          "url": "https://t.co/QlSMdLuucA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992323042211725798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992232227720319030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woooocaonimabi: 京津冀线下dd\n跪求门槛哥我真的没钱吃饭买药了\n求求来个心软的神好不好\n求互转 https://t.co/QlSMdLuucA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992323042211725798].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992323042211725798",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992323042211725798"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 641,
+        "media_key": "3_1992232186502840320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XUnkqaAAAp4du.jpg",
+        "width": 978
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992232186490343424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XUnknbUAA6zMp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992232186502840320",
+            "3_1992232186490343424"
+          ]
+        },
+        "author_id": "1876377363854053376",
+        "conversation_id": "1992232227720319030",
+        "created_at": "2025-11-22T14:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992232227720319030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QlSMdLuucA",
+              "end": 63,
+              "expanded_url": "https://x.com/woooocaonimabi/status/1992232227720319030/photo/1",
+              "media_key": "3_1992232186502840320",
+              "start": 40,
+              "url": "https://t.co/QlSMdLuucA"
+            },
+            {
+              "display_url": "pic.x.com/QlSMdLuucA",
+              "end": 63,
+              "expanded_url": "https://x.com/woooocaonimabi/status/1992232227720319030/photo/1",
+              "media_key": "3_1992232186490343424",
+              "start": 40,
+              "url": "https://t.co/QlSMdLuucA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992232227720319030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 681,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "京津冀线下dd\n跪求门槛哥我真的没钱吃饭买药了\n求求来个心软的神好不好\n求互转 https://t.co/QlSMdLuucA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1983656746171429044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18543,
+          "following_count": 2407,
+          "like_count": 54668,
+          "listed_count": 24,
+          "media_count": 6316,
+          "tweet_count": 22078
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T21:17:03.000Z",
+        "description": "我想和你挥霍生命",
+        "id": "1876377363854053376",
+        "location": "喵喵罂罂喵喵喵 🚪288门",
+        "name": "我想过的好一点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992159922575056896/BaKNi08h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2877,
+          "following_count": 86,
+          "like_count": 575,
+          "listed_count": 8,
+          "media_count": 87,
+          "tweet_count": 531
+        },
+        "username": "woooocaonimabi",
+        "verified": false
+      }
+    ]
+  }
+}

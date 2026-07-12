@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1856927854300127740",
+    "created_at": "2024-11-14T05:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T06:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856927854300127740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1536245915559677952",
+          "start": 3,
+          "username": "A601993078"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856927854300127740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856927062159937596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @A601993078: 这两天我又难过了😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1856927854300127740",
+        "created_at": "2024-11-14T05:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T06:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856927854300127740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536245915559677952",
+              "start": 3,
+              "username": "A601993078"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856927854300127740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856927062159937596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @A601993078: 这两天我又难过了😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536245915559677952",
+        "conversation_id": "1856927062159937596",
+        "created_at": "2024-11-14T05:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T06:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856927062159937596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856927062159937596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这两天我又难过了😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17631,
+          "following_count": 2289,
+          "like_count": 53349,
+          "listed_count": 21,
+          "tweet_count": 19355
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T07:15:52.000Z",
+        "description": "别视奸，王策尼玛。买烟可以私信找我要wx问价，便宜的很哇\n自用VPN👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skycloud.life/#/register?cod…",
+                "end": 23,
+                "expanded_url": "http://skycloud.life/#/register?code=xgC1YwU7",
+                "start": 0,
+                "url": "https://t.co/sPN96R1vrU"
+              }
+            ]
+          }
+        },
+        "id": "1536245915559677952",
+        "location": "河南下水道鼠鼠🐭集会",
+        "name": "连落星（卖烟🚬🀄）",
+        "pinned_tweet_id": "1846815995333124436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797646287577440256/Gx7FyMUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 1190,
+          "like_count": 94853,
+          "listed_count": 3,
+          "tweet_count": 26014
+        },
+        "url": "https://t.co/sPN96R1vrU",
+        "username": "A601993078",
+        "verified": false
+      }
+    ]
+  }
+}

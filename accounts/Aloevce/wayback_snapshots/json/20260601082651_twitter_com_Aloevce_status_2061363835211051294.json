@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061363829637038082"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2061363835211051294",
+    "created_at": "2026-06-01T08:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061363835211051294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "2005739449058230272",
+          "start": 14,
+          "username": "usagimm208"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xAMIorCAXJ",
+          "end": 49,
+          "expanded_url": "https://x.com/Aloevce/status/2061363835211051294/photo/1",
+          "media_key": "3_2061363829637038082",
+          "start": 26,
+          "url": "https://t.co/xAMIorCAXJ"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/Aloevce/status/2050483650328965227",
+          "start": 50,
+          "url": "https://t.co/JHcjitDYqo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061363835211051294",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050483650328965227",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已拿下双色 但是有奇怪色差🙀@usagimm208 https://t.co/xAMIorCAXJ https://t.co/JHcjitDYqo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061363829637038082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtve0JawAICiHB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 800,
+        "media_key": "3_2050483647749488640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTIA4HbAAAf2tz.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061363829637038082"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2061363835211051294",
+        "created_at": "2026-06-01T08:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061363835211051294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "2005739449058230272",
+              "start": 14,
+              "username": "usagimm208"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xAMIorCAXJ",
+              "end": 49,
+              "expanded_url": "https://x.com/Aloevce/status/2061363835211051294/photo/1",
+              "media_key": "3_2061363829637038082",
+              "start": 26,
+              "url": "https://t.co/xAMIorCAXJ"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Aloevce/status/2050483650328965227",
+              "start": 50,
+              "url": "https://t.co/JHcjitDYqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061363835211051294",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050483650328965227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已拿下双色 但是有奇怪色差🙀@usagimm208 https://t.co/xAMIorCAXJ https://t.co/JHcjitDYqo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050483647749488640"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2050483650328965227",
+        "created_at": "2026-05-02T07:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050483650328965227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XC1m5AV26N",
+              "end": 45,
+              "expanded_url": "https://x.com/Aloevce/status/2050483650328965227/photo/1",
+              "media_key": "3_2050483647749488640",
+              "start": 22,
+              "url": "https://t.co/XC1m5AV26N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050483650328965227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5819,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点想买这两套。但是资金只能二选一。我选？ https://t.co/XC1m5AV26N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18172,
+          "following_count": 1972,
+          "like_count": 56168,
+          "listed_count": 24,
+          "media_count": 6760,
+          "tweet_count": 23817
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "暴食导致长胖10斤、每天还因为吃不饱而充满怨气的僵尸ぐる，皮下有双重人格随便切换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "ぐる",
+        "pinned_tweet_id": "2060099777652822114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 30,
+          "like_count": 1672,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 657
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

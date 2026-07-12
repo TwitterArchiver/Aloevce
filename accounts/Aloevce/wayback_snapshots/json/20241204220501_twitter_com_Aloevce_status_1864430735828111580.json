@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1864428450020511815",
+    "created_at": "2024-12-04T22:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T23:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864430735828111580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795614541297950720",
+          "start": 0,
+          "username": "osakana_yui030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864430735828111580",
+    "in_reply_to_user_id": "1795614541297950720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864430424707223922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@osakana_yui030 里森堡就是逐电犬hhhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1864428450020511815",
+        "created_at": "2024-12-04T22:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T23:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864430735828111580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795614541297950720",
+              "start": 0,
+              "username": "osakana_yui030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864430735828111580",
+        "in_reply_to_user_id": "1795614541297950720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864430424707223922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osakana_yui030 里森堡就是逐电犬hhhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795614541297950720",
+        "conversation_id": "1864428450020511815",
+        "created_at": "2024-12-04T22:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T23:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864430424707223922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864430424707223922",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864428450020511815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 里森堡and逐電犬？🫢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "404 No Found\n\n❓:https://t.co/EE8B1ewVqa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aloevce",
+                "end": 39,
+                "expanded_url": "https://ngl.link/aloevce",
+                "start": 16,
+                "url": "https://t.co/EE8B1ewVqa"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "location": "闪焰王牌",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1863421983838319069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17636,
+          "following_count": 2319,
+          "like_count": 53511,
+          "listed_count": 20,
+          "media_count": 5438,
+          "tweet_count": 19615
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T00:34:17.000Z",
+        "description": "我是一個會掉小珍珠的半清水。🪜⬇️ 好朋友 @yuna_liii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "yuna_liii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=clLqL8xF",
+                "start": 0,
+                "url": "https://t.co/9gRbe45MXY"
+              }
+            ]
+          }
+        },
+        "id": "1795614541297950720",
+        "location": "常驻北京 全国✈️🚪377/777",
+        "name": "抽脂马甲线",
+        "pinned_tweet_id": "1864356726390312980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826646620769058823/lYybBaX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11987,
+          "following_count": 214,
+          "like_count": 1716,
+          "listed_count": 23,
+          "media_count": 198,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/9gRbe45MXY",
+        "username": "osakana_yui030",
+        "verified": false
+      }
+    ]
+  }
+}

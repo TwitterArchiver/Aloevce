@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2059838035953389891",
+    "created_at": "2026-05-28T03:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059838035953389891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Aloevce/status/2059837829195117030",
+          "start": 14,
+          "url": "https://t.co/JJDqOjJLlS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059838035953389891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059837829195117030",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么时候能跟你去重庆广州耍 https://t.co/JJDqOjJLlS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2059838035953389891",
+        "created_at": "2026-05-28T03:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059838035953389891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Aloevce/status/2059837829195117030",
+              "start": 14,
+              "url": "https://t.co/JJDqOjJLlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059838035953389891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059837829195117030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么时候能跟你去重庆广州耍 https://t.co/JJDqOjJLlS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2059837829195117030",
+        "created_at": "2026-05-28T03:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059837829195117030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059837829195117030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去过一次广州额好神奇的地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18182,
+          "following_count": 1975,
+          "like_count": 56206,
+          "listed_count": 24,
+          "media_count": 6743,
+          "tweet_count": 23756
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

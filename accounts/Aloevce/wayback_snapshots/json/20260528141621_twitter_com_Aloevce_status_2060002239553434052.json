@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2059956945231266124",
+    "created_at": "2026-05-28T14:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060002239553434052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1740290718466531328",
+          "start": 0,
+          "username": "ba_zha84090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060002239553434052",
+    "in_reply_to_user_id": "1740290718466531328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059991403485360302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ba_zha84090 爆浆面包🍞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2059956945231266124",
+        "created_at": "2026-05-28T14:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060002239553434052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1740290718466531328",
+              "start": 0,
+              "username": "ba_zha84090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060002239553434052",
+        "in_reply_to_user_id": "1740290718466531328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059991403485360302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ba_zha84090 爆浆面包🍞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740290718466531328",
+        "conversation_id": "2059956945231266124",
+        "created_at": "2026-05-28T13:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059991403485360302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059991403485360302",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059956945231266124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 这是啥呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18180,
+          "following_count": 1975,
+          "like_count": 56214,
+          "listed_count": 24,
+          "media_count": 6744,
+          "tweet_count": 23765
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T08:37:24.000Z",
+        "description": "05｜isfp｜极度社恐｜阴暗b｜友跨｜友同",
+        "id": "1740290718466531328",
+        "name": "紫皮大蒜（互fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962572144057176064/QybTYa9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 372,
+          "like_count": 1516,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 456
+        },
+        "username": "ba_zha84090",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1364323692822466561",
+          "name": "Embroidery"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364323692822466561",
+          "name": "Embroidery"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Needlework",
+          "id": "847869593674698752",
+          "name": "Needlework"
+        }
+      }
+    ],
+    "conversation_id": "2075243605703242163",
+    "created_at": "2026-07-09T15:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075243605703242163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KRY_official_/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/KRY_official_/status/2075227314464698422",
+          "start": 5,
+          "url": "https://t.co/So5U6REUTH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075243605703242163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075227314464698422",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "p2是我 https://t.co/So5U6REUTH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2075227300891852800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMywPDHaAAAQ6oY.jpg",
+        "width": 3276
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2075227300845756416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMywPC8aoAABD6l.jpg",
+        "width": 3276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1364323692822466561",
+              "name": "Embroidery"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364323692822466561",
+              "name": "Embroidery"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Needlework",
+              "id": "847869593674698752",
+              "name": "Needlework"
+            }
+          }
+        ],
+        "conversation_id": "2075243605703242163",
+        "created_at": "2026-07-09T15:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075243605703242163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KRY_official_/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/KRY_official_/status/2075227314464698422",
+              "start": 5,
+              "url": "https://t.co/So5U6REUTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075243605703242163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075227314464698422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "p2是我 https://t.co/So5U6REUTH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075227300891852800",
+            "3_2075227300845756416"
+          ]
+        },
+        "author_id": "2353567248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1364323692822466561",
+              "name": "Embroidery"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364323692822466561",
+              "name": "Embroidery"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Needlework",
+              "id": "847869593674698752",
+              "name": "Needlework"
+            }
+          }
+        ],
+        "conversation_id": "2075227314464698422",
+        "created_at": "2026-07-09T14:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075227314464698422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4NRIejSBk5",
+              "end": 194,
+              "expanded_url": "https://x.com/KRY_official_/status/2075227314464698422/photo/1",
+              "media_key": "3_2075227300891852800",
+              "start": 171,
+              "url": "https://t.co/4NRIejSBk5"
+            },
+            {
+              "display_url": "pic.x.com/4NRIejSBk5",
+              "end": 194,
+              "expanded_url": "https://x.com/KRY_official_/status/2075227314464698422/photo/1",
+              "media_key": "3_2075227300845756416",
+              "start": 171,
+              "url": "https://t.co/4NRIejSBk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075227314464698422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "他人の視線に縛られなくていい。\n\n† HOLLOW VEIL †\n\nONLY THE VEIL REMAINS.\n\n80cmの超ロングスリーブ。\n顔まで閉じられるフルジップフード。\n袖にはレースアップを施し、\nフロント・バックにはKRYらしい刺繍を配置。\n\nシルエットもディテールも、\n存在感にこだわった一着。\n\nBLACK × WHITE EMBROIDERY\nBLACK × RED EMBROIDERY\nBLACK × BLACK EMBROIDERY\n\nFREE SIZE\n総丈 約74cm / 身幅 約61cm / 袖丈 約80cm\n\n¥9,300+tax\n\nONLINE STORE\n\n7.10 21:00\n\nKRY 2026 PRE-FALL COLLECTION vol.1\n\nmodel\nama"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1204,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他人の視線に縛られなくていい。\n\n† HOLLOW VEIL †\n\nONLY THE VEIL REMAINS.\n\n80cmの超ロングスリーブ。\n顔まで閉じられるフルジップフード。\n袖にはレースアップを施し、\nフロント・バックにはKRYらしい刺繍を配置。\n\nシルエットもディテールも、\n存在感にこだわった一着。\n\nBLACK × WHITE https://t.co/4NRIejSBk5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18050,
+          "following_count": 1956,
+          "like_count": 56367,
+          "listed_count": 23,
+          "media_count": 6876,
+          "tweet_count": 24135
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-20T17:40:32.000Z",
+        "description": "《instagram》https://t.co/IwirIV9DQx ††††††††††††《原宿竹下通り店》 https://t.co/ghhIvV2tpS††††††††††††《TikTok》https://t.co/eWpnFHrnbZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/kry231",
+                "end": 34,
+                "expanded_url": "http://Instagram.com/kry231",
+                "start": 11,
+                "url": "https://t.co/IwirIV9DQx"
+              },
+              {
+                "display_url": "x.com/kry_harajuku",
+                "end": 80,
+                "expanded_url": "https://x.com/kry_harajuku",
+                "start": 57,
+                "url": "https://t.co/ghhIvV2tpS"
+              },
+              {
+                "display_url": "tiktok.com/@kryclothing",
+                "end": 123,
+                "expanded_url": "https://www.tiktok.com/@kryclothing",
+                "start": 100,
+                "url": "https://t.co/eWpnFHrnbZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kry.tokyo",
+                "end": 23,
+                "expanded_url": "http://www.kry.tokyo/",
+                "start": 0,
+                "url": "https://t.co/tizARXfMq6"
+              }
+            ]
+          }
+        },
+        "id": "2353567248",
+        "location": "TOKYO",
+        "name": "KRYclothing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507544673732096004/fcwNKSVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70705,
+          "following_count": 20011,
+          "like_count": 107914,
+          "listed_count": 540,
+          "media_count": 35479,
+          "tweet_count": 108053
+        },
+        "url": "https://t.co/tizARXfMq6",
+        "username": "KRY_official_",
+        "verified": true
+      }
+    ]
+  }
+}

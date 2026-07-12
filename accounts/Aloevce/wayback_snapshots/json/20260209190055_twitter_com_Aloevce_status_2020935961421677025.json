@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020935957525278720"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020935961421677025",
+    "created_at": "2026-02-09T19:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T20:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020935961421677025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IEs8BWN05F",
+          "end": 49,
+          "expanded_url": "https://x.com/Aloevce/status/2020935961421677025/photo/1",
+          "media_key": "3_2020935957525278720",
+          "start": 26,
+          "url": "https://t.co/IEs8BWN05F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020935961421677025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打开了吃灰三年的朱紫我啥时打得这么厉害了我是开了吗 https://t.co/IEs8BWN05F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2020935957525278720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAvOi8YbsAA4qDz.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020935957525278720"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020935961421677025",
+        "created_at": "2026-02-09T19:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T20:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020935961421677025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEs8BWN05F",
+              "end": 49,
+              "expanded_url": "https://x.com/Aloevce/status/2020935961421677025/photo/1",
+              "media_key": "3_2020935957525278720",
+              "start": 26,
+              "url": "https://t.co/IEs8BWN05F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020935961421677025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打开了吃灰三年的朱紫我啥时打得这么厉害了我是开了吗 https://t.co/IEs8BWN05F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18396,
+          "following_count": 2290,
+          "like_count": 55244,
+          "listed_count": 23,
+          "media_count": 6496,
+          "tweet_count": 22657
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

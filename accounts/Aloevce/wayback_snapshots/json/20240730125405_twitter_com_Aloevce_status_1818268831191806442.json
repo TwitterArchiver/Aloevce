@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "1818268831191806442",
+    "created_at": "2024-07-30T12:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T13:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1818268831191806442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/Aloevce/status/1818258914175304106",
+          "start": 23,
+          "url": "https://t.co/DPULrSr6lk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818268831191806442",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818258914175304106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉可以用魔法少女小圆的毛，下次记得标明出处 https://t.co/DPULrSr6lk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1818268831191806442",
+        "created_at": "2024-07-30T12:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T13:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818268831191806442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Aloevce/status/1818258914175304106",
+              "start": 23,
+              "url": "https://t.co/DPULrSr6lk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818268831191806442",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818258914175304106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉可以用魔法少女小圆的毛，下次记得标明出处 https://t.co/DPULrSr6lk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818258812064980992",
+            "3_1818258848148541441"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1818258914175304106",
+        "created_at": "2024-07-30T12:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T13:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818258914175304106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/M5PozGdRRY",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Aloevce/status/1818258914175304106/photo/1",
+              "media_key": "3_1818258812064980992",
+              "start": 15,
+              "url": "https://t.co/M5PozGdRRY"
+            },
+            {
+              "display_url": "pic.twitter.com/M5PozGdRRY",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Aloevce/status/1818258914175304106/photo/1",
+              "media_key": "3_1818258848148541441",
+              "start": 15,
+              "url": "https://t.co/M5PozGdRRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818258914175304106",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真神人了 谁v我408补尾款 https://t.co/M5PozGdRRY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17184,
+          "following_count": 2193,
+          "like_count": 51994,
+          "listed_count": 19,
+          "tweet_count": 18108
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

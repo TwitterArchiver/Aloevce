@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2057339941848236373",
+    "created_at": "2026-05-21T05:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057339941848236373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rkmn696969/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/rkmn696969/status/2055909568962822331",
+          "start": 3,
+          "url": "https://t.co/YUhnSjCWZx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057339941848236373",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055909568962822331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "腿腿 https://t.co/YUhnSjCWZx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055909566026842112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgO241bgAAoq6c.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2057339941848236373",
+        "created_at": "2026-05-21T05:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057339941848236373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rkmn696969/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/rkmn696969/status/2055909568962822331",
+              "start": 3,
+              "url": "https://t.co/YUhnSjCWZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057339941848236373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055909568962822331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "腿腿 https://t.co/YUhnSjCWZx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055909566026842112"
+          ]
+        },
+        "author_id": "1417070361414234113",
+        "conversation_id": "2055909568962822331",
+        "created_at": "2026-05-17T07:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055909568962822331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6IbCm7Kwno",
+              "end": 70,
+              "expanded_url": "https://x.com/rkmn696969/status/2055909568962822331/photo/1",
+              "media_key": "3_2055909566026842112",
+              "start": 47,
+              "url": "https://t.co/6IbCm7Kwno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055909568962822331",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 11224,
+          "like_count": 797,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "サワムラー様のグッズ家中から集めてこうです👣偶像崇拝タイプなのでとにかくfitを買ってます👣 https://t.co/6IbCm7Kwno"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18226,
+          "following_count": 1977,
+          "like_count": 56020,
+          "listed_count": 24,
+          "media_count": 6715,
+          "tweet_count": 23645
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T10:34:51.000Z",
+        "description": "ポケモンのサワムラー様が一番好き🫶💓🎀👣アチャモ🐤とミミロル🐰とバケチャ🎃も好きだよ✌サワムラー狂人👣👣",
+        "id": "1417070361414234113",
+        "name": "たかのりとサワムラー👣",
+        "pinned_tweet_id": "2028819703649681809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045064178617176064/ti7c8jxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 108,
+          "like_count": 16403,
+          "listed_count": 15,
+          "media_count": 368,
+          "tweet_count": 1337
+        },
+        "username": "rkmn696969",
+        "verified": false
+      }
+    ]
+  }
+}

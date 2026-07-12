@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2061303639268798509",
+    "created_at": "2026-06-01T04:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T05:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061303639268798509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Aloevce/status/2060086904926925204",
+          "start": 8,
+          "url": "https://t.co/4ROFgdwOMk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061303639268798509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060086904926925204",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明天买辆三轮车 https://t.co/4ROFgdwOMk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2061303639268798509",
+        "created_at": "2026-06-01T04:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061303639268798509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Aloevce/status/2060086904926925204",
+              "start": 8,
+              "url": "https://t.co/4ROFgdwOMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061303639268798509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060086904926925204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天买辆三轮车 https://t.co/4ROFgdwOMk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2060086904926925204",
+        "created_at": "2026-05-28T19:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060086904926925204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060086904926925204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 503,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恋爱两周年礼物是一辆顺丰三轮车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18173,
+          "following_count": 1972,
+          "like_count": 56166,
+          "listed_count": 24,
+          "media_count": 6759,
+          "tweet_count": 23816
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

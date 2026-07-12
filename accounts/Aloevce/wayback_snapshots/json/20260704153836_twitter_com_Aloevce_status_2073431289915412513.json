@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2073431289915412513",
+    "created_at": "2026-07-04T15:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073431289915412513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2073063420509978888",
+          "start": 12,
+          "url": "https://t.co/JE0LQekDW2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073431289915412513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073063420509978888",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和马斯克平均月入百万 https://t.co/JE0LQekDW2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073063380202688513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUAKSXaEAEddSE.jpg",
+        "width": 1011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2073431289915412513",
+        "created_at": "2026-07-04T15:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073431289915412513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2073063420509978888",
+              "start": 12,
+              "url": "https://t.co/JE0LQekDW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073431289915412513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073063420509978888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和马斯克平均月入百万 https://t.co/JE0LQekDW2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073063380202688513"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2073063420509978888",
+        "created_at": "2026-07-03T15:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073063420509978888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQGtdnJ5zP",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2073063420509978888/photo/1",
+              "media_key": "3_2073063380202688513",
+              "start": 0,
+              "url": "https://t.co/QQGtdnJ5zP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073063420509978888",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 46649,
+          "like_count": 933,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QQGtdnJ5zP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18059,
+          "following_count": 1954,
+          "like_count": 56302,
+          "listed_count": 23,
+          "media_count": 6851,
+          "tweet_count": 24060
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36635,
+          "following_count": 368,
+          "like_count": 229,
+          "listed_count": 109,
+          "media_count": 16933,
+          "tweet_count": 17017
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

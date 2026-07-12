@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965503344987738113"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1965503350788825473",
+    "created_at": "2025-09-09T19:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T20:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965503350788825473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wwPSjcZ6Xm",
+          "end": 26,
+          "expanded_url": "https://x.com/Aloevce/status/1965503350788825473/photo/1",
+          "media_key": "3_1965503344987738113",
+          "start": 3,
+          "url": "https://t.co/wwPSjcZ6Xm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965503350788825473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "服用 https://t.co/wwPSjcZ6Xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1965503344987738113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0be4OrWEAEHv88.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965503344987738113"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1965503350788825473",
+        "created_at": "2025-09-09T19:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T20:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965503350788825473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wwPSjcZ6Xm",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/1965503350788825473/photo/1",
+              "media_key": "3_1965503344987738113",
+              "start": 3,
+              "url": "https://t.co/wwPSjcZ6Xm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965503350788825473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服用 https://t.co/wwPSjcZ6Xm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18963,
+          "following_count": 2405,
+          "like_count": 55421,
+          "listed_count": 24,
+          "media_count": 6243,
+          "tweet_count": 21790
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

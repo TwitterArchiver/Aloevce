@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072635894704623616"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2072635898416579056",
+    "created_at": "2026-07-02T10:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072635898416579056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h9mFK1Ba57",
+          "end": 34,
+          "expanded_url": "https://x.com/Aloevce/status/2072635898416579056/photo/1",
+          "media_key": "3_2072635894704623616",
+          "start": 11,
+          "url": "https://t.co/h9mFK1Ba57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072635898416579056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去梯子崩了一天很急 https://t.co/h9mFK1Ba57"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072635894704623616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN7XWyX0AAg4Nf.jpg",
+        "width": 1630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072635894704623616"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2072635898416579056",
+        "created_at": "2026-07-02T10:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072635898416579056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h9mFK1Ba57",
+              "end": 34,
+              "expanded_url": "https://x.com/Aloevce/status/2072635898416579056/photo/1",
+              "media_key": "3_2072635894704623616",
+              "start": 11,
+              "url": "https://t.co/h9mFK1Ba57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072635898416579056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去梯子崩了一天很急 https://t.co/h9mFK1Ba57"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18061,
+          "following_count": 1952,
+          "like_count": 56263,
+          "listed_count": 22,
+          "media_count": 6845,
+          "tweet_count": 24047
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

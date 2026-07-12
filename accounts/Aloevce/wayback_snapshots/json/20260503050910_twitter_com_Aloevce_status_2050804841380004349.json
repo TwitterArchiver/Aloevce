@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050804838594928640"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2050804841380004349",
+    "created_at": "2026-05-03T05:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050804841380004349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R4IrkKjJfx",
+          "end": 31,
+          "expanded_url": "https://x.com/Aloevce/status/2050804841380004349/photo/1",
+          "media_key": "3_2050804838594928640",
+          "start": 8,
+          "url": "https://t.co/R4IrkKjJfx"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/Aloevce/status/2050649327882625210",
+          "start": 32,
+          "url": "https://t.co/azvxKovkub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050804841380004349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050649327882625210",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对象哥非要搞。 https://t.co/R4IrkKjJfx https://t.co/azvxKovkub"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050804838594928640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXsIpQaYAAwAVY.jpg",
+        "width": 667
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050804838594928640"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2050804841380004349",
+        "created_at": "2026-05-03T05:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050804841380004349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4IrkKjJfx",
+              "end": 31,
+              "expanded_url": "https://x.com/Aloevce/status/2050804841380004349/photo/1",
+              "media_key": "3_2050804838594928640",
+              "start": 8,
+              "url": "https://t.co/R4IrkKjJfx"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Aloevce/status/2050649327882625210",
+              "start": 32,
+              "url": "https://t.co/azvxKovkub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050804841380004349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050649327882625210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对象哥非要搞。 https://t.co/R4IrkKjJfx https://t.co/azvxKovkub"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2050649327882625210",
+        "created_at": "2026-05-02T18:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050649327882625210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050649327882625210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1491,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对象哥想摆摊卖鸡尾酒有没有搞头。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18191,
+          "following_count": 1967,
+          "like_count": 55258,
+          "listed_count": 24,
+          "media_count": 6625,
+          "tweet_count": 23223
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

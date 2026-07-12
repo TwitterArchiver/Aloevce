@@ -1,0 +1,160 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1807662132592337245",
+    "created_at": "2024-07-01T06:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T07:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1807662132592337245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Aloevce/status/1682449528484683776",
+          "start": 5,
+          "url": "https://t.co/bLFa3I2pcb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807662132592337245",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1682449528484683776",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我请问了 https://t.co/bLFa3I2pcb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1807662132592337245",
+        "created_at": "2024-07-01T06:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T07:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807662132592337245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Aloevce/status/1682449528484683776",
+              "start": 5,
+              "url": "https://t.co/bLFa3I2pcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807662132592337245",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1682449528484683776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我请问了 https://t.co/bLFa3I2pcb"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1682449523900321792"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1682449528484683776",
+        "created_at": "2023-07-21T17:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2023-07-21T18:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1682449528484683776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/QES2Dou0Bs",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Aloevce/status/1682449528484683776/photo/1",
+              "media_key": "3_1682449523900321792",
+              "start": 4,
+              "url": "https://t.co/QES2Dou0Bs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1682449528484683776",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10160,
+          "like_count": 107,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我军训 https://t.co/QES2Dou0Bs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14054,
+          "following_count": 2215,
+          "like_count": 51881,
+          "listed_count": 18,
+          "tweet_count": 17818
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

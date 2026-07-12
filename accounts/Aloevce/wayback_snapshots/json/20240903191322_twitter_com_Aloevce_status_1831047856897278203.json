@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1831047856897278203",
+    "created_at": "2024-09-03T19:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T20:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1831047856897278203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/Aloevce/status/1831046756114858069",
+          "start": 48,
+          "url": "https://t.co/7jx1beT6VK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831047856897278203",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831046756114858069",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "睫毛膏ukiss 但是我懒得涂 \n下睫毛橘朵极细\n眼线笔花洛莉亚\n眉粉眉笔忘了\n双眼皮我不会贴 https://t.co/7jx1beT6VK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1831047856897278203",
+        "created_at": "2024-09-03T19:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T20:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831047856897278203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Aloevce/status/1831046756114858069",
+              "start": 48,
+              "url": "https://t.co/7jx1beT6VK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831047856897278203",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831046756114858069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "睫毛膏ukiss 但是我懒得涂 \n下睫毛橘朵极细\n眼线笔花洛莉亚\n眉粉眉笔忘了\n双眼皮我不会贴 https://t.co/7jx1beT6VK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831046733742084096"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1831046756114858069",
+        "created_at": "2024-09-03T19:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T20:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831046756114858069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/muaj8xteh0",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Aloevce/status/1831046756114858069/photo/1",
+              "media_key": "3_1831046733742084096",
+              "start": 7,
+              "url": "https://t.co/mUAj8XTeH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831046756114858069",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个很穷的人 https://t.co/mUAj8XTeH0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18073,
+          "following_count": 2264,
+          "like_count": 53103,
+          "listed_count": 22,
+          "tweet_count": 18804
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

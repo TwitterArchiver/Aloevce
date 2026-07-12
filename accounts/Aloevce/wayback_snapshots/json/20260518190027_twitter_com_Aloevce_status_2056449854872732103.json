@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2056449854872732103",
+    "created_at": "2026-05-18T19:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T20:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056449854872732103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/usagimm208/status/2056437377774821485",
+          "start": 2,
+          "url": "https://t.co/PnkJzF88IY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056449854872732103",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056437377774821485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/PnkJzF88IY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 240851,
+        "height": 720,
+        "media_key": "13_2056436672276172800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056436672276172800/img/hN7PonwquO255sb8.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056436672276172800/vid/avc1/480x270/S6s991GLv85CXIvq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056436672276172800/vid/avc1/640x360/xtWW_EjdbcWYPm40.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056436672276172800/vid/avc1/1280x720/4xjUTLoCXsiS2MeK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056436672276172800/pl/MjdGEQ5liISOcXR-.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2056449854872732103",
+        "created_at": "2026-05-18T19:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056449854872732103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/usagimm208/status/2056437377774821485",
+              "start": 2,
+              "url": "https://t.co/PnkJzF88IY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056449854872732103",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056437377774821485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/PnkJzF88IY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056436672276172800"
+          ]
+        },
+        "author_id": "2005739449058230272",
+        "conversation_id": "2056437377774821485",
+        "created_at": "2026-05-18T18:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056437377774821485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGTLelmavT",
+              "end": 43,
+              "expanded_url": "https://x.com/usagimm208/status/2056437377774821485/video/1",
+              "media_key": "13_2056436672276172800",
+              "start": 20,
+              "url": "https://t.co/MGTLelmavT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056437377774821485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日三丽鸥线下店购入分享，总计524元 https://t.co/MGTLelmavT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18224,
+          "following_count": 1969,
+          "like_count": 55925,
+          "listed_count": 24,
+          "media_count": 6701,
+          "tweet_count": 23588
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "暴食导致长胖10斤、每天还因为吃不饱而充满怨气的僵尸ぐる，皮下有双重人格随便切换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "ぐる",
+        "pinned_tweet_id": "2054194679433077045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053168025998925824/vH0cK6kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 14,
+          "like_count": 959,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

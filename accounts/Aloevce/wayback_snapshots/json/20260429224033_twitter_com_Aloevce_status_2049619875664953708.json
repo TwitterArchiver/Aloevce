@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2049619875664953708",
+    "created_at": "2026-04-29T22:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T23:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049619875664953708"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zoiqq271199/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/zoiqq271199/status/2049483626807783530",
+          "start": 4,
+          "url": "https://t.co/ZrYlnmbD34"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049619875664953708",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049483626807783530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "甜甜甜 https://t.co/ZrYlnmbD34"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049483615265079296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHE6fUzbwAAEj3h.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2049619875664953708",
+        "created_at": "2026-04-29T22:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049619875664953708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zoiqq271199/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/zoiqq271199/status/2049483626807783530",
+              "start": 4,
+              "url": "https://t.co/ZrYlnmbD34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049619875664953708",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049483626807783530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甜甜甜 https://t.co/ZrYlnmbD34"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049483615265079296"
+          ]
+        },
+        "author_id": "2041765199359950848",
+        "conversation_id": "2049483626807783530",
+        "created_at": "2026-04-29T13:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049483626807783530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2sjQj5n2Oe",
+              "end": 28,
+              "expanded_url": "https://x.com/zoiqq271199/status/2049483626807783530/photo/1",
+              "media_key": "3_2049483615265079296",
+              "start": 5,
+              "url": "https://t.co/2sjQj5n2Oe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049483626807783530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10920,
+          "like_count": 153,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠…… https://t.co/2sjQj5n2Oe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18168,
+          "following_count": 1943,
+          "like_count": 55040,
+          "listed_count": 24,
+          "media_count": 6607,
+          "tweet_count": 23167
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T06:30:32.000Z",
+        "description": "笨人只是两只猪的妈妈就别难为我了\n就想安安静静的玩泥巴看两只猪谈小恋爱\n什么都发 吃的玩的拉的黄的",
+        "id": "2041765199359950848",
+        "location": "湖光壹号楼梯间",
+        "name": "捏捏",
+        "pinned_tweet_id": "2042720000079991056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047016037162643456/mZkHHvtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 76,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1082
+        },
+        "username": "zoiqq271199",
+        "verified": false
+      }
+    ]
+  }
+}

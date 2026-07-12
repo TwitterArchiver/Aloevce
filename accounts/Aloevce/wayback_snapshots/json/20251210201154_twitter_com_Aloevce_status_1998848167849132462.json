@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998848160572100608"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1998848167849132462",
+    "created_at": "2025-12-10T20:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T21:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998848167849132462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fn4WHQIzac",
+          "end": 35,
+          "expanded_url": "https://x.com/Aloevce/status/1998848167849132462/photo/1",
+          "media_key": "3_1998848160572100608",
+          "start": 12,
+          "url": "https://t.co/Fn4WHQIzac"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Aloevce/status/1998833304125190266",
+          "start": 36,
+          "url": "https://t.co/WJx1FgGp5I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998848167849132462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998833304125190266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开了一会还是关上吧。。 https://t.co/Fn4WHQIzac https://t.co/WJx1FgGp5I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_1998848160572100608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G71Vz8rX0AAkfoV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998848160572100608"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1998848167849132462",
+        "created_at": "2025-12-10T20:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T21:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998848167849132462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fn4WHQIzac",
+              "end": 35,
+              "expanded_url": "https://x.com/Aloevce/status/1998848167849132462/photo/1",
+              "media_key": "3_1998848160572100608",
+              "start": 12,
+              "url": "https://t.co/Fn4WHQIzac"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Aloevce/status/1998833304125190266",
+              "start": 36,
+              "url": "https://t.co/WJx1FgGp5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998848167849132462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998833304125190266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开了一会还是关上吧。。 https://t.co/Fn4WHQIzac https://t.co/WJx1FgGp5I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1998833304125190266",
+        "created_at": "2025-12-10T19:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T20:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998833304125190266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998833304125190266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时隔一年我才意识到我把私信关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18465,
+          "following_count": 2400,
+          "like_count": 54565,
+          "listed_count": 24,
+          "media_count": 6353,
+          "tweet_count": 22205
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

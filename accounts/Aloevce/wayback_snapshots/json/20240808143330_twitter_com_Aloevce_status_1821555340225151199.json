@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1821555284088639488"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1821555340225151199",
+    "created_at": "2024-08-08T14:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T15:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821555340225151199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w20cvdhgef",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Aloevce/status/1821555340225151199/video/1",
+          "media_key": "7_1821555284088639488",
+          "start": 11,
+          "url": "https://t.co/W20CvDHgef"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821555340225151199",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉我面相都变了我草 https://t.co/W20CvDHgef"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3877,
+        "height": 1264,
+        "media_key": "7_1821555284088639488",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1821555284088639488/pu/img/yuGDRp_DBhqKoUWP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1821555284088639488/pu/vid/avc1/320x560/L0tPvmjOU0Rw7tvy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1821555284088639488/pu/vid/avc1/480x842/PgKREtKRiHWnIB3i.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1821555284088639488/pu/vid/avc1/720x1264/yRpjQm-moo4qN2Qv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1821555284088639488/pu/pl/sq7rZlw41Vd32KvP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1821555284088639488"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1821555340225151199",
+        "created_at": "2024-08-08T14:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T15:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821555340225151199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w20cvdhgef",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Aloevce/status/1821555340225151199/video/1",
+              "media_key": "7_1821555284088639488",
+              "start": 11,
+              "url": "https://t.co/W20CvDHgef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821555340225151199",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我面相都变了我草 https://t.co/W20CvDHgef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16817,
+          "following_count": 2176,
+          "like_count": 51978,
+          "listed_count": 19,
+          "tweet_count": 18193
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

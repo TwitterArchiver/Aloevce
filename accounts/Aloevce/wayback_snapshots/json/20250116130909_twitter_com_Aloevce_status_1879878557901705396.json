@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1879878555103858688"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1879878557901705396",
+    "created_at": "2025-01-16T13:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T14:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879878557901705396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vxPILxnkSb",
+          "end": 31,
+          "expanded_url": "https://x.com/Aloevce/status/1879878557901705396/photo/1",
+          "media_key": "3_1879878555103858688",
+          "start": 8,
+          "url": "https://t.co/vxPILxnkSb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879878557901705396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友们，入，懂 https://t.co/vxPILxnkSb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_1879878555103858688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GharlfnXEAAyFBb.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879878555103858688"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1879878557901705396",
+        "created_at": "2025-01-16T13:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T14:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879878557901705396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxPILxnkSb",
+              "end": 31,
+              "expanded_url": "https://x.com/Aloevce/status/1879878557901705396/photo/1",
+              "media_key": "3_1879878555103858688",
+              "start": 8,
+              "url": "https://t.co/vxPILxnkSb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879878557901705396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们，入，懂 https://t.co/vxPILxnkSb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1879847418914881656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17771,
+          "following_count": 2370,
+          "like_count": 54006,
+          "listed_count": 20,
+          "media_count": 5612,
+          "tweet_count": 20078
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

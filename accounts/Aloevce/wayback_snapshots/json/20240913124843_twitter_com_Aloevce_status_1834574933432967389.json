@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1834574933432967389",
+    "created_at": "2024-09-13T12:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T13:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834574933432967389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyallxx__22/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/nyallxx__22/status/1834135209421500743",
+          "start": 2,
+          "url": "https://t.co/nnbs9TTVqN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834574933432967389",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834135209421500743",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/nnbs9TTVqN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1834574933432967389",
+        "created_at": "2024-09-13T12:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T13:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834574933432967389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyallxx__22/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/nyallxx__22/status/1834135209421500743",
+              "start": 2,
+              "url": "https://t.co/nnbs9TTVqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834574933432967389",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834135209421500743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/nnbs9TTVqN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1834135189381066752"
+          ]
+        },
+        "author_id": "1707784260323811328",
+        "conversation_id": "1834135209421500743",
+        "created_at": "2024-09-12T07:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T08:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834135209421500743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5awgwpaci",
+              "end": 37,
+              "expanded_url": "https://twitter.com/nyallxx__22/status/1834135209421500743/video/1",
+              "media_key": "7_1834135189381066752",
+              "start": 14,
+              "url": "https://t.co/n5aWGwPACi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834135209421500743",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 228679,
+          "like_count": 1004,
+          "quote_count": 156,
+          "reply_count": 18,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "雨の中でもるんるんさりたん https://t.co/n5aWGwPACi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1828428048418373945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18039,
+          "following_count": 2255,
+          "like_count": 53069,
+          "listed_count": 22,
+          "tweet_count": 18870
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T15:48:04.000Z",
+        "description": "@inusukii あいらぶマイメロ 絶対大森靖子💖 ここで会える@Barfavo キラキラコンカフェ嬢♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "inusukii"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "Barfavo"
+              }
+            ]
+          }
+        },
+        "id": "1707784260323811328",
+        "location": "れんなたんらぶちゅ♡",
+        "name": "はむすたーさりたん♡",
+        "pinned_tweet_id": "1811381229553602607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824479454049210368/tYXvTnMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2452,
+          "following_count": 241,
+          "like_count": 9002,
+          "listed_count": 6,
+          "tweet_count": 4144
+        },
+        "username": "nyallxx__22",
+        "verified": false
+      }
+    ]
+  }
+}

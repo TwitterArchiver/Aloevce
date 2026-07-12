@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2052062603258577177",
+    "created_at": "2026-05-06T16:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052062603258577177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Seen_nanshan/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Seen_nanshan/status/2052038855101219190",
+          "start": 9,
+          "url": "https://t.co/SxjtMbYG4u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052062603258577177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052038855101219190",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽尼玛啊太神了 https://t.co/SxjtMbYG4u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052038811400712192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpObULasAAdjhS.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1398,
+        "media_key": "3_2052038811337805825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpObT8a0AEiJgP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2052062603258577177",
+        "created_at": "2026-05-06T16:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052062603258577177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Seen_nanshan/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Seen_nanshan/status/2052038855101219190",
+              "start": 9,
+              "url": "https://t.co/SxjtMbYG4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052062603258577177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052038855101219190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽尼玛啊太神了 https://t.co/SxjtMbYG4u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052038811400712192",
+            "3_2052038811337805825"
+          ]
+        },
+        "author_id": "1513326571934806022",
+        "conversation_id": "2052038855101219190",
+        "created_at": "2026-05-06T14:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052038855101219190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmFEqFt05h",
+              "end": 29,
+              "expanded_url": "https://x.com/Seen_nanshan/status/2052038855101219190/photo/1",
+              "media_key": "3_2052038811400712192",
+              "start": 6,
+              "url": "https://t.co/xmFEqFt05h"
+            },
+            {
+              "display_url": "pic.x.com/xmFEqFt05h",
+              "end": 29,
+              "expanded_url": "https://x.com/Seen_nanshan/status/2052038855101219190/photo/1",
+              "media_key": "3_2052038811337805825",
+              "start": 6,
+              "url": "https://t.co/xmFEqFt05h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052038855101219190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 7163,
+          "like_count": 517,
+          "quote_count": 43,
+          "reply_count": 43,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "联排有说法 https://t.co/xmFEqFt05h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18217,
+          "following_count": 1972,
+          "like_count": 55557,
+          "listed_count": 24,
+          "media_count": 6643,
+          "tweet_count": 23370
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T01:22:42.000Z",
+        "description": "墙外切换第二人格 画点唠点不能播的 这边的版本不要往墙内传",
+        "id": "1513326571934806022",
+        "name": "__见南山",
+        "pinned_tweet_id": "2011223446576038044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603267011445825536/7Hc1u_t__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2911,
+          "following_count": 48,
+          "like_count": 73,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 34
+        },
+        "username": "Seen_nanshan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2075542803644354629",
+    "created_at": "2026-07-10T11:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075542803644354629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/usagimm208/status/2075499818148061555",
+          "start": 5,
+          "url": "https://t.co/KH50WKgVl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075542803644354629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075499818148061555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "微信推你 https://t.co/KH50WKgVl1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2075542803644354629",
+        "created_at": "2026-07-10T11:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075542803644354629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/usagimm208/status/2075499818148061555",
+              "start": 5,
+              "url": "https://t.co/KH50WKgVl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075542803644354629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075499818148061555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "微信推你 https://t.co/KH50WKgVl1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005739449058230272",
+        "conversation_id": "2075499818148061555",
+        "created_at": "2026-07-10T08:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075499818148061555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075499818148061555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闪焰王牌家表弟其实还挺可爱的，感觉性转一下会是我喜欢的那种女生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18050,
+          "following_count": 1956,
+          "like_count": 56392,
+          "listed_count": 23,
+          "media_count": 6879,
+          "tweet_count": 24159
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "无能系弱女オタク",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "そちゃ",
+        "pinned_tweet_id": "2058643879059190070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 49,
+          "like_count": 2973,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

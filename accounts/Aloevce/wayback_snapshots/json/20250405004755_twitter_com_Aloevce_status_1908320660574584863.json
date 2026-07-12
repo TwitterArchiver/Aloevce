@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1908320660574584863",
+    "created_at": "2025-04-05T00:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T01:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908320660574584863"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1908320660574584863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友圈除了现充同学就是不知从哪扩列来的不熟的神人说乱七八糟的话，于是打开推特就是那几个莫名其妙的神人在吵架"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1908320660574584863",
+        "created_at": "2025-04-05T00:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T01:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908320660574584863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908320660574584863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友圈除了现充同学就是不知从哪扩列来的不熟的神人说乱七八糟的话，于是打开推特就是那几个莫名其妙的神人在吵架"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17640,
+          "following_count": 2386,
+          "like_count": 54561,
+          "listed_count": 19,
+          "media_count": 5923,
+          "tweet_count": 20909
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

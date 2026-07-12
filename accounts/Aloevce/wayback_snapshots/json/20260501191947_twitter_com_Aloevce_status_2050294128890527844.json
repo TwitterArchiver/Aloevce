@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2050294128890527844",
+    "created_at": "2026-05-01T19:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T20:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050294128890527844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LLLuen_/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/LLLuen_/status/2050142280452018649",
+          "start": 3,
+          "url": "https://t.co/Kk0KOP8ymD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050294128890527844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050142280452018649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "队。 https://t.co/Kk0KOP8ymD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2050294128890527844",
+        "created_at": "2026-05-01T19:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T20:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050294128890527844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LLLuen_/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/LLLuen_/status/2050142280452018649",
+              "start": 3,
+              "url": "https://t.co/Kk0KOP8ymD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050294128890527844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050142280452018649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "队。 https://t.co/Kk0KOP8ymD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049888078123368448",
+        "conversation_id": "2050142280452018649",
+        "created_at": "2026-05-01T09:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050142280452018649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050142280452018649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢黑叉。微博一堆🍬比。他喵的对外都不好意思说自己磕橹穆。可神经一群人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "日记本",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18177,
+          "following_count": 1947,
+          "like_count": 55066,
+          "listed_count": 24,
+          "media_count": 6614,
+          "tweet_count": 23185
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T16:26:59.000Z",
+        "description": "當幸福來臨時 請緊握",
+        "id": "2049888078123368448",
+        "location": "美国",
+        "name": "杆墩母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049888532500770816/-veGNnul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "LLLuen_",
+        "verified": false
+      }
+    ]
+  }
+}

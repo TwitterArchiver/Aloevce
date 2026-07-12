@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2043592617859174606",
+    "created_at": "2026-04-13T07:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043592617859174606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mugi_cinderace…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/mugi_cinderace/status/2008464738649596176",
+          "start": 11,
+          "url": "https://t.co/fJNp6CP9j9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043592617859174606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008464738649596176",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝你是一个香香软软 https://t.co/fJNp6CP9j9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_2008464733977108480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-ACMSa4AAS7PJ.jpg",
+        "width": 1300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2043592617859174606",
+        "created_at": "2026-04-13T07:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043592617859174606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mugi_cinderace…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/mugi_cinderace/status/2008464738649596176",
+              "start": 11,
+              "url": "https://t.co/fJNp6CP9j9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043592617859174606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008464738649596176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝你是一个香香软软 https://t.co/fJNp6CP9j9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008464733977108480"
+          ]
+        },
+        "author_id": "1232528008352694274",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008464738649596176",
+        "created_at": "2026-01-06T09:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008464738649596176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQ58ANSVic",
+              "end": 26,
+              "expanded_url": "https://x.com/mugi_cinderace/status/2008464738649596176/photo/1",
+              "media_key": "3_2008464733977108480",
+              "start": 3,
+              "url": "https://t.co/CQ58ANSVic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008464738649596176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 6516,
+          "like_count": 541,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "ゆき https://t.co/CQ58ANSVic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17817,
+          "following_count": 2296,
+          "like_count": 54308,
+          "listed_count": 21,
+          "media_count": 6568,
+          "tweet_count": 22935
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-26T04:50:24.000Z",
+        "description": "エースバーン♂ガチ恋勢▼cpはエス主だけ▼イラスト画像の無断転載、無断複製禁止Do not use my images without my permission▼Skeb: https://t.co/DsVlQeLl4v▼過激エス主:@mugi_fragola 🔥🐇:@buyi_cinderace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "mugi_fragola"
+              },
+              {
+                "end": 150,
+                "start": 135,
+                "username": "buyi_cinderace"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mugi_cinderace",
+                "end": 111,
+                "expanded_url": "https://skeb.jp/@mugi_cinderace",
+                "start": 88,
+                "url": "https://t.co/DsVlQeLl4v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/58997825",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/58997825",
+                "start": 0,
+                "url": "https://t.co/s9Hp7lQ91F"
+              }
+            ]
+          }
+        },
+        "id": "1232528008352694274",
+        "location": "ガラルとエオス島",
+        "name": "ウィーテ🫖",
+        "pinned_tweet_id": "1916071702255308825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909215839771152384/MWX7O48e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6450,
+          "following_count": 62,
+          "like_count": 7735,
+          "listed_count": 20,
+          "media_count": 1517,
+          "tweet_count": 11218
+        },
+        "url": "https://t.co/s9Hp7lQ91F",
+        "username": "mugi_cinderace",
+        "verified": false
+      }
+    ]
+  }
+}

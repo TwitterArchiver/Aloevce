@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064971481038176256",
+        "3_2064971477078679552"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064971485433733564",
+    "created_at": "2026-06-11T07:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064971485433733564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8dwH6BCrYD",
+          "end": 35,
+          "expanded_url": "https://x.com/Aloevce/status/2064971485433733564/photo/1",
+          "media_key": "3_2064971481038176256",
+          "start": 12,
+          "url": "https://t.co/8dwH6BCrYD"
+        },
+        {
+          "display_url": "pic.x.com/8dwH6BCrYD",
+          "end": 35,
+          "expanded_url": "https://x.com/Aloevce/status/2064971485433733564/photo/1",
+          "media_key": "3_2064971477078679552",
+          "start": 12,
+          "url": "https://t.co/8dwH6BCrYD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064971485433733564",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "精液质地漆使我呼吸不畅 https://t.co/8dwH6BCrYD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064971481038176256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhAnw6XwAAFM9Q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064971477078679552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhAniKWoAAXspJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064971481038176256",
+            "3_2064971477078679552"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064971485433733564",
+        "created_at": "2026-06-11T07:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064971485433733564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8dwH6BCrYD",
+              "end": 35,
+              "expanded_url": "https://x.com/Aloevce/status/2064971485433733564/photo/1",
+              "media_key": "3_2064971481038176256",
+              "start": 12,
+              "url": "https://t.co/8dwH6BCrYD"
+            },
+            {
+              "display_url": "pic.x.com/8dwH6BCrYD",
+              "end": 35,
+              "expanded_url": "https://x.com/Aloevce/status/2064971485433733564/photo/1",
+              "media_key": "3_2064971477078679552",
+              "start": 12,
+              "url": "https://t.co/8dwH6BCrYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064971485433733564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精液质地漆使我呼吸不畅 https://t.co/8dwH6BCrYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18139,
+          "following_count": 1971,
+          "like_count": 56337,
+          "listed_count": 24,
+          "media_count": 6787,
+          "tweet_count": 23928
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

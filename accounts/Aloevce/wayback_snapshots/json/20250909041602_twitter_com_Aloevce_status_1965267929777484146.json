@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1965267929777484146",
+    "created_at": "2025-09-09T04:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T05:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965267929777484146"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1965267929777484146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天嗓子疼疑似阳了，吃了点感冒药又吃了碗面条，加了点菌类疑似没煮熟，感冒药➕晕碳➕菌类中毒（自诊，吃完咚的一声直接倒在床上睡着了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1965267929777484146",
+        "created_at": "2025-09-09T04:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T05:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965267929777484146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965267929777484146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天嗓子疼疑似阳了，吃了点感冒药又吃了碗面条，加了点菌类疑似没煮熟，感冒药➕晕碳➕菌类中毒（自诊，吃完咚的一声直接倒在床上睡着了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1949556477242257419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18965,
+          "following_count": 2402,
+          "like_count": 55418,
+          "listed_count": 24,
+          "media_count": 6240,
+          "tweet_count": 21786
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

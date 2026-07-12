@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2054021760966709553",
+    "created_at": "2026-05-12T02:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T03:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054021760966709553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nin1sama/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Nin1sama/status/2053997570851250396",
+          "start": 6,
+          "url": "https://t.co/4XRQjHG4lg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054021760966709553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053997570851250396",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想要牛爷爷 https://t.co/4XRQjHG4lg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2053997560835293184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFD5icbQAAYDTJ.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2053997560839409665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFD5idaEAEdi9N.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2053997560843612160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFD5ieaMAAoG4T.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2053997560835256320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFD5icasAA87Bn.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2054021760966709553",
+        "created_at": "2026-05-12T02:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054021760966709553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nin1sama/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Nin1sama/status/2053997570851250396",
+              "start": 6,
+              "url": "https://t.co/4XRQjHG4lg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054021760966709553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053997570851250396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想要牛爷爷 https://t.co/4XRQjHG4lg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053997560835293184",
+            "3_2053997560839409665",
+            "3_2053997560843612160",
+            "3_2053997560835256320"
+          ]
+        },
+        "author_id": "1668160511815593986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053997570851250396",
+        "created_at": "2026-05-12T00:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053997570851250396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZKKC6fiDJQ",
+              "end": 33,
+              "expanded_url": "https://x.com/Nin1sama/status/2053997570851250396/photo/1",
+              "media_key": "3_2053997560835293184",
+              "start": 10,
+              "url": "https://t.co/ZKKC6fiDJQ"
+            },
+            {
+              "display_url": "pic.x.com/ZKKC6fiDJQ",
+              "end": 33,
+              "expanded_url": "https://x.com/Nin1sama/status/2053997570851250396/photo/1",
+              "media_key": "3_2053997560839409665",
+              "start": 10,
+              "url": "https://t.co/ZKKC6fiDJQ"
+            },
+            {
+              "display_url": "pic.x.com/ZKKC6fiDJQ",
+              "end": 33,
+              "expanded_url": "https://x.com/Nin1sama/status/2053997570851250396/photo/1",
+              "media_key": "3_2053997560843612160",
+              "start": 10,
+              "url": "https://t.co/ZKKC6fiDJQ"
+            },
+            {
+              "display_url": "pic.x.com/ZKKC6fiDJQ",
+              "end": 33,
+              "expanded_url": "https://x.com/Nin1sama/status/2053997570851250396/photo/1",
+              "media_key": "3_2053997560835256320",
+              "start": 10,
+              "url": "https://t.co/ZKKC6fiDJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053997570851250396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢壮壮妈有懂的吗 https://t.co/ZKKC6fiDJQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18257,
+          "following_count": 1988,
+          "like_count": 55768,
+          "listed_count": 24,
+          "media_count": 6672,
+          "tweet_count": 23493
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T07:37:34.000Z",
+        "description": "爱冷冰如雨/喜欢有礼貌的b/Young Master/Never look backwards/人都有各自的月亮/我淡然/经百千劫 常在缠缚/more ashes🌫️🥀/loyalty＞luv/妮王/IDFWU/Not Exclusive",
+        "id": "1668160511815593986",
+        "name": "Misfit98",
+        "pinned_tweet_id": "1668286389501452293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016313986539802624/VilQedYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7715,
+          "following_count": 318,
+          "like_count": 9415,
+          "listed_count": 49,
+          "media_count": 3709,
+          "tweet_count": 6774
+        },
+        "username": "Nin1sama",
+        "verified": false
+      }
+    ]
+  }
+}

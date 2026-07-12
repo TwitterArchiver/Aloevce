@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2025498361487331485",
+    "created_at": "2026-02-22T09:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T10:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025498361487331485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jurrito_/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jurrito_/status/2025204078230548830",
+          "start": 5,
+          "url": "https://t.co/dFMp9yIRTB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025498361487331485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025204078230548830",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/dFMp9yIRTB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1397,
+        "media_key": "3_2025203807211356160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBr4IfaaAAABhc2.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2025498361487331485",
+        "created_at": "2026-02-22T09:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025498361487331485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jurrito_/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jurrito_/status/2025204078230548830",
+              "start": 5,
+              "url": "https://t.co/dFMp9yIRTB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025498361487331485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025204078230548830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/dFMp9yIRTB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025203807211356160"
+          ]
+        },
+        "author_id": "1577355394850213890",
+        "conversation_id": "2025204078230548830",
+        "created_at": "2026-02-21T13:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025204078230548830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V3S5pk8cS0",
+              "end": 37,
+              "expanded_url": "https://x.com/jurrito_/status/2025204078230548830/photo/1",
+              "media_key": "3_2025203807211356160",
+              "start": 14,
+              "url": "https://t.co/V3S5pk8cS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025204078230548830",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6522,
+          "impression_count": 323388,
+          "like_count": 44155,
+          "quote_count": 251,
+          "reply_count": 128,
+          "retweet_count": 2927
+        },
+        "reply_settings": "everyone",
+        "text": "Burger girl 🍔 https://t.co/V3S5pk8cS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18356,
+          "following_count": 2284,
+          "like_count": 54985,
+          "listed_count": 22,
+          "media_count": 6500,
+          "tweet_count": 22655
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T17:50:17.000Z",
+        "description": "I like to draw and eat cheesecake 🍰^•͈ᴗ•͈^ ੭ @GohanMeatRider 🩷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "GohanMeatRider"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jurrito.straw.page",
+                "end": 23,
+                "expanded_url": "http://jurrito.straw.page",
+                "start": 0,
+                "url": "https://t.co/muomGwN6rG"
+              }
+            ]
+          }
+        },
+        "id": "1577355394850213890",
+        "location": "she/her, 18, bi",
+        "name": "Juri🪼",
+        "pinned_tweet_id": "1721915897743540558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991407047884034048/GRqam8yO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4944,
+          "following_count": 989,
+          "like_count": 39290,
+          "listed_count": 13,
+          "media_count": 1460,
+          "tweet_count": 9875
+        },
+        "url": "https://t.co/muomGwN6rG",
+        "username": "jurrito_",
+        "verified": false
+      }
+    ]
+  }
+}

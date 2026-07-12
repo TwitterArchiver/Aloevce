@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2027762993312792684",
+    "created_at": "2026-02-28T15:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027767269665726976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1406536122344394755",
+          "start": 0,
+          "username": "Chcr_6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027767269665726976",
+    "in_reply_to_user_id": "1406536122344394755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027765777638850669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chcr_6 谢谢小宝呀😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2027762993312792684",
+        "created_at": "2026-02-28T15:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027767269665726976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1406536122344394755",
+              "start": 0,
+              "username": "Chcr_6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027767269665726976",
+        "in_reply_to_user_id": "1406536122344394755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027765777638850669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chcr_6 谢谢小宝呀😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1406536122344394755",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Newlyweds",
+              "id": "847546008917520384",
+              "name": "Newlyweds"
+            }
+          }
+        ],
+        "conversation_id": "2027762993312792684",
+        "created_at": "2026-02-28T15:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027765777638850669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027765777638850669",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027762993312792684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 我去。我有半年多没怎么玩过推了，&gt;_&lt;，刚看到，迟来的新婚快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18385,
+          "following_count": 2290,
+          "like_count": 54616,
+          "listed_count": 22,
+          "media_count": 6510,
+          "tweet_count": 22701
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-20T08:56:25.000Z",
+        "description": "小栀",
+        "id": "1406536122344394755",
+        "location": "肉体躯壳",
+        "name": "来自于栀子花",
+        "pinned_tweet_id": "1765758417220821383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697928460335783936/qz2xDhvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 332,
+          "like_count": 15316,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 2951
+        },
+        "username": "Chcr_6",
+        "verified": false
+      }
+    ]
+  }
+}

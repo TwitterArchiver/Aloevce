@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1885025730200760554",
+    "created_at": "2025-01-30T18:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T19:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885025730200760554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ratshelprats/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ratshelprats/status/1885025102699651327",
+          "start": 4,
+          "url": "https://t.co/3vkmRFUYrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885025730200760554",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885025102699651327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我哭了 https://t.co/3vkmRFUYrj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1885025730200760554",
+        "created_at": "2025-01-30T18:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T19:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885025730200760554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ratshelprats/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ratshelprats/status/1885025102699651327",
+              "start": 4,
+              "url": "https://t.co/3vkmRFUYrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885025730200760554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885025102699651327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哭了 https://t.co/3vkmRFUYrj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885025099453259778"
+          ]
+        },
+        "author_id": "1782932905419046912",
+        "conversation_id": "1885025102699651327",
+        "created_at": "2025-01-30T17:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T18:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885025102699651327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQUI6Q8Kmo",
+              "end": 23,
+              "expanded_url": "https://x.com/ratshelprats/status/1885025102699651327/photo/1",
+              "media_key": "3_1885025099453259778",
+              "start": 0,
+              "url": "https://t.co/uQUI6Q8Kmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885025102699651327",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uQUI6Q8Kmo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰王牌从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1883941576986276044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17799,
+          "following_count": 2391,
+          "like_count": 54583,
+          "listed_count": 20,
+          "media_count": 5748,
+          "tweet_count": 20502
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "1862271802019590557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69205,
+          "following_count": 468,
+          "like_count": 36969,
+          "listed_count": 94,
+          "media_count": 445,
+          "tweet_count": 972
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

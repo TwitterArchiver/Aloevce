@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1797495617771716913",
+    "created_at": "2024-06-03T06:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T07:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797509307573178469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1641465534884769792",
+          "start": 0,
+          "username": "L_27999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797509307573178469",
+    "in_reply_to_user_id": "1641465534884769792",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797504390875754904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L_27999 二三百"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1797495617771716913",
+        "created_at": "2024-06-03T06:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T07:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797509307573178469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1641465534884769792",
+              "start": 0,
+              "username": "L_27999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797509307573178469",
+        "in_reply_to_user_id": "1641465534884769792",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797504390875754904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L_27999 二三百"
+      },
+      {
+        "attachments": {},
+        "author_id": "1641465534884769792",
+        "conversation_id": "1797495617771716913",
+        "created_at": "2024-06-03T05:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T06:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797504390875754904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797504390875754904",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797495617771716913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 预算"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795447835732881408/Lypwm-n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13133,
+          "following_count": 2223,
+          "like_count": 51724,
+          "listed_count": 18,
+          "tweet_count": 17544
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-30T15:41:03.000Z",
+        "description": "一个没有感情的废话制造器，梦想是做家庭主夫。",
+        "id": "1641465534884769792",
+        "name": "JOJO",
+        "pinned_tweet_id": "1662975208599461889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653972671791763456/lM99HGV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 127,
+          "like_count": 294,
+          "listed_count": 0,
+          "tweet_count": 5977
+        },
+        "username": "L_27999",
+        "verified": false
+      }
+    ]
+  }
+}

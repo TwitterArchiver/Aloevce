@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026181984117014528"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Spa and Medical Spa",
+          "id": "855066047157649408",
+          "name": "Spas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      }
+    ],
+    "conversation_id": "2026181988894335136",
+    "created_at": "2026-02-24T06:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T07:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026181988894335136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ebbNm7DTRv",
+          "end": 38,
+          "expanded_url": "https://x.com/Aloevce/status/2026181988894335136/photo/1",
+          "media_key": "3_2026181984117014528",
+          "start": 15,
+          "url": "https://t.co/ebbNm7DTRv"
+        },
+        {
+          "display_url": "x.com/YueYue929/stat…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/YueYue929/status/2026156338259361847",
+          "start": 39,
+          "url": "https://t.co/aI1Gx6Zdg8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026181988894335136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026156338259361847",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完蛋了对象哥泡不了日本温泉。 https://t.co/ebbNm7DTRv https://t.co/aI1Gx6Zdg8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026181984117014528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5xx4WXQAATj62.jpg",
+        "width": 563
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026156334950096896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5ac5wboAAjZvz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026181984117014528"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2026181988894335136",
+        "created_at": "2026-02-24T06:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026181988894335136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebbNm7DTRv",
+              "end": 38,
+              "expanded_url": "https://x.com/Aloevce/status/2026181988894335136/photo/1",
+              "media_key": "3_2026181984117014528",
+              "start": 15,
+              "url": "https://t.co/ebbNm7DTRv"
+            },
+            {
+              "display_url": "x.com/YueYue929/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/YueYue929/status/2026156338259361847",
+              "start": 39,
+              "url": "https://t.co/aI1Gx6Zdg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026181988894335136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026156338259361847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完蛋了对象哥泡不了日本温泉。 https://t.co/ebbNm7DTRv https://t.co/aI1Gx6Zdg8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026156334950096896"
+          ]
+        },
+        "author_id": "1689574303619076096",
+        "conversation_id": "2026015145516773601",
+        "created_at": "2026-02-24T04:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026156338259361847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLLeR2EVem",
+              "end": 55,
+              "expanded_url": "https://x.com/YueYue929/status/2026156338259361847/photo/1",
+              "media_key": "3_2026156334950096896",
+              "start": 32,
+              "url": "https://t.co/JLLeR2EVem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026156338259361847",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026015145516773601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 北海道特别美！在那边泡私汤还能拍好多漂亮照片 https://t.co/JLLeR2EVem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18383,
+          "following_count": 2286,
+          "like_count": 54994,
+          "listed_count": 22,
+          "media_count": 6504,
+          "tweet_count": 22674
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T09:48:20.000Z",
+        "description": "想说啥说啥，想发啥发啥。200r认识一下，赞赏码/口令红包。",
+        "id": "1689574303619076096",
+        "location": "🎀",
+        "name": "YY",
+        "pinned_tweet_id": "2026166518019719414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892464540794966020/9pP6zHSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3856,
+          "following_count": 35,
+          "like_count": 4103,
+          "listed_count": 10,
+          "media_count": 61,
+          "tweet_count": 656
+        },
+        "username": "YueYue929",
+        "verified": false
+      }
+    ]
+  }
+}

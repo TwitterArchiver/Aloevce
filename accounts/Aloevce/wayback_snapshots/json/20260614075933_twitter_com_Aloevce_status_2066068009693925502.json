@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2066067881511825408"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2066068009693925502",
+    "created_at": "2026-06-14T07:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066068009693925502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M6NSdV4VUb",
+          "end": 53,
+          "expanded_url": "https://x.com/Aloevce/status/2066068009693925502/video/1",
+          "media_key": "7_2066067881511825408",
+          "start": 30,
+          "url": "https://t.co/M6NSdV4VUb"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/Aloevce/status/2066011090946056544",
+          "start": 54,
+          "url": "https://t.co/iqQIdx86kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066068009693925502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066011090946056544",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "去医院了 得了猫支原体 疑似是被新猫传的 但是新猫却没显病 https://t.co/M6NSdV4VUb https://t.co/iqQIdx86kk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6631,
+        "height": 1280,
+        "media_key": "7_2066067881511825408",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066067881511825408/pu/img/EnVL9fGYOkBe0ZBC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066067881511825408/pu/vid/avc1/320x568/rq0l6aIpJ3CmtQv9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066067881511825408/pu/vid/avc1/480x852/RwWEof1bBJlXJTs1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066067881511825408/pu/vid/avc1/720x1280/HdRX2u76Rw3sCgfN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066067881511825408/pu/pl/CeUsMXZAEfHO4lO5.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066067881511825408"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2066068009693925502",
+        "created_at": "2026-06-14T07:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066068009693925502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6NSdV4VUb",
+              "end": 53,
+              "expanded_url": "https://x.com/Aloevce/status/2066068009693925502/video/1",
+              "media_key": "7_2066067881511825408",
+              "start": 30,
+              "url": "https://t.co/M6NSdV4VUb"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/Aloevce/status/2066011090946056544",
+              "start": 54,
+              "url": "https://t.co/iqQIdx86kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066068009693925502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066011090946056544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去医院了 得了猫支原体 疑似是被新猫传的 但是新猫却没显病 https://t.co/M6NSdV4VUb https://t.co/iqQIdx86kk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2066011090946056544",
+        "created_at": "2026-06-14T04:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066011090946056544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066011090946056544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "捡来小猫之后原住民三天不吃不喝🙀🙀🙀🙀🙀🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18128,
+          "following_count": 1967,
+          "like_count": 56340,
+          "listed_count": 24,
+          "media_count": 6800,
+          "tweet_count": 23948
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

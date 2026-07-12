@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915161460021309440"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1915161467076194407",
+    "created_at": "2025-04-23T21:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T22:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915161467076194407"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uO4qKU2i92",
+          "end": 35,
+          "expanded_url": "https://x.com/Aloevce/status/1915161467076194407/photo/1",
+          "media_key": "3_1915161460021309440",
+          "start": 12,
+          "url": "https://t.co/uO4qKU2i92"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915161467076194407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我为什么会有粉色的衣服 https://t.co/uO4qKU2i92"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915161460021309440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpQFM3AWsAAg0td.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915161460021309440"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1915161467076194407",
+        "created_at": "2025-04-23T21:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T22:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915161467076194407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uO4qKU2i92",
+              "end": 35,
+              "expanded_url": "https://x.com/Aloevce/status/1915161467076194407/photo/1",
+              "media_key": "3_1915161460021309440",
+              "start": 12,
+              "url": "https://t.co/uO4qKU2i92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915161467076194407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为什么会有粉色的衣服 https://t.co/uO4qKU2i92"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17584,
+          "following_count": 2378,
+          "like_count": 54454,
+          "listed_count": 19,
+          "media_count": 5966,
+          "tweet_count": 21012
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

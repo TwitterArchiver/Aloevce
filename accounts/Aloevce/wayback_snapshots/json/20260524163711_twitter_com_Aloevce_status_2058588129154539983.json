@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2058588129154539983",
+    "created_at": "2026-05-24T16:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058588129154539983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/laigendianziya…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/laigendianziyan/status/2058588039132373001",
+          "start": 2,
+          "url": "https://t.co/9qrqZVMpWw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058588129154539983",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058588039132373001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😺 https://t.co/9qrqZVMpWw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2058588129154539983",
+        "created_at": "2026-05-24T16:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058588129154539983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/laigendianziya…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/laigendianziyan/status/2058588039132373001",
+              "start": 2,
+              "url": "https://t.co/9qrqZVMpWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058588129154539983",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058588039132373001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😺 https://t.co/9qrqZVMpWw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2058585021846290906",
+        "created_at": "2026-05-24T16:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058588039132373001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058588039132373001",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058585021846290906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18197,
+          "following_count": 1971,
+          "like_count": 56152,
+          "listed_count": 24,
+          "media_count": 6733,
+          "tweet_count": 23714
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "隔壁永远在尖叫。\n欢迎互fo看到fo基本都会回微查成分致歉\n欢迎匿名提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2057985868439355476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 177,
+          "like_count": 8037,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "laigendianziyan",
+        "verified": false
+      }
+    ]
+  }
+}

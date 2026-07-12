@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004887246911275008",
+        "7_2004887249947942912",
+        "3_2004887514977550336"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2004887518437925028",
+    "created_at": "2025-12-27T12:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T13:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004887518437925028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cpQZfmJ2MT",
+          "end": 34,
+          "expanded_url": "https://x.com/Aloevce/status/2004887518437925028/video/1",
+          "media_key": "3_2004887246911275008",
+          "start": 11,
+          "url": "https://t.co/cpQZfmJ2MT"
+        },
+        {
+          "display_url": "pic.x.com/cpQZfmJ2MT",
+          "end": 34,
+          "expanded_url": "https://x.com/Aloevce/status/2004887518437925028/video/1",
+          "media_key": "7_2004887249947942912",
+          "start": 11,
+          "url": "https://t.co/cpQZfmJ2MT"
+        },
+        {
+          "display_url": "pic.x.com/cpQZfmJ2MT",
+          "end": 34,
+          "expanded_url": "https://x.com/Aloevce/status/2004887518437925028/video/1",
+          "media_key": "3_2004887514977550336",
+          "start": 11,
+          "url": "https://t.co/cpQZfmJ2MT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004887518437925028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟着蛋神烹饪了鸡蛋羹 https://t.co/cpQZfmJ2MT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004887246911275008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9LKVCbbgAAWClK.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 2507,
+        "height": 1280,
+        "media_key": "7_2004887249947942912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2004887249947942912/pu/img/_ixiSP5_Q28Yi_j0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004887249947942912/pu/vid/avc1/320x568/3XWnjlQ7GysJ9fX0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004887249947942912/pu/vid/avc1/480x852/5vSe7M8r8JXGw78Q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004887249947942912/pu/vid/avc1/720x1280/8HwWYbg77r6Qexoq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2004887249947942912/pu/pl/BN9ExrdPxoVlcID3.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2004887514977550336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9LKkpDaQAAfxfa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004887246911275008",
+            "7_2004887249947942912",
+            "3_2004887514977550336"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2004887518437925028",
+        "created_at": "2025-12-27T12:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T13:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004887518437925028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpQZfmJ2MT",
+              "end": 34,
+              "expanded_url": "https://x.com/Aloevce/status/2004887518437925028/video/1",
+              "media_key": "3_2004887246911275008",
+              "start": 11,
+              "url": "https://t.co/cpQZfmJ2MT"
+            },
+            {
+              "display_url": "pic.x.com/cpQZfmJ2MT",
+              "end": 34,
+              "expanded_url": "https://x.com/Aloevce/status/2004887518437925028/video/1",
+              "media_key": "7_2004887249947942912",
+              "start": 11,
+              "url": "https://t.co/cpQZfmJ2MT"
+            },
+            {
+              "display_url": "pic.x.com/cpQZfmJ2MT",
+              "end": 34,
+              "expanded_url": "https://x.com/Aloevce/status/2004887518437925028/video/1",
+              "media_key": "3_2004887514977550336",
+              "start": 11,
+              "url": "https://t.co/cpQZfmJ2MT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004887518437925028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟着蛋神烹饪了鸡蛋羹 https://t.co/cpQZfmJ2MT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18653,
+          "following_count": 2497,
+          "like_count": 55378,
+          "listed_count": 23,
+          "media_count": 6432,
+          "tweet_count": 22443
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

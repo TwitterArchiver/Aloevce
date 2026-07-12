@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1859972066738626745",
+    "created_at": "2024-11-23T15:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T16:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860348965939523930"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "让我康康",
+          "probability": 0.4702,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1379398295043203073",
+          "start": 0,
+          "username": "saiboaimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860348965939523930",
+    "in_reply_to_user_id": "1379398295043203073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860348244884115669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saiboaimi 让我康康"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1859972066738626745",
+        "created_at": "2024-11-23T15:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T16:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860348965939523930"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "让我康康",
+              "probability": 0.4702,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1379398295043203073",
+              "start": 0,
+              "username": "saiboaimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860348965939523930",
+        "in_reply_to_user_id": "1379398295043203073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860348244884115669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saiboaimi 让我康康"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1379398295043203073",
+        "conversation_id": "1859972066738626745",
+        "created_at": "2024-11-23T15:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T16:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860348244884115669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860348244884115669",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859972066738626745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 图片里这个是p站上的一个大牛牛姐姐的视频，我还有他主页收藏链接呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17581,
+          "following_count": 2312,
+          "like_count": 53381,
+          "listed_count": 21,
+          "tweet_count": 19466
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-06T11:39:31.000Z",
+        "description": "不值得被爱被喜欢，就是个整天幻想有人爱有人陪的该死的家伙",
+        "id": "1379398295043203073",
+        "location": "潮湿脏乱下水道",
+        "name": "赛博坦智能仿生AI高级特工艾米菜菜嘟（天生倒霉扫把星圣体）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838058679595364352/pm1-2WJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 479,
+          "like_count": 286,
+          "listed_count": 3,
+          "tweet_count": 1439
+        },
+        "username": "saiboaimi",
+        "verified": false
+      }
+    ]
+  }
+}

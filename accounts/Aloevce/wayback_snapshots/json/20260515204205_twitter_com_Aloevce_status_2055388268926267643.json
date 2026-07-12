@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2055388268926267643",
+    "created_at": "2026-05-15T20:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T21:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055388268926267643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Aloevce/status/2055385159374115097",
+          "start": 21,
+          "url": "https://t.co/Sodn1ESKSs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055388268926267643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055385159374115097",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有今天去成都草莓音乐节的可以找我们。 https://t.co/Sodn1ESKSs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2055385156979130368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYx6Q5aAAAXQiq.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2055388268926267643",
+        "created_at": "2026-05-15T20:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T21:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055388268926267643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Aloevce/status/2055385159374115097",
+              "start": 21,
+              "url": "https://t.co/Sodn1ESKSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055388268926267643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055385159374115097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有今天去成都草莓音乐节的可以找我们。 https://t.co/Sodn1ESKSs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055385156979130368"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055385159374115097",
+        "created_at": "2026-05-15T20:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T21:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055385159374115097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zA7p8kf3rB",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/2055385159374115097/photo/1",
+              "media_key": "3_2055385156979130368",
+              "start": 5,
+              "url": "https://t.co/zA7p8kf3rB"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Aloevce/status/2055284434325410144",
+              "start": 29,
+              "url": "https://t.co/hnbTiDIdYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055385159374115097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055284434325410144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁来消费 https://t.co/zA7p8kf3rB https://t.co/hnbTiDIdYm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18245,
+          "following_count": 1976,
+          "like_count": 55862,
+          "listed_count": 24,
+          "media_count": 6683,
+          "tweet_count": 23541
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

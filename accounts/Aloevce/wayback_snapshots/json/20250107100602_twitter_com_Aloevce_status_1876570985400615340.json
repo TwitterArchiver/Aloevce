@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1876570985400615340",
+    "created_at": "2025-01-07T10:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T11:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876570985400615340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1489688049680515072",
+          "start": 3,
+          "username": "wakaba_yuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876570985400615340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876561756577030481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wakaba_yuu: 我去，我这么与世无争都有人挂我\n你们的人生是有多无聊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1876570985400615340",
+        "created_at": "2025-01-07T10:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T11:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876570985400615340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1489688049680515072",
+              "start": 3,
+              "username": "wakaba_yuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876570985400615340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876561756577030481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wakaba_yuu: 我去，我这么与世无争都有人挂我\n你们的人生是有多无聊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489688049680515072",
+        "conversation_id": "1876561756577030481",
+        "created_at": "2025-01-07T09:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T10:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876561756577030481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876561756577030481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 641,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我去，我这么与世无争都有人挂我\n你们的人生是有多无聊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "额",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17721,
+          "following_count": 2367,
+          "like_count": 53844,
+          "listed_count": 20,
+          "media_count": 5558,
+          "tweet_count": 19936
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T19:51:32.000Z",
+        "description": "黒色界隈🖤┊︎戀人@mana_ikuta┊︎大一辣妹┊︎無性別 - Agender",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "mana_ikuta"
+              }
+            ]
+          }
+        },
+        "id": "1489688049680515072",
+        "location": "Hong Kong",
+        "name": "葉🎐",
+        "pinned_tweet_id": "1842586505434542149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873392021987282944/d3D_C6HM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21478,
+          "following_count": 755,
+          "like_count": 13456,
+          "listed_count": 57,
+          "media_count": 235,
+          "tweet_count": 1861
+        },
+        "username": "wakaba_yuu",
+        "verified": false
+      }
+    ]
+  }
+}

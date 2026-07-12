@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1907418318023127542",
+    "created_at": "2025-04-02T13:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T14:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907418318023127542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Aloevce/status/1907249364822614142",
+          "start": 17,
+          "url": "https://t.co/RqNPdFUgQl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907418318023127542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907249364822614142",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对象哥玩了一晚上把前两个人通关了 https://t.co/RqNPdFUgQl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1907418318023127542",
+        "created_at": "2025-04-02T13:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T14:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907418318023127542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Aloevce/status/1907249364822614142",
+              "start": 17,
+              "url": "https://t.co/RqNPdFUgQl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907418318023127542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907249364822614142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对象哥玩了一晚上把前两个人通关了 https://t.co/RqNPdFUgQl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1907249364822614142",
+        "created_at": "2025-04-02T01:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T02:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907249364822614142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907249364822614142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 965,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对象哥沉迷杀戮尖塔不睡觉咋办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17660,
+          "following_count": 2388,
+          "like_count": 54555,
+          "listed_count": 20,
+          "media_count": 5920,
+          "tweet_count": 20900
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

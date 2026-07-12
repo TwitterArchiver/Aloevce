@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2054975947074343179",
+    "created_at": "2026-05-14T17:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054975947074343179"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Aloevce/status/2054950183322910814",
+          "start": 8,
+          "url": "https://t.co/TGi964YV20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054975947074343179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054950183322910814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想买酒红色sc https://t.co/TGi964YV20"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2054975947074343179",
+        "created_at": "2026-05-14T17:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054975947074343179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Aloevce/status/2054950183322910814",
+              "start": 8,
+              "url": "https://t.co/TGi964YV20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054975947074343179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054950183322910814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想买酒红色sc https://t.co/TGi964YV20"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2054950183322910814",
+        "created_at": "2026-05-14T15:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054950183322910814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Aloevce/status/2054841861236297986",
+              "start": 7,
+              "url": "https://t.co/h5fM7JKlL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054950183322910814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054841861236297986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想买昆虫物语 https://t.co/h5fM7JKlL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18252,
+          "following_count": 1972,
+          "like_count": 55848,
+          "listed_count": 24,
+          "media_count": 6681,
+          "tweet_count": 23528
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

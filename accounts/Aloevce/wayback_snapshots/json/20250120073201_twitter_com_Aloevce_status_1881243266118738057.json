@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881207683883335680"
+      ],
+      "media_source_tweet_id": [
+        "1881207689667371508"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1881243266118738057",
+    "created_at": "2025-01-20T07:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T08:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881243266118738057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1132969730271133696",
+          "start": 3,
+          "username": "WaveMono"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NBHKoSO8UI",
+          "end": 50,
+          "expanded_url": "https://x.com/WaveMono/status/1881207689667371508/photo/1",
+          "media_key": "3_1881207683883335680",
+          "start": 27,
+          "url": "https://t.co/NBHKoSO8UI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881243266118738057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881207689667371508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WaveMono: 感觉是闪焰王牌会穿的内裤 https://t.co/NBHKoSO8UI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1881207683883335680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghtka-KaAAAh6pT.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881207683883335680"
+          ],
+          "media_source_tweet_id": [
+            "1881207689667371508"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1881243266118738057",
+        "created_at": "2025-01-20T07:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T08:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881243266118738057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1132969730271133696",
+              "start": 3,
+              "username": "WaveMono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBHKoSO8UI",
+              "end": 50,
+              "expanded_url": "https://x.com/WaveMono/status/1881207689667371508/photo/1",
+              "media_key": "3_1881207683883335680",
+              "start": 27,
+              "url": "https://t.co/NBHKoSO8UI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881243266118738057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881207689667371508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WaveMono: 感觉是闪焰王牌会穿的内裤 https://t.co/NBHKoSO8UI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881207683883335680"
+          ]
+        },
+        "author_id": "1132969730271133696",
+        "conversation_id": "1881207689667371508",
+        "created_at": "2025-01-20T05:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T06:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881207689667371508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBHKoSO8UI",
+              "end": 36,
+              "expanded_url": "https://x.com/WaveMono/status/1881207689667371508/photo/1",
+              "media_key": "3_1881207683883335680",
+              "start": 13,
+              "url": "https://t.co/NBHKoSO8UI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881207689667371508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉是闪焰王牌会穿的内裤 https://t.co/NBHKoSO8UI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1879847418914881656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17827,
+          "following_count": 2376,
+          "like_count": 54191,
+          "listed_count": 20,
+          "media_count": 5655,
+          "tweet_count": 20186
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-27T11:20:08.000Z",
+        "description": "",
+        "id": "1132969730271133696",
+        "name": "cloudWave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325645322811551745/3yL35bgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 2116,
+          "like_count": 1565,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 402
+        },
+        "username": "WaveMono",
+        "verified": false
+      }
+    ]
+  }
+}

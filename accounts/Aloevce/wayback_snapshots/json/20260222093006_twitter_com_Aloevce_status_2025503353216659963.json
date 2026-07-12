@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025428668924018688"
+      ],
+      "media_source_tweet_id": [
+        "2025428675148349682"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1492240250147512324",
+          "name": "Day of cat (JP)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1492240250147512324",
+          "name": "Day of cat (JP)"
+        }
+      }
+    ],
+    "conversation_id": "2025503353216659963",
+    "created_at": "2026-02-22T09:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T10:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025503353216659963"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "猫の日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1637726965",
+          "start": 3,
+          "username": "maple926"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uTW93Y9jJS",
+          "end": 50,
+          "expanded_url": "https://x.com/maple926/status/2025428675148349682/photo/1",
+          "media_key": "3_2025428668924018688",
+          "start": 27,
+          "url": "https://t.co/uTW93Y9jJS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025503353216659963",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 569
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025428675148349682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maple926: ごはんタイム\n #猫の日 https://t.co/uTW93Y9jJS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_2025428668924018688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvEpKkbwAAtUVh.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025428668924018688"
+          ],
+          "media_source_tweet_id": [
+            "2025428675148349682"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          }
+        ],
+        "conversation_id": "2025503353216659963",
+        "created_at": "2026-02-22T09:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025503353216659963"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "猫の日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1637726965",
+              "start": 3,
+              "username": "maple926"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uTW93Y9jJS",
+              "end": 50,
+              "expanded_url": "https://x.com/maple926/status/2025428675148349682/photo/1",
+              "media_key": "3_2025428668924018688",
+              "start": 27,
+              "url": "https://t.co/uTW93Y9jJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025503353216659963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 569
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025428675148349682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maple926: ごはんタイム\n #猫の日 https://t.co/uTW93Y9jJS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025428668924018688"
+          ]
+        },
+        "author_id": "1637726965",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          }
+        ],
+        "conversation_id": "2025428675148349682",
+        "created_at": "2026-02-22T04:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025428675148349682"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "猫の日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uTW93Y9jJS",
+              "end": 36,
+              "expanded_url": "https://x.com/maple926/status/2025428675148349682/photo/1",
+              "media_key": "3_2025428668924018688",
+              "start": 13,
+              "url": "https://t.co/uTW93Y9jJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025428675148349682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 35847,
+          "like_count": 3450,
+          "quote_count": 15,
+          "reply_count": 6,
+          "retweet_count": 569
+        },
+        "reply_settings": "everyone",
+        "text": "ごはんタイム\n #猫の日 https://t.co/uTW93Y9jJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18356,
+          "following_count": 2284,
+          "like_count": 54986,
+          "listed_count": 22,
+          "media_count": 6500,
+          "tweet_count": 22657
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-01T10:51:01.000Z",
+        "description": "アローラロコン推し。動物・ミニキャラのお仕事はDMからお願いいたします。LINEスタンプ→https://t.co/uHJyIAbc0e skeb(ご依頼はコチラ)→https://t.co/PqxdwtBrCg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "line.me/S/shop/sticker…",
+                "end": 68,
+                "expanded_url": "https://line.me/S/shop/sticker/author/1694200",
+                "start": 45,
+                "url": "https://t.co/uHJyIAbc0e"
+              },
+              {
+                "display_url": "skeb.jp/@maple926",
+                "end": 106,
+                "expanded_url": "https://skeb.jp/@maple926",
+                "start": 83,
+                "url": "https://t.co/PqxdwtBrCg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kana0926.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://kana0926.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/EcC3LHtJSi"
+              }
+            ]
+          }
+        },
+        "id": "1637726965",
+        "location": "アローラロコンの尻尾の中",
+        "name": "かな",
+        "pinned_tweet_id": "1692150838926737503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997566308112805888/gbQySXem_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44304,
+          "following_count": 314,
+          "like_count": 13701,
+          "listed_count": 308,
+          "media_count": 2140,
+          "tweet_count": 15807
+        },
+        "url": "https://t.co/EcC3LHtJSi",
+        "username": "maple926",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2003695808097484801"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2003696117989670931",
+    "created_at": "2025-12-24T05:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T06:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003696117989670931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T1hHWFQBRb",
+          "end": 40,
+          "expanded_url": "https://x.com/Aloevce/status/2003696117989670931/video/1",
+          "media_key": "7_2003695808097484801",
+          "start": 17,
+          "url": "https://t.co/T1hHWFQBRb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003696117989670931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦曹尼玛 领结婚证俩人忘带身份证 https://t.co/T1hHWFQBRb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6320,
+        "height": 1280,
+        "media_key": "7_2003695808097484801",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2003695808097484801/pu/img/-25ta8bv-bDy6auf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003695808097484801/pu/vid/avc1/320x568/a404PVj7mtCn9_36.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003695808097484801/pu/vid/avc1/480x852/d__4JJgkMhJFSYRB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003695808097484801/pu/vid/avc1/720x1280/w559rVLhUMTctwBX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2003695808097484801/pu/pl/DYds6ZUTx61b9MO9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2003695808097484801"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2003696117989670931",
+        "created_at": "2025-12-24T05:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T06:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003696117989670931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1hHWFQBRb",
+              "end": 40,
+              "expanded_url": "https://x.com/Aloevce/status/2003696117989670931/video/1",
+              "media_key": "7_2003695808097484801",
+              "start": 17,
+              "url": "https://t.co/T1hHWFQBRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003696117989670931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦曹尼玛 领结婚证俩人忘带身份证 https://t.co/T1hHWFQBRb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18512,
+          "following_count": 2486,
+          "like_count": 55119,
+          "listed_count": 23,
+          "media_count": 6416,
+          "tweet_count": 22398
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

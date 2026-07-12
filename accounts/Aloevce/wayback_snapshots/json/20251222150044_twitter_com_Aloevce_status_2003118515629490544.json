@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2002723100056805589",
+    "created_at": "2025-12-22T15:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T16:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003118515629490544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1614118737690644480",
+          "start": 0,
+          "username": "Gr1ef27443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003118515629490544",
+    "in_reply_to_user_id": "1614118737690644480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002979986882625849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gr1ef27443 阔以的捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2002723100056805589",
+        "created_at": "2025-12-22T15:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003118515629490544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1614118737690644480",
+              "start": 0,
+              "username": "Gr1ef27443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003118515629490544",
+        "in_reply_to_user_id": "1614118737690644480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002979986882625849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gr1ef27443 阔以的捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614118737690644480",
+        "conversation_id": "2002723100056805589",
+        "created_at": "2025-12-22T05:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T06:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002979986882625849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002979986882625849",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002723100056805589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce omg下次可以去成都找王牌玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1998448457091338639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18524,
+          "following_count": 2483,
+          "like_count": 55101,
+          "listed_count": 23,
+          "media_count": 6407,
+          "tweet_count": 22386
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-14T04:34:39.000Z",
+        "description": "唉",
+        "id": "1614118737690644480",
+        "name": "活埋我自己",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789347792173109248/0cRtHUcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 278,
+          "like_count": 2576,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 3202
+        },
+        "username": "Gr1ef27443",
+        "verified": false
+      }
+    ]
+  }
+}

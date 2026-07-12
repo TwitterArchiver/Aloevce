@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065178616854650880"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2065178619865919593",
+    "created_at": "2026-06-11T21:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T22:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065178619865919593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4CFXf63tzp",
+          "end": 72,
+          "expanded_url": "https://x.com/Aloevce/status/2065178619865919593/photo/1",
+          "media_key": "3_2065178616854650880",
+          "start": 49,
+          "url": "https://t.co/4CFXf63tzp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065178619865919593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？捡到了一只粘人的品种猫 不知道是什么品种 外表好像有点猫藓好像没啥大毛病 等宠物医院开门去看看 https://t.co/4CFXf63tzp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065178616854650880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKj9Ap9aoAAbRRk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065178616854650880"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2065178619865919593",
+        "created_at": "2026-06-11T21:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T22:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065178619865919593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4CFXf63tzp",
+              "end": 72,
+              "expanded_url": "https://x.com/Aloevce/status/2065178619865919593/photo/1",
+              "media_key": "3_2065178616854650880",
+              "start": 49,
+              "url": "https://t.co/4CFXf63tzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065178619865919593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？捡到了一只粘人的品种猫 不知道是什么品种 外表好像有点猫藓好像没啥大毛病 等宠物医院开门去看看 https://t.co/4CFXf63tzp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18136,
+          "following_count": 1969,
+          "like_count": 56340,
+          "listed_count": 24,
+          "media_count": 6791,
+          "tweet_count": 23934
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

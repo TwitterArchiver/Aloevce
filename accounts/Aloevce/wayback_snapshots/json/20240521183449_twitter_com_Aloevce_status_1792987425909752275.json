@@ -1,0 +1,146 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1792984397227974915",
+    "created_at": "2024-05-21T18:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T19:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792987425909752275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1509889538705203204",
+          "start": 0,
+          "username": "ssakke_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792987425909752275",
+    "in_reply_to_user_id": "1509889538705203204",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792987337485332968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssakke_ yes喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1792987337485332968].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1792987337485332968",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1792987337485332968"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1792984397227974915",
+        "created_at": "2024-05-21T18:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T19:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792987425909752275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1509889538705203204",
+              "start": 0,
+              "username": "ssakke_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792987425909752275",
+        "in_reply_to_user_id": "1509889538705203204",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792987337485332968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssakke_ yes喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12852,
+          "following_count": 2233,
+          "like_count": 52102,
+          "listed_count": 18,
+          "tweet_count": 17478
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T13:45:05.000Z",
+        "description": "吃麦当劳吃死了，脾气很好很温凉从不骂人",
+        "id": "1509889538705203204",
+        "name": "饿死不吃肯德基",
+        "pinned_tweet_id": "1780950407495487551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792066727666388993/wx08jnTE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 512,
+          "like_count": 6833,
+          "listed_count": 1,
+          "tweet_count": 5871
+        },
+        "username": "ssakke_",
+        "verified": false
+      }
+    ]
+  }
+}

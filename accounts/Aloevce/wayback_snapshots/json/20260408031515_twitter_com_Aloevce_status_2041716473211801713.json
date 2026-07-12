@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2041579266605781201",
+    "created_at": "2026-04-08T03:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T04:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041716473211801713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1756996074059833344",
+          "start": 0,
+          "username": "awspoooon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041716473211801713",
+    "in_reply_to_user_id": "1756996074059833344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041714206542852591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awspoooon 小红书上抄哒可以搜搜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2041579266605781201",
+        "created_at": "2026-04-08T03:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041716473211801713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1756996074059833344",
+              "start": 0,
+              "username": "awspoooon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041716473211801713",
+        "in_reply_to_user_id": "1756996074059833344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041714206542852591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awspoooon 小红书上抄哒可以搜搜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756996074059833344",
+        "conversation_id": "2041579266605781201",
+        "created_at": "2026-04-08T03:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041714206542852591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041714206542852591",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041579266605781201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 这个矿场地图有教学吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18010,
+          "following_count": 2305,
+          "like_count": 54054,
+          "listed_count": 23,
+          "media_count": 6562,
+          "tweet_count": 22837
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T10:58:11.000Z",
+        "description": "CHINA 🇨🇳 |19s male♑️| infp |sharing about game and daily mood📷",
+        "id": "1756996074059833344",
+        "location": "San Francisco, CA",
+        "name": "haPPYcanotbreathe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904014551454269440/3uVnZCd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 3637,
+          "like_count": 10736,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1001
+        },
+        "username": "awspoooon",
+        "verified": false
+      }
+    ]
+  }
+}

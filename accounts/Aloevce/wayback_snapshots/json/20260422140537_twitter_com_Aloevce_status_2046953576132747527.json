@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046953423590031361"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2046953576132747527",
+    "created_at": "2026-04-22T14:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046953576132747527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v2a6l9eosc",
+          "end": 36,
+          "expanded_url": "https://x.com/Aloevce/status/2046953576132747527/video/1",
+          "media_key": "7_2046953423590031361",
+          "start": 13,
+          "url": "https://t.co/v2a6l9eosc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046953576132747527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "衣服都是蓝色像没换过衣服 https://t.co/v2a6l9eosc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4856,
+        "height": 1280,
+        "media_key": "7_2046953423590031361",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046953423590031361/pu/img/49-lp3odOGYBHQnX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046953423590031361/pu/vid/avc1/320x568/8akyulZ1KtDj078V.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046953423590031361/pu/vid/avc1/480x852/lo1AK2Hc3dX0Gnon.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046953423590031361/pu/vid/avc1/720x1280/Oq5n0NiyqyDLOrdb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046953423590031361/pu/pl/ErcYhzRsh9YN8LU3.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046953423590031361"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2046953576132747527",
+        "created_at": "2026-04-22T14:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046953576132747527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v2a6l9eosc",
+              "end": 36,
+              "expanded_url": "https://x.com/Aloevce/status/2046953576132747527/video/1",
+              "media_key": "7_2046953423590031361",
+              "start": 13,
+              "url": "https://t.co/v2a6l9eosc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046953576132747527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "衣服都是蓝色像没换过衣服 https://t.co/v2a6l9eosc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17848,
+          "following_count": 2337,
+          "like_count": 54469,
+          "listed_count": 21,
+          "media_count": 6597,
+          "tweet_count": 23076
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

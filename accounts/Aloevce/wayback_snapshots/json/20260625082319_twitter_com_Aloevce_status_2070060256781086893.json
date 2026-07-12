@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2070060256781086893",
+    "created_at": "2026-06-25T08:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070060256781086893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/Aloevce/status/2069838336760410246",
+          "start": 30,
+          "url": "https://t.co/0MdGOxRVaP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070060256781086893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069838336760410246",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉偷偷看了对象哥手机还在跟他妈抱怨我花钱买衣服买得凶 唉我 https://t.co/0MdGOxRVaP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2069838332247384064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmK_ygXoAAsrcT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069838333178462208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmK_1-WwAAH8E4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2070060256781086893",
+        "created_at": "2026-06-25T08:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070060256781086893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Aloevce/status/2069838336760410246",
+              "start": 30,
+              "url": "https://t.co/0MdGOxRVaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070060256781086893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069838336760410246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉偷偷看了对象哥手机还在跟他妈抱怨我花钱买衣服买得凶 唉我 https://t.co/0MdGOxRVaP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069838332247384064",
+            "3_2069838333178462208"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069838336760410246",
+        "created_at": "2026-06-24T17:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069838336760410246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BcrRKmCLmF",
+              "end": 74,
+              "expanded_url": "https://x.com/Aloevce/status/2069838336760410246/photo/1",
+              "media_key": "3_2069838332247384064",
+              "start": 51,
+              "url": "https://t.co/BcrRKmCLmF"
+            },
+            {
+              "display_url": "pic.x.com/BcrRKmCLmF",
+              "end": 74,
+              "expanded_url": "https://x.com/Aloevce/status/2069838336760410246/photo/1",
+              "media_key": "3_2069838333178462208",
+              "start": 51,
+              "url": "https://t.co/BcrRKmCLmF"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/Aloevce/status/2069743697281830963",
+              "start": 75,
+              "url": "https://t.co/xWGDUJ4Pjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069838336760410246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2486,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069743697281830963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好结局之对象哥醒了之后恢复正常了一起吃了常吃的炒鱿鱼 回来把家收拾好了之后躺在凉凉的凉席上很舒服。。 https://t.co/BcrRKmCLmF https://t.co/xWGDUJ4Pjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18094,
+          "following_count": 1961,
+          "like_count": 56368,
+          "listed_count": 23,
+          "media_count": 6830,
+          "tweet_count": 24029
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

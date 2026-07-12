@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2040093210068783579",
+    "created_at": "2026-04-04T01:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T02:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040240050709967224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3177196842",
+          "start": 0,
+          "username": "tC8VBRSlaNaWIRZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040240050709967224",
+    "in_reply_to_user_id": "3177196842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040178992427499989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tC8VBRSlaNaWIRZ 空镇和山地纠结中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2040093210068783579",
+        "created_at": "2026-04-04T01:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040240050709967224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3177196842",
+              "start": 0,
+              "username": "tC8VBRSlaNaWIRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040240050709967224",
+        "in_reply_to_user_id": "3177196842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040178992427499989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tC8VBRSlaNaWIRZ 空镇和山地纠结中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3177196842",
+        "conversation_id": "2040093210068783579",
+        "created_at": "2026-04-03T21:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T22:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040178992427499989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040178992427499989",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040093210068783579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 我也在想建个live场，在想放哪个地图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18108,
+          "following_count": 2309,
+          "like_count": 53927,
+          "listed_count": 22,
+          "media_count": 6555,
+          "tweet_count": 22773
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-27T01:27:09.000Z",
+        "description": "蟹になりたい🦀",
+        "id": "3177196842",
+        "location": "Vancouver, British Columbia",
+        "name": "北公爵小三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/592501171589238784/hgphfiN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 503,
+          "like_count": 46381,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 10296
+        },
+        "username": "tC8VBRSlaNaWIRZ",
+        "verified": false
+      }
+    ]
+  }
+}

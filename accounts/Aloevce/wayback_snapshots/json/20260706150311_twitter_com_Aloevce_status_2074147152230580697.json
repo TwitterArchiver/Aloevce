@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2074147152230580697",
+    "created_at": "2026-07-06T15:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074147152230580697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lngdenngnn2498…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/lngdenngnn24987/status/2074140820924764275",
+          "start": 34,
+          "url": "https://t.co/UfjwRBI1Uy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074147152230580697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074140820924764275",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对象哥也这么说 我的安卓机像素像一零年的。谁资助我一个苹果谢谢。 https://t.co/UfjwRBI1Uy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2074147152230580697",
+        "created_at": "2026-07-06T15:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074147152230580697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lngdenngnn2498…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/lngdenngnn24987/status/2074140820924764275",
+              "start": 34,
+              "url": "https://t.co/UfjwRBI1Uy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074147152230580697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074140820924764275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对象哥也这么说 我的安卓机像素像一零年的。谁资助我一个苹果谢谢。 https://t.co/UfjwRBI1Uy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839166397399838724",
+        "conversation_id": "2074067941000184091",
+        "created_at": "2026-07-06T14:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074140820924764275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074140820924764275",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074067941000184091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 宝子你拉尿用手机摄像头擦的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18054,
+          "following_count": 1954,
+          "like_count": 56343,
+          "listed_count": 23,
+          "media_count": 6859,
+          "tweet_count": 24088
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T04:53:45.000Z",
+        "description": "互关我喜欢你们 欢迎私联\n我不理你是因为你智力非常低下",
+        "id": "1839166397399838724",
+        "location": "距离你0.2km",
+        "name": "绫地宁宁",
+        "pinned_tweet_id": "1914352426859348184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879967900825710602/SyEM48ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 481,
+          "like_count": 101004,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 12331
+        },
+        "url": "",
+        "username": "lngdenngnn24987",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1806378926828400640"
+      ],
+      "media_source_tweet_id": [
+        "1806378943773331746"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1806383244192952464",
+    "created_at": "2024-06-27T17:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T18:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806383244192952464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1800161761771044864",
+          "start": 3,
+          "username": "Seiiiiiiy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/NoLmbO1gmD",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806378943773331746/video/1",
+          "media_key": "7_1806378926828400640",
+          "start": 15,
+          "url": "https://t.co/NoLmbO1gmD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806383244192952464",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806378943773331746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seiiiiiiy: https://t.co/NoLmbO1gmD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1648,
+        "height": 960,
+        "media_key": "7_1806378926828400640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1806378926828400640/pu/img/LL_2bUIHwuNw9Vbi.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806378926828400640/pu/vid/avc1/320x426/HxrcaNygmD1DbZ6e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806378926828400640/pu/vid/avc1/480x640/Kx820DPXdWy1uI6N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806378926828400640/pu/vid/avc1/720x960/L6k_IF35df1uQLaL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1806378926828400640/pu/pl/mHu_ac3RtlEY8ETy.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1806378926828400640"
+          ],
+          "media_source_tweet_id": [
+            "1806378943773331746"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1806383244192952464",
+        "created_at": "2024-06-27T17:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T18:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806383244192952464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1800161761771044864",
+              "start": 3,
+              "username": "Seiiiiiiy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/NoLmbO1gmD",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806378943773331746/video/1",
+              "media_key": "7_1806378926828400640",
+              "start": 15,
+              "url": "https://t.co/NoLmbO1gmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806383244192952464",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806378943773331746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seiiiiiiy: https://t.co/NoLmbO1gmD"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1806378926828400640"
+          ]
+        },
+        "author_id": "1800161761771044864",
+        "conversation_id": "1806378943773331746",
+        "created_at": "2024-06-27T17:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T18:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806378943773331746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/NoLmbO1gmD",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Seiiiiiiy/status/1806378943773331746/video/1",
+              "media_key": "7_1806378926828400640",
+              "start": 0,
+              "url": "https://t.co/NoLmbO1gmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806378943773331746",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NoLmbO1gmD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13964,
+          "following_count": 2211,
+          "like_count": 51878,
+          "listed_count": 18,
+          "tweet_count": 17790
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T13:43:17.000Z",
+        "description": "我是东莨菪碱 我宝宝@fumsk719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "fumsk719"
+              }
+            ]
+          }
+        },
+        "id": "1800161761771044864",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "东莨菪碱",
+        "pinned_tweet_id": "1806378943773331746",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 129,
+          "like_count": 374,
+          "listed_count": 3,
+          "tweet_count": 175
+        },
+        "username": "Seiiiiiiy",
+        "verified": false
+      }
+    ]
+  }
+}

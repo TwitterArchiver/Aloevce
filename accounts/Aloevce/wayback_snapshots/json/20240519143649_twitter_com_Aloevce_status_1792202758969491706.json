@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1792202758969491706",
+    "created_at": "2024-05-19T14:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T15:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792202758969491706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1607922536133656577",
+          "start": 3,
+          "username": "Ririca520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792202758969491706",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792191096782565614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ririca520: 你好，请助力主播5kfo，谢谢\n我说完了（鞠躬）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1792202758969491706",
+        "created_at": "2024-05-19T14:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T15:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792202758969491706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1607922536133656577",
+              "start": 3,
+              "username": "Ririca520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792202758969491706",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792191096782565614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ririca520: 你好，请助力主播5kfo，谢谢\n我说完了（鞠躬）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1607922536133656577",
+        "conversation_id": "1792191096782565614",
+        "created_at": "2024-05-19T13:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T14:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792191096782565614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792191096782565614",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你好，请助力主播5kfo，谢谢\n我说完了（鞠躬）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "以后不要来打扰我了，谢谢",
+        "id": "1495662254544789506",
+        "name": "点赞罗伯特",
+        "pinned_tweet_id": "1787155899187937465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787013556031848448/Xz-UAqxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12839,
+          "following_count": 2235,
+          "like_count": 52084,
+          "listed_count": 18,
+          "tweet_count": 17428
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T02:13:13.000Z",
+        "description": "傲娇且毒舌｜海外在住｜古典钢琴｜🎹@Mizukileau🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Mizukileau"
+              }
+            ]
+          }
+        },
+        "id": "1607922536133656577",
+        "location": "音乐厅",
+        "name": "姌",
+        "pinned_tweet_id": "1723879681668067340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787485678701252608/TwN0letI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4906,
+          "following_count": 550,
+          "like_count": 56764,
+          "listed_count": 15,
+          "tweet_count": 4453
+        },
+        "username": "Ririca520",
+        "verified": false
+      }
+    ]
+  }
+}

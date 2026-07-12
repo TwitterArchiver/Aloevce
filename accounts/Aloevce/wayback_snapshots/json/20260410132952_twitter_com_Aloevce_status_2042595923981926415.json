@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2042595923981926415",
+    "created_at": "2026-04-10T13:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042595923981926415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cawanodes/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/cawanodes/status/2032270437200351459",
+          "start": 26,
+          "url": "https://t.co/lEolGSOMXx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042595923981926415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032270437200351459",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去啊怎么还有龟脚脚厨 还刷到了沙瓦郎厨和刺尾虫厨 https://t.co/lEolGSOMXx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032270431315705856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQTMJoaQAAPjH2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032270431311556608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQTMJna8AAZMfV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2042595923981926415",
+        "created_at": "2026-04-10T13:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042595923981926415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cawanodes/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/cawanodes/status/2032270437200351459",
+              "start": 26,
+              "url": "https://t.co/lEolGSOMXx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042595923981926415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032270437200351459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去啊怎么还有龟脚脚厨 还刷到了沙瓦郎厨和刺尾虫厨 https://t.co/lEolGSOMXx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032270431315705856",
+            "3_2032270431311556608"
+          ]
+        },
+        "author_id": "1992523973532483584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2032270437200351459",
+        "created_at": "2026-03-13T01:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T02:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032270437200351459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eG4Y4qswcI",
+              "end": 42,
+              "expanded_url": "https://x.com/cawanodes/status/2032270437200351459/photo/1",
+              "media_key": "3_2032270431315705856",
+              "start": 19,
+              "url": "https://t.co/eG4Y4qswcI"
+            },
+            {
+              "display_url": "pic.x.com/eG4Y4qswcI",
+              "end": 42,
+              "expanded_url": "https://x.com/cawanodes/status/2032270437200351459/photo/1",
+              "media_key": "3_2032270431311556608",
+              "start": 19,
+              "url": "https://t.co/eG4Y4qswcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032270437200351459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 767,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "英国展入場待ちの𝒕𝒂𝒓𝒕𝒆ﾁｬﾝ🥤♡ https://t.co/eG4Y4qswcI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17928,
+          "following_count": 2294,
+          "like_count": 54162,
+          "listed_count": 23,
+          "media_count": 6569,
+          "tweet_count": 22891
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T09:22:09.000Z",
+        "description": "ポケぬい𝒕𝒂𝒓𝒕𝒆ちゃんアカウント🎀ｷｬﾜﾉﾃﾞｽ探求の日々💭 ｢👊👊🗯ぶちかます｣",
+        "id": "1992523973532483584",
+        "location": "カントー",
+        "name": "ガメノデスの𝒕𝒂𝒓𝒕𝒆ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993493749868142592/6dviO9OP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 64,
+          "like_count": 1358,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 106
+        },
+        "username": "cawanodes",
+        "verified": false
+      }
+    ]
+  }
+}

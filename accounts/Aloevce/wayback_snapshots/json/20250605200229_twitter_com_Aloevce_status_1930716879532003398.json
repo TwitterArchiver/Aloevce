@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930714040105611265"
+      ],
+      "media_source_tweet_id": [
+        "1930714058799689896"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1930716879532003398",
+    "created_at": "2025-06-05T20:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T21:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930716879532003398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1927720344561053697",
+          "start": 3,
+          "username": "yan_xingg225"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6yCUMXuq9U",
+          "end": 47,
+          "expanded_url": "https://x.com/yan_xingg225/status/1930714058799689896/photo/1",
+          "media_key": "3_1930714040105611265",
+          "start": 24,
+          "url": "https://t.co/6yCUMXuq9U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930716879532003398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930714058799689896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yan_xingg225: 有点久远了 https://t.co/6yCUMXuq9U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1930714040105611265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GstGMKtasAE2A4S.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930714040105611265"
+          ],
+          "media_source_tweet_id": [
+            "1930714058799689896"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1930716879532003398",
+        "created_at": "2025-06-05T20:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T21:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930716879532003398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1927720344561053697",
+              "start": 3,
+              "username": "yan_xingg225"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6yCUMXuq9U",
+              "end": 47,
+              "expanded_url": "https://x.com/yan_xingg225/status/1930714058799689896/photo/1",
+              "media_key": "3_1930714040105611265",
+              "start": 24,
+              "url": "https://t.co/6yCUMXuq9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930716879532003398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930714058799689896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yan_xingg225: 有点久远了 https://t.co/6yCUMXuq9U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930714040105611265"
+          ]
+        },
+        "author_id": "1927720344561053697",
+        "conversation_id": "1930714058799689896",
+        "created_at": "2025-06-05T19:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T20:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930714058799689896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6yCUMXuq9U",
+              "end": 29,
+              "expanded_url": "https://x.com/yan_xingg225/status/1930714058799689896/photo/1",
+              "media_key": "3_1930714040105611265",
+              "start": 6,
+              "url": "https://t.co/6yCUMXuq9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930714058799689896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有点久远了 https://t.co/6yCUMXuq9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19185,
+          "following_count": 2396,
+          "like_count": 55477,
+          "listed_count": 20,
+          "media_count": 6089,
+          "tweet_count": 21350
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T13:35:36.000Z",
+        "description": "成人済 無言フォロー失礼します 私は機械翻訳しか使えません。すみません、あなたの作品がとても好きです 。||🔥❄️🔁🚫 ||🥦右位固定||🐯右",
+        "id": "1927720344561053697",
+        "name": "與你共舞華爾茲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929307097063460864/_gET7WMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 40,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 85
+        },
+        "username": "yan_xingg225",
+        "verified": false
+      }
+    ]
+  }
+}

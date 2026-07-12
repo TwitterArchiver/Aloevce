@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886701703036129280",
+        "3_1886701708585177088"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1886701711936417888",
+    "created_at": "2025-02-04T09:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T10:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886701711936417888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bhSnB9hUKt",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/1886701711936417888/photo/1",
+          "media_key": "3_1886701703036129280",
+          "start": 5,
+          "url": "https://t.co/bhSnB9hUKt"
+        },
+        {
+          "display_url": "pic.x.com/bhSnB9hUKt",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/1886701711936417888/photo/1",
+          "media_key": "3_1886701708585177088",
+          "start": 5,
+          "url": "https://t.co/bhSnB9hUKt"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Aloevce/status/1886439936078782581",
+          "start": 29,
+          "url": "https://t.co/nCacR9Lnmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886701711936417888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886439936078782581",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太好玩了 https://t.co/bhSnB9hUKt https://t.co/nCacR9Lnmm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1886701703036129280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi7pM-aX0AAx97s.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1886701708585177088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi7pNTFXkAAgdxd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886701703036129280",
+            "3_1886701708585177088"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1886701711936417888",
+        "created_at": "2025-02-04T09:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T10:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886701711936417888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhSnB9hUKt",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/1886701711936417888/photo/1",
+              "media_key": "3_1886701703036129280",
+              "start": 5,
+              "url": "https://t.co/bhSnB9hUKt"
+            },
+            {
+              "display_url": "pic.x.com/bhSnB9hUKt",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/1886701711936417888/photo/1",
+              "media_key": "3_1886701708585177088",
+              "start": 5,
+              "url": "https://t.co/bhSnB9hUKt"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Aloevce/status/1886439936078782581",
+              "start": 29,
+              "url": "https://t.co/nCacR9Lnmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886701711936417888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886439936078782581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太好玩了 https://t.co/bhSnB9hUKt https://t.co/nCacR9Lnmm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1886439936078782581",
+        "created_at": "2025-02-03T15:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T16:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886439936078782581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886439936078782581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1720,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国式相亲值不值得买 还是一次性游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰王牌从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1883941576986276044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17782,
+          "following_count": 2393,
+          "like_count": 54580,
+          "listed_count": 20,
+          "media_count": 5766,
+          "tweet_count": 20549
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

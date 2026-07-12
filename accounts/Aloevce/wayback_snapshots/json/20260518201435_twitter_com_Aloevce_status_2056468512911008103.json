@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2056468512911008103",
+    "created_at": "2026-05-18T20:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T21:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056468512911008103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/usagimm208/status/2056463705651724724",
+          "start": 4,
+          "url": "https://t.co/lRlKgFUgjh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056468512911008103",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056463705651724724",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操啊 https://t.co/lRlKgFUgjh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056463693366583296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIoG1WCaYAA87zS.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2056468512911008103",
+        "created_at": "2026-05-18T20:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T21:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056468512911008103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/usagimm208/status/2056463705651724724",
+              "start": 4,
+              "url": "https://t.co/lRlKgFUgjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056468512911008103",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056463705651724724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操啊 https://t.co/lRlKgFUgjh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056463693366583296"
+          ]
+        },
+        "author_id": "2005739449058230272",
+        "conversation_id": "2056463705651724724",
+        "created_at": "2026-05-18T19:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056463705651724724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sswIMrh3sK",
+              "end": 31,
+              "expanded_url": "https://x.com/usagimm208/status/2056463705651724724/photo/1",
+              "media_key": "3_2056463693366583296",
+              "start": 8,
+              "url": "https://t.co/sswIMrh3sK"
+            },
+            {
+              "display_url": "x.com/aloevce/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/aloevce/status/2056452483430641694",
+              "start": 32,
+              "url": "https://t.co/rqrXFYudNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056463705651724724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056452483430641694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你咋知道我在喝 https://t.co/sswIMrh3sK https://t.co/rqrXFYudNL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18223,
+          "following_count": 1972,
+          "like_count": 55935,
+          "listed_count": 24,
+          "media_count": 6703,
+          "tweet_count": 23600
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "暴食导致长胖10斤、每天还因为吃不饱而充满怨气的僵尸ぐる，皮下有双重人格随便切换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "ぐる",
+        "pinned_tweet_id": "2054194679433077045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053168025998925824/vH0cK6kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 14,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 324
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

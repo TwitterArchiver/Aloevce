@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2054933125692813454",
+    "created_at": "2026-05-14T14:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054933125692813454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Aloevce/status/2054924308376424800",
+          "start": 8,
+          "url": "https://t.co/lxO6YT19lU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054933125692813454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054924308376424800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要把我摊砸了 https://t.co/lxO6YT19lU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2054933125692813454",
+        "created_at": "2026-05-14T14:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054933125692813454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Aloevce/status/2054924308376424800",
+              "start": 8,
+              "url": "https://t.co/lxO6YT19lU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054933125692813454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054924308376424800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要把我摊砸了 https://t.co/lxO6YT19lU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2054924308376424800",
+        "created_at": "2026-05-14T13:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054924308376424800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/Aloevce/status/2054923978444034053",
+              "start": 69,
+              "url": "https://t.co/To7bHBD5lW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054924308376424800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054923978444034053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "调了一个小时酒（没有桌子 手机还没电借的别人的 最后把自己的酒踢撒了蓝色撒了一地很着急 叫了对象哥三次他都在很沉浸地弹吉他我就开始发疯。 https://t.co/To7bHBD5lW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18252,
+          "following_count": 1987,
+          "like_count": 55841,
+          "listed_count": 24,
+          "media_count": 6681,
+          "tweet_count": 23525
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

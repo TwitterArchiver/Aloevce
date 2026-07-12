@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2041583955225513984"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2041584007960219821",
+    "created_at": "2026-04-07T18:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T19:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041584007960219821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MGPhegwZzn",
+          "end": 31,
+          "expanded_url": "https://x.com/Aloevce/status/2041584007960219821/video/1",
+          "media_key": "7_2041583955225513984",
+          "start": 8,
+          "url": "https://t.co/MGPhegwZzn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041584007960219821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么时候的视频 https://t.co/MGPhegwZzn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7402,
+        "height": 1270,
+        "media_key": "7_2041583955225513984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2041583955225513984/pu/img/zWUFZfov7C1DWqx4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041583955225513984/pu/vid/avc1/320x564/SKimYEMtRLtB07JI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041583955225513984/pu/vid/avc1/480x846/21eLkVrUG2lvVhcB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041583955225513984/pu/vid/avc1/720x1270/K9vaD5GFT5Sqob_H.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2041583955225513984/pu/pl/FcJKGj514UGnkfmC.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2041583955225513984"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2041584007960219821",
+        "created_at": "2026-04-07T18:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041584007960219821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGPhegwZzn",
+              "end": 31,
+              "expanded_url": "https://x.com/Aloevce/status/2041584007960219821/video/1",
+              "media_key": "7_2041583955225513984",
+              "start": 8,
+              "url": "https://t.co/MGPhegwZzn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041584007960219821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候的视频 https://t.co/MGPhegwZzn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18018,
+          "following_count": 2304,
+          "like_count": 54014,
+          "listed_count": 22,
+          "media_count": 6560,
+          "tweet_count": 22820
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

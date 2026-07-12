@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2056018147355090963",
+    "created_at": "2026-05-17T14:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056018147355090963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Aloevce/status/2055714409008210194",
+          "start": 4,
+          "url": "https://t.co/UfuGuRoZRr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056018147355090963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055714409008210194",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人吗 https://t.co/UfuGuRoZRr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2056018147355090963",
+        "created_at": "2026-05-17T14:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056018147355090963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Aloevce/status/2055714409008210194",
+              "start": 4,
+              "url": "https://t.co/UfuGuRoZRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056018147355090963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055714409008210194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人吗 https://t.co/UfuGuRoZRr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2055714409008210194",
+        "created_at": "2026-05-16T18:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055714409008210194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Aloevce/status/2055713417680334879",
+              "start": 23,
+              "url": "https://t.co/BuDFcD0OMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055714409008210194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055713417680334879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "扎人们凭发布小红书截图可私信苯人领取5r红包 https://t.co/BuDFcD0OMg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18235,
+          "following_count": 1978,
+          "like_count": 55869,
+          "listed_count": 24,
+          "media_count": 6689,
+          "tweet_count": 23556
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

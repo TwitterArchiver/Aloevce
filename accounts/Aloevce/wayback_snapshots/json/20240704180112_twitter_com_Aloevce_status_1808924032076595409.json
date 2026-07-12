@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1808921684100972678",
+    "created_at": "2024-07-04T18:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T19:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808924032076595409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1423220645383475200",
+          "start": 0,
+          "username": "sysjf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808924032076595409",
+    "in_reply_to_user_id": "1423220645383475200",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808923041310912753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sysjf0 女神物语喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1808921684100972678",
+        "created_at": "2024-07-04T18:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T19:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808924032076595409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1423220645383475200",
+              "start": 0,
+              "username": "sysjf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808924032076595409",
+        "in_reply_to_user_id": "1423220645383475200",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808923041310912753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sysjf0 女神物语喵"
+      },
+      {
+        "attachments": {},
+        "author_id": "1423220645383475200",
+        "conversation_id": "1808921684100972678",
+        "created_at": "2024-07-04T17:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T18:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808923041310912753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808923041310912753",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808921684100972678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 什么卡，怎么什么都有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1798936033176039610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14050,
+          "following_count": 2212,
+          "like_count": 51914,
+          "listed_count": 18,
+          "tweet_count": 17845
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "想要好多好多fo\n我是一只菜狗,infp-t,没有性别\n希望有朝一日能看到人类命运共同体",
+        "id": "1423220645383475200",
+        "name": "十九方彠灪齉齆韛𰻝",
+        "pinned_tweet_id": "1785706715612107044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808531520623112193/K_NSRmZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 865,
+          "like_count": 5753,
+          "listed_count": 1,
+          "tweet_count": 9223
+        },
+        "username": "sysjf0",
+        "verified": false
+      }
+    ]
+  }
+}

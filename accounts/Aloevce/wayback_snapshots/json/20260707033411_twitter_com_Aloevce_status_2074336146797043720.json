@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1437501554794188801",
+          "name": "Capsule toys"
+        }
+      }
+    ],
+    "conversation_id": "2074336146797043720",
+    "created_at": "2026-07-07T03:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074336146797043720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/k42wKKihKBGTvX…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/k42wKKihKBGTvXv/status/2074133089828430207",
+          "start": 5,
+          "url": "https://t.co/8JXiatdbhZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074336146797043720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074133089828430207",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这也太萌 https://t.co/8JXiatdbhZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074133083281113088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjNDM3bQAAJznl.jpg",
+        "width": 1904
+      },
+      {
+        "height": 544,
+        "media_key": "3_2074133083285286913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjNDM4a8AE3i-T.jpg",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1437501554794188801",
+              "name": "Capsule toys"
+            }
+          }
+        ],
+        "conversation_id": "2074336146797043720",
+        "created_at": "2026-07-07T03:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074336146797043720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/k42wKKihKBGTvX…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/k42wKKihKBGTvXv/status/2074133089828430207",
+              "start": 5,
+              "url": "https://t.co/8JXiatdbhZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074336146797043720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074133089828430207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也太萌 https://t.co/8JXiatdbhZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074133083281113088",
+            "3_2074133083285286913"
+          ]
+        },
+        "author_id": "1226520168441905158",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1437501554794188801",
+              "name": "Capsule toys"
+            }
+          }
+        ],
+        "conversation_id": "2074133089828430207",
+        "created_at": "2026-07-06T14:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074133089828430207"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "最新情報"
+            },
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "ガシャポン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxCymoi2bb",
+              "end": 72,
+              "expanded_url": "https://x.com/k42wKKihKBGTvXv/status/2074133089828430207/photo/1",
+              "media_key": "3_2074133083281113088",
+              "start": 49,
+              "url": "https://t.co/sxCymoi2bb"
+            },
+            {
+              "display_url": "pic.x.com/sxCymoi2bb",
+              "end": 72,
+              "expanded_url": "https://x.com/k42wKKihKBGTvXv/status/2074133089828430207/photo/1",
+              "media_key": "3_2074133083285286913",
+              "start": 49,
+              "url": "https://t.co/sxCymoi2bb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074133089828430207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 86415,
+          "like_count": 1554,
+          "quote_count": 85,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "2026年9月発売最新ガシャポン\n\nカキウミウシ めじるしマスコット\n\n#最新情報　#ガシャポン https://t.co/sxCymoi2bb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18055,
+          "following_count": 1955,
+          "like_count": 56357,
+          "listed_count": 23,
+          "media_count": 6866,
+          "tweet_count": 24108
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-09T14:56:23.000Z",
+        "description": "あなたの見たい情報がすぐわかる！　\n\nプライズ、ガシャポン、一番くじ、イベント\n最新情報をお届け！！\n\nアニメ系のグッズを全力収集してます！\nDRAGON BALL、呪術廻戦、鬼滅の刃、ジョジョ、NARUTO、ヒロアカ、HUNTER×HUNTER、BLEACHその他沢山\n\nアニメ、グッズ大好きな22歳",
+        "id": "1226520168441905158",
+        "name": "しゅんドラン",
+        "pinned_tweet_id": "2072690921531924666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013982273045999616/AdFRgPo__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102431,
+          "following_count": 27420,
+          "like_count": 54197,
+          "listed_count": 217,
+          "media_count": 32361,
+          "tweet_count": 54154
+        },
+        "url": "",
+        "username": "k42wKKihKBGTvXv",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1856584448889769984"
+      ],
+      "media_source_tweet_id": [
+        "1856584541487386742"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1856909989278810455",
+    "created_at": "2024-11-14T04:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T05:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856909989278810455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1484102911307042819",
+          "start": 3,
+          "username": "hateeveryonefku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/euyTtNDBnV",
+          "end": 58,
+          "expanded_url": "https://x.com/hateeveryonefku/status/1856584541487386742/video/1",
+          "media_key": "7_1856584448889769984",
+          "start": 35,
+          "url": "https://t.co/euyTtNDBnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856909989278810455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856584541487386742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hateeveryonefku: 没有一分收入 生活就这样哈 https://t.co/euyTtNDBnV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10216,
+        "height": 640,
+        "media_key": "7_1856584448889769984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1856584448889769984/pu/img/8-3zG0Lfh3fRyYce.jpg",
+        "public_metrics": {
+          "view_count": 48
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856584448889769984/pu/vid/avc1/320x556/CQXKOb7U6NZP2CnC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856584448889769984/pu/vid/avc1/368x640/qOE_ltf_8dLjXBzG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1856584448889769984/pu/pl/Sr0CIq1HZa12n9NT.m3u8?tag=12"
+          }
+        ],
+        "width": 368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1856584448889769984"
+          ],
+          "media_source_tweet_id": [
+            "1856584541487386742"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1856909989278810455",
+        "created_at": "2024-11-14T04:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T05:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856909989278810455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1484102911307042819",
+              "start": 3,
+              "username": "hateeveryonefku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/euyTtNDBnV",
+              "end": 58,
+              "expanded_url": "https://x.com/hateeveryonefku/status/1856584541487386742/video/1",
+              "media_key": "7_1856584448889769984",
+              "start": 35,
+              "url": "https://t.co/euyTtNDBnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856909989278810455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856584541487386742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hateeveryonefku: 没有一分收入 生活就这样哈 https://t.co/euyTtNDBnV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1856584448889769984"
+          ]
+        },
+        "author_id": "1484102911307042819",
+        "conversation_id": "1856584541487386742",
+        "created_at": "2024-11-13T06:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T07:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856584541487386742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/euyTtNDBnV",
+              "end": 37,
+              "expanded_url": "https://x.com/hateeveryonefku/status/1856584541487386742/video/1",
+              "media_key": "7_1856584448889769984",
+              "start": 14,
+              "url": "https://t.co/euyTtNDBnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856584541487386742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有一分收入 生活就这样哈 https://t.co/euyTtNDBnV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17613,
+          "following_count": 2283,
+          "like_count": 53341,
+          "listed_count": 21,
+          "tweet_count": 19347
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T09:58:21.000Z",
+        "description": "shedtwt.",
+        "id": "1484102911307042819",
+        "location": "hell",
+        "name": "钢筋穿透我的身体 好爽",
+        "pinned_tweet_id": "1856256309324128529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855754338578132992/AGgsdbL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 574,
+          "like_count": 53902,
+          "listed_count": 8,
+          "tweet_count": 7408
+        },
+        "username": "hateeveryonefku",
+        "verified": false
+      }
+    ]
+  }
+}

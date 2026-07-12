@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998005849818533888"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "1998005856072270067",
+    "created_at": "2025-12-08T12:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T13:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998005856072270067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GGDAMDIObF",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/1998005856072270067/photo/1",
+          "media_key": "3_1998005849818533888",
+          "start": 5,
+          "url": "https://t.co/GGDAMDIObF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998005856072270067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要闹了 https://t.co/GGDAMDIObF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1998005849818533888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pXvAmWEAAmSFj.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998005849818533888"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1998005856072270067",
+        "created_at": "2025-12-08T12:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T13:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998005856072270067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GGDAMDIObF",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/1998005856072270067/photo/1",
+              "media_key": "3_1998005849818533888",
+              "start": 5,
+              "url": "https://t.co/GGDAMDIObF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998005856072270067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要闹了 https://t.co/GGDAMDIObF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1983656746171429044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18475,
+          "following_count": 2391,
+          "like_count": 54660,
+          "listed_count": 24,
+          "media_count": 6342,
+          "tweet_count": 22169
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

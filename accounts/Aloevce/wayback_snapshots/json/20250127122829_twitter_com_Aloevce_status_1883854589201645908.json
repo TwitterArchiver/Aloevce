@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1883854589201645908",
+    "created_at": "2025-01-27T12:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T13:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883854589201645908"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "好美莲莲",
+          "probability": 0.856,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/AzumaSeren/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/AzumaSeren/status/1883848495217709214",
+          "start": 5,
+          "url": "https://t.co/U1GclVUrE4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883854589201645908",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883848495217709214",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好美莲莲 https://t.co/U1GclVUrE4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1883854589201645908",
+        "created_at": "2025-01-27T12:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T13:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883854589201645908"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "好美莲莲",
+              "probability": 0.856,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/AzumaSeren/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/AzumaSeren/status/1883848495217709214",
+              "start": 5,
+              "url": "https://t.co/U1GclVUrE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883854589201645908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883848495217709214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好美莲莲 https://t.co/U1GclVUrE4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883848487361748993"
+          ]
+        },
+        "author_id": "1355900185235259396",
+        "conversation_id": "1883848495217709214",
+        "created_at": "2025-01-27T12:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T13:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883848495217709214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ro3k1RBMuD",
+              "end": 25,
+              "expanded_url": "https://x.com/AzumaSeren/status/1883848495217709214/photo/1",
+              "media_key": "3_1883848487361748993",
+              "start": 2,
+              "url": "https://t.co/ro3k1RBMuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883848495217709214",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1318,
+          "like_count": 117,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "following",
+        "text": "💙 https://t.co/ro3k1RBMuD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1881182504969015531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17787,
+          "following_count": 2377,
+          "like_count": 54405,
+          "listed_count": 20,
+          "media_count": 5703,
+          "tweet_count": 20343
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T15:26:46.000Z",
+        "description": "°ʚ🍼ɞ°￤詩￤唄￤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/fKPzK4dlPm"
+              }
+            ]
+          }
+        },
+        "id": "1355900185235259396",
+        "location": "2ndﾜﾝﾏﾝﾗｲﾌﾞ▶︎2.15@Harevutai池袋",
+        "name": "東 雪蓮",
+        "pinned_tweet_id": "1880919507193196787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847753097688600579/eixUFUoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51559,
+          "following_count": 187,
+          "like_count": 19541,
+          "listed_count": 116,
+          "media_count": 900,
+          "tweet_count": 8213
+        },
+        "url": "https://t.co/fKPzK4dlPm",
+        "username": "AzumaSeren",
+        "verified": true
+      }
+    ]
+  }
+}

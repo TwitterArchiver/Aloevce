@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1883484298319454252",
+    "created_at": "2025-01-26T11:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T12:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883484298319454252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pearsyo/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/pearsyo/status/1882868901937319967",
+          "start": 5,
+          "url": "https://t.co/Z1beWv1cei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883484298319454252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882868901937319967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也感觉 https://t.co/Z1beWv1cei"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1883484298319454252",
+        "created_at": "2025-01-26T11:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T12:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883484298319454252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearsyo/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/pearsyo/status/1882868901937319967",
+              "start": 5,
+              "url": "https://t.co/Z1beWv1cei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883484298319454252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882868901937319967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也感觉 https://t.co/Z1beWv1cei"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618405834278539265",
+        "conversation_id": "1882868901937319967",
+        "created_at": "2025-01-24T19:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T20:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882868901937319967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882868901937319967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 181727,
+          "like_count": 1578,
+          "quote_count": 17,
+          "reply_count": 86,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "真的不能接受谁和我说“吸逼玩奶”这类的词汇，太土了，土的好像正在炕头做前戏，你跟我说“妮儿，操完你逼明天早点起来掰苞米，后天给你买两双红袜子踩踩小人儿”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1881182504969015531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17798,
+          "following_count": 2380,
+          "like_count": 54351,
+          "listed_count": 20,
+          "media_count": 5693,
+          "tweet_count": 20306
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T00:30:11.000Z",
+        "description": "我有些害怕 又有些期待 你的烟灰会掉在我的背上 🐾  只回复入门私信 备用@rinkasyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "rinkasyi"
+              }
+            ]
+          }
+        },
+        "id": "1618405834278539265",
+        "location": "🚪228/520/1314 详情私聊",
+        "name": "梨花诗",
+        "pinned_tweet_id": "1879749883579842723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817509113922048000/j9yX7JOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49493,
+          "following_count": 39,
+          "like_count": 64,
+          "listed_count": 119,
+          "media_count": 296,
+          "tweet_count": 1330
+        },
+        "username": "pearsyo",
+        "verified": false
+      }
+    ]
+  }
+}

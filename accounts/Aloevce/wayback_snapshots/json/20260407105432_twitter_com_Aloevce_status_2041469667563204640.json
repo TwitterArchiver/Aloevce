@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2041469667563204640",
+    "created_at": "2026-04-07T10:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041469667563204640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/benbebennoben/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/benbebennoben/status/2041285694447038740",
+          "start": 3,
+          "url": "https://t.co/S7lsB6KCPi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041469667563204640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041285694447038740",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我学 https://t.co/S7lsB6KCPi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 744,
+        "media_key": "3_2041285685651689472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQahBJb0AA6MSA.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2041469667563204640",
+        "created_at": "2026-04-07T10:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041469667563204640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/benbebennoben/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/benbebennoben/status/2041285694447038740",
+              "start": 3,
+              "url": "https://t.co/S7lsB6KCPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041469667563204640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041285694447038740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我学 https://t.co/S7lsB6KCPi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041285685651689472"
+          ]
+        },
+        "author_id": "1983823493843316742",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041285694447038740",
+        "created_at": "2026-04-06T22:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T23:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041285694447038740"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "ぽこあポケモン"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "ぽこポケ"
+            },
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "pokopia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zx0riNTjrS",
+              "end": 54,
+              "expanded_url": "https://x.com/benbebennoben/status/2041285694447038740/photo/1",
+              "media_key": "3_2041285685651689472",
+              "start": 31,
+              "url": "https://t.co/zx0riNTjrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041285694447038740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 979,
+          "impression_count": 80096,
+          "like_count": 3890,
+          "quote_count": 12,
+          "reply_count": 5,
+          "retweet_count": 293
+        },
+        "reply_settings": "everyone",
+        "text": "三位一体🪨\n\n#ぽこあポケモン\n#ぽこポケ\n#pokopia https://t.co/zx0riNTjrS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18021,
+          "following_count": 2302,
+          "like_count": 54001,
+          "listed_count": 22,
+          "media_count": 6558,
+          "tweet_count": 22814
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T09:09:22.000Z",
+        "description": "ぽこあポケモンのアカウント作りました！\n気軽に絡んでください！\nI created an X account. I'll be posting a lot from now on.",
+        "id": "1983823493843316742",
+        "name": "せんべい隊長🍘",
+        "pinned_tweet_id": "2037838783618658702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037444434770722816/Zd0tQQlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 12,
+          "like_count": 73,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 38
+        },
+        "username": "benbebennoben",
+        "verified": true
+      }
+    ]
+  }
+}

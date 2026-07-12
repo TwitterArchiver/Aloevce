@@ -1,0 +1,228 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1809618554033188901",
+    "created_at": "2024-07-06T16:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T17:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809618554033188901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647954337849638914",
+          "start": 3,
+          "username": "doIIove1"
+        },
+        {
+          "end": 26,
+          "id": "1534173009032126464",
+          "start": 14,
+          "username": "zhouzhouxu4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809618554033188901",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809509216920695163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doIIove1: @zhouzhouxu4 188不是微信哈，哥\n其实188的意思是可以无套一辈子，然后直接给你做老婆的意思，我会给你生两个孩子一儿一女，给你干一辈子家务哈，你父母你也不用养，我的房我的车全部过户给你写你的名字哈，想要找几个老婆都可以哈，只需要支付188"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1809618554033188901",
+        "created_at": "2024-07-06T16:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T17:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809618554033188901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647954337849638914",
+              "start": 3,
+              "username": "doIIove1"
+            },
+            {
+              "end": 26,
+              "id": "1534173009032126464",
+              "start": 14,
+              "username": "zhouzhouxu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809618554033188901",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809509216920695163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doIIove1: @zhouzhouxu4 188不是微信哈，哥\n其实188的意思是可以无套一辈子，然后直接给你做老婆的意思，我会给你生两个孩子一儿一女，给你干一辈子家务哈，你父母你也不用养，我的房我的车全部过户给你写你的名字哈，想要找几个老婆都可以哈，只需要支付188"
+      },
+      {
+        "attachments": {},
+        "author_id": "1647954337849638914",
+        "conversation_id": "1809220226074210565",
+        "created_at": "2024-07-06T08:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T09:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809509216920695163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1534173009032126464",
+              "start": 0,
+              "username": "zhouzhouxu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809509216920695163",
+        "in_reply_to_user_id": "1534173009032126464",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2269,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809220226074210565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouzhouxu4 188不是微信哈，哥\n其实188的意思是可以无套一辈子，然后直接给你做老婆的意思，我会给你生两个孩子一儿一女，给你干一辈子家务哈，你父母你也不用养，我的房我的车全部过户给你写你的名字哈，想要找几个老婆都可以哈，只需要支付188"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "我爱小猫咪",
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1809186942346482030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14105,
+          "following_count": 2209,
+          "like_count": 51911,
+          "listed_count": 18,
+          "tweet_count": 17857
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T13:25:21.000Z",
+        "description": "",
+        "id": "1647954337849638914",
+        "name": "泪",
+        "pinned_tweet_id": "1689237444737286144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702592668612829184/FFz9YFvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 38,
+          "like_count": 28,
+          "listed_count": 0,
+          "tweet_count": 5
+        },
+        "username": "doIIove1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T13:59:13.000Z",
+        "description": "07年/🚪/188/288/520（纯绿） 不入别私信/私信只回口令/闲聊拉黑/问坐标52一次/女生https://t.co/82wS579zkn\n小号@hong11795",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "hong11795"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "us5.av8d.cloud/#/register?cod…",
+                "end": 73,
+                "expanded_url": "https://us5.av8d.cloud/#/register?code=klEaEcRT",
+                "start": 50,
+                "url": "https://t.co/82wS579zkn"
+              }
+            ]
+          }
+        },
+        "id": "1534173009032126464",
+        "location": "广东省",
+        "name": "阿然",
+        "pinned_tweet_id": "1780480316433695080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807743486692868096/9AaKqOGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2667,
+          "following_count": 491,
+          "like_count": 3263,
+          "listed_count": 3,
+          "tweet_count": 1540
+        },
+        "username": "zhouzhouxu4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1879861267000963157",
+    "created_at": "2025-01-16T12:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T13:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879861267000963157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Aloevce/status/1879847418914881656",
+          "start": 2,
+          "url": "https://t.co/2i2fGJ601J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879861267000963157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879847418914881656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "米 https://t.co/2i2fGJ601J"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1879861267000963157",
+        "created_at": "2025-01-16T12:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T13:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879861267000963157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Aloevce/status/1879847418914881656",
+              "start": 2,
+              "url": "https://t.co/2i2fGJ601J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879861267000963157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879847418914881656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "米 https://t.co/2i2fGJ601J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1879847418914881656",
+        "created_at": "2025-01-16T11:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T12:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879847418914881656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1879845527925174272",
+              "start": 21,
+              "username": "Hentaivce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879847418914881656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 493,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们，⚽复活了，快过生日了来点老头恰点米@Hentaivce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1879847418914881656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17770,
+          "following_count": 2370,
+          "like_count": 53997,
+          "listed_count": 20,
+          "media_count": 5609,
+          "tweet_count": 20075
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

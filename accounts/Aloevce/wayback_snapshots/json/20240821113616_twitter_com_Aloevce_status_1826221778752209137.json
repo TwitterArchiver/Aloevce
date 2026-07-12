@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1826221778752209137",
+    "created_at": "2024-08-21T11:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T12:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1826221778752209137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_infinity_xxx/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/_infinity_xxx/status/1808475886938972638",
+          "start": 8,
+          "url": "https://t.co/dl00bjsFGj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826221778752209137",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808475886938972638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幻想中的苯人: https://t.co/dl00bjsFGj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1826221778752209137",
+        "created_at": "2024-08-21T11:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T12:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826221778752209137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_infinity_xxx/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1808475886938972638",
+              "start": 8,
+              "url": "https://t.co/dl00bjsFGj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826221778752209137",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808475886938972638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幻想中的苯人: https://t.co/dl00bjsFGj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1808475881477992448"
+          ]
+        },
+        "author_id": "1392452107450474499",
+        "conversation_id": "1808475886938972638",
+        "created_at": "2024-07-03T12:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T13:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808475886938972638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u8c7dzssj9",
+              "end": 31,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1808475886938972638/photo/1",
+              "media_key": "3_1808475881477992448",
+              "start": 8,
+              "url": "https://t.co/u8C7Dzssj9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808475886938972638",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 289,
+          "impression_count": 722425,
+          "like_count": 5203,
+          "quote_count": 37,
+          "reply_count": 59,
+          "retweet_count": 247
+        },
+        "reply_settings": "everyone",
+        "text": "僕の手を掴めよ https://t.co/u8C7Dzssj9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18043,
+          "following_count": 2245,
+          "like_count": 52658,
+          "listed_count": 22,
+          "tweet_count": 18481
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "#辻",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 2,
+                "start": 0,
+                "tag": "辻"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1779810848036516333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747067418776854528/a1EqL5EJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11211,
+          "following_count": 276,
+          "like_count": 2662,
+          "listed_count": 25,
+          "tweet_count": 20386
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": true
+      }
+    ]
+  }
+}

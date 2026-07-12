@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1659027130783547393",
+    "created_at": "2023-05-18T02:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2023-05-18T03:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1659030988683460608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1644735212503588864",
+          "start": 0,
+          "username": "CYCmio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1659030988683460608",
+    "in_reply_to_user_id": "1644735212503588864",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1659030046143807488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CYCmio 好哎支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1659027130783547393",
+        "created_at": "2023-05-18T02:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-18T03:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1659030988683460608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1644735212503588864",
+              "start": 0,
+              "username": "CYCmio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1659030988683460608",
+        "in_reply_to_user_id": "1644735212503588864",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1659030046143807488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CYCmio 好哎支持"
+      },
+      {
+        "attachments": {},
+        "author_id": "1644735212503588864",
+        "conversation_id": "1659027130783547393",
+        "created_at": "2023-05-18T02:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-18T03:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1659030046143807488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1659030046143807488",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1659029483104481282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 我主要是想紋了把疤遮掉 而且很帥🥰。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "别视奸，谢谢",
+        "id": "1495662254544789506",
+        "name": "閃焰王牌",
+        "pinned_tweet_id": "1644673667719389184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651815650204205056/2zZXblhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 162,
+          "listed_count": 4,
+          "tweet_count": 2794
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T16:13:46.000Z",
+        "description": "08年 / INFP-T / 支那粉红下体男别关注我 / 把推当朋友圈 / 开朗但是抑郁焦虑 / 中文简繁体混用",
+        "id": "1644735212503588864",
+        "location": "怪异而又扭曲的社会 荒诞而又偏执的生活​",
+        "name": "想成为电贝斯高手的cCcCccc",
+        "pinned_tweet_id": "1653924940314451968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652516699844014080/GOj7gPs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 60,
+          "listed_count": 2,
+          "tweet_count": 1432
+        },
+        "username": "CYCmio",
+        "verified": false
+      }
+    ]
+  }
+}

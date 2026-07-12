@@ -1,0 +1,81 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1652337147914113024",
+    "created_at": "2023-04-29T15:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-29T16:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1652337147914113024"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1652337147914113024",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一年了你在我心里的印象从神降到了一个难以言表的程度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1652337147914113024",
+        "created_at": "2023-04-29T15:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-29T16:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1652337147914113024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1652337147914113024",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一年了你在我心里的印象从神降到了一个难以言表的程度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "别视奸，谢谢",
+        "id": "1495662254544789506",
+        "name": "閃焰王牌",
+        "pinned_tweet_id": "1644673667719389184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651815650204205056/2zZXblhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 37,
+          "listed_count": 0,
+          "tweet_count": 1922
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1823990632215351446",
+    "created_at": "2024-08-15T07:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T08:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823990632215351446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oO080Oo_/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/oO080Oo_/status/1823937482880160254",
+          "start": 16,
+          "url": "https://t.co/sfXIdcfhJ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823990632215351446",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823937482880160254",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在推上干甚了我请问 神人别叫 https://t.co/sfXIdcfhJ6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1823990632215351446",
+        "created_at": "2024-08-15T07:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T08:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823990632215351446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oO080Oo_/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/oO080Oo_/status/1823937482880160254",
+              "start": 16,
+              "url": "https://t.co/sfXIdcfhJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823990632215351446",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823937482880160254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在推上干甚了我请问 神人别叫 https://t.co/sfXIdcfhJ6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820672994601205760",
+        "conversation_id": "1823683647154627053",
+        "created_at": "2024-08-15T04:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T05:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823937482880160254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823937482880160254",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823683647154627053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 你对象知道你推上发作的下贱样子么 ，知道了估计连夜拿消毒水洗牛子 气的给你做成人彘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17657,
+          "following_count": 2212,
+          "like_count": 52409,
+          "listed_count": 23,
+          "tweet_count": 18355
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T04:07:36.000Z",
+        "description": "戾",
+        "id": "1820672994601205760",
+        "name": "☿别西卜的祝福☿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821770436323241986/i2LbdYTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 9
+        },
+        "username": "oO080Oo_",
+        "verified": false
+      }
+    ]
+  }
+}

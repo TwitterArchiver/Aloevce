@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068373829647503360"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068373832868536526",
+    "created_at": "2026-06-20T16:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068373832868536526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZdkkKG8VDK",
+          "end": 32,
+          "expanded_url": "https://x.com/Aloevce/status/2068373832868536526/photo/1",
+          "media_key": "3_2068373829647503360",
+          "start": 9,
+          "url": "https://t.co/ZdkkKG8VDK"
+        },
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/usagimm208/status/2068230126433943877",
+          "start": 33,
+          "url": "https://t.co/WDgBuP0Lzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068373832868536526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068230126433943877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咸粽是黑暗料理😾 https://t.co/ZdkkKG8VDK https://t.co/WDgBuP0Lzj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068373829647503360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRXChLakAABNWk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068373829647503360"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068373832868536526",
+        "created_at": "2026-06-20T16:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068373832868536526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZdkkKG8VDK",
+              "end": 32,
+              "expanded_url": "https://x.com/Aloevce/status/2068373832868536526/photo/1",
+              "media_key": "3_2068373829647503360",
+              "start": 9,
+              "url": "https://t.co/ZdkkKG8VDK"
+            },
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/usagimm208/status/2068230126433943877",
+              "start": 33,
+              "url": "https://t.co/WDgBuP0Lzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068373832868536526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068230126433943877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咸粽是黑暗料理😾 https://t.co/ZdkkKG8VDK https://t.co/WDgBuP0Lzj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005739449058230272",
+        "conversation_id": "2068230126433943877",
+        "created_at": "2026-06-20T07:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068230126433943877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aloevce/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/aloevce/status/2068228586469777538",
+              "start": 12,
+              "url": "https://t.co/uZco5k7a43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068230126433943877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068228586469777538",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想吃腊肉豌豆和咸蛋黄 https://t.co/uZco5k7a43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18101,
+          "following_count": 1963,
+          "like_count": 56314,
+          "listed_count": 23,
+          "media_count": 6818,
+          "tweet_count": 24000
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "そちゃ",
+        "pinned_tweet_id": "2058643879059190070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 39,
+          "like_count": 2423,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 911
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2045845147821171042",
+    "created_at": "2026-04-19T12:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045845147821171042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ru__chamaa/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ru__chamaa/status/2045491514244227135",
+          "start": 3,
+          "url": "https://t.co/7oHPEwBWEa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045845147821171042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045491514244227135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱 https://t.co/7oHPEwBWEa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045491507818647552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMLsFqb0AAo1iD.jpg",
+        "width": 1450
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045491507818614784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMLsFqbUAA1sOW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2045845147821171042",
+        "created_at": "2026-04-19T12:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045845147821171042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ru__chamaa/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ru__chamaa/status/2045491514244227135",
+              "start": 3,
+              "url": "https://t.co/7oHPEwBWEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045845147821171042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045491514244227135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱 https://t.co/7oHPEwBWEa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045491507818647552",
+            "3_2045491507818614784"
+          ]
+        },
+        "author_id": "2015204011276914688",
+        "conversation_id": "2045491514244227135",
+        "created_at": "2026-04-18T13:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045491514244227135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEt0snXAYJ",
+              "end": 65,
+              "expanded_url": "https://x.com/ru__chamaa/status/2045491514244227135/photo/1",
+              "media_key": "3_2045491507818647552",
+              "start": 42,
+              "url": "https://t.co/IEt0snXAYJ"
+            },
+            {
+              "display_url": "pic.x.com/IEt0snXAYJ",
+              "end": 65,
+              "expanded_url": "https://x.com/ru__chamaa/status/2045491514244227135/photo/1",
+              "media_key": "3_2045491507818614784",
+              "start": 42,
+              "url": "https://t.co/IEt0snXAYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045491514244227135",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 5562,
+          "like_count": 364,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "ぽちゃたんの新しいバッグ\n下ろしたよ〜🩵💙🩵💙🩵💙\nお洋服お揃いで可愛いでしょ💙🩵 https://t.co/IEt0snXAYJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17853,
+          "following_count": 2305,
+          "like_count": 54472,
+          "listed_count": 21,
+          "media_count": 6591,
+          "tweet_count": 23022
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T23:24:23.000Z",
+        "description": "ぽちゃたんだいすき倶楽部🐧💙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zukan.pokemon.co.jp/detail/0393",
+                "end": 23,
+                "expanded_url": "https://zukan.pokemon.co.jp/detail/0393",
+                "start": 0,
+                "url": "https://t.co/Q7XYXd9ITh"
+              }
+            ]
+          }
+        },
+        "id": "2015204011276914688",
+        "location": "ジョウト地方",
+        "name": "るぅ💙",
+        "pinned_tweet_id": "2033135988583858405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020147306620940289/qECoWlUO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 206,
+          "like_count": 7017,
+          "listed_count": 11,
+          "media_count": 286,
+          "tweet_count": 3184
+        },
+        "url": "https://t.co/Q7XYXd9ITh",
+        "username": "ru__chamaa",
+        "verified": false
+      }
+    ]
+  }
+}

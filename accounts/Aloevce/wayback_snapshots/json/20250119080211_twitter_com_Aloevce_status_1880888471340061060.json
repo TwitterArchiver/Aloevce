@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1880888471340061060",
+    "created_at": "2025-01-19T08:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T09:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880888471340061060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_infinity_xxx/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/_infinity_xxx/status/1879821725908811904",
+          "start": 10,
+          "url": "https://t.co/MZ9xMGMgVh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880888471340061060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879821725908811904",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "青丸怎么刚结就离🙀 https://t.co/MZ9xMGMgVh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1880888471340061060",
+        "created_at": "2025-01-19T08:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T09:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880888471340061060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_infinity_xxx/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1879821725908811904",
+              "start": 10,
+              "url": "https://t.co/MZ9xMGMgVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880888471340061060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879821725908811904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "青丸怎么刚结就离🙀 https://t.co/MZ9xMGMgVh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879821716865859584"
+          ]
+        },
+        "author_id": "1392452107450474499",
+        "conversation_id": "1879821725908811904",
+        "created_at": "2025-01-16T09:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T10:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879821725908811904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1VPyhlZ8Of",
+              "end": 35,
+              "expanded_url": "https://x.com/_infinity_xxx/status/1879821725908811904/photo/1",
+              "media_key": "3_1879821716865859584",
+              "start": 12,
+              "url": "https://t.co/1VPyhlZ8Of"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879821725908811904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 431734,
+          "like_count": 2138,
+          "quote_count": 68,
+          "reply_count": 27,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "そういえば離婚しました https://t.co/1VPyhlZ8Of"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1879847418914881656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17826,
+          "following_count": 2372,
+          "like_count": 54121,
+          "listed_count": 20,
+          "media_count": 5638,
+          "tweet_count": 20138
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "@_Infinity_zzz ⸜ ♡ ⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "_Infinity_zzz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1779810848036516333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848307505883148288/o5T7CD9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15224,
+          "following_count": 315,
+          "like_count": 3062,
+          "listed_count": 29,
+          "media_count": 5370,
+          "tweet_count": 23204
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": true
+      }
+    ]
+  }
+}

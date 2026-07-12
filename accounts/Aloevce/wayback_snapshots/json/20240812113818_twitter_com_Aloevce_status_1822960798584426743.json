@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1822960798584426743",
+    "created_at": "2024-08-12T11:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T12:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822960798584426743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/Aloevce/status/1822958083489869872",
+          "start": 71,
+          "url": "https://t.co/FEsUIRNXbG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822960798584426743",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822958083489869872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对面真吓人了 推文内容上条不接下条 说话前言不搭后语 性别扑朔迷离 照片真假难辨模糊不清 我就鉴定你是机器人模仿人类了好吧 什么伪人都来碰瓷 https://t.co/FEsUIRNXbG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1822960798584426743",
+        "created_at": "2024-08-12T11:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T12:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822960798584426743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/Aloevce/status/1822958083489869872",
+              "start": 71,
+              "url": "https://t.co/FEsUIRNXbG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822960798584426743",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822958083489869872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对面真吓人了 推文内容上条不接下条 说话前言不搭后语 性别扑朔迷离 照片真假难辨模糊不清 我就鉴定你是机器人模仿人类了好吧 什么伪人都来碰瓷 https://t.co/FEsUIRNXbG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1822958083489869872",
+        "created_at": "2024-08-12T11:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T12:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822958083489869872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822958083489869872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 160,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网友真吓人，我只敢保证对面看见我推文的眼睛和打字的手是真的，其余的可能都是假的，甚至对面根本不是个人，是ai机器人发出来的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17349,
+          "following_count": 2189,
+          "like_count": 52155,
+          "listed_count": 22,
+          "tweet_count": 18296
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

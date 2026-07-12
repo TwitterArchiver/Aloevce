@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066937796858630144",
+        "3_2066937795508076544",
+        "3_2066937795390611456"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2066937802034438374",
+    "created_at": "2026-06-16T17:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066937802034438374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/txwAXD6dNa",
+          "end": 37,
+          "expanded_url": "https://x.com/Aloevce/status/2066937802034438374/photo/1",
+          "media_key": "3_2066937796858630144",
+          "start": 14,
+          "url": "https://t.co/txwAXD6dNa"
+        },
+        {
+          "display_url": "pic.x.com/txwAXD6dNa",
+          "end": 37,
+          "expanded_url": "https://x.com/Aloevce/status/2066937802034438374/photo/1",
+          "media_key": "3_2066937795508076544",
+          "start": 14,
+          "url": "https://t.co/txwAXD6dNa"
+        },
+        {
+          "display_url": "pic.x.com/txwAXD6dNa",
+          "end": 37,
+          "expanded_url": "https://x.com/Aloevce/status/2066937802034438374/photo/1",
+          "media_key": "3_2066937795390611456",
+          "start": 14,
+          "url": "https://t.co/txwAXD6dNa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066937802034438374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的三只猪猪 小猪中猪大猪 https://t.co/txwAXD6dNa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066937796858630144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK88-aKWUAADQXf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2066937795508076544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK88-VIWgAA5Qr5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1332,
+        "media_key": "3_2066937795390611456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK88-UsWIAAKkhE.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066937796858630144",
+            "3_2066937795508076544",
+            "3_2066937795390611456"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2066937802034438374",
+        "created_at": "2026-06-16T17:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066937802034438374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/txwAXD6dNa",
+              "end": 37,
+              "expanded_url": "https://x.com/Aloevce/status/2066937802034438374/photo/1",
+              "media_key": "3_2066937796858630144",
+              "start": 14,
+              "url": "https://t.co/txwAXD6dNa"
+            },
+            {
+              "display_url": "pic.x.com/txwAXD6dNa",
+              "end": 37,
+              "expanded_url": "https://x.com/Aloevce/status/2066937802034438374/photo/1",
+              "media_key": "3_2066937795508076544",
+              "start": 14,
+              "url": "https://t.co/txwAXD6dNa"
+            },
+            {
+              "display_url": "pic.x.com/txwAXD6dNa",
+              "end": 37,
+              "expanded_url": "https://x.com/Aloevce/status/2066937802034438374/photo/1",
+              "media_key": "3_2066937795390611456",
+              "start": 14,
+              "url": "https://t.co/txwAXD6dNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066937802034438374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的三只猪猪 小猪中猪大猪 https://t.co/txwAXD6dNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18112,
+          "following_count": 1965,
+          "like_count": 56240,
+          "listed_count": 23,
+          "media_count": 6806,
+          "tweet_count": 23962
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

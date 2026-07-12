@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072875731298701312",
+        "3_2072875732162764800",
+        "3_2072875732137607168"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2072875738433208339",
+    "created_at": "2026-07-03T02:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T03:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072875738433208339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RoC05wkAqt",
+          "end": 30,
+          "expanded_url": "https://x.com/Aloevce/status/2072875738433208339/photo/1",
+          "media_key": "3_2072875731298701312",
+          "start": 7,
+          "url": "https://t.co/RoC05wkAqt"
+        },
+        {
+          "display_url": "pic.x.com/RoC05wkAqt",
+          "end": 30,
+          "expanded_url": "https://x.com/Aloevce/status/2072875738433208339/photo/1",
+          "media_key": "3_2072875732162764800",
+          "start": 7,
+          "url": "https://t.co/RoC05wkAqt"
+        },
+        {
+          "display_url": "pic.x.com/RoC05wkAqt",
+          "end": 30,
+          "expanded_url": "https://x.com/Aloevce/status/2072875738433208339/photo/1",
+          "media_key": "3_2072875732137607168",
+          "start": 7,
+          "url": "https://t.co/RoC05wkAqt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072875738433208339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不友好相处中 https://t.co/RoC05wkAqt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072875731298701312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRVfruWUAAhaNu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072875732162764800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRVfu8W4AAhZlC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072875732137607168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRVfu2XAAA_G5V.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072875731298701312",
+            "3_2072875732162764800",
+            "3_2072875732137607168"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072875738433208339",
+        "created_at": "2026-07-03T02:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072875738433208339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoC05wkAqt",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/2072875738433208339/photo/1",
+              "media_key": "3_2072875731298701312",
+              "start": 7,
+              "url": "https://t.co/RoC05wkAqt"
+            },
+            {
+              "display_url": "pic.x.com/RoC05wkAqt",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/2072875738433208339/photo/1",
+              "media_key": "3_2072875732162764800",
+              "start": 7,
+              "url": "https://t.co/RoC05wkAqt"
+            },
+            {
+              "display_url": "pic.x.com/RoC05wkAqt",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/2072875738433208339/photo/1",
+              "media_key": "3_2072875732137607168",
+              "start": 7,
+              "url": "https://t.co/RoC05wkAqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072875738433208339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不友好相处中 https://t.co/RoC05wkAqt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18060,
+          "following_count": 1953,
+          "like_count": 56271,
+          "listed_count": 23,
+          "media_count": 6848,
+          "tweet_count": 24052
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

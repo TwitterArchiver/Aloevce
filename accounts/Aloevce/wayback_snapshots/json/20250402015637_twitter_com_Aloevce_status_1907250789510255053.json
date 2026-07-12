@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "1907250789510255053",
+    "created_at": "2025-04-02T01:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T02:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907250789510255053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IbukiFuko_0720…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/IbukiFuko_0720/status/1907249579944198262",
+          "start": 28,
+          "url": "https://t.co/sBV6XtwCax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907250789510255053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907249579944198262",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "闷骚，都挺抽象的，刚开始的时候挺可爱的，分手就是很绝情 https://t.co/sBV6XtwCax"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1907250789510255053",
+        "created_at": "2025-04-02T01:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T02:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907250789510255053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IbukiFuko_0720…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/IbukiFuko_0720/status/1907249579944198262",
+              "start": 28,
+              "url": "https://t.co/sBV6XtwCax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907250789510255053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907249579944198262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "闷骚，都挺抽象的，刚开始的时候挺可爱的，分手就是很绝情 https://t.co/sBV6XtwCax"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544962773020393472",
+        "conversation_id": "1906847316675366980",
+        "created_at": "2025-04-02T01:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T02:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907249579944198262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907249579944198262",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906847316675366980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 锐评一下摩羯男可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "王牌级闪焰从小就很神人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17658,
+          "following_count": 2384,
+          "like_count": 54541,
+          "listed_count": 20,
+          "media_count": 5919,
+          "tweet_count": 20897
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T08:33:34.000Z",
+        "description": "是个高三男生 喜欢猫猫和好看的风景 想交日本朋友 因为梦想是润日本😔",
+        "id": "1544962773020393472",
+        "location": "这座小镇实现愿望的地方",
+        "name": "伊吹风子",
+        "pinned_tweet_id": "1853262263366672748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906593450025242624/lcgATRyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 252,
+          "like_count": 9602,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 3093
+        },
+        "username": "IbukiFuko_0720",
+        "verified": false
+      }
+    ]
+  }
+}

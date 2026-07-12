@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2042608769327337759",
+    "created_at": "2026-04-10T16:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042642349264658569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1635516217200099328",
+          "start": 0,
+          "username": "ywxqz_sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042642349264658569",
+    "in_reply_to_user_id": "1635516217200099328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042608769327337759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywxqz_sy 小宝好米好米"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1286,
+        "media_key": "3_2042608764612939780",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjN2WXakAQXGjU.jpg",
+        "width": 1332
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042608764675858432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjN2WmaoAA_M1T.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2042608769327337759",
+        "created_at": "2026-04-10T16:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042642349264658569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1635516217200099328",
+              "start": 0,
+              "username": "ywxqz_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042642349264658569",
+        "in_reply_to_user_id": "1635516217200099328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042608769327337759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywxqz_sy 小宝好米好米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042608764612939780",
+            "3_2042608764675858432"
+          ]
+        },
+        "author_id": "1635516217200099328",
+        "conversation_id": "2042608769327337759",
+        "created_at": "2026-04-10T14:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042608769327337759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/znarNEwbGE",
+              "end": 59,
+              "expanded_url": "https://x.com/ywxqz_sy/status/2042608769327337759/photo/1",
+              "media_key": "3_2042608764612939780",
+              "start": 36,
+              "url": "https://t.co/znarNEwbGE"
+            },
+            {
+              "display_url": "pic.x.com/znarNEwbGE",
+              "end": 59,
+              "expanded_url": "https://x.com/ywxqz_sy/status/2042608769327337759/photo/1",
+              "media_key": "3_2042608764675858432",
+              "start": 36,
+              "url": "https://t.co/znarNEwbGE"
+            },
+            {
+              "display_url": "x.com/ywxqz_sy/statu…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/ywxqz_sy/status/2037733795538096392",
+              "start": 60,
+              "url": "https://t.co/lPaQtrtcSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042608769327337759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 612,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037733795538096392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找到了两张当时试穿时的对镜～\n（背景好乱呀码一下）\np2姿势好中二啊草 https://t.co/znarNEwbGE https://t.co/lPaQtrtcSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17924,
+          "following_count": 2293,
+          "like_count": 54171,
+          "listed_count": 23,
+          "media_count": 6569,
+          "tweet_count": 22894
+        },
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T05:40:42.000Z",
+        "description": "顺女\n纯自恋\n女生和互关欢迎私信\n联系方式看心情给\n没有🚪，什么都不🈷️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuoyun16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuoyun16",
+                "start": 0,
+                "url": "https://t.co/kuVq03QEYP"
+              }
+            ]
+          }
+        },
+        "id": "1635516217200099328",
+        "name": "朔云",
+        "pinned_tweet_id": "2041289525192962460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000165241905401856/MYfFRFqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 587,
+          "like_count": 9194,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 2466
+        },
+        "url": "https://t.co/kuVq03QEYP",
+        "username": "ywxqz_sy",
+        "verified": false
+      }
+    ]
+  }
+}
