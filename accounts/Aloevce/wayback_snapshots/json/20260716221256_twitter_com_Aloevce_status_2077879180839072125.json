@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2077879180839072125",
+    "created_at": "2026-07-16T22:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T23:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077879180839072125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Aloevce/status/2077878940052423120",
+          "start": 9,
+          "url": "https://t.co/2pJIqQcW7F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077879180839072125",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077878940052423120",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操了起床洗被子 https://t.co/2pJIqQcW7F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2077879180839072125",
+        "created_at": "2026-07-16T22:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077879180839072125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Aloevce/status/2077878940052423120",
+              "start": 9,
+              "url": "https://t.co/2pJIqQcW7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077879180839072125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077878940052423120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操了起床洗被子 https://t.co/2pJIqQcW7F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2077878940052423120",
+        "created_at": "2026-07-16T22:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077878940052423120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077878940052423120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放屁把💩崩出来了是我节食的原因吗。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18043,
+          "following_count": 1960,
+          "like_count": 56531,
+          "listed_count": 23,
+          "media_count": 6915,
+          "tweet_count": 24246
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

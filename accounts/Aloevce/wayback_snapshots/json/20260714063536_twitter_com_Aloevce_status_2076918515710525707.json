@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2076918515710525707",
+    "created_at": "2026-07-14T06:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076918515710525707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ratshelprats/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ratshelprats/status/2076896103157616806",
+          "start": 6,
+          "url": "https://t.co/co4ruooRWl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076918515710525707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076896103157616806",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "竞技场来了 https://t.co/co4ruooRWl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 671,
+        "media_key": "3_2076896100263591936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKd_9ObAAAEc2c.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2076918515710525707",
+        "created_at": "2026-07-14T06:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076918515710525707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ratshelprats/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ratshelprats/status/2076896103157616806",
+              "start": 6,
+              "url": "https://t.co/co4ruooRWl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076918515710525707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076896103157616806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "竞技场来了 https://t.co/co4ruooRWl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076896100263591936"
+          ]
+        },
+        "author_id": "1782932905419046912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076896103157616806",
+        "created_at": "2026-07-14T05:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076896103157616806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pUsjkt4yka",
+              "end": 37,
+              "expanded_url": "https://x.com/ratshelprats/status/2076896103157616806/photo/1",
+              "media_key": "3_2076896100263591936",
+              "start": 14,
+              "url": "https://t.co/pUsjkt4yka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076896103157616806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3734,
+          "like_count": 56,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子想不出这么幽默的文字 https://t.co/pUsjkt4yka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18050,
+          "following_count": 1957,
+          "like_count": 56481,
+          "listed_count": 23,
+          "media_count": 6903,
+          "tweet_count": 24216
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2071911800518709259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112316,
+          "following_count": 476,
+          "like_count": 102005,
+          "listed_count": 164,
+          "media_count": 595,
+          "tweet_count": 1569
+        },
+        "url": "",
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

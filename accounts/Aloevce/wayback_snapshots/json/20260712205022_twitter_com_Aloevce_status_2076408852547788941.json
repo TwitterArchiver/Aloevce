@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2076408852547788941",
+    "created_at": "2026-07-12T20:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T21:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076408852547788941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Aloevce/status/2076116820864782833",
+          "start": 36,
+          "url": "https://t.co/gFhGq2saVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076408852547788941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076116820864782833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实还是好想好好收拾拍点美丽照片 衣 我的裙子至少五百套但是从来不出镜 https://t.co/gFhGq2saVl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076116817609920512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_ZPvHakAA0rdx.jpg",
+        "width": 1153
+      },
+      {
+        "height": 1916,
+        "media_key": "3_2076116816758448128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_ZPr8aIAAJ9-B.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2076116815005310976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_ZPlabYAA_S9x.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2076408852547788941",
+        "created_at": "2026-07-12T20:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076408852547788941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Aloevce/status/2076116820864782833",
+              "start": 36,
+              "url": "https://t.co/gFhGq2saVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076408852547788941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076116820864782833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实还是好想好好收拾拍点美丽照片 衣 我的裙子至少五百套但是从来不出镜 https://t.co/gFhGq2saVl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076116817609920512",
+            "3_2076116816758448128",
+            "3_2076116815005310976"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2076116820864782833",
+        "created_at": "2026-07-12T01:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T02:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076116820864782833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMg7NqNmgc",
+              "end": 85,
+              "expanded_url": "https://x.com/Aloevce/status/2076116820864782833/photo/1",
+              "media_key": "3_2076116817609920512",
+              "start": 62,
+              "url": "https://t.co/cMg7NqNmgc"
+            },
+            {
+              "display_url": "pic.x.com/cMg7NqNmgc",
+              "end": 85,
+              "expanded_url": "https://x.com/Aloevce/status/2076116820864782833/photo/1",
+              "media_key": "3_2076116816758448128",
+              "start": 62,
+              "url": "https://t.co/cMg7NqNmgc"
+            },
+            {
+              "display_url": "pic.x.com/cMg7NqNmgc",
+              "end": 85,
+              "expanded_url": "https://x.com/Aloevce/status/2076116820864782833/photo/1",
+              "media_key": "3_2076116815005310976",
+              "start": 62,
+              "url": "https://t.co/cMg7NqNmgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076116820864782833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7034,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烦 每次让对象哥拍照都给我拍大仰视 问就是显腿长 （如图）又显老子脸方又丑 说了不让他这么拍还不乐意。。。导致我很讨厌拍照 https://t.co/cMg7NqNmgc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18056,
+          "following_count": 1959,
+          "like_count": 56463,
+          "listed_count": 23,
+          "media_count": 6896,
+          "tweet_count": 24197
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

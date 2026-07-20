@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077289220377358336"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2077289224101830798",
+    "created_at": "2026-07-15T07:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077289224101830798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eWpfQSUedz",
+          "end": 29,
+          "expanded_url": "https://x.com/Aloevce/status/2077289224101830798/photo/1",
+          "media_key": "3_2077289220377358336",
+          "start": 6,
+          "url": "https://t.co/eWpfQSUedz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077289224101830798",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在哭 https://t.co/eWpfQSUedz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2107,
+        "media_key": "3_2077289220377358336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQDijxXMAA8kBG.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077289220377358336"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2077289224101830798",
+        "created_at": "2026-07-15T07:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077289224101830798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eWpfQSUedz",
+              "end": 29,
+              "expanded_url": "https://x.com/Aloevce/status/2077289224101830798/photo/1",
+              "media_key": "3_2077289220377358336",
+              "start": 6,
+              "url": "https://t.co/eWpfQSUedz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077289224101830798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在哭 https://t.co/eWpfQSUedz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18048,
+          "following_count": 1958,
+          "like_count": 56504,
+          "listed_count": 23,
+          "media_count": 6907,
+          "tweet_count": 24230
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

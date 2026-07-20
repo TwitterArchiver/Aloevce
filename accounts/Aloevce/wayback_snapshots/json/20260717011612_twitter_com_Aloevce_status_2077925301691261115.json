@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077925297824133120"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077925301691261115",
+    "created_at": "2026-07-17T01:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077925301691261115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xfOIdBjAwQ",
+          "end": 46,
+          "expanded_url": "https://x.com/Aloevce/status/2077925301691261115/photo/1",
+          "media_key": "3_2077925297824133120",
+          "start": 23,
+          "url": "https://t.co/xfOIdBjAwQ"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/Aloevce/status/2077880869835219261",
+          "start": 47,
+          "url": "https://t.co/SQY2RnexpA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077925301691261115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077880869835219261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "day5 蜜瓜半个 黄瓜一个 盒马鸡腿排一个 https://t.co/xfOIdBjAwQ https://t.co/SQY2RnexpA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2077925297824133120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZGDI6a8AAIo88.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077925297824133120"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077925301691261115",
+        "created_at": "2026-07-17T01:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077925301691261115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xfOIdBjAwQ",
+              "end": 46,
+              "expanded_url": "https://x.com/Aloevce/status/2077925301691261115/photo/1",
+              "media_key": "3_2077925297824133120",
+              "start": 23,
+              "url": "https://t.co/xfOIdBjAwQ"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/Aloevce/status/2077880869835219261",
+              "start": 47,
+              "url": "https://t.co/SQY2RnexpA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077925301691261115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077880869835219261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day5 蜜瓜半个 黄瓜一个 盒马鸡腿排一个 https://t.co/xfOIdBjAwQ https://t.co/SQY2RnexpA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2077880869835219261",
+        "created_at": "2026-07-16T22:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077880869835219261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Aloevce/status/2077880709252022580",
+              "start": 25,
+              "url": "https://t.co/O8SeRtlfyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077880869835219261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077880709252022580",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day4一个黄椒两个鸡蛋一个鸡腿一个黄瓜十个虾仁 https://t.co/O8SeRtlfyO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18043,
+          "following_count": 1961,
+          "like_count": 56531,
+          "listed_count": 23,
+          "media_count": 6916,
+          "tweet_count": 24249
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

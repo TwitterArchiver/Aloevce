@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075794367684431872"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2075794370318463313",
+    "created_at": "2026-07-11T04:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075794370318463313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1kUbqVNjRb",
+          "end": 30,
+          "expanded_url": "https://x.com/Aloevce/status/2075794370318463313/photo/1",
+          "media_key": "3_2075794367684431872",
+          "start": 7,
+          "url": "https://t.co/1kUbqVNjRb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075794370318463313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉一群扫把星 https://t.co/1kUbqVNjRb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 225,
+        "media_key": "3_2075794367684431872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6z-riWUAAN5ja.jpg",
+        "width": 962
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075794367684431872"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2075794370318463313",
+        "created_at": "2026-07-11T04:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075794370318463313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kUbqVNjRb",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/2075794370318463313/photo/1",
+              "media_key": "3_2075794367684431872",
+              "start": 7,
+              "url": "https://t.co/1kUbqVNjRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075794370318463313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉一群扫把星 https://t.co/1kUbqVNjRb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18050,
+          "following_count": 1957,
+          "like_count": 56416,
+          "listed_count": 23,
+          "media_count": 6886,
+          "tweet_count": 24178
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

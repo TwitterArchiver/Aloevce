@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076758926864105472"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2076758930114363901",
+    "created_at": "2026-07-13T20:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T21:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076758930114363901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uVL1N02L4U",
+          "end": 67,
+          "expanded_url": "https://x.com/Aloevce/status/2076758930114363901/photo/1",
+          "media_key": "3_2076758926864105472",
+          "start": 44,
+          "url": "https://t.co/uVL1N02L4U"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/Aloevce/status/2076408852547788941",
+          "start": 68,
+          "url": "https://t.co/Muq3J6jB6r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076758930114363901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076408852547788941",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我衣柜如图 今年终于买了买了一条红色一条紫色两条粉色两条黄色其他所有衣服全是蓝色orz https://t.co/uVL1N02L4U https://t.co/Muq3J6jB6r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2218,
+        "media_key": "3_2076758926864105472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIhPafbQAA1EK5.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076758926864105472"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2076758930114363901",
+        "created_at": "2026-07-13T20:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T21:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076758930114363901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uVL1N02L4U",
+              "end": 67,
+              "expanded_url": "https://x.com/Aloevce/status/2076758930114363901/photo/1",
+              "media_key": "3_2076758926864105472",
+              "start": 44,
+              "url": "https://t.co/uVL1N02L4U"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/Aloevce/status/2076408852547788941",
+              "start": 68,
+              "url": "https://t.co/Muq3J6jB6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076758930114363901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076408852547788941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我衣柜如图 今年终于买了买了一条红色一条紫色两条粉色两条黄色其他所有衣服全是蓝色orz https://t.co/uVL1N02L4U https://t.co/Muq3J6jB6r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2076408852547788941",
+        "created_at": "2026-07-12T20:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076408852547788941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Aloevce/status/2076116820864782833",
+              "start": 36,
+              "url": "https://t.co/gFhGq2saVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076408852547788941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 998,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076116820864782833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实还是好想好好收拾拍点美丽照片 衣 我的裙子至少五百套但是从来不出镜 https://t.co/gFhGq2saVl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18055,
+          "following_count": 1959,
+          "like_count": 56481,
+          "listed_count": 23,
+          "media_count": 6899,
+          "tweet_count": 24206
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

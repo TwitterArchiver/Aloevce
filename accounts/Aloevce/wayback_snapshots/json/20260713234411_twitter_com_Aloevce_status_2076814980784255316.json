@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2076814980784255316",
+    "created_at": "2026-07-13T23:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T00:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076814980784255316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LovelyJerry201…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/LovelyJerry2013/status/2076654233198444595",
+          "start": 8,
+          "url": "https://t.co/xnPy0RrZrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076814980784255316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076654233198444595",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想买这件雪梨猫 https://t.co/xnPy0RrZrN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076646061855383552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNG6lzkaoAAqjc0.jpg",
+        "width": 1087
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076640803905286144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNG1zwLbMAApvz5.jpg",
+        "width": 1143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2076814980784255316",
+        "created_at": "2026-07-13T23:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076814980784255316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LovelyJerry201…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/LovelyJerry2013/status/2076654233198444595",
+              "start": 8,
+              "url": "https://t.co/xnPy0RrZrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076814980784255316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076654233198444595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想买这件雪梨猫 https://t.co/xnPy0RrZrN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076646061855383552",
+            "3_2076640803905286144"
+          ]
+        },
+        "author_id": "1616696567549034496",
+        "conversation_id": "2076654233198444595",
+        "created_at": "2026-07-13T13:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076654233198444595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBCuatNL58",
+              "end": 29,
+              "expanded_url": "https://x.com/LovelyJerry2013/status/2076654233198444595/photo/1",
+              "media_key": "3_2076646061855383552",
+              "start": 6,
+              "url": "https://t.co/rBCuatNL58"
+            },
+            {
+              "display_url": "pic.x.com/rBCuatNL58",
+              "end": 29,
+              "expanded_url": "https://x.com/LovelyJerry2013/status/2076654233198444595/photo/1",
+              "media_key": "3_2076640803905286144",
+              "start": 6,
+              "url": "https://t.co/rBCuatNL58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076654233198444595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2244,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧麻袋裙 https://t.co/rBCuatNL58"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18054,
+          "following_count": 1959,
+          "like_count": 56484,
+          "listed_count": 23,
+          "media_count": 6899,
+          "tweet_count": 24210
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T07:18:09.000Z",
+        "description": "重度社交恐惧\\历史学\\ Trotskyism ☭⁴\\异端托派\\mtx🏳️‍⚧️\\无证🍥\\Lolita\\清水\\DDLC&Just Yuri💜\\芙兰秀秀\\点兔\\晓美焰\\猫和老鼠\\q娃\\北方谦三\\水浒\\♡HMS光辉号♡\\幸德秋水\\本体花枝鼠\\2013\\照片大部分在媒体里\\里推@KawaiiYuri2013",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 135,
+                "username": "KawaiiYuri2013"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "http://marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/UnTrdQVDUJ"
+              }
+            ]
+          }
+        },
+        "id": "1616696567549034496",
+        "location": "佐賀県唐津市",
+        "name": "✧*♡𝓝𝓪𝓽𝓼𝓾𝓶𝓮𝓢𝓱𝓾𝓼𝓾𝓲♡*⊹🍀✒️🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074466925904871424/fJBgeki0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 1587,
+          "like_count": 54811,
+          "listed_count": 4,
+          "media_count": 312,
+          "tweet_count": 4587
+        },
+        "url": "https://t.co/UnTrdQVDUJ",
+        "username": "LovelyJerry2013",
+        "verified": false
+      }
+    ]
+  }
+}

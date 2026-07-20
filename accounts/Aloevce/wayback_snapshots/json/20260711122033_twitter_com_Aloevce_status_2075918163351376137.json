@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2075918140735713280"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2075918163351376137",
+    "created_at": "2026-07-11T12:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075918163351376137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qSLsecvf85",
+          "end": 30,
+          "expanded_url": "https://x.com/Aloevce/status/2075918163351376137/video/1",
+          "media_key": "7_2075918140735713280",
+          "start": 7,
+          "url": "https://t.co/qSLsecvf85"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075918163351376137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小猪们吃肉肉 https://t.co/qSLsecvf85"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1856,
+        "height": 720,
+        "media_key": "7_2075918140735713280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075918140735713280/pu/img/GbyWA0cWmzC98ba2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075918140735713280/pu/vid/avc1/480x270/bVexPY6jALRkg3FW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075918140735713280/pu/vid/avc1/640x360/6ufXLPhlTaCdFJoC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075918140735713280/pu/vid/avc1/1280x720/99It0Cv4-N4TXgvz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075918140735713280/pu/pl/UP0LN3147NsY6mwd.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075918140735713280"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2075918163351376137",
+        "created_at": "2026-07-11T12:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075918163351376137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qSLsecvf85",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/2075918163351376137/video/1",
+              "media_key": "7_2075918140735713280",
+              "start": 7,
+              "url": "https://t.co/qSLsecvf85"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075918163351376137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猪们吃肉肉 https://t.co/qSLsecvf85"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18047,
+          "following_count": 1957,
+          "like_count": 56420,
+          "listed_count": 23,
+          "media_count": 6888,
+          "tweet_count": 24180
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

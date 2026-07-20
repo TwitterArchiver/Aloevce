@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2075677057909211289",
+    "created_at": "2026-07-10T20:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T21:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075677057909211289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/popoen_/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/popoen_/status/2075445640021303311",
+          "start": 5,
+          "url": "https://t.co/v4JlIWbTXV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075677057909211289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075445640021303311",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要买了 https://t.co/v4JlIWbTXV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2075445634765922304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM12zwLboAAQ4Fd.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1387,
+        "media_key": "3_2075445634803576834",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM12zwUaMAIGoYH.jpg",
+        "width": 1071
+      },
+      {
+        "height": 1641,
+        "media_key": "3_2075445634778411008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM12zwOaMAAF2cy.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2075677057909211289",
+        "created_at": "2026-07-10T20:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075677057909211289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/popoen_/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/popoen_/status/2075445640021303311",
+              "start": 5,
+              "url": "https://t.co/v4JlIWbTXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075677057909211289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075445640021303311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要买了 https://t.co/v4JlIWbTXV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075445634765922304",
+            "3_2075445634803576834",
+            "3_2075445634778411008"
+          ]
+        },
+        "author_id": "1369317812980699136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075445640021303311",
+        "created_at": "2026-07-10T05:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075445640021303311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PR1Kd4lP2F",
+              "end": 33,
+              "expanded_url": "https://x.com/popoen_/status/2075445640021303311/photo/1",
+              "media_key": "3_2075445634765922304",
+              "start": 10,
+              "url": "https://t.co/PR1Kd4lP2F"
+            },
+            {
+              "display_url": "pic.x.com/PR1Kd4lP2F",
+              "end": 33,
+              "expanded_url": "https://x.com/popoen_/status/2075445640021303311/photo/1",
+              "media_key": "3_2075445634803576834",
+              "start": 10,
+              "url": "https://t.co/PR1Kd4lP2F"
+            },
+            {
+              "display_url": "pic.x.com/PR1Kd4lP2F",
+              "end": 33,
+              "expanded_url": "https://x.com/popoen_/status/2075445640021303311/photo/1",
+              "media_key": "3_2075445634778411008",
+              "start": 10,
+              "url": "https://t.co/PR1Kd4lP2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075445640021303311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2975,
+          "impression_count": 1647504,
+          "like_count": 21171,
+          "quote_count": 489,
+          "reply_count": 39,
+          "retweet_count": 1857
+        },
+        "reply_settings": "everyone",
+        "text": "何これ、パケやばい https://t.co/PR1Kd4lP2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18048,
+          "following_count": 1957,
+          "like_count": 56417,
+          "listed_count": 23,
+          "media_count": 6884,
+          "tweet_count": 24172
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-09T16:04:55.000Z",
+        "description": "美容垢、個人的に良かった物紹介してます。スピ好き☯️火星人- 落ち着きあのあるペガサス🪽",
+        "id": "1369317812980699136",
+        "name": "poa ⊙͜⊙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072249631925563392/DtGs9EEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88345,
+          "following_count": 158,
+          "like_count": 24805,
+          "listed_count": 305,
+          "media_count": 1976,
+          "tweet_count": 6841
+        },
+        "url": "",
+        "username": "popoen_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2076464053925629968",
+    "created_at": "2026-07-13T00:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076464053925629968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/d4yr1n/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/d4yr1n/status/2076008400492884104",
+          "start": 5,
+          "url": "https://t.co/4nOj0BhaQH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076464053925629968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076008400492884104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/4nOj0BhaQH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 743,
+        "media_key": "3_2076008395841085441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM92owjWIAEIdii.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2076464053925629968",
+        "created_at": "2026-07-13T00:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076464053925629968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/d4yr1n/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/d4yr1n/status/2076008400492884104",
+              "start": 5,
+              "url": "https://t.co/4nOj0BhaQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076464053925629968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076008400492884104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/4nOj0BhaQH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076008395841085441"
+          ]
+        },
+        "author_id": "2002325505606103041",
+        "conversation_id": "2076008400492884104",
+        "created_at": "2026-07-11T18:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076008400492884104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLlOxTH7Qw",
+              "end": 64,
+              "expanded_url": "https://x.com/d4yr1n/status/2076008400492884104/photo/1",
+              "media_key": "3_2076008395841085441",
+              "start": 41,
+              "url": "https://t.co/jLlOxTH7Qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076008400492884104",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 543,
+          "impression_count": 152295,
+          "like_count": 21898,
+          "quote_count": 64,
+          "reply_count": 48,
+          "retweet_count": 7479
+        },
+        "reply_settings": "everyone",
+        "text": "Así me siento cuando intento verme linde https://t.co/jLlOxTH7Qw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18055,
+          "following_count": 1959,
+          "like_count": 56467,
+          "listed_count": 23,
+          "media_count": 6897,
+          "tweet_count": 24201
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T10:31:05.000Z",
+        "description": "_-.★ Does life outside have meaning?    †*. \n𝑆ℎ𝑒/𝐻𝑒     \n\n#otaku #shtwt #ne3t #obstwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "otaku"
+              },
+              {
+                "end": 71,
+                "start": 65,
+                "tag": "shtwt"
+              },
+              {
+                "end": 77,
+                "start": 72,
+                "tag": "ne3t"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "obstwt"
+              }
+            ]
+          }
+        },
+        "id": "2002325505606103041",
+        "name": "★D41rYn'†",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020485257225457665/DS73buHy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 614,
+          "like_count": 17993,
+          "listed_count": 11,
+          "media_count": 525,
+          "tweet_count": 5608
+        },
+        "url": "",
+        "username": "d4yr1n",
+        "verified": false
+      }
+    ]
+  }
+}

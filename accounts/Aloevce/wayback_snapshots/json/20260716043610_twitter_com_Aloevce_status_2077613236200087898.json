@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2077613236200087898",
+    "created_at": "2026-07-16T04:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077613236200087898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sevnisnow_umi/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/sevnisnow_umi/status/2077433740817830144",
+          "start": 2,
+          "url": "https://t.co/lHiw79nF4p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077613236200087898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077433740817830144",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/lHiw79nF4p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 715,
+        "media_key": "3_2077433735017029632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSG-awaYAANyUH.jpg",
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2077613236200087898",
+        "created_at": "2026-07-16T04:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077613236200087898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sevnisnow_umi/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/sevnisnow_umi/status/2077433740817830144",
+              "start": 2,
+              "url": "https://t.co/lHiw79nF4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077613236200087898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077433740817830144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/lHiw79nF4p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077433735017029632"
+          ]
+        },
+        "author_id": "1676082098073923585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077433740817830144",
+        "created_at": "2026-07-15T16:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077433740817830144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l37BviRNPe",
+              "end": 23,
+              "expanded_url": "https://x.com/sevnisnow_umi/status/2077433740817830144/photo/1",
+              "media_key": "3_2077433735017029632",
+              "start": 0,
+              "url": "https://t.co/l37BviRNPe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077433740817830144",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/l37BviRNPe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18042,
+          "following_count": 1960,
+          "like_count": 56498,
+          "listed_count": 23,
+          "media_count": 6915,
+          "tweet_count": 24239
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T04:15:00.000Z",
+        "description": "二婚宝妈家有俩孩//此号只是用于吐苦水&搬运共情的文案并非原创心情额对",
+        "id": "1676082098073923585",
+        "location": "🗑️",
+        "name": "攻主病",
+        "pinned_tweet_id": "2075162244376354944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071669477322997760/E1N07y0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 458,
+          "like_count": 4268,
+          "listed_count": 1,
+          "media_count": 577,
+          "tweet_count": 4880
+        },
+        "url": "",
+        "username": "sevnisnow_umi",
+        "verified": false
+      }
+    ]
+  }
+}

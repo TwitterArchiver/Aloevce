@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2076814493452005514",
+    "created_at": "2026-07-13T23:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T00:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076814493452005514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/Aloevce/status/2076812842318147674",
+          "start": 117,
+          "url": "https://t.co/E7MFbbmTwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076814493452005514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076812842318147674",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛逼哦对象哥又不问我就把我东西（拓麻歌子的盒子 扔垃圾桶 我最讨厌别人随意支配我的东西说送就送说扔就扔 当时买这个东西时候我都是躲在厕所里偷偷拆的快递（怕被说乱花钱 为什么别人对象都是给老婆送礼物 我给我买礼物都没花她的钱却要躲着他 https://t.co/E7MFbbmTwe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2076814493452005514",
+        "created_at": "2026-07-13T23:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076814493452005514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/Aloevce/status/2076812842318147674",
+              "start": 117,
+              "url": "https://t.co/E7MFbbmTwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076814493452005514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076812842318147674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼哦对象哥又不问我就把我东西（拓麻歌子的盒子 扔垃圾桶 我最讨厌别人随意支配我的东西说送就送说扔就扔 当时买这个东西时候我都是躲在厕所里偷偷拆的快递（怕被说乱花钱 为什么别人对象都是给老婆送礼物 我给我买礼物都没花她的钱却要躲着他 https://t.co/E7MFbbmTwe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2076812842318147674",
+        "created_at": "2026-07-13T23:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076812842318147674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076812842318147674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18054,
+          "following_count": 1959,
+          "like_count": 56482,
+          "listed_count": 23,
+          "media_count": 6899,
+          "tweet_count": 24209
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

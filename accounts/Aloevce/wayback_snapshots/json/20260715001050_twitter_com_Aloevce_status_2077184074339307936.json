@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2077184074339307936",
+    "created_at": "2026-07-15T00:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T01:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077184074339307936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/recatorseky/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/recatorseky/status/2077182599622271002",
+          "start": 6,
+          "url": "https://t.co/xsC6NZ4uk3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077184074339307936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077182599622271002",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实已婚😹 https://t.co/xsC6NZ4uk3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2077184074339307936",
+        "created_at": "2026-07-15T00:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077184074339307936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/recatorseky/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/recatorseky/status/2077182599622271002",
+              "start": 6,
+              "url": "https://t.co/xsC6NZ4uk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077184074339307936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077182599622271002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实已婚😹 https://t.co/xsC6NZ4uk3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103821331588571136",
+        "conversation_id": "2077182599622271002",
+        "created_at": "2026-07-15T00:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077182599622271002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aloevce/status…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/aloevce/status/2077095646746575303",
+              "start": 55,
+              "url": "https://t.co/luPxuDYd7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077182599622271002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077095646746575303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在过去的一个月里，我见证了这个对象哥从过生日不理人到可能的同居忘交电费，让我开始赞叹网友对于恋爱上的忍耐能力 https://t.co/luPxuDYd7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18049,
+          "following_count": 1958,
+          "like_count": 56502,
+          "listed_count": 23,
+          "media_count": 6903,
+          "tweet_count": 24225
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T00:54:48.000Z",
+        "description": "中文 Eng/奥克兰AKL/FF14/R6S/buhurt/cosplay/Gundam/ COC TRPG/\n恋人@AOHITOM1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "AOHITOM1"
+              }
+            ]
+          }
+        },
+        "id": "1103821331588571136",
+        "location": "RE",
+        "name": "REC470R",
+        "pinned_tweet_id": "1984171567253967185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973030013831364608/nOg1CYWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 123,
+          "like_count": 29809,
+          "listed_count": 0,
+          "media_count": 616,
+          "tweet_count": 3627
+        },
+        "url": "",
+        "username": "recatorseky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2077277482114286018",
+    "created_at": "2026-07-15T06:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077277482114286018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/Aloevce/status/2077252614035591241",
+          "start": 43,
+          "url": "https://t.co/4Ipjnqoi2m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077277482114286018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077252614035591241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不收拾就零帧起手阴阳怪气 拿我当仇人整 大神了 几把房子六十平我衣服那么多我往哪收拾 https://t.co/4Ipjnqoi2m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2077277482114286018",
+        "created_at": "2026-07-15T06:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077277482114286018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Aloevce/status/2077252614035591241",
+              "start": 43,
+              "url": "https://t.co/4Ipjnqoi2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077277482114286018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077252614035591241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不收拾就零帧起手阴阳怪气 拿我当仇人整 大神了 几把房子六十平我衣服那么多我往哪收拾 https://t.co/4Ipjnqoi2m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2077252614035591241",
+        "created_at": "2026-07-15T04:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077252614035591241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Aloevce/status/2077041449561174398",
+              "start": 32,
+              "url": "https://t.co/BOn8oPz6YD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077252614035591241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077041449561174398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧室空调坏了只能开客厅空调 36度对象哥让我开始收拾屋子 牛逼 https://t.co/BOn8oPz6YD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18048,
+          "following_count": 1959,
+          "like_count": 56504,
+          "listed_count": 23,
+          "media_count": 6906,
+          "tweet_count": 24230
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

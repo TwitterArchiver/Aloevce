@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077613706553561305",
+    "created_at": "2026-07-16T04:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077613706553561305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Taffydaisuki/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Taffydaisuki/status/2077351372899623043",
+          "start": 4,
+          "url": "https://t.co/QuBIoud7jc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077613706553561305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077351372899623043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想吃 https://t.co/QuBIoud7jc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077351365106647040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ8D27awAApBgS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077613706553561305",
+        "created_at": "2026-07-16T04:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077613706553561305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Taffydaisuki/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Taffydaisuki/status/2077351372899623043",
+              "start": 4,
+              "url": "https://t.co/QuBIoud7jc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077613706553561305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077351372899623043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想吃 https://t.co/QuBIoud7jc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077351365106647040"
+          ]
+        },
+        "author_id": "1491368400924422149",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077351372899623043",
+        "created_at": "2026-07-15T11:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077351372899623043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t78cQGSiLg",
+              "end": 35,
+              "expanded_url": "https://x.com/Taffydaisuki/status/2077351372899623043/photo/1",
+              "media_key": "3_2077351365106647040",
+              "start": 12,
+              "url": "https://t.co/t78cQGSiLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077351372899623043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三文魚和火雞面冰紅茶🥵 https://t.co/t78cQGSiLg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18042,
+          "following_count": 1960,
+          "like_count": 56500,
+          "listed_count": 23,
+          "media_count": 6915,
+          "tweet_count": 24240
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T11:08:43.000Z",
+        "description": "精神故鄉加拿大，夢想是去南極旅遊/ㄆㄥˊㄧㄡˇ@bakajinping @ln_fbsq @DOUDEMOII_y92z0 @lyb1007 /希望親友都能幸福/boymoder everyday🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "bakajinping"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "ln_fbsq"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "DOUDEMOII_y92z0"
+              },
+              {
+                "end": 70,
+                "start": 62,
+                "username": "lyb1007"
+              }
+            ]
+          }
+        },
+        "id": "1491368400924422149",
+        "location": "台灣精神病收容所",
+        "name": "🍫空酱🍥",
+        "pinned_tweet_id": "2068595415705170165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017274336684720128/_d6AXlEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 609,
+          "like_count": 26690,
+          "listed_count": 1,
+          "media_count": 891,
+          "tweet_count": 6463
+        },
+        "url": "",
+        "username": "Taffydaisuki",
+        "verified": false
+      }
+    ]
+  }
+}
