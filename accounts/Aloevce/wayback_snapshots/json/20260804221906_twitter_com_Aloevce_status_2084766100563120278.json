@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2084766100563120278",
+    "created_at": "2026-08-04T22:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T23:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084766100563120278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/beibaichuan0_0…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/beibaichuan0_0/status/2084697682874958045",
+          "start": 8,
+          "url": "https://t.co/aanEKc1gfr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084766100563120278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084697682874958045",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢宝宝提醒🙀 https://t.co/aanEKc1gfr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_2084697676533174272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5VfdnXkAA3ZNB.jpg",
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2084766100563120278",
+        "created_at": "2026-08-04T22:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T23:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084766100563120278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/beibaichuan0_0…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/beibaichuan0_0/status/2084697682874958045",
+              "start": 8,
+              "url": "https://t.co/aanEKc1gfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084766100563120278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084697682874958045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢宝宝提醒🙀 https://t.co/aanEKc1gfr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084697676533174272"
+          ]
+        },
+        "author_id": "1517718055941402624",
+        "conversation_id": "2084686296107159896",
+        "created_at": "2026-08-04T17:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084697682874958045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/osKSdGNMlz",
+              "end": 65,
+              "expanded_url": "https://x.com/beibaichuan0_0/status/2084697682874958045/photo/1",
+              "media_key": "3_2084697676533174272",
+              "start": 42,
+              "url": "https://t.co/osKSdGNMlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084697682874958045",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084686296107159896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 如果是外面的小野猫还是不要摸的呀，不要回家把冰传给自己家的宝宝了 https://t.co/osKSdGNMlz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18012,
+          "following_count": 1969,
+          "like_count": 56799,
+          "listed_count": 23,
+          "media_count": 6989,
+          "tweet_count": 24443
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T04:12:50.000Z",
+        "description": "咪的碎碎念₍^˶-𖥦-˵^₎੭",
+        "id": "1517718055941402624",
+        "location": "Coronita, CA",
+        "name": "Nyanko白白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779570056290344960/97YOidbj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 115,
+          "like_count": 1223,
+          "listed_count": 4,
+          "media_count": 251,
+          "tweet_count": 1549
+        },
+        "url": "",
+        "username": "beibaichuan0_0",
+        "verified": false
+      }
+    ]
+  }
+}

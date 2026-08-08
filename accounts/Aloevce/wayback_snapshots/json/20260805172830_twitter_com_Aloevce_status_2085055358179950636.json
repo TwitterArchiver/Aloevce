@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085055305616863232",
+        "3_2085055307063947264"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2085055358179950636",
+    "created_at": "2026-08-05T17:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085055358179950636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cSbQytA9tD",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/2085055358179950636/photo/1",
+          "media_key": "3_2085055305616863232",
+          "start": 5,
+          "url": "https://t.co/cSbQytA9tD"
+        },
+        {
+          "display_url": "pic.x.com/cSbQytA9tD",
+          "end": 28,
+          "expanded_url": "https://x.com/Aloevce/status/2085055358179950636/photo/1",
+          "media_key": "3_2085055307063947264",
+          "start": 5,
+          "url": "https://t.co/cSbQytA9tD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085055358179950636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "丫够燥的 https://t.co/cSbQytA9tD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2085055305616863232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-awNxWMAAFZ9h.jpg",
+        "width": 2134
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085055307063947264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-awTKW8AA2o9Y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085055305616863232",
+            "3_2085055307063947264"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085055358179950636",
+        "created_at": "2026-08-05T17:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085055358179950636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSbQytA9tD",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/2085055358179950636/photo/1",
+              "media_key": "3_2085055305616863232",
+              "start": 5,
+              "url": "https://t.co/cSbQytA9tD"
+            },
+            {
+              "display_url": "pic.x.com/cSbQytA9tD",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/2085055358179950636/photo/1",
+              "media_key": "3_2085055307063947264",
+              "start": 5,
+              "url": "https://t.co/cSbQytA9tD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085055358179950636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丫够燥的 https://t.co/cSbQytA9tD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18006,
+          "following_count": 1964,
+          "like_count": 56817,
+          "listed_count": 23,
+          "media_count": 6994,
+          "tweet_count": 24450
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

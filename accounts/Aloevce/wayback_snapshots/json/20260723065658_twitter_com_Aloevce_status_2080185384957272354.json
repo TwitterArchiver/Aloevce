@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2080185384957272354",
+    "created_at": "2026-07-23T06:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080185384957272354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Aloevce/status/2080122678522884419",
+          "start": 13,
+          "url": "https://t.co/e7tw7XIRaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080185384957272354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080122678522884419",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "实在不知道买什么了orz https://t.co/e7tw7XIRaw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2080185384957272354",
+        "created_at": "2026-07-23T06:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080185384957272354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Aloevce/status/2080122678522884419",
+              "start": 13,
+              "url": "https://t.co/e7tw7XIRaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080185384957272354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080122678522884419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实在不知道买什么了orz https://t.co/e7tw7XIRaw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2080122678522884419",
+        "created_at": "2026-07-23T02:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080122678522884419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080122678522884419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 498,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天收快递来维持新鲜感 最近不下单了好无聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18038,
+          "following_count": 1957,
+          "like_count": 56637,
+          "listed_count": 23,
+          "media_count": 6937,
+          "tweet_count": 24319
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

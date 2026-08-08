@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2084347184762519862",
+    "created_at": "2026-08-03T18:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T19:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084347184762519862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Aloevce/status/2083782731310277102",
+          "start": 13,
+          "url": "https://t.co/BBhfAJCxhX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084347184762519862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083782731310277102",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "day22只喝了一杯咖啡 https://t.co/BBhfAJCxhX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083782727523078144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsVWa8bkAAD6D_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2084347184762519862",
+        "created_at": "2026-08-03T18:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084347184762519862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Aloevce/status/2083782731310277102",
+              "start": 13,
+              "url": "https://t.co/BBhfAJCxhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084347184762519862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083782731310277102",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day22只喝了一杯咖啡 https://t.co/BBhfAJCxhX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083782727523078144"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083782731310277102",
+        "created_at": "2026-08-02T05:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083782731310277102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSipCmBMhM",
+              "end": 51,
+              "expanded_url": "https://x.com/Aloevce/status/2083782731310277102/photo/1",
+              "media_key": "3_2083782727523078144",
+              "start": 28,
+              "url": "https://t.co/fSipCmBMhM"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/Aloevce/status/2083741720450322892",
+              "start": 52,
+              "url": "https://t.co/9FWgzILUxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083782731310277102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1390,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083741720450322892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day21 吃了对象哥点的大米先生（怎么我这碗是乡村基 https://t.co/fSipCmBMhM https://t.co/9FWgzILUxw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18022,
+          "following_count": 1971,
+          "like_count": 56777,
+          "listed_count": 23,
+          "media_count": 6985,
+          "tweet_count": 24437
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

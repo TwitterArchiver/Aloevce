@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2079851074815402258",
+    "created_at": "2026-07-22T08:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079851074815402258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/Aloevce/status/2079505436848361742",
+          "start": 25,
+          "url": "https://t.co/GX0nchumhO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079851074815402258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079505436848361742",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "day10 固体杨枝甘露1 烤鸭卷1 黄瓜吵鸡蛋 https://t.co/GX0nchumhO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2079851074815402258",
+        "created_at": "2026-07-22T08:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079851074815402258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Aloevce/status/2079505436848361742",
+              "start": 25,
+              "url": "https://t.co/GX0nchumhO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079851074815402258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079505436848361742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day10 固体杨枝甘露1 烤鸭卷1 黄瓜吵鸡蛋 https://t.co/GX0nchumhO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2079505436848361742",
+        "created_at": "2026-07-21T09:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079505436848361742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Aloevce/status/2079098177039282309",
+              "start": 25,
+              "url": "https://t.co/n5bUsGgW6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079505436848361742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 756,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079098177039282309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day9 牛奶一盒 永辉固体杨枝甘露1 烤鸭卷3 https://t.co/n5bUsGgW6F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18043,
+          "following_count": 1954,
+          "like_count": 56622,
+          "listed_count": 23,
+          "media_count": 6933,
+          "tweet_count": 24309
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

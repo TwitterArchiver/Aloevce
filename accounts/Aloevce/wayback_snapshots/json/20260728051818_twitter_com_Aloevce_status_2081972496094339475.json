@@ -1,0 +1,546 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Saxophone",
+          "id": "898271087472988160",
+          "name": "Saxophone"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Saxophone",
+          "id": "898271087472988160",
+          "name": "Saxophone"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Saxophone",
+          "id": "898271087472988160",
+          "name": "Saxophone"
+        }
+      }
+    ],
+    "conversation_id": "2081972496094339475",
+    "created_at": "2026-07-28T05:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081972496094339475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hauls_official…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Hauls_official/status/1701166350620840188",
+          "start": 4,
+          "url": "https://t.co/ubI3DsbPnQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081972496094339475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1701166350620840188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求再贩 https://t.co/ubI3DsbPnQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1701166341951205376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F5vBxlvaMAAL8qi.jpg",
+        "width": 1462
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1701166341942853632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F5vBxltawAAzpFj.jpg",
+        "width": 1462
+      },
+      {
+        "height": 1464,
+        "media_key": "3_1701166341934497792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F5vBxlrbQAA01xY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Saxophone",
+              "id": "898271087472988160",
+              "name": "Saxophone"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Saxophone",
+              "id": "898271087472988160",
+              "name": "Saxophone"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Saxophone",
+              "id": "898271087472988160",
+              "name": "Saxophone"
+            }
+          }
+        ],
+        "conversation_id": "2081972496094339475",
+        "created_at": "2026-07-28T05:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081972496094339475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hauls_official…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Hauls_official/status/1701166350620840188",
+              "start": 4,
+              "url": "https://t.co/ubI3DsbPnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081972496094339475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1701166350620840188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求再贩 https://t.co/ubI3DsbPnQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1701166341951205376",
+            "3_1701166341942853632",
+            "3_1701166341934497792"
+          ]
+        },
+        "author_id": "1665597293784072195",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Saxophone",
+              "id": "898271087472988160",
+              "name": "Saxophone"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Saxophone",
+              "id": "898271087472988160",
+              "name": "Saxophone"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Saxophone",
+              "id": "898271087472988160",
+              "name": "Saxophone"
+            }
+          }
+        ],
+        "conversation_id": "1701166350620840188",
+        "created_at": "2023-09-11T09:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2023-09-11T10:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1701166350620840188"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "はうるず"
+            },
+            {
+              "end": 145,
+              "start": 136,
+              "tag": "はうるずぽぷあぷ"
+            },
+            {
+              "end": 157,
+              "start": 146,
+              "tag": "はうるずいちねんせい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yd038dqGBP",
+              "end": 181,
+              "expanded_url": "https://x.com/Hauls_official/status/1701166350620840188/photo/1",
+              "media_key": "3_1701166341951205376",
+              "start": 158,
+              "url": "https://t.co/Yd038dqGBP"
+            },
+            {
+              "display_url": "pic.x.com/Yd038dqGBP",
+              "end": 181,
+              "expanded_url": "https://x.com/Hauls_official/status/1701166350620840188/photo/1",
+              "media_key": "3_1701166341942853632",
+              "start": 158,
+              "url": "https://t.co/Yd038dqGBP"
+            },
+            {
+              "display_url": "pic.x.com/Yd038dqGBP",
+              "end": 181,
+              "expanded_url": "https://x.com/Hauls_official/status/1701166350620840188/photo/1",
+              "media_key": "3_1701166341934497792",
+              "start": 158,
+              "url": "https://t.co/Yd038dqGBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1701166350620840188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18703,
+          "like_count": 281,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "＼ぴっくあっぷ／\n\n🧊はうるず版幼稚園スモッグ\nSAX / PINK ¥5,900(税込)\n\nセーラー襟の꒰ঌ❤︎໒꒱と胸元のHauls猫ちゃんがポイントのスモッグです。1枚でワンピース風に着たり、ミニスカートにインして着るのもおすすめです(ᐡ ̳ᴗ ᴗ)\n\n#はうるず\n#はうるずぽぷあぷ\n#はうるずいちねんせい https://t.co/Yd038dqGBP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18031,
+          "following_count": 1965,
+          "like_count": 56709,
+          "listed_count": 23,
+          "media_count": 6961,
+          "tweet_count": 24371
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-05T05:53:54.000Z",
+        "description": "❤︎ Hauls 公式アカウント 𝕡𝕣𝕠𝕕𝕦𝕔𝕖𝕕 𝕓𝕪 @insecure__o0 𝕀𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞 ‣‣ https://t.co/gXAa6UOf2Y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "insecure__o0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/hauls_official/",
+                "end": 79,
+                "expanded_url": "https://www.instagram.com/hauls_official/",
+                "start": 56,
+                "url": "https://t.co/gXAa6UOf2Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hauls.tokyo",
+                "end": 23,
+                "expanded_url": "https://www.hauls.tokyo/",
+                "start": 0,
+                "url": "https://t.co/wsPZZH0CgM"
+              }
+            ]
+          }
+        },
+        "id": "1665597293784072195",
+        "location": "2026.2.22 ✩ ラフォーレ原宿店OPEN",
+        "name": "Hauls",
+        "pinned_tweet_id": "2067240364143219069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696369271457374208/j3dSrJoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22045,
+          "following_count": 2,
+          "like_count": 3928,
+          "listed_count": 55,
+          "media_count": 1031,
+          "tweet_count": 1602
+        },
+        "url": "https://t.co/wsPZZH0CgM",
+        "username": "Hauls_official",
+        "verified": false
+      }
+    ]
+  }
+}

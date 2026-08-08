@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083782727523078144"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083782731310277102",
+    "created_at": "2026-08-02T05:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083782731310277102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fSipCmBMhM",
+          "end": 51,
+          "expanded_url": "https://x.com/Aloevce/status/2083782731310277102/photo/1",
+          "media_key": "3_2083782727523078144",
+          "start": 28,
+          "url": "https://t.co/fSipCmBMhM"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/Aloevce/status/2083741720450322892",
+          "start": 52,
+          "url": "https://t.co/9FWgzILUxw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083782731310277102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083741720450322892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "day21 吃了对象哥点的大米先生（怎么我这碗是乡村基 https://t.co/fSipCmBMhM https://t.co/9FWgzILUxw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083782727523078144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsVWa8bkAAD6D_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083782727523078144"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083782731310277102",
+        "created_at": "2026-08-02T05:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083782731310277102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSipCmBMhM",
+              "end": 51,
+              "expanded_url": "https://x.com/Aloevce/status/2083782731310277102/photo/1",
+              "media_key": "3_2083782727523078144",
+              "start": 28,
+              "url": "https://t.co/fSipCmBMhM"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/Aloevce/status/2083741720450322892",
+              "start": 52,
+              "url": "https://t.co/9FWgzILUxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083782731310277102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083741720450322892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day21 吃了对象哥点的大米先生（怎么我这碗是乡村基 https://t.co/fSipCmBMhM https://t.co/9FWgzILUxw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2083741720450322892",
+        "created_at": "2026-08-02T02:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083741720450322892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Aloevce/status/2083414804358717851",
+              "start": 23,
+              "url": "https://t.co/4ZZqGU828C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083741720450322892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083414804358717851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day21不知道吃啥了 吃什么都胖 你三舅孃 https://t.co/4ZZqGU828C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18026,
+          "following_count": 1971,
+          "like_count": 56735,
+          "listed_count": 23,
+          "media_count": 6980,
+          "tweet_count": 24424
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

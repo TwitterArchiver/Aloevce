@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2083583455414112569",
+    "created_at": "2026-08-01T15:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083583455414112569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smilingminemin…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/smilingminemine/status/2083582851182649784",
+          "start": 18,
+          "url": "https://t.co/h5mKeUYir8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083583455414112569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083582851182649784",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完蛋了我对象哥还说我胳膊是全脂🙀😭 https://t.co/h5mKeUYir8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2083583455414112569",
+        "created_at": "2026-08-01T15:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083583455414112569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smilingminemin…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/smilingminemine/status/2083582851182649784",
+              "start": 18,
+              "url": "https://t.co/h5mKeUYir8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083583455414112569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083582851182649784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完蛋了我对象哥还说我胳膊是全脂🙀😭 https://t.co/h5mKeUYir8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2676260819",
+        "conversation_id": "2083419042719609298",
+        "created_at": "2026-08-01T15:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083582851182649784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083582851182649784",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083419042719609298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 肌肉少代谢小就很容易稍微多吃一点就胖起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18024,
+          "following_count": 1968,
+          "like_count": 56722,
+          "listed_count": 23,
+          "media_count": 6975,
+          "tweet_count": 24414
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-05T15:48:29.000Z",
+        "description": "pixiv👉 https://t.co/OaL1r6Zt8O ｜小号@sugarmonsterOVO｜https://t.co/ASHYQz7oJM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "sugarmonsterOVO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/61263796",
+                "end": 30,
+                "expanded_url": "https://www.pixiv.net/users/61263796",
+                "start": 7,
+                "url": "https://t.co/OaL1r6Zt8O"
+              },
+              {
+                "display_url": "ngl.link/smilingminemine",
+                "end": 74,
+                "expanded_url": "https://ngl.link/smilingminemine",
+                "start": 51,
+                "url": "https://t.co/ASHYQz7oJM"
+              }
+            ]
+          }
+        },
+        "id": "2676260819",
+        "location": "🚪一盒宝丽来600相纸",
+        "name": "手冲恶魔",
+        "pinned_tweet_id": "1910139492796940296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892857046900379648/9tpcRknn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12277,
+          "following_count": 422,
+          "like_count": 12686,
+          "listed_count": 44,
+          "media_count": 556,
+          "tweet_count": 4887
+        },
+        "url": "",
+        "username": "smilingminemine",
+        "verified": false
+      }
+    ]
+  }
+}

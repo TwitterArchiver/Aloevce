@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2083741286012735785",
+    "created_at": "2026-08-02T02:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T03:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083741286012735785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XUHT_0512/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/XUHT_0512/status/2083621328587006329",
+          "start": 9,
+          "url": "https://t.co/5AyoyKI72w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083741286012735785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083621328587006329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "除了折耳根都爱吃 https://t.co/5AyoyKI72w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1578,
+        "media_key": "3_2083621321171501056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqCjVbbgAATm1G.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2083741286012735785",
+        "created_at": "2026-08-02T02:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083741286012735785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XUHT_0512/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/XUHT_0512/status/2083621328587006329",
+              "start": 9,
+              "url": "https://t.co/5AyoyKI72w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083741286012735785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083621328587006329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除了折耳根都爱吃 https://t.co/5AyoyKI72w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083621321171501056"
+          ]
+        },
+        "author_id": "1624202040489701377",
+        "conversation_id": "2083621328587006329",
+        "created_at": "2026-08-01T18:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083621328587006329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DuIL3KhUbL",
+              "end": 41,
+              "expanded_url": "https://x.com/XUHT_0512/status/2083621328587006329/photo/1",
+              "media_key": "3_2083621321171501056",
+              "start": 18,
+              "url": "https://t.co/DuIL3KhUbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083621328587006329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都吃都吃，好吃好吃好吃麻麻这个好吃 https://t.co/DuIL3KhUbL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18025,
+          "following_count": 1970,
+          "like_count": 56731,
+          "listed_count": 23,
+          "media_count": 6979,
+          "tweet_count": 24421
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T00:22:06.000Z",
+        "description": "你好，你也是来拉屎的吧",
+        "id": "1624202040489701377",
+        "location": "外太空",
+        "name": "小馄饨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083520375670046720/wt40Goa1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 273,
+          "like_count": 2094,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 3064
+        },
+        "url": "",
+        "username": "XUHT_0512",
+        "verified": false
+      }
+    ]
+  }
+}

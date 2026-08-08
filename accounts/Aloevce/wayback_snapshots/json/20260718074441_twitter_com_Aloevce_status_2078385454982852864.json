@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078385374720921600",
+        "7_2078385386334965760"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2078385454982852864",
+    "created_at": "2026-07-18T07:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078385454982852864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EMa49IGzAK",
+          "end": 71,
+          "expanded_url": "https://x.com/Aloevce/status/2078385454982852864/video/1",
+          "media_key": "3_2078385374720921600",
+          "start": 48,
+          "url": "https://t.co/EMa49IGzAK"
+        },
+        {
+          "display_url": "pic.x.com/EMa49IGzAK",
+          "end": 71,
+          "expanded_url": "https://x.com/Aloevce/status/2078385454982852864/video/1",
+          "media_key": "7_2078385386334965760",
+          "start": 48,
+          "url": "https://t.co/EMa49IGzAK"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/Aloevce/status/2078337284743504069",
+          "start": 72,
+          "url": "https://t.co/s6UeGfPR7v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078385454982852864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078337284743504069",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知道是霉菌还是漏的辣红油费了好大劲对象哥在旁边睡得像死猪最后我还是叮了咣啷吭哧吭哧清理干净了 https://t.co/EMa49IGzAK https://t.co/s6UeGfPR7v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078385374720921600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfofI6bkAAW2zQ.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 8341,
+        "height": 1280,
+        "media_key": "7_2078385386334965760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2078385386334965760/pu/img/ymzTjNpnMRVPwegw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078385386334965760/pu/vid/avc1/320x568/8tFBaF8pqCb0aPHD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078385386334965760/pu/vid/avc1/480x852/Knwz1LLXyqjHgS1E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078385386334965760/pu/vid/avc1/720x1280/vyjsgol9qTY1Cs0f.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2078385386334965760/pu/pl/oo1a6uRkIWJZMbbH.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078385374720921600",
+            "7_2078385386334965760"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2078385454982852864",
+        "created_at": "2026-07-18T07:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078385454982852864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EMa49IGzAK",
+              "end": 71,
+              "expanded_url": "https://x.com/Aloevce/status/2078385454982852864/video/1",
+              "media_key": "3_2078385374720921600",
+              "start": 48,
+              "url": "https://t.co/EMa49IGzAK"
+            },
+            {
+              "display_url": "pic.x.com/EMa49IGzAK",
+              "end": 71,
+              "expanded_url": "https://x.com/Aloevce/status/2078385454982852864/video/1",
+              "media_key": "7_2078385386334965760",
+              "start": 48,
+              "url": "https://t.co/EMa49IGzAK"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/Aloevce/status/2078337284743504069",
+              "start": 72,
+              "url": "https://t.co/s6UeGfPR7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078385454982852864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078337284743504069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道是霉菌还是漏的辣红油费了好大劲对象哥在旁边睡得像死猪最后我还是叮了咣啷吭哧吭哧清理干净了 https://t.co/EMa49IGzAK https://t.co/s6UeGfPR7v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2078337284743504069",
+        "created_at": "2026-07-18T04:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078337284743504069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078337284743504069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 282,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我滴神睡了不到一小时发现冰箱长霉菌了又开始清洁冰箱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18040,
+          "following_count": 1959,
+          "like_count": 56545,
+          "listed_count": 23,
+          "media_count": 6918,
+          "tweet_count": 24256
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

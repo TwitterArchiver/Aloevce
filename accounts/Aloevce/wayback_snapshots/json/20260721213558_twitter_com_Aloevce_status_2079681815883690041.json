@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2079681815883690041",
+    "created_at": "2026-07-21T21:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T22:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079681815883690041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/usagimm208/status/2079510579916820626",
+          "start": 6,
+          "url": "https://t.co/5TwVvk0lqf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079681815883690041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079510579916820626",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我来辅佐你 https://t.co/5TwVvk0lqf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2079510534559510528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvn0D8aMAAcqej.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079510534567907328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvn0D-aUAAQrNw.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2079681815883690041",
+        "created_at": "2026-07-21T21:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079681815883690041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/usagimm208/status/2079510579916820626",
+              "start": 6,
+              "url": "https://t.co/5TwVvk0lqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079681815883690041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079510579916820626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来辅佐你 https://t.co/5TwVvk0lqf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079510534559510528",
+            "3_2079510534567907328"
+          ]
+        },
+        "author_id": "2005739449058230272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079510579916820626",
+        "created_at": "2026-07-21T10:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079510579916820626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MlQJaAqNy",
+              "end": 37,
+              "expanded_url": "https://x.com/usagimm208/status/2079510579916820626/photo/1",
+              "media_key": "3_2079510534559510528",
+              "start": 14,
+              "url": "https://t.co/3MlQJaAqNy"
+            },
+            {
+              "display_url": "pic.x.com/3MlQJaAqNy",
+              "end": 37,
+              "expanded_url": "https://x.com/usagimm208/status/2079510579916820626/photo/1",
+              "media_key": "3_2079510534567907328",
+              "start": 14,
+              "url": "https://t.co/3MlQJaAqNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079510579916820626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真没送，单排ad不知怎么活 https://t.co/3MlQJaAqNy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18042,
+          "following_count": 1953,
+          "like_count": 56636,
+          "listed_count": 23,
+          "media_count": 6933,
+          "tweet_count": 24305
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "无能系弱女オタク",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "そちゃ",
+        "pinned_tweet_id": "2076625403981258852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 56,
+          "like_count": 3550,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1335
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

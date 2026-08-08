@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2080837008407376048",
+    "created_at": "2026-07-25T02:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080837008407376048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Aloevce/status/2080835290521063780",
+          "start": 19,
+          "url": "https://t.co/z637PYi8hC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080837008407376048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080835290521063780",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想吃chuichui球和咖喱。。。 https://t.co/z637PYi8hC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2080837008407376048",
+        "created_at": "2026-07-25T02:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080837008407376048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Aloevce/status/2080835290521063780",
+              "start": 19,
+              "url": "https://t.co/z637PYi8hC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080837008407376048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080835290521063780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想吃chuichui球和咖喱。。。 https://t.co/z637PYi8hC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2080835290521063780",
+        "created_at": "2026-07-25T01:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080835290521063780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080835290521063780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求推荐成都最正宗的印度菜。晚上带印度入吃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18040,
+          "following_count": 1961,
+          "like_count": 56746,
+          "listed_count": 23,
+          "media_count": 6947,
+          "tweet_count": 24343
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

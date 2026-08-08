@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2081695801047192017",
+    "created_at": "2026-07-27T10:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081695801047192017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/Aloevce/status/2081645984548061667",
+          "start": 23,
+          "url": "https://t.co/xODiPBaIiL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081695801047192017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081645984548061667",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ok我退了又买了别人的 这回长记性了啦啦啦啦 https://t.co/xODiPBaIiL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081645979783352320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HON9_VUbUAA9F--.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081645961152180225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HON9-P6aMAEpGOx.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2081695801047192017",
+        "created_at": "2026-07-27T10:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081695801047192017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Aloevce/status/2081645984548061667",
+              "start": 23,
+              "url": "https://t.co/xODiPBaIiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081695801047192017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081645984548061667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ok我退了又买了别人的 这回长记性了啦啦啦啦 https://t.co/xODiPBaIiL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081645979783352320",
+            "3_2081645961152180225"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2081645984548061667",
+        "created_at": "2026-07-27T07:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081645984548061667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9TESBw36xx",
+              "end": 54,
+              "expanded_url": "https://x.com/Aloevce/status/2081645984548061667/photo/1",
+              "media_key": "3_2081645979783352320",
+              "start": 31,
+              "url": "https://t.co/9TESBw36xx"
+            },
+            {
+              "display_url": "pic.x.com/9TESBw36xx",
+              "end": 54,
+              "expanded_url": "https://x.com/Aloevce/status/2081645984548061667/photo/1",
+              "media_key": "3_2081645961152180225",
+              "start": 31,
+              "url": "https://t.co/9TESBw36xx"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Aloevce/status/2081609306177180051",
+              "start": 55,
+              "url": "https://t.co/aO4PwTZSJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081645984548061667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081609306177180051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个蕾丝太奇怪了p1  正版的是p2也可能被洗缩水了 好奇怪 https://t.co/9TESBw36xx https://t.co/aO4PwTZSJg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18031,
+          "following_count": 1963,
+          "like_count": 56684,
+          "listed_count": 23,
+          "media_count": 6956,
+          "tweet_count": 24361
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

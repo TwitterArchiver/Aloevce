@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2079386409975046401",
+    "created_at": "2026-07-21T02:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079386409975046401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smilingminemin…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/smilingminemine/status/2079220560676954410",
+          "start": 5,
+          "url": "https://t.co/uWsHmvryo0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079386409975046401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079220560676954410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好米好米 https://t.co/uWsHmvryo0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079220554737897472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrgFA7X0AASzsB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2079386409975046401",
+        "created_at": "2026-07-21T02:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079386409975046401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smilingminemin…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/smilingminemine/status/2079220560676954410",
+              "start": 5,
+              "url": "https://t.co/uWsHmvryo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079386409975046401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079220560676954410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好米好米 https://t.co/uWsHmvryo0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079220554737897472"
+          ]
+        },
+        "author_id": "2676260819",
+        "conversation_id": "2079054240811470994",
+        "created_at": "2026-07-20T15:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079220560676954410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SdRUnfDT1s",
+              "end": 46,
+              "expanded_url": "https://x.com/smilingminemine/status/2079220560676954410/photo/1",
+              "media_key": "3_2079220554737897472",
+              "start": 23,
+              "url": "https://t.co/SdRUnfDT1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079220560676954410",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079054240811470994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 除了死命存钱没别的办法TT https://t.co/SdRUnfDT1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18039,
+          "following_count": 1955,
+          "like_count": 56614,
+          "listed_count": 23,
+          "media_count": 6932,
+          "tweet_count": 24297
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-05T15:48:29.000Z",
+        "description": "pixiv👉 https://t.co/OaL1r6Zt8O ｜小号@sugarmonsterOVO｜https://t.co/ASHYQz7oJM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "sugarmonsterOVO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/61263796",
+                "end": 30,
+                "expanded_url": "https://www.pixiv.net/users/61263796",
+                "start": 7,
+                "url": "https://t.co/OaL1r6Zt8O"
+              },
+              {
+                "display_url": "ngl.link/smilingminemine",
+                "end": 74,
+                "expanded_url": "https://ngl.link/smilingminemine",
+                "start": 51,
+                "url": "https://t.co/ASHYQz7oJM"
+              }
+            ]
+          }
+        },
+        "id": "2676260819",
+        "location": "🚪一盒宝丽来600相纸",
+        "name": "手冲恶魔",
+        "pinned_tweet_id": "1910139492796940296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892857046900379648/9tpcRknn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12307,
+          "following_count": 422,
+          "like_count": 12693,
+          "listed_count": 44,
+          "media_count": 553,
+          "tweet_count": 4859
+        },
+        "url": "",
+        "username": "smilingminemine",
+        "verified": false
+      }
+    ]
+  }
+}

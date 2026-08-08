@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2080717653040336988",
+    "created_at": "2026-07-24T18:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080717653040336988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__Ju___Ju__/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/__Ju___Ju__/status/2080690315388977654",
+          "start": 14,
+          "url": "https://t.co/Q96MdhhyNm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080717653040336988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080690315388977654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我决定连吃八天开心乐园餐了 https://t.co/Q96MdhhyNm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1495,
+        "media_key": "3_2080690304777388034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAYzufbAAIRz8R.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2080717653040336988",
+        "created_at": "2026-07-24T18:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080717653040336988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__Ju___Ju__/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/__Ju___Ju__/status/2080690315388977654",
+              "start": 14,
+              "url": "https://t.co/Q96MdhhyNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080717653040336988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080690315388977654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我决定连吃八天开心乐园餐了 https://t.co/Q96MdhhyNm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080690304777388034"
+          ]
+        },
+        "author_id": "3012350599",
+        "conversation_id": "2080690315388977654",
+        "created_at": "2026-07-24T16:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080690315388977654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nl2o7r23Am",
+              "end": 54,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/2080690315388977654/photo/1",
+              "media_key": "3_2080690304777388034",
+              "start": 31,
+              "url": "https://t.co/Nl2o7r23Am"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080690315388977654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "长这么大还没吃过开心乐园餐呢，想必会很火爆…我一定要得到❗️ https://t.co/Nl2o7r23Am"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18040,
+          "following_count": 1961,
+          "like_count": 56738,
+          "listed_count": 23,
+          "media_count": 6945,
+          "tweet_count": 24335
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "为什么我不能只是一只毛绒小兔子？🐰🍊/#すこ部 推し /可以叫我桔桔/我要出去玩了！！\n爱人玖玖@GiveProofToLove \n好诡秘@mukdengise\n小咩@jinpingslutflop",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "mukdengise"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "jinpingslutflop"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "Daegu, Republic of Korea",
+        "name": "小学桔🍊",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4493,
+          "following_count": 510,
+          "like_count": 44481,
+          "listed_count": 17,
+          "media_count": 3455,
+          "tweet_count": 48402
+        },
+        "url": "",
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

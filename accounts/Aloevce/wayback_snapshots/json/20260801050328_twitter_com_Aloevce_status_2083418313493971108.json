@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2083418313493971108",
+    "created_at": "2026-08-01T05:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083418313493971108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/galsukid6/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/galsukid6/status/2083176944187978123",
+          "start": 8,
+          "url": "https://t.co/ssfv6Otzst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083418313493971108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083176944187978123",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就长右边那样 https://t.co/ssfv6Otzst"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_2083176938706026496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjuY3vbwAAkbHi.jpg",
+        "width": 941
+      },
+      {
+        "height": 1672,
+        "media_key": "3_2083176938668249088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjuY3mbUAANr0f.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2083418313493971108",
+        "created_at": "2026-08-01T05:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083418313493971108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/galsukid6/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/galsukid6/status/2083176944187978123",
+              "start": 8,
+              "url": "https://t.co/ssfv6Otzst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083418313493971108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083176944187978123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就长右边那样 https://t.co/ssfv6Otzst"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083176938706026496",
+            "3_2083176938668249088"
+          ]
+        },
+        "author_id": "2071592764660387840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2083176944187978123",
+        "created_at": "2026-07-31T13:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083176944187978123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQDgztWzUf",
+              "end": 41,
+              "expanded_url": "https://x.com/galsukid6/status/2083176944187978123/photo/1",
+              "media_key": "3_2083176938706026496",
+              "start": 18,
+              "url": "https://t.co/eQDgztWzUf"
+            },
+            {
+              "display_url": "pic.x.com/eQDgztWzUf",
+              "end": 41,
+              "expanded_url": "https://x.com/galsukid6/status/2083176944187978123/photo/1",
+              "media_key": "3_2083176938668249088",
+              "start": 18,
+              "url": "https://t.co/eQDgztWzUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083176944187978123",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3163,
+          "impression_count": 6269829,
+          "like_count": 7716,
+          "quote_count": 141,
+          "reply_count": 639,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "どっちが結婚までいくんだろうか？🤔 https://t.co/eQDgztWzUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18027,
+          "following_count": 1970,
+          "like_count": 56722,
+          "listed_count": 23,
+          "media_count": 6974,
+          "tweet_count": 24408
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-29T13:57:01.000Z",
+        "description": "三度の飯よりギャルが好き❤️\nななしのサブになりました✌🏻",
+        "id": "2071592764660387840",
+        "name": "カピバラ（ギャル好き）",
+        "pinned_tweet_id": "2083176944187978123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071594015603224576/UQXnOQaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14525,
+          "following_count": 390,
+          "like_count": 867,
+          "listed_count": 39,
+          "media_count": 96,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "galsukid6",
+        "verified": true
+      }
+    ]
+  }
+}

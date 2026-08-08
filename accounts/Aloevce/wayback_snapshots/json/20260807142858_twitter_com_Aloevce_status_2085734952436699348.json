@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085734931846807552"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2085734952436699348",
+    "created_at": "2026-08-07T14:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085734952436699348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d90kzMpn0h",
+          "end": 33,
+          "expanded_url": "https://x.com/Aloevce/status/2085734952436699348/photo/1",
+          "media_key": "3_2085734931846807552",
+          "start": 10,
+          "url": "https://t.co/d90kzMpn0h"
+        },
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/usagimm208/status/2085724857141182899",
+          "start": 34,
+          "url": "https://t.co/HccsuQpN9e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085734952436699348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085724857141182899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "介个 有绿的和粉的 https://t.co/d90kzMpn0h https://t.co/HccsuQpN9e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2085734931846807552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIE3qxaQAAbxSp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085734931846807552"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2085734952436699348",
+        "created_at": "2026-08-07T14:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085734952436699348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d90kzMpn0h",
+              "end": 33,
+              "expanded_url": "https://x.com/Aloevce/status/2085734952436699348/photo/1",
+              "media_key": "3_2085734931846807552",
+              "start": 10,
+              "url": "https://t.co/d90kzMpn0h"
+            },
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/usagimm208/status/2085724857141182899",
+              "start": 34,
+              "url": "https://t.co/HccsuQpN9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085734952436699348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085724857141182899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "介个 有绿的和粉的 https://t.co/d90kzMpn0h https://t.co/HccsuQpN9e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005739449058230272",
+        "conversation_id": "2085724857141182899",
+        "created_at": "2026-08-07T13:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085724857141182899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aloevce/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/aloevce/status/2085724503578144926",
+              "start": 7,
+              "url": "https://t.co/3MyinoWfeC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085724857141182899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085724503578144926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪件，我也买 https://t.co/3MyinoWfeC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18007,
+          "following_count": 1966,
+          "like_count": 56745,
+          "listed_count": 22,
+          "media_count": 6999,
+          "tweet_count": 24466
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "立志做一个冷酷的片目系女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "そちゃ",
+        "pinned_tweet_id": "2080672240614740187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 63,
+          "like_count": 4427,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 1599
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

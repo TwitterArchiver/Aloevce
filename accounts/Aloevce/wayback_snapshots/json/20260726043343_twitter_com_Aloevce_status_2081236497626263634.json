@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081236494438813696"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2081236497626263634",
+    "created_at": "2026-07-26T04:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081236497626263634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XY5GZUECz9",
+          "end": 45,
+          "expanded_url": "https://x.com/Aloevce/status/2081236497626263634/photo/1",
+          "media_key": "3_2081236494438813696",
+          "start": 22,
+          "url": "https://t.co/XY5GZUECz9"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/Aloevce/status/2080551051451572629",
+          "start": 46,
+          "url": "https://t.co/S7PMV4VMHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081236497626263634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080551051451572629",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "day13 印度大餐一顿 day14液断了 https://t.co/XY5GZUECz9 https://t.co/S7PMV4VMHN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2081236494438813696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIJkJia0AAW2z3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080551048020701184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-aJ6pXMAA2txY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081236494438813696"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081236497626263634",
+        "created_at": "2026-07-26T04:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081236497626263634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XY5GZUECz9",
+              "end": 45,
+              "expanded_url": "https://x.com/Aloevce/status/2081236497626263634/photo/1",
+              "media_key": "3_2081236494438813696",
+              "start": 22,
+              "url": "https://t.co/XY5GZUECz9"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Aloevce/status/2080551051451572629",
+              "start": 46,
+              "url": "https://t.co/S7PMV4VMHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081236497626263634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080551051451572629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day13 印度大餐一顿 day14液断了 https://t.co/XY5GZUECz9 https://t.co/S7PMV4VMHN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080551048020701184"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080551051451572629",
+        "created_at": "2026-07-24T07:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080551051451572629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LyfTIlWHc",
+              "end": 41,
+              "expanded_url": "https://x.com/Aloevce/status/2080551051451572629/photo/1",
+              "media_key": "3_2080551048020701184",
+              "start": 18,
+              "url": "https://t.co/9LyfTIlWHc"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Aloevce/status/2080184145477595385",
+              "start": 42,
+              "url": "https://t.co/b8ondZGCe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080551051451572629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 633,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080184145477595385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day12 金针菇娃娃菜 芋儿一个 https://t.co/9LyfTIlWHc https://t.co/b8ondZGCe3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18031,
+          "following_count": 1961,
+          "like_count": 56726,
+          "listed_count": 23,
+          "media_count": 6952,
+          "tweet_count": 24349
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

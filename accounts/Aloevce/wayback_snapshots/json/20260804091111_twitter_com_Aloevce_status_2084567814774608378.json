@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2084567814774608378",
+    "created_at": "2026-08-04T09:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084567814774608378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Aloevce/status/2084567417339216350",
+          "start": 17,
+          "url": "https://t.co/ZTQ0lUX2MR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084567814774608378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084567417339216350",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "重启一下代谢明天去印度入吃印度菜 https://t.co/ZTQ0lUX2MR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084567413081960448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3fBIca8AA4PxO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2084567413786583040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3fBLEaoAA2P0m.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2084567414390628352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3fBNUboAAzFNe.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2084567814774608378",
+        "created_at": "2026-08-04T09:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084567814774608378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Aloevce/status/2084567417339216350",
+              "start": 17,
+              "url": "https://t.co/ZTQ0lUX2MR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084567814774608378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084567417339216350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重启一下代谢明天去印度入吃印度菜 https://t.co/ZTQ0lUX2MR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084567413081960448",
+            "3_2084567413786583040",
+            "3_2084567414390628352"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084567417339216350",
+        "created_at": "2026-08-04T09:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084567417339216350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2I5GOIZmz",
+              "end": 75,
+              "expanded_url": "https://x.com/Aloevce/status/2084567417339216350/photo/1",
+              "media_key": "3_2084567413081960448",
+              "start": 52,
+              "url": "https://t.co/m2I5GOIZmz"
+            },
+            {
+              "display_url": "pic.x.com/m2I5GOIZmz",
+              "end": 75,
+              "expanded_url": "https://x.com/Aloevce/status/2084567417339216350/photo/1",
+              "media_key": "3_2084567413786583040",
+              "start": 52,
+              "url": "https://t.co/m2I5GOIZmz"
+            },
+            {
+              "display_url": "pic.x.com/m2I5GOIZmz",
+              "end": 75,
+              "expanded_url": "https://x.com/Aloevce/status/2084567417339216350/photo/1",
+              "media_key": "3_2084567414390628352",
+              "start": 52,
+              "url": "https://t.co/m2I5GOIZmz"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/Aloevce/status/2084347184762519862",
+              "start": 76,
+              "url": "https://t.co/pBd0f2r5WJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084567417339216350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084347184762519862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day22 凌晨吃了对象哥一口面条四根青菜 day23 买了小象的卤牛肉超好吃 香蕉一根加小番茄加酸奶 https://t.co/m2I5GOIZmz https://t.co/pBd0f2r5WJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18014,
+          "following_count": 1967,
+          "like_count": 56783,
+          "listed_count": 23,
+          "media_count": 6987,
+          "tweet_count": 24440
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

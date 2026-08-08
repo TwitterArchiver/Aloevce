@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2083420883687788921",
+    "created_at": "2026-08-01T05:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083420883687788921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Aloevce/status/2083416753741386074",
+          "start": 15,
+          "url": "https://t.co/HyfImrTCex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083420883687788921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083416753741386074",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不收快递就懒得出门遛狗orz https://t.co/HyfImrTCex"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2083420883687788921",
+        "created_at": "2026-08-01T05:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083420883687788921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Aloevce/status/2083416753741386074",
+              "start": 15,
+              "url": "https://t.co/HyfImrTCex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083420883687788921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083416753741386074",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不收快递就懒得出门遛狗orz https://t.co/HyfImrTCex"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2083416753741386074",
+        "created_at": "2026-08-01T04:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083416753741386074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083416753741386074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "得了一种每天都想收新衣服快递的病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18027,
+          "following_count": 1970,
+          "like_count": 56723,
+          "listed_count": 23,
+          "media_count": 6974,
+          "tweet_count": 24410
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

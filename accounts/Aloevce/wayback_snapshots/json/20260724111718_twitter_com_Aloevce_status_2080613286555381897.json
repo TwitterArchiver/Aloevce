@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2080613165327597568"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2080613286555381897",
+    "created_at": "2026-07-24T11:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080613286555381897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oYNpd0FWaA",
+          "end": 29,
+          "expanded_url": "https://x.com/Aloevce/status/2080613286555381897/video/1",
+          "media_key": "7_2080613165327597568",
+          "start": 6,
+          "url": "https://t.co/oYNpd0FWaA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080613286555381897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "额热得吓人 https://t.co/oYNpd0FWaA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15139,
+        "height": 1024,
+        "media_key": "7_2080613165327597568",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2080613165327597568/pu/img/5-GnXP-_WC1t0uYv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080613165327597568/pu/vid/avc1/320x568/IUOHqkEDBgpkmfY9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080613165327597568/pu/vid/avc1/480x852/jHRwANs5EMA6YqXr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080613165327597568/pu/vid/avc1/576x1024/4KuzKvnchkNxZpj0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2080613165327597568/pu/pl/dA0R1_MojRtM1L1S.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2080613165327597568"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2080613286555381897",
+        "created_at": "2026-07-24T11:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080613286555381897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oYNpd0FWaA",
+              "end": 29,
+              "expanded_url": "https://x.com/Aloevce/status/2080613286555381897/video/1",
+              "media_key": "7_2080613165327597568",
+              "start": 6,
+              "url": "https://t.co/oYNpd0FWaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080613286555381897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额热得吓人 https://t.co/oYNpd0FWaA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18035,
+          "following_count": 1957,
+          "like_count": 56648,
+          "listed_count": 23,
+          "media_count": 6942,
+          "tweet_count": 24328
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

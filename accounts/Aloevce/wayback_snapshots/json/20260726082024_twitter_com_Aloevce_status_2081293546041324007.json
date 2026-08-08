@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2081293546041324007",
+    "created_at": "2026-07-26T08:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T09:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081293546041324007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/886oooooo/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/886oooooo/status/2080870879018516537",
+          "start": 5,
+          "url": "https://t.co/UBZQ1xe1tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081293546041324007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080870879018516537",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/UBZQ1xe1tw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2081293546041324007",
+        "created_at": "2026-07-26T08:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081293546041324007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/886oooooo/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/886oooooo/status/2080870879018516537",
+              "start": 5,
+              "url": "https://t.co/UBZQ1xe1tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081293546041324007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080870879018516537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/UBZQ1xe1tw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995419766954291200",
+        "conversation_id": "2080870879018516537",
+        "created_at": "2026-07-25T04:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080870879018516537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080870879018516537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 47689,
+          "like_count": 496,
+          "quote_count": 12,
+          "reply_count": 67,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下。我是你老婆。每天宅在家。什么也不做。也不吃饭。情绪总是崩溃。药瓶滚到哪里都是。等你下班。还带着一手臂的新伤。还伸手要你抱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18034,
+          "following_count": 1962,
+          "like_count": 56682,
+          "listed_count": 23,
+          "media_count": 6954,
+          "tweet_count": 24354
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T09:08:49.000Z",
+        "description": "另一个我@mumumuzi886性别：神\n很遗憾地告知你 你到访我主页是我的耻辱 以后不要来了我喜欢跟有钱有权有势之人往来 我喜欢美好的事物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "mumumuzi886"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9C%A8%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%9C%A8%E5%AD%901",
+                "start": 0,
+                "url": "https://t.co/D9em13eqlh"
+              }
+            ]
+          }
+        },
+        "id": "1995419766954291200",
+        "name": "木子，梦想哭了",
+        "pinned_tweet_id": "2072371260898885873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080489008459837441/0aguir62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 56,
+          "like_count": 1880,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/D9em13eqlh",
+        "username": "886oooooo",
+        "verified": false
+      }
+    ]
+  }
+}

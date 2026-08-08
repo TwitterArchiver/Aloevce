@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2080115138393161965",
+    "created_at": "2026-07-23T02:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080115138393161965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/baizhiheyan/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/baizhiheyan/status/2079976480713363861",
+          "start": 21,
+          "url": "https://t.co/0u3jk0Jf19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080115138393161965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079976480713363861",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不光看不了私信还回复不了评论只能转发🙀 https://t.co/0u3jk0Jf19"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2080115138393161965",
+        "created_at": "2026-07-23T02:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080115138393161965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baizhiheyan/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/baizhiheyan/status/2079976480713363861",
+              "start": 21,
+              "url": "https://t.co/0u3jk0Jf19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080115138393161965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079976480713363861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不光看不了私信还回复不了评论只能转发🙀 https://t.co/0u3jk0Jf19"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1278999361540653056",
+        "conversation_id": "2079949902587793878",
+        "created_at": "2026-07-22T17:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079976480713363861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079976480713363861",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079949902587793878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 我是网页版但是私信还是打不开（大悲）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18041,
+          "following_count": 1956,
+          "like_count": 56631,
+          "listed_count": 23,
+          "media_count": 6935,
+          "tweet_count": 24313
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-03T10:29:54.000Z",
+        "description": "白菊若可折\n\n*不加墙内联系方式 不回复不关注三无小号 不与可疑人员交谈 不接受主动互fo 只对互关开放私信 一切随缘看我心情\n讨厌政治相关",
+        "id": "1278999361540653056",
+        "location": "爱的魔力转圈圈星球（涡虫宝宝之家）",
+        "name": "从0开始的异世界涡虫",
+        "pinned_tweet_id": "2079812162411786551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014586842658590720/wbKdWIRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2454,
+          "following_count": 220,
+          "like_count": 21461,
+          "listed_count": 6,
+          "media_count": 224,
+          "tweet_count": 4366
+        },
+        "url": "",
+        "username": "baizhiheyan",
+        "verified": true
+      }
+    ]
+  }
+}

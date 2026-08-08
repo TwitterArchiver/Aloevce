@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2081235291499598012",
+    "created_at": "2026-07-26T04:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081235291499598012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhiii_tan/stat…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/zhiii_tan/status/2081148294831710418",
+          "start": 29,
+          "url": "https://t.co/OJmR7P5Wsi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081235291499598012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081148294831710418",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我上次高反对象哥买了个这个 吃个药难受得要亖了还要做手工 https://t.co/OJmR7P5Wsi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2081148262304874496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOG5UXOagAAFW98.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2081148273797328896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOG5VCCbcAARLXO.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2081148284354383872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOG5VpXbUAA_gTt.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2081235291499598012",
+        "created_at": "2026-07-26T04:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081235291499598012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhiii_tan/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/zhiii_tan/status/2081148294831710418",
+              "start": 29,
+              "url": "https://t.co/OJmR7P5Wsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081235291499598012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081148294831710418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我上次高反对象哥买了个这个 吃个药难受得要亖了还要做手工 https://t.co/OJmR7P5Wsi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081148262304874496",
+            "3_2081148273797328896",
+            "3_2081148284354383872"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081148294831710418",
+        "created_at": "2026-07-25T22:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081148294831710418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cChj1aiVA",
+              "end": 30,
+              "expanded_url": "https://x.com/zhiii_tan/status/2081148294831710418/photo/1",
+              "media_key": "3_2081148262304874496",
+              "start": 7,
+              "url": "https://t.co/4cChj1aiVA"
+            },
+            {
+              "display_url": "pic.x.com/4cChj1aiVA",
+              "end": 30,
+              "expanded_url": "https://x.com/zhiii_tan/status/2081148294831710418/photo/1",
+              "media_key": "3_2081148273797328896",
+              "start": 7,
+              "url": "https://t.co/4cChj1aiVA"
+            },
+            {
+              "display_url": "pic.x.com/4cChj1aiVA",
+              "end": 30,
+              "expanded_url": "https://x.com/zhiii_tan/status/2081148294831710418/photo/1",
+              "media_key": "3_2081148284354383872",
+              "start": 7,
+              "url": "https://t.co/4cChj1aiVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081148294831710418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 588,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了一坨狗屎 https://t.co/4cChj1aiVA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18031,
+          "following_count": 1961,
+          "like_count": 56726,
+          "listed_count": 23,
+          "media_count": 6951,
+          "tweet_count": 24348
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我丨乐子人专注家产\n防炸:@zhiiii_tan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 110,
+                "username": "zhiiii_tan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2079760577875067390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 688,
+          "like_count": 1447,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 3680
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

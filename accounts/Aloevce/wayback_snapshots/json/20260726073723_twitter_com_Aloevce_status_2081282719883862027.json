@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2081282719883862027",
+    "created_at": "2026-07-26T07:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T08:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081282719883862027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/Aloevce/status/2081281372237320538",
+          "start": 23,
+          "url": "https://t.co/dcykeZkSnY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081282719883862027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081281372237320538",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们这些混地雷系什么三坑什么的米都是从哪来的 https://t.co/dcykeZkSnY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2081282719883862027",
+        "created_at": "2026-07-26T07:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081282719883862027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Aloevce/status/2081281372237320538",
+              "start": 23,
+              "url": "https://t.co/dcykeZkSnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081282719883862027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081281372237320538",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们这些混地雷系什么三坑什么的米都是从哪来的 https://t.co/dcykeZkSnY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2081281372237320538",
+        "created_at": "2026-07-26T07:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081281372237320538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Aloevce/status/2081260162380149223",
+              "start": 13,
+              "url": "https://t.co/vF67BSUfcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081281372237320538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081260162380149223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操买了 身无分文了求米 https://t.co/vF67BSUfcW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18033,
+          "following_count": 1962,
+          "like_count": 56680,
+          "listed_count": 23,
+          "media_count": 6953,
+          "tweet_count": 24352
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

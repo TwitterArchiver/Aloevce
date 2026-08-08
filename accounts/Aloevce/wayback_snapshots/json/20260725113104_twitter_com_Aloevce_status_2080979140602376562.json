@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080979110978093056"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080979140602376562",
+    "created_at": "2026-07-25T11:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080979140602376562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dzeZNHT3qZ",
+          "end": 42,
+          "expanded_url": "https://x.com/Aloevce/status/2080979140602376562/photo/1",
+          "media_key": "3_2080979110978093056",
+          "start": 19,
+          "url": "https://t.co/dzeZNHT3qZ"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/Aloevce/status/2080885822241292682",
+          "start": 43,
+          "url": "https://t.co/cKNpKDMBB5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080979140602376562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080885822241292682",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "奶茶店玩了不错 线下摆酒摊线上卖奶茶 https://t.co/dzeZNHT3qZ https://t.co/cKNpKDMBB5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080979110978093056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEfedbbgAANue4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080979110978093056"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080979140602376562",
+        "created_at": "2026-07-25T11:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080979140602376562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dzeZNHT3qZ",
+              "end": 42,
+              "expanded_url": "https://x.com/Aloevce/status/2080979140602376562/photo/1",
+              "media_key": "3_2080979110978093056",
+              "start": 19,
+              "url": "https://t.co/dzeZNHT3qZ"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Aloevce/status/2080885822241292682",
+              "start": 43,
+              "url": "https://t.co/cKNpKDMBB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080979140602376562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080885822241292682",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奶茶店玩了不错 线下摆酒摊线上卖奶茶 https://t.co/dzeZNHT3qZ https://t.co/cKNpKDMBB5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2080885822241292682",
+        "created_at": "2026-07-25T05:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080885822241292682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080885822241292682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依然想吃烤鸭 依然想买点steam游戏 依然想买裙子但不穿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18030,
+          "following_count": 1960,
+          "like_count": 56752,
+          "listed_count": 23,
+          "media_count": 6949,
+          "tweet_count": 24347
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

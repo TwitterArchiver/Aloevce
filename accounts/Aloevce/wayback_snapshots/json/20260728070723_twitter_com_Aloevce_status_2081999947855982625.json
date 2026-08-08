@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2081999947855982625",
+    "created_at": "2026-07-28T07:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081999947855982625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usagimm208/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/usagimm208/status/2081996127813910775",
+          "start": 4,
+          "url": "https://t.co/SRMWFIrUdJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081999947855982625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081996127813910775",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是 https://t.co/SRMWFIrUdJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2081999947855982625",
+        "created_at": "2026-07-28T07:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081999947855982625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usagimm208/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/usagimm208/status/2081996127813910775",
+              "start": 4,
+              "url": "https://t.co/SRMWFIrUdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081999947855982625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081996127813910775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是 https://t.co/SRMWFIrUdJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005739449058230272",
+        "conversation_id": "2081996127813910775",
+        "created_at": "2026-07-28T06:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081996127813910775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081996127813910775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个无收入家里蹲之人居然能做到月支出7k，我的钱从哪里来又流向了哪里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18032,
+          "following_count": 1965,
+          "like_count": 56709,
+          "listed_count": 23,
+          "media_count": 6961,
+          "tweet_count": 24372
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "立志做一个冷酷的片目系女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "そちゃ",
+        "pinned_tweet_id": "2080672240614740187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 61,
+          "like_count": 3751,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}
