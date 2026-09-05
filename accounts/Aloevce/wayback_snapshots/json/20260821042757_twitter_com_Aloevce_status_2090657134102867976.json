@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2090657134102867976",
+    "created_at": "2026-08-21T04:27:57.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T05:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090657134102867976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TongYiAssam/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/TongYiAssam/status/2090572651400163343",
+          "start": 11,
+          "url": "https://t.co/VqYwS6A25v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090657134102867976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090572651400163343",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🙀你是谁我是谁他是谁 https://t.co/VqYwS6A25v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2090657134102867976",
+        "created_at": "2026-08-21T04:27:57.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T05:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090657134102867976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TongYiAssam/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/TongYiAssam/status/2090572651400163343",
+              "start": 11,
+              "url": "https://t.co/VqYwS6A25v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090657134102867976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090572651400163343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🙀你是谁我是谁他是谁 https://t.co/VqYwS6A25v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4501476797",
+        "conversation_id": "2090274124853907813",
+        "created_at": "2026-08-20T22:52:15.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090572651400163343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090572651400163343",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090274124853907813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 就是我带去的那个"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2090657134102867976",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17960,
+          "following_count": 1949,
+          "like_count": 56994,
+          "listed_count": 21,
+          "media_count": 7032,
+          "tweet_count": 24573
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-12-16T09:28:29.000Z",
+        "description": "阿萨姆联合酋长国-国王",
+        "id": "4501476797",
+        "is_identity_verified": false,
+        "location": "成都",
+        "most_recent_tweet_id": "2090572651400163343",
+        "name": "⁺✞ʚ统一阿萨姆重度依赖ɞ✟₊",
+        "pinned_tweet_id": "1718307508710940766",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4501476797/1757701384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966568248000102400/_7_N5-kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 272,
+          "like_count": 3091,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "TongYiAssam",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

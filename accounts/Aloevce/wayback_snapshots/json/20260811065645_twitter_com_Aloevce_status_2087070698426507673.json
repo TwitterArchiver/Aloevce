@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      }
+    ],
+    "conversation_id": "2087070698426507673",
+    "created_at": "2026-08-11T06:56:45.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087070698426507673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TheNerdyCatLad…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/TheNerdyCatLady/status/2086507532919435584",
+          "start": 16,
+          "url": "https://t.co/stTlly47VX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087070698426507673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086507532919435584",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "世界上的其他一切也没跟着停下来 https://t.co/stTlly47VX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2087070698426507673",
+        "created_at": "2026-08-11T06:56:45.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087070698426507673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TheNerdyCatLad…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/TheNerdyCatLady/status/2086507532919435584",
+              "start": 16,
+              "url": "https://t.co/stTlly47VX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087070698426507673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086507532919435584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "世界上的其他一切也没跟着停下来 https://t.co/stTlly47VX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2167510963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2086507532919435584",
+        "created_at": "2026-08-09T17:38:55.000Z",
+        "display_text_range": [
+          0,
+          235
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086507532919435584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086507532919435584",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16133,
+          "impression_count": 11030794,
+          "like_count": 354909,
+          "quote_count": 2067,
+          "reply_count": 2411,
+          "retweet_count": 23856
+        },
+        "reply_settings": "everyone",
+        "text": "My dad died around 4am. And the sun still came up. The cats still needed to be fed. Coffee needed to be made. A friend texted to see if I wanted to go thrifting. And I think it's kinda unfair that the rest of the world didn't stop too."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2087070698426507673",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17995,
+          "following_count": 1960,
+          "like_count": 56838,
+          "listed_count": 22,
+          "media_count": 7007,
+          "tweet_count": 24512
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-11-01T00:56:42.000Z",
+        "description": "i like cats, plushies, aew, reality shows, emo music, horror movies, video games, & coffee drinks. vote blue. undiagnosed but not right. follow me or whatever.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.com/hz/wishlist/ls/1K0X50SS0X9QP?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/ZvKXQGxU1l"
+              }
+            ]
+          }
+        },
+        "id": "2167510963",
+        "is_identity_verified": false,
+        "location": "wherever ",
+        "most_recent_tweet_id": "2086507532919435584",
+        "name": "🐈 Ranae 🐈‍⬛",
+        "pinned_tweet_id": "2073687948571152545",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2167510963/1781164484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954018851965767681/HkiDWpZy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5956,
+          "following_count": 3777,
+          "like_count": 855132,
+          "listed_count": 33,
+          "media_count": 11292,
+          "tweet_count": 145557
+        },
+        "url": "https://t.co/ZvKXQGxU1l",
+        "username": "TheNerdyCatLady",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

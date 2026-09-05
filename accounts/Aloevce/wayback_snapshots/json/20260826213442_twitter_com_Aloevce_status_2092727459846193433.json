@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2092727459846193433",
+    "created_at": "2026-08-26T21:34:42.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T22:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092727459846193433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Aloevce/status/1788026762901016888",
+          "start": 8,
+          "url": "https://t.co/6f2r00oqwK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092727459846193433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788026762901016888",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这什么雷霆穿搭 https://t.co/6f2r00oqwK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3946,
+        "height": 1280,
+        "media_key": "7_1788026720312070145",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1788026720312070145/pu/img/ZwgjY-po2y2hQ5lv.jpg",
+        "public_metrics": {
+          "view_count": 1610
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1788026720312070145/pu/vid/avc1/320x568/_zXw1uHCMQws_sO-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1788026720312070145/pu/vid/avc1/480x852/D9ksfZ9Qws4Df6i7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1788026720312070145/pu/vid/avc1/720x1280/l4xF2VRjqcHfBJsF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1788026720312070145/pu/pl/BuPhoTCmKEHw8C-V.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2092727459846193433",
+        "created_at": "2026-08-26T21:34:42.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T22:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092727459846193433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Aloevce/status/1788026762901016888",
+              "start": 8,
+              "url": "https://t.co/6f2r00oqwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092727459846193433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788026762901016888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这什么雷霆穿搭 https://t.co/6f2r00oqwK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1788026720312070145"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1788026762901016888",
+        "created_at": "2024-05-08T02:02:54.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2024-05-08T03:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788026762901016888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aEmEv6XXe2",
+              "end": 25,
+              "expanded_url": "https://x.com/Aloevce/status/1788026762901016888/video/1",
+              "media_key": "7_1788026720312070145",
+              "start": 2,
+              "url": "https://t.co/aEmEv6XXe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788026762901016888",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_1788026720312070145"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6559,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃 https://t.co/aEmEv6XXe2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2092727459846193433",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17946,
+          "following_count": 1937,
+          "like_count": 57021,
+          "listed_count": 21,
+          "media_count": 7045,
+          "tweet_count": 24618
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

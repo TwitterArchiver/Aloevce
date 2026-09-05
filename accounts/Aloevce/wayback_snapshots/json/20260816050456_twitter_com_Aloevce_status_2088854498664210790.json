@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2088854498664210790",
+    "created_at": "2026-08-16T05:04:56.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T06:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088854498664210790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kairokun2010/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/kairokun2010/status/2088209315920478575",
+          "start": 3,
+          "url": "https://t.co/rAe5Ih5V0R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088854498664210790",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088209315920478575",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持 https://t.co/rAe5Ih5V0R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 504,
+        "media_key": "16_2088207043375304704",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPrNPf3akAAkmtR.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPrNPf3akAAkmtR.mp4"
+          }
+        ],
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2088854498664210790",
+        "created_at": "2026-08-16T05:04:56.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088854498664210790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kairokun2010/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/kairokun2010/status/2088209315920478575",
+              "start": 3,
+              "url": "https://t.co/rAe5Ih5V0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088854498664210790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088209315920478575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持 https://t.co/rAe5Ih5V0R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2088207043375304704"
+          ]
+        },
+        "author_id": "190588450",
+        "conversation_id": "2088209315920478575",
+        "created_at": "2026-08-14T10:21:12.000Z",
+        "display_text_range": [
+          0,
+          172
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088209315920478575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "store.steampowered.com/bundle/77849/",
+              "end": 137,
+              "expanded_url": "https://store.steampowered.com/bundle/77849/",
+              "images": [
+                {
+                  "height": 215,
+                  "url": "https://pbs.twimg.com/news_img/2086415465304506368/RjHY38wW?format=jpg&name=orig",
+                  "width": 460
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2086415465304506368/RjHY38wW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 114,
+              "status": 200,
+              "title": "Kairosoft Summer Vacation Vol.1 on Steam",
+              "unwound_url": "https://store.steampowered.com/bundle/77849/",
+              "url": "https://t.co/LDKUGEUEWP"
+            },
+            {
+              "display_url": "pic.x.com/vWsipETaAL",
+              "end": 196,
+              "expanded_url": "https://x.com/kairokun2010/status/2088209315920478575/photo/1",
+              "media_key": "16_2088207043375304704",
+              "start": 173,
+              "url": "https://t.co/vWsipETaAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088209315920478575",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "16_2088207043375304704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 178587,
+          "like_count": 4007,
+          "quote_count": 45,
+          "reply_count": 85,
+          "retweet_count": 644
+        },
+        "reply_settings": "everyone",
+        "text": "カイロくんの夏休みチャレンジ🌈FINAL\n\n安すぎるSteamﾊﾞﾝﾄﾞﾙを作り続けたら純ｶｲﾛｹﾞｰが残り6本なので、このﾂｲｰﾂが5000いいねに達したらVol.15/16でみんなにｺﾝﾌﾟﾘｰﾂ🍑してもらおうと思いました\nhttps://t.co/LDKUGEUEWP\n\n〆は8/16(日) 23:59まで\nいいね＆リポストで応援してね！ https://t.co/vWsipETaAL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2088854498664210790",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17994,
+          "following_count": 1962,
+          "like_count": 56929,
+          "listed_count": 22,
+          "media_count": 7018,
+          "tweet_count": 24547
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-09-14T10:07:43.000Z",
+        "description": "こんにちわカイロソフトのカイロくんです。\nスマホとSwitch/PS4/Steam/Xboxでドット絵のゲームをリリースしてるよ。ゲーム発展国++、GameDevStory。好きなアートディンクはA列車で行こう4。こち亀好き。\nインスタ https://t.co/yqpu8pRIbD\nメルマガ https://t.co/YjcbMwD6MW グッズ https://t.co/ymIqFPl7Dt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kairo.studio",
+                "end": 142,
+                "expanded_url": "http://kairo.studio",
+                "start": 119,
+                "url": "https://t.co/yqpu8pRIbD"
+              },
+              {
+                "display_url": "kairo.club",
+                "end": 171,
+                "expanded_url": "http://kairo.club",
+                "start": 148,
+                "url": "https://t.co/YjcbMwD6MW"
+              },
+              {
+                "display_url": "kairo.tv",
+                "end": 199,
+                "expanded_url": "http://kairo.tv",
+                "start": 176,
+                "url": "https://t.co/ymIqFPl7Dt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kairosoft.net",
+                "end": 23,
+                "expanded_url": "https://kairosoft.net",
+                "start": 0,
+                "url": "https://t.co/blIAzW9GYY"
+              }
+            ]
+          }
+        },
+        "id": "190588450",
+        "is_identity_verified": false,
+        "location": "西新宿カイロタワー",
+        "most_recent_tweet_id": "2088804456519582110",
+        "name": "カイロソフト(Kairosoft)_公式",
+        "pinned_tweet_id": "1953821224724808051",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/190588450/1491570408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002238458765733889/7SE7wxVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320080,
+          "following_count": 881,
+          "like_count": 37760,
+          "listed_count": 530,
+          "media_count": 2946,
+          "tweet_count": 6505
+        },
+        "url": "https://t.co/blIAzW9GYY",
+        "username": "kairokun2010",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

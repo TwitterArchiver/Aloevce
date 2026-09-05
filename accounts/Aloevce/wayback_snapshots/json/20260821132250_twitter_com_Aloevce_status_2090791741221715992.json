@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090791736108814336"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2090791741221715992",
+    "created_at": "2026-08-21T13:22:50.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090791741221715992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6VGevO4Fhd",
+          "end": 46,
+          "expanded_url": "https://x.com/Aloevce/status/2090791741221715992/photo/1",
+          "media_key": "3_2090791736108814336",
+          "start": 23,
+          "url": "https://t.co/6VGevO4Fhd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090791741221715992",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090791736108814336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "处于一个懒得做饭又饿又不知道吃什么又胖的矛盾 https://t.co/6VGevO4Fhd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090791736108814336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP8AaoWkAAkhXB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090791736108814336"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2090791741221715992",
+        "created_at": "2026-08-21T13:22:50.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090791741221715992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6VGevO4Fhd",
+              "end": 46,
+              "expanded_url": "https://x.com/Aloevce/status/2090791741221715992/photo/1",
+              "media_key": "3_2090791736108814336",
+              "start": 23,
+              "url": "https://t.co/6VGevO4Fhd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090791741221715992",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090791736108814336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "处于一个懒得做饭又饿又不知道吃什么又胖的矛盾 https://t.co/6VGevO4Fhd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2090791741221715992",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17957,
+          "following_count": 1947,
+          "like_count": 57019,
+          "listed_count": 21,
+          "media_count": 7035,
+          "tweet_count": 24582
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

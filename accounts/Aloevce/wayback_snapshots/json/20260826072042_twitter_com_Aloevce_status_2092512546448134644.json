@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2092512546448134644",
+    "created_at": "2026-08-26T07:20:42.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T08:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092512546448134644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kaydenvain/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/kaydenvain/status/2092202179071472028",
+          "start": 9,
+          "url": "https://t.co/AuBe5b7ZAf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092512546448134644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092202179071472028",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "把头上那个也脱了 https://t.co/AuBe5b7ZAf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34201,
+        "height": 464,
+        "media_key": "13_2038279556948230144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038279556948230144/img/Bx8uBvW7PwkopmlI.jpg",
+        "public_metrics": {
+          "view_count": 116421
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038279556948230144/vid/avc1/352x270/tRNpkdBMxB3T97xS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038279556948230144/vid/avc1/608x464/fy_r3FH6kCb8E6vK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038279556948230144/pl/oXS70YkU-gZEX_ts.m3u8?v=cfc"
+          }
+        ],
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2092512546448134644",
+        "created_at": "2026-08-26T07:20:42.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092512546448134644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kaydenvain/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/kaydenvain/status/2092202179071472028",
+              "start": 9,
+              "url": "https://t.co/AuBe5b7ZAf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092512546448134644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092202179071472028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "把头上那个也脱了 https://t.co/AuBe5b7ZAf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038279556948230144"
+          ],
+          "media_source_tweet_id": [
+            "2038279612724076891"
+          ]
+        },
+        "author_id": "1513534884014268421",
+        "conversation_id": "2092202179071472028",
+        "created_at": "2026-08-25T10:47:25.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092202179071472028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pu3Mm7ejyq",
+              "end": 65,
+              "expanded_url": "https://x.com/parutanpon/status/2038279612724076891/video/1",
+              "media_key": "13_2038279556948230144",
+              "start": 42,
+              "url": "https://t.co/pu3Mm7ejyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092202179071472028",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2038279556948230144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 462,
+          "impression_count": 56166,
+          "like_count": 6582,
+          "quote_count": 29,
+          "reply_count": 16,
+          "retweet_count": 1070
+        },
+        "reply_settings": "everyone",
+        "text": "visual representation of me every morning\nhttps://t.co/pu3Mm7ejyq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2092512546448134644",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17950,
+          "following_count": 1941,
+          "like_count": 57021,
+          "listed_count": 21,
+          "media_count": 7043,
+          "tweet_count": 24615
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-11T15:11:26.000Z",
+        "description": "dustbin tweets",
+        "id": "1513534884014268421",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092483361428373664",
+        "name": "vain⁷🐖",
+        "pinned_tweet_id": "1938651541755568502",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1513534884014268421/1783672189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085383827569213440/nJTlM44t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 105,
+          "like_count": 49052,
+          "listed_count": 4,
+          "media_count": 8300,
+          "tweet_count": 32300
+        },
+        "url": "",
+        "username": "kaydenvain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

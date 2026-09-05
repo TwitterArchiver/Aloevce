@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2088997393945554944"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2088997467698151606",
+    "created_at": "2026-08-16T14:33:02.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088997467698151606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0fpwGutsRP",
+          "end": 23,
+          "expanded_url": "https://x.com/Aloevce/status/2088997467698151606/video/1",
+          "media_key": "7_2088997393945554944",
+          "start": 0,
+          "url": "https://t.co/0fpwGutsRP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088997467698151606",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "7_2088997393945554944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0fpwGutsRP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8119,
+        "height": 1280,
+        "media_key": "7_2088997393945554944",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2088997393945554944/pu/img/EG3kEe7nKaNRMYA9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2088997393945554944/pu/vid/avc1/320x568/glcNa3WQw-lyDQZn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2088997393945554944/pu/vid/avc1/480x852/nrfDDpUeGWl_xNr9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2088997393945554944/pu/vid/avc1/720x1280/bBZAQqZ4M2D_7bCR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2088997393945554944/pu/pl/-Xa3Re-igjHVPi3q.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2088997393945554944"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2088997467698151606",
+        "created_at": "2026-08-16T14:33:02.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088997467698151606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0fpwGutsRP",
+              "end": 23,
+              "expanded_url": "https://x.com/Aloevce/status/2088997467698151606/video/1",
+              "media_key": "7_2088997393945554944",
+              "start": 0,
+              "url": "https://t.co/0fpwGutsRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088997467698151606",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "7_2088997393945554944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0fpwGutsRP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2088997467698151606",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17997,
+          "following_count": 1959,
+          "like_count": 56929,
+          "listed_count": 21,
+          "media_count": 7020,
+          "tweet_count": 24550
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

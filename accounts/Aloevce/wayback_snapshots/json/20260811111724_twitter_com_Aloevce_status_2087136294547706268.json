@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2087136294547706268",
+    "created_at": "2026-08-11T11:17:24.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087136294547706268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Aloevce/status/2087110570680217889",
+          "start": 31,
+          "url": "https://t.co/3WTZtnghoK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087136294547706268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087110570680217889",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尤其是吃着一半外面还下起了雨而我手上的鸡肉热乎乎的非常美滋滋 https://t.co/3WTZtnghoK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087110567463194624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPboAMybkAAm-To.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2087136294547706268",
+        "created_at": "2026-08-11T11:17:24.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087136294547706268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Aloevce/status/2087110570680217889",
+              "start": 31,
+              "url": "https://t.co/3WTZtnghoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087136294547706268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087110570680217889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尤其是吃着一半外面还下起了雨而我手上的鸡肉热乎乎的非常美滋滋 https://t.co/3WTZtnghoK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087110567463194624"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087110570680217889",
+        "created_at": "2026-08-11T09:35:11.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087110570680217889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l0j2q1KEy9",
+              "end": 55,
+              "expanded_url": "https://x.com/Aloevce/status/2087110570680217889/photo/1",
+              "media_key": "3_2087110567463194624",
+              "start": 32,
+              "url": "https://t.co/l0j2q1KEy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087110570680217889",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087110567463194624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "厄 本来给对象哥点的叫花鸡结果他睡着了 结果我吃了一大半太香了 https://t.co/l0j2q1KEy9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2087136294547706268",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18002,
+          "following_count": 1959,
+          "like_count": 56823,
+          "listed_count": 22,
+          "media_count": 7009,
+          "tweet_count": 24516
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

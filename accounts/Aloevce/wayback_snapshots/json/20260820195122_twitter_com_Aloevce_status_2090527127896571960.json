@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090464768746491904"
+      ],
+      "media_source_tweet_id": [
+        "2090464774790451625"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "2090527127896571960",
+    "created_at": "2026-08-20T19:51:22.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T20:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090527127896571960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757380999548383232",
+          "start": 3,
+          "username": "yunochi_01_n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2qHRjKqn1e",
+          "end": 56,
+          "expanded_url": "https://x.com/yunochi_01_n/status/2090464774790451625/photo/1",
+          "media_key": "3_2090464768746491904",
+          "start": 33,
+          "url": "https://t.co/2qHRjKqn1e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090527127896571960",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090464768746491904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090464774790451625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yunochi_01_n: 地雷メイクorサブカルメイク https://t.co/2qHRjKqn1e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 311,
+        "media_key": "3_2090464768746491904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLSoaSakAADYvy.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090464768746491904"
+          ],
+          "media_source_tweet_id": [
+            "2090464774790451625"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2090527127896571960",
+        "created_at": "2026-08-20T19:51:22.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T20:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090527127896571960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757380999548383232",
+              "start": 3,
+              "username": "yunochi_01_n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2qHRjKqn1e",
+              "end": 56,
+              "expanded_url": "https://x.com/yunochi_01_n/status/2090464774790451625/photo/1",
+              "media_key": "3_2090464768746491904",
+              "start": 33,
+              "url": "https://t.co/2qHRjKqn1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090527127896571960",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090464768746491904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090464774790451625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yunochi_01_n: 地雷メイクorサブカルメイク https://t.co/2qHRjKqn1e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090464768746491904"
+          ]
+        },
+        "author_id": "1757380999548383232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2090464774790451625",
+        "created_at": "2026-08-20T15:43:35.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090464774790451625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2qHRjKqn1e",
+              "end": 38,
+              "expanded_url": "https://x.com/yunochi_01_n/status/2090464774790451625/photo/1",
+              "media_key": "3_2090464768746491904",
+              "start": 15,
+              "url": "https://t.co/2qHRjKqn1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090464774790451625",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090464768746491904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 13957,
+          "like_count": 1106,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "地雷メイクorサブカルメイク https://t.co/2qHRjKqn1e"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2090527127896571960",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17961,
+          "following_count": 1949,
+          "like_count": 56994,
+          "listed_count": 21,
+          "media_count": 7032,
+          "tweet_count": 24572
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-13T12:27:44.000Z",
+        "description": "🎀地雷系クリエイター🎀\n地雷・メイク・イラスト・音楽\n📩 お仕事依頼はDMまで♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yunochi_05_n?…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@yunochi_05_n?_r=1&_t=ZS-94NZcnvEjxM",
+                "start": 0,
+                "url": "https://t.co/fAxkNRM9F0"
+              }
+            ]
+          }
+        },
+        "id": "1757380999548383232",
+        "is_identity_verified": true,
+        "location": "DM返信できません",
+        "most_recent_tweet_id": "2090464774790451625",
+        "name": "萌乃ゆの໒꒱",
+        "pinned_tweet_id": "2073068675998036077",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757380999548383232/1783562395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053744075355082752/kdpr8L4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10025,
+          "following_count": 52,
+          "like_count": 1604,
+          "listed_count": 7,
+          "media_count": 257,
+          "tweet_count": 1058
+        },
+        "url": "https://t.co/fAxkNRM9F0",
+        "username": "yunochi_01_n",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2086482690937680320",
+    "created_at": "2026-08-09T16:00:13.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T17:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086482690937680320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Aloevce/status/2086145962729521192",
+          "start": 16,
+          "url": "https://t.co/1n80QwWVpN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086482690937680320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086145962729521192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "day28 曹氏一吨 牛奶两盒 https://t.co/1n80QwWVpN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2086482690937680320",
+        "created_at": "2026-08-09T16:00:13.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086482690937680320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Aloevce/status/2086145962729521192",
+              "start": 16,
+              "url": "https://t.co/1n80QwWVpN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086482690937680320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086145962729521192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day28 曹氏一吨 牛奶两盒 https://t.co/1n80QwWVpN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2086145962729521192",
+        "created_at": "2026-08-08T17:42:10.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T18:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086145962729521192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Aloevce/status/2085750005852230120",
+              "start": 50,
+              "url": "https://t.co/q0eX7UAv8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086145962729521192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 556,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085750005852230120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day26 晚上偷吃对象哥剩的面条 day27 小番茄一百克 饮料一些 晚上吃了牛排一口 菊乐一盒 https://t.co/q0eX7UAv8c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2086482690937680320",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17994,
+          "following_count": 1964,
+          "like_count": 56795,
+          "listed_count": 22,
+          "media_count": 7002,
+          "tweet_count": 24499
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086768613084766208"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2086768618654593149",
+    "created_at": "2026-08-10T10:56:23.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T11:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086768618654593149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f7Sjagkran",
+          "end": 93,
+          "expanded_url": "https://x.com/Aloevce/status/2086768618654593149/photo/1",
+          "media_key": "3_2086768613084766208",
+          "start": 70,
+          "url": "https://t.co/f7Sjagkran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086768618654593149",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086768613084766208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "额最近想买点黑色蕾服有无推荐请砸过来 这件竟然是买别的衣服捆收的结果一发不可收拾 众所周知苯人有帕金森经常吃东西掉到衣服上 发现黑色很耐脏 https://t.co/f7Sjagkran"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2086768613084766208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWw_1daIAAwxcs.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086768613084766208"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2086768618654593149",
+        "created_at": "2026-08-10T10:56:23.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086768618654593149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7Sjagkran",
+              "end": 93,
+              "expanded_url": "https://x.com/Aloevce/status/2086768618654593149/photo/1",
+              "media_key": "3_2086768613084766208",
+              "start": 70,
+              "url": "https://t.co/f7Sjagkran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086768618654593149",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086768613084766208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额最近想买点黑色蕾服有无推荐请砸过来 这件竟然是买别的衣服捆收的结果一发不可收拾 众所周知苯人有帕金森经常吃东西掉到衣服上 发现黑色很耐脏 https://t.co/f7Sjagkran"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2086768618654593149",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17993,
+          "following_count": 1963,
+          "like_count": 56816,
+          "listed_count": 22,
+          "media_count": 7005,
+          "tweet_count": 24506
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
