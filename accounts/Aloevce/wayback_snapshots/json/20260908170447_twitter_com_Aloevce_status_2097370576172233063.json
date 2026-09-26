@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2097370576172233063",
+    "created_at": "2026-09-08T17:04:47.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T18:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097370576172233063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/crypto_daha/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/crypto_daha/status/2096959924307685484",
+          "start": 2,
+          "url": "https://t.co/mFVXCXFbNh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097370576172233063",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096959924307685484",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "兑 https://t.co/mFVXCXFbNh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2097370576172233063",
+        "created_at": "2026-09-08T17:04:47.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097370576172233063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/crypto_daha/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/crypto_daha/status/2096959924307685484",
+              "start": 2,
+              "url": "https://t.co/mFVXCXFbNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097370576172233063",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096959924307685484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兑 https://t.co/mFVXCXFbNh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "996556236404346880",
+        "conversation_id": "2096959924307685484",
+        "created_at": "2026-09-07T13:53:00.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096959924307685484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096959924307685484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 973,
+          "impression_count": 187826,
+          "like_count": 6199,
+          "quote_count": 19,
+          "reply_count": 186,
+          "retweet_count": 421
+        },
+        "reply_settings": "everyone",
+        "text": "幼儿园最该学的:巴氏刷牙法、正确擦屁股、骑自行车\n\n小学最该学的:如何乘地铁、坐公交、生理常识、培养运动习惯、了解兴趣爱好、处理人际关系\n\n初中最该学的:去医院、坐高铁、金钱观、生活自理、英语、意志力、死亡观念"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2097370576172233063",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17942,
+          "following_count": 1934,
+          "like_count": 57100,
+          "listed_count": 21,
+          "media_count": 7081,
+          "tweet_count": 24711
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-16T01:01:36.000Z",
+        "description": "哈哈哥 | 分享有趣人生、历史趣闻、生活meme、实用干货 | 每天一笑一悟",
+        "id": "996556236404346880",
+        "is_identity_verified": false,
+        "location": "宇宙",
+        "most_recent_tweet_id": "2097334895068791104",
+        "name": "哈哈哥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/996556236404346880/1701871937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996826608326660102/Mnc9uuzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33184,
+          "following_count": 7458,
+          "like_count": 7830,
+          "listed_count": 204,
+          "media_count": 1607,
+          "tweet_count": 10484
+        },
+        "url": "",
+        "username": "crypto_daha",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095002676840759298"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2095002681110614308",
+    "created_at": "2026-09-02T04:15:37.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095002681110614308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZCmD1elBcL",
+          "end": 31,
+          "expanded_url": "https://x.com/Aloevce/status/2095002681110614308/photo/1",
+          "media_key": "3_2095002676840759298",
+          "start": 8,
+          "url": "https://t.co/ZCmD1elBcL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095002681110614308",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095002676840759298"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恶魔妈妈买面膜 https://t.co/ZCmD1elBcL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095002676840759298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLx1bSWAAIiWCf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095002676840759298"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2095002681110614308",
+        "created_at": "2026-09-02T04:15:37.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095002681110614308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCmD1elBcL",
+              "end": 31,
+              "expanded_url": "https://x.com/Aloevce/status/2095002681110614308/photo/1",
+              "media_key": "3_2095002676840759298",
+              "start": 8,
+              "url": "https://t.co/ZCmD1elBcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095002681110614308",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095002676840759298"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恶魔妈妈买面膜 https://t.co/ZCmD1elBcL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2095002681110614308",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17952,
+          "following_count": 1937,
+          "like_count": 57078,
+          "listed_count": 21,
+          "media_count": 7064,
+          "tweet_count": 24671
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

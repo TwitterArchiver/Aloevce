@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100256391336484864",
+        "3_2100256392523436032"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100256409380430036",
+    "created_at": "2026-09-16T16:12:03.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T17:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100256409380430036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Z7lNyfxHS",
+          "end": 32,
+          "expanded_url": "https://x.com/Aloevce/status/2100256409380430036/photo/1",
+          "media_key": "3_2100256391336484864",
+          "start": 9,
+          "url": "https://t.co/1Z7lNyfxHS"
+        },
+        {
+          "display_url": "pic.x.com/1Z7lNyfxHS",
+          "end": 32,
+          "expanded_url": "https://x.com/Aloevce/status/2100256409380430036/photo/1",
+          "media_key": "3_2100256392523436032",
+          "start": 9,
+          "url": "https://t.co/1Z7lNyfxHS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100256409380430036",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100256391336484864"
+      },
+      {
+        "media_key": "3_2100256392523436032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大乔改版了好难玩 https://t.co/1Z7lNyfxHS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100256391336484864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWcD27a4AA4g5Z.jpg",
+        "width": 917
+      },
+      {
+        "height": 917,
+        "media_key": "3_2100256392523436032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWcD7WaUAALrqn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100256391336484864",
+            "3_2100256392523436032"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100256409380430036",
+        "created_at": "2026-09-16T16:12:03.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100256409380430036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Z7lNyfxHS",
+              "end": 32,
+              "expanded_url": "https://x.com/Aloevce/status/2100256409380430036/photo/1",
+              "media_key": "3_2100256391336484864",
+              "start": 9,
+              "url": "https://t.co/1Z7lNyfxHS"
+            },
+            {
+              "display_url": "pic.x.com/1Z7lNyfxHS",
+              "end": 32,
+              "expanded_url": "https://x.com/Aloevce/status/2100256409380430036/photo/1",
+              "media_key": "3_2100256392523436032",
+              "start": 9,
+              "url": "https://t.co/1Z7lNyfxHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100256409380430036",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100256391336484864"
+          },
+          {
+            "media_key": "3_2100256392523436032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大乔改版了好难玩 https://t.co/1Z7lNyfxHS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2100256409380430036",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17919,
+          "following_count": 1932,
+          "like_count": 57139,
+          "listed_count": 21,
+          "media_count": 7096,
+          "tweet_count": 24750
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

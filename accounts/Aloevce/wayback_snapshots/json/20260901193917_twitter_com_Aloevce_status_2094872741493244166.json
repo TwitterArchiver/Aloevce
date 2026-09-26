@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094872736778846208",
+        "3_2094872736762068992",
+        "3_2094872738414645248"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2094872741493244166",
+    "created_at": "2026-09-01T19:39:17.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T20:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094872741493244166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fjj4Ab11Ah",
+          "end": 31,
+          "expanded_url": "https://x.com/Aloevce/status/2094872741493244166/photo/1",
+          "media_key": "3_2094872736778846208",
+          "start": 8,
+          "url": "https://t.co/fjj4Ab11Ah"
+        },
+        {
+          "display_url": "pic.x.com/fjj4Ab11Ah",
+          "end": 31,
+          "expanded_url": "https://x.com/Aloevce/status/2094872741493244166/photo/1",
+          "media_key": "3_2094872736762068992",
+          "start": 8,
+          "url": "https://t.co/fjj4Ab11Ah"
+        },
+        {
+          "display_url": "pic.x.com/fjj4Ab11Ah",
+          "end": 31,
+          "expanded_url": "https://x.com/Aloevce/status/2094872741493244166/photo/1",
+          "media_key": "3_2094872738414645248",
+          "start": 8,
+          "url": "https://t.co/fjj4Ab11Ah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094872741493244166",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094872736778846208"
+      },
+      {
+        "media_key": "3_2094872736762068992"
+      },
+      {
+        "media_key": "3_2094872738414645248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就爱这个肥嘟嘟 https://t.co/fjj4Ab11Ah"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094872736778846208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJ7p61agAAnR7E.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2094872736762068992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJ7p6xagAAqxPz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094872738414645248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJ7qA7a0AA70uU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094872736778846208",
+            "3_2094872736762068992",
+            "3_2094872738414645248"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2094872741493244166",
+        "created_at": "2026-09-01T19:39:17.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T20:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094872741493244166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjj4Ab11Ah",
+              "end": 31,
+              "expanded_url": "https://x.com/Aloevce/status/2094872741493244166/photo/1",
+              "media_key": "3_2094872736778846208",
+              "start": 8,
+              "url": "https://t.co/fjj4Ab11Ah"
+            },
+            {
+              "display_url": "pic.x.com/fjj4Ab11Ah",
+              "end": 31,
+              "expanded_url": "https://x.com/Aloevce/status/2094872741493244166/photo/1",
+              "media_key": "3_2094872736762068992",
+              "start": 8,
+              "url": "https://t.co/fjj4Ab11Ah"
+            },
+            {
+              "display_url": "pic.x.com/fjj4Ab11Ah",
+              "end": 31,
+              "expanded_url": "https://x.com/Aloevce/status/2094872741493244166/photo/1",
+              "media_key": "3_2094872738414645248",
+              "start": 8,
+              "url": "https://t.co/fjj4Ab11Ah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094872741493244166",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094872736778846208"
+          },
+          {
+            "media_key": "3_2094872736762068992"
+          },
+          {
+            "media_key": "3_2094872738414645248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就爱这个肥嘟嘟 https://t.co/fjj4Ab11Ah"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2094872741493244166",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17949,
+          "following_count": 1937,
+          "like_count": 57084,
+          "listed_count": 21,
+          "media_count": 7063,
+          "tweet_count": 24670
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

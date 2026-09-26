@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "2098537442441920586",
+    "created_at": "2026-09-11T22:21:29.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T23:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098537442441920586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_mine_official…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/_mine_official_/status/2098381637746581512",
+          "start": 3,
+          "url": "https://t.co/CgeK5oExRb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098537442441920586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098381637746581512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好萌 https://t.co/CgeK5oExRb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2098381631824302091",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7y-fgXkAsiInE.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098381632004653060",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7y-gLXgAQbKK6.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098381631547396103",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7y-eeWUAcv5QN.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098381630305898500",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7y-Z2WkAQJOB_.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2098537442441920586",
+        "created_at": "2026-09-11T22:21:29.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T23:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098537442441920586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_mine_official…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/_mine_official_/status/2098381637746581512",
+              "start": 3,
+              "url": "https://t.co/CgeK5oExRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098537442441920586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098381637746581512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好萌 https://t.co/CgeK5oExRb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098381631824302091",
+            "3_2098381632004653060",
+            "3_2098381631547396103",
+            "3_2098381630305898500"
+          ]
+        },
+        "author_id": "1927975654995415041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2098381637746581512",
+        "created_at": "2026-09-11T12:02:23.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098381637746581512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3ekRedvYs",
+              "end": 79,
+              "expanded_url": "https://x.com/_mine_official_/status/2098381637746581512/photo/1",
+              "media_key": "3_2098381631824302091",
+              "start": 56,
+              "url": "https://t.co/Q3ekRedvYs"
+            },
+            {
+              "display_url": "pic.x.com/Q3ekRedvYs",
+              "end": 79,
+              "expanded_url": "https://x.com/_mine_official_/status/2098381637746581512/photo/1",
+              "media_key": "3_2098381632004653060",
+              "start": 56,
+              "url": "https://t.co/Q3ekRedvYs"
+            },
+            {
+              "display_url": "pic.x.com/Q3ekRedvYs",
+              "end": 79,
+              "expanded_url": "https://x.com/_mine_official_/status/2098381637746581512/photo/1",
+              "media_key": "3_2098381631547396103",
+              "start": 56,
+              "url": "https://t.co/Q3ekRedvYs"
+            },
+            {
+              "display_url": "pic.x.com/Q3ekRedvYs",
+              "end": 79,
+              "expanded_url": "https://x.com/_mine_official_/status/2098381637746581512/photo/1",
+              "media_key": "3_2098381630305898500",
+              "start": 56,
+              "url": "https://t.co/Q3ekRedvYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098381637746581512",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098381631824302091"
+          },
+          {
+            "media_key": "3_2098381632004653060"
+          },
+          {
+            "media_key": "3_2098381631547396103"
+          },
+          {
+            "media_key": "3_2098381630305898500"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1030,
+          "impression_count": 72641,
+          "like_count": 4487,
+          "quote_count": 190,
+          "reply_count": 0,
+          "retweet_count": 354
+        },
+        "reply_settings": "everyone",
+        "text": "あなたはどのタイプ？(^_  ̫ _^) 💖\n\nメイクで叶える、あなたのなりたい\n「かわいい」を教えてね♡+ﾟ https://t.co/Q3ekRedvYs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2098537442441920586",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17937,
+          "following_count": 1933,
+          "like_count": 57136,
+          "listed_count": 21,
+          "media_count": 7085,
+          "tweet_count": 24735
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-29T06:30:24.000Z",
+        "description": "🎀私だけの可愛いに愛着を🎀\n地雷系アイテムとかわいい情報をお届けする mine（マイン）公式アカウント🖤⛓️\n【取扱店舗】LAFARY 渋谷店/梅田店/原宿店 \n【通販サイト】LAFARY ONLINE/ZOZOTOWN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lafary.shop/collections/mi…",
+                "end": 23,
+                "expanded_url": "https://www.lafary.shop/collections/mine?utm_source=minex&utm_medium=profile&utm_campaign=mine",
+                "start": 0,
+                "url": "https://t.co/NgIGyTJ814"
+              }
+            ]
+          }
+        },
+        "id": "1927975654995415041",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098381637746581512",
+        "name": "mine by LAFARY",
+        "pinned_tweet_id": "2095814148990923020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1927975654995415041/1785409790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090674367193817088/3vCroDP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11073,
+          "following_count": 27,
+          "like_count": 292,
+          "listed_count": 71,
+          "media_count": 1225,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/NgIGyTJ814",
+        "username": "_mine_official_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2102073490400743668",
+    "created_at": "2026-09-21T16:32:29.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T17:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102073490400743668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Aloevce/status/2101716339132137548",
+          "start": 14,
+          "url": "https://t.co/7huDQYXEVy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102073490400743668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101716339132137548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "woc分了24期终于拿下😹 https://t.co/7huDQYXEVy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2102073490400743668",
+        "created_at": "2026-09-21T16:32:29.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T17:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102073490400743668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Aloevce/status/2101716339132137548",
+              "start": 14,
+              "url": "https://t.co/7huDQYXEVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102073490400743668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101716339132137548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "woc分了24期终于拿下😹 https://t.co/7huDQYXEVy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2101716339132137548",
+        "created_at": "2026-09-20T16:53:17.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101716339132137548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Aloevce/status/2101464572087705922",
+              "start": 31,
+              "url": "https://t.co/Eh2tRux8Is"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101716339132137548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 566,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101464572087705922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草一到这种花大钱时刻我就特别焦虑。。。买也焦虑 不买也焦虑 https://t.co/Eh2tRux8Is"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2102073490400743668",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17909,
+          "following_count": 1932,
+          "like_count": 55632,
+          "listed_count": 21,
+          "media_count": 7104,
+          "tweet_count": 24765
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

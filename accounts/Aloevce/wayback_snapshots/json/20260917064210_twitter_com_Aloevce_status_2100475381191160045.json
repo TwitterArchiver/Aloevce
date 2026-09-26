@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100475377802244096"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2100475381191160045",
+    "created_at": "2026-09-17T06:42:10.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T07:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100475381191160045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4uRUX69kHX",
+          "end": 44,
+          "expanded_url": "https://x.com/Aloevce/status/2100475381191160045/photo/1",
+          "media_key": "3_2100475377802244096",
+          "start": 21,
+          "url": "https://t.co/4uRUX69kHX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100475381191160045",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100475377802244096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠尾火了。要不要转定金呢还是硬补orz https://t.co/4uRUX69kHX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100475377802244096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZjOjFbcAA481d.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100475377802244096"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2100475381191160045",
+        "created_at": "2026-09-17T06:42:10.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T07:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100475381191160045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4uRUX69kHX",
+              "end": 44,
+              "expanded_url": "https://x.com/Aloevce/status/2100475381191160045/photo/1",
+              "media_key": "3_2100475377802244096",
+              "start": 21,
+              "url": "https://t.co/4uRUX69kHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100475381191160045",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100475377802244096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠尾火了。要不要转定金呢还是硬补orz https://t.co/4uRUX69kHX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2100475381191160045",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17917,
+          "following_count": 1934,
+          "like_count": 55687,
+          "listed_count": 21,
+          "media_count": 7098,
+          "tweet_count": 24752
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

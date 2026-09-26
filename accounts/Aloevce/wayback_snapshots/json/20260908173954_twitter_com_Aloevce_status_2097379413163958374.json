@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2097379413163958374",
+    "created_at": "2026-09-08T17:39:54.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T18:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097379413163958374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sb445073335073…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/sb4450733350735/status/2097171717022249339",
+          "start": 3,
+          "url": "https://t.co/iQcDyZUmRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097379413163958374",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097171717022249339",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想吃 https://t.co/iQcDyZUmRC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097171710856552448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqmj0qaYAAi2gg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2097379413163958374",
+        "created_at": "2026-09-08T17:39:54.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097379413163958374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sb445073335073…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/sb4450733350735/status/2097171717022249339",
+              "start": 3,
+              "url": "https://t.co/iQcDyZUmRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097379413163958374",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097171717022249339",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想吃 https://t.co/iQcDyZUmRC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097171710856552448"
+          ]
+        },
+        "author_id": "2012815448522547200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097171717022249339",
+        "created_at": "2026-09-08T03:54:35.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097171717022249339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmPw2aXck7",
+              "end": 28,
+              "expanded_url": "https://x.com/sb4450733350735/status/2097171717022249339/photo/1",
+              "media_key": "3_2097171710856552448",
+              "start": 5,
+              "url": "https://t.co/xmPw2aXck7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097171717022249339",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2097171710856552448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 776,
+          "impression_count": 657933,
+          "like_count": 13350,
+          "quote_count": 910,
+          "reply_count": 22,
+          "retweet_count": 4551
+        },
+        "reply_settings": "everyone",
+        "text": "이게뭐야 https://t.co/xmPw2aXck7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2097379413163958374",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17942,
+          "following_count": 1934,
+          "like_count": 57102,
+          "listed_count": 21,
+          "media_count": 7082,
+          "tweet_count": 24715
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T09:13:02.000Z",
+        "description": "✨@miruha_star✨ 샛별이 밥 샛별이 냥소리",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "miruha_star"
+              }
+            ]
+          }
+        },
+        "id": "2012815448522547200",
+        "is_identity_verified": false,
+        "location": "코타츠 밑🐾",
+        "most_recent_tweet_id": "2097344843358023958",
+        "name": "별지기",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012815448522547200/1769764536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017164515578875904/UG6XROKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 5,
+          "like_count": 947,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "sb4450733350735",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

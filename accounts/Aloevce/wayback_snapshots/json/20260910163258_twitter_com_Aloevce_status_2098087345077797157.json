@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2098087345077797157",
+    "created_at": "2026-09-10T16:32:58.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T17:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098087345077797157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Aloevce/status/2097375351215411589",
+          "start": 36,
+          "url": "https://t.co/nopmrtQing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098087345077797157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097375351215411589",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去了今天两个申请进群的搜索一看全都是招嫖的我求你了 我这里不是约泡群 https://t.co/nopmrtQing"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1069,
+        "media_key": "3_2097375347570573312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtfxCibAAAVOVp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2098087345077797157",
+        "created_at": "2026-09-10T16:32:58.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098087345077797157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Aloevce/status/2097375351215411589",
+              "start": 36,
+              "url": "https://t.co/nopmrtQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098087345077797157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097375351215411589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去了今天两个申请进群的搜索一看全都是招嫖的我求你了 我这里不是约泡群 https://t.co/nopmrtQing"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097375347570573312"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2097375351215411589",
+        "created_at": "2026-09-08T17:23:45.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097375351215411589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cvQcB4TDqz",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/2097375351215411589/photo/1",
+              "media_key": "3_2097375347570573312",
+              "start": 5,
+              "url": "https://t.co/cvQcB4TDqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097375351215411589",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097375347570573312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2057,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放不下了 https://t.co/cvQcB4TDqz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2098087345077797157",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17941,
+          "following_count": 1934,
+          "like_count": 57133,
+          "listed_count": 21,
+          "media_count": 7085,
+          "tweet_count": 24731
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

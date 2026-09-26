@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2095348158670811285",
+    "created_at": "2026-09-03T03:08:25.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T04:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095348158670811285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__Ju___Ju__/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/__Ju___Ju__/status/2095226177619362136",
+          "start": 2,
+          "url": "https://t.co/KWfQndheND"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095348158670811285",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095226177619362136",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/KWfQndheND"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2095348158670811285",
+        "created_at": "2026-09-03T03:08:25.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095348158670811285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__Ju___Ju__/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/__Ju___Ju__/status/2095226177619362136",
+              "start": 2,
+              "url": "https://t.co/KWfQndheND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095348158670811285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095226177619362136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/KWfQndheND"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3012350599",
+        "conversation_id": "2095226177619362136",
+        "created_at": "2026-09-02T19:03:42.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095226177619362136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095226177619362136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要淘宝小红书逛得足够多就能一眼识别出别人穿的蕾服是哪家的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2095348158670811285",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17948,
+          "following_count": 1937,
+          "like_count": 57087,
+          "listed_count": 21,
+          "media_count": 7067,
+          "tweet_count": 24680
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "为什么我不能只是一只毛绒小兔子？🐰🍊/#すこ部 推し\n此处放置玖玖、花路和小咩",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "すこ部"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "is_identity_verified": false,
+        "location": "Daegu, Republic of Korea",
+        "most_recent_tweet_id": "2095236335661678955",
+        "name": "轻松桔🍊",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3012350599/1768482992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4485,
+          "following_count": 514,
+          "like_count": 45307,
+          "listed_count": 16,
+          "media_count": 3547,
+          "tweet_count": 49739
+        },
+        "url": "",
+        "username": "__Ju___Ju__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

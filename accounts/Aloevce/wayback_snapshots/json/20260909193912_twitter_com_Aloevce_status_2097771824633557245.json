@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2097771737299718144"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2097771824633557245",
+    "created_at": "2026-09-09T19:39:12.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T20:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097771824633557245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MM98GFPPcG",
+          "end": 67,
+          "expanded_url": "https://x.com/Aloevce/status/2097771824633557245/video/1",
+          "media_key": "7_2097771737299718144",
+          "start": 44,
+          "url": "https://t.co/MM98GFPPcG"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/Aloevce/status/2097682429993758776",
+          "start": 68,
+          "url": "https://t.co/L4lVBhxMqU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097771824633557245",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "7_2097771737299718144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097682429993758776",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的抖音被做局了怎么全是食物你知道这意味着什么吗没有一个人拿到我的抖音号能保持口腔干燥 https://t.co/MM98GFPPcG https://t.co/L4lVBhxMqU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25208,
+        "height": 1280,
+        "media_key": "7_2097771737299718144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2097771737299718144/pu/img/vgtkAorEkEEB5_ZP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2097771737299718144/pu/vid/avc1/320x712/M6CvIlvyJZnl0h52.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2097771737299718144/pu/vid/avc1/480x1070/1eo8FSyiOt-aQg5g.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2097771737299718144/pu/vid/avc1/574x1280/DTPbhC2pb4JjQSda.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2097771737299718144/pu/pl/6LbjIjbLwHJYvMaz.m3u8?tag=12"
+          }
+        ],
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2097771737299718144"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2097771824633557245",
+        "created_at": "2026-09-09T19:39:12.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097771824633557245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MM98GFPPcG",
+              "end": 67,
+              "expanded_url": "https://x.com/Aloevce/status/2097771824633557245/video/1",
+              "media_key": "7_2097771737299718144",
+              "start": 44,
+              "url": "https://t.co/MM98GFPPcG"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/Aloevce/status/2097682429993758776",
+              "start": 68,
+              "url": "https://t.co/L4lVBhxMqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097771824633557245",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "7_2097771737299718144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097682429993758776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的抖音被做局了怎么全是食物你知道这意味着什么吗没有一个人拿到我的抖音号能保持口腔干燥 https://t.co/MM98GFPPcG https://t.co/L4lVBhxMqU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2097682429993758776",
+        "created_at": "2026-09-09T13:43:59.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097682429993758776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Aloevce/status/2097681624913891727",
+              "start": 18,
+              "url": "https://t.co/E8Yv58J7UC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097682429993758776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 313,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097681624913891727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "饿饿饿饿饿饿饿饿饿啊啊啊啊啊啊啊啊 https://t.co/E8Yv58J7UC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2097771824633557245",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17937,
+          "following_count": 1934,
+          "like_count": 57115,
+          "listed_count": 21,
+          "media_count": 7084,
+          "tweet_count": 24724
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

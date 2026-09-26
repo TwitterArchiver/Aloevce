@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2097775844576170334",
+    "created_at": "2026-09-09T19:55:10.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T20:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097775844576170334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/Aloevce/status/2097647773588103601",
+          "start": 45,
+          "url": "https://t.co/am72oNTtgX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097775844576170334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097647773588103601",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（往多了说 亲戚来十个 同学朋友来十个 网友来十个 教堂一排坐六个也才坐五排甚至四排三排 https://t.co/am72oNTtgX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2097775844576170334",
+        "created_at": "2026-09-09T19:55:10.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097775844576170334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Aloevce/status/2097647773588103601",
+              "start": 45,
+              "url": "https://t.co/am72oNTtgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097775844576170334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097647773588103601",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（往多了说 亲戚来十个 同学朋友来十个 网友来十个 教堂一排坐六个也才坐五排甚至四排三排 https://t.co/am72oNTtgX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2097647773588103601",
+        "created_at": "2026-09-09T11:26:16.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097647773588103601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097647773588103601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1753,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "即将在天津某个教堂举办婚礼 谁来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2097775844576170334",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17936,
+          "following_count": 1934,
+          "like_count": 57117,
+          "listed_count": 21,
+          "media_count": 7084,
+          "tweet_count": 24728
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
