@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2106647228307869864",
+    "created_at": "2026-10-04T07:26:53.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T08:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106647228307869864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/soukodono/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/soukodono/status/2106523678444077160",
+          "start": 4,
+          "url": "https://t.co/LBMOwhoweE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106647228307869864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106523678444077160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "豪相斥 https://t.co/LBMOwhoweE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2106647228307869864",
+        "created_at": "2026-10-04T07:26:53.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T08:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106647228307869864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/soukodono/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/soukodono/status/2106523678444077160",
+              "start": 4,
+              "url": "https://t.co/LBMOwhoweE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106647228307869864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106523678444077160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "豪相斥 https://t.co/LBMOwhoweE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055740656476135425",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2106523678444077160",
+        "created_at": "2026-10-03T23:15:56.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T00:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106523678444077160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aloevce/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/aloevce/status/2053500995422831024",
+              "start": 9,
+              "url": "https://t.co/Th1g7cWNQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106523678444077160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053500995422831024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想吃这家美蛙鱼 https://t.co/Th1g7cWNQI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2106647228307869864",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17891,
+          "following_count": 1921,
+          "like_count": 55605,
+          "listed_count": 21,
+          "media_count": 7135,
+          "tweet_count": 24809
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-16T20:03:10.000Z",
+        "description": "日薪100元牛马版",
+        "id": "2055740656476135425",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106534964284072070",
+        "name": "そうこ殿☘️@二代目",
+        "pinned_tweet_id": "2066379436686197219",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078565192431247360/fcSMRcvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 6,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "soukodono",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

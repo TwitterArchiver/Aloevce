@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2106797922390270020",
+    "created_at": "2026-10-04T17:25:41.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T18:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106797922390270020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/Aloevce/status/2106792672543547547",
+          "start": 80,
+          "url": "https://t.co/o1pryVa4Y1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106797922390270020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106792672543547547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的老天 我也根本不知道生孩子的意义 我是有经济实力还是有什么好的基因需要传承 我也不想随便睡一觉就成为伟大的父母 我也不需要老了有人照顾因为我自己会找根绳子 https://t.co/o1pryVa4Y1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2106797922390270020",
+        "created_at": "2026-10-04T17:25:41.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T18:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106797922390270020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/Aloevce/status/2106792672543547547",
+              "start": 80,
+              "url": "https://t.co/o1pryVa4Y1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106797922390270020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106792672543547547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的老天 我也根本不知道生孩子的意义 我是有经济实力还是有什么好的基因需要传承 我也不想随便睡一觉就成为伟大的父母 我也不需要老了有人照顾因为我自己会找根绳子 https://t.co/o1pryVa4Y1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2106792672543547547",
+        "created_at": "2026-10-04T17:04:50.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T18:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106792672543547547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Aloevce/status/2106773857646604400",
+              "start": 49,
+              "url": "https://t.co/hXhsvWcKDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106792672543547547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106773857646604400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的老天 我现在是属于一个从一个对我创伤小的家庭来到一个创伤更大的家庭 我还不如初中那会就重开了 https://t.co/hXhsvWcKDw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2106797922390270020",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17890,
+          "following_count": 1920,
+          "like_count": 55612,
+          "listed_count": 21,
+          "media_count": 7136,
+          "tweet_count": 24817
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2106652692525531284",
+    "created_at": "2026-10-04T07:48:36.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T08:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106652692525531284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rajkuma3993831…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Rajkuma39938312/status/2106606346787496107",
+          "start": 5,
+          "url": "https://t.co/c3tuJT18AJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106652692525531284",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106606346787496107",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了 https://t.co/c3tuJT18AJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7430,
+        "height": 1280,
+        "media_key": "13_2106606314612985856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106606314612985856/img/85IU5s2hGi13o2pE.jpg",
+        "public_metrics": {
+          "view_count": 27772
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106606314612985856/vid/avc1/320x568/2-0UUsWD3PnsEz4Y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106606314612985856/vid/avc1/480x852/3riRmJyUa5HtgUt5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106606314612985856/vid/avc1/720x1280/bkWz9-RXQhisu7Ek.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106606314612985856/pl/xSvrjhIGRjG2rno9.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2106652692525531284",
+        "created_at": "2026-10-04T07:48:36.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T08:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106652692525531284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rajkuma3993831…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Rajkuma39938312/status/2106606346787496107",
+              "start": 5,
+              "url": "https://t.co/c3tuJT18AJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106652692525531284",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106606346787496107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/c3tuJT18AJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106606314612985856"
+          ]
+        },
+        "author_id": "967940564334256130",
+        "conversation_id": "2106606346787496107",
+        "created_at": "2026-10-04T04:44:26.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106606346787496107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "613399328",
+              "start": 15,
+              "username": "FinFinzter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FserawyKVJ",
+              "end": 50,
+              "expanded_url": "https://x.com/Rajkuma39938312/status/2106606346787496107/video/1",
+              "media_key": "13_2106606314612985856",
+              "start": 27,
+              "url": "https://t.co/FserawyKVJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106606346787496107",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2106606314612985856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 67447,
+          "like_count": 261,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "大哥？？？这是看的啥啊？   @FinFinzter https://t.co/FserawyKVJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2106652692525531284",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17891,
+          "following_count": 1921,
+          "like_count": 55607,
+          "listed_count": 21,
+          "media_count": 7136,
+          "tweet_count": 24812
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-02-26T01:53:08.000Z",
+        "description": "",
+        "id": "967940564334256130",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106606346787496107",
+        "name": "无忧无愁，菜狗大头",
+        "pinned_tweet_id": "2105277428365189465",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105274287011803136/MadxLXG4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 118,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "Rajkuma39938312",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

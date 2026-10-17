@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2103247153141617087",
+    "created_at": "2026-09-24T22:16:12.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T23:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103247153141617087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yueyue8964/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yueyue8964/status/2103201910690034060",
+          "start": 5,
+          "url": "https://t.co/UmkPKcwQfP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103247153141617087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103201910690034060",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无敌了。 https://t.co/UmkPKcwQfP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2103247153141617087",
+        "created_at": "2026-09-24T22:16:12.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T23:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103247153141617087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yueyue8964/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yueyue8964/status/2103201910690034060",
+              "start": 5,
+              "url": "https://t.co/UmkPKcwQfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103247153141617087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103201910690034060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无敌了。 https://t.co/UmkPKcwQfP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750329917252976640",
+        "conversation_id": "2103200879260352571",
+        "created_at": "2026-09-24T19:16:25.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T20:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103201910690034060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103201910690034060",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103200879260352571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 智能拼豆板好用吗。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2103247153141617087",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17902,
+          "following_count": 1929,
+          "like_count": 55627,
+          "listed_count": 21,
+          "media_count": 7112,
+          "tweet_count": 24774
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "另一个我@030ovo914",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "030ovo914"
+              }
+            ]
+          }
+        },
+        "id": "1750329917252976640",
+        "is_identity_verified": false,
+        "location": "无声的寂静海",
+        "most_recent_tweet_id": "2103201910690034060",
+        "name": "小榆",
+        "pinned_tweet_id": "2093747550881017959",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1750329917252976640/1768833030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9954,
+          "following_count": 537,
+          "like_count": 11092,
+          "listed_count": 20,
+          "media_count": 555,
+          "tweet_count": 14864
+        },
+        "url": "",
+        "username": "yueyue8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

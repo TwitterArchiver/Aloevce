@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103471777192312832",
+        "3_2103471778672922624",
+        "3_2103471786377773056",
+        "3_2103471786381971456"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2103471825615454216",
+    "created_at": "2026-09-25T13:08:58.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T14:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103471825615454216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g5uGDcOfj3",
+          "end": 30,
+          "expanded_url": "https://x.com/Aloevce/status/2103471825615454216/photo/1",
+          "media_key": "3_2103471777192312832",
+          "start": 7,
+          "url": "https://t.co/g5uGDcOfj3"
+        },
+        {
+          "display_url": "pic.x.com/g5uGDcOfj3",
+          "end": 30,
+          "expanded_url": "https://x.com/Aloevce/status/2103471825615454216/photo/1",
+          "media_key": "3_2103471778672922624",
+          "start": 7,
+          "url": "https://t.co/g5uGDcOfj3"
+        },
+        {
+          "display_url": "pic.x.com/g5uGDcOfj3",
+          "end": 30,
+          "expanded_url": "https://x.com/Aloevce/status/2103471825615454216/photo/1",
+          "media_key": "3_2103471786377773056",
+          "start": 7,
+          "url": "https://t.co/g5uGDcOfj3"
+        },
+        {
+          "display_url": "pic.x.com/g5uGDcOfj3",
+          "end": 30,
+          "expanded_url": "https://x.com/Aloevce/status/2103471825615454216/photo/1",
+          "media_key": "3_2103471786381971456",
+          "start": 7,
+          "url": "https://t.co/g5uGDcOfj3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103471825615454216",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103471777192312832"
+      },
+      {
+        "media_key": "3_2103471778672922624"
+      },
+      {
+        "media_key": "3_2103471786377773056"
+      },
+      {
+        "media_key": "3_2103471786381971456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "饭来。。。！ https://t.co/g5uGDcOfj3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2103471777192312832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEIb8qbgAAwRmz.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103471778672922624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEIcCLb0AA0pKC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2103471786377773056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEIce4agAAKTE1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103471786381971456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEIce5akAAlDDl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103471777192312832",
+            "3_2103471778672922624",
+            "3_2103471786377773056",
+            "3_2103471786381971456"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2103471825615454216",
+        "created_at": "2026-09-25T13:08:58.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103471825615454216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5uGDcOfj3",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/2103471825615454216/photo/1",
+              "media_key": "3_2103471777192312832",
+              "start": 7,
+              "url": "https://t.co/g5uGDcOfj3"
+            },
+            {
+              "display_url": "pic.x.com/g5uGDcOfj3",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/2103471825615454216/photo/1",
+              "media_key": "3_2103471778672922624",
+              "start": 7,
+              "url": "https://t.co/g5uGDcOfj3"
+            },
+            {
+              "display_url": "pic.x.com/g5uGDcOfj3",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/2103471825615454216/photo/1",
+              "media_key": "3_2103471786377773056",
+              "start": 7,
+              "url": "https://t.co/g5uGDcOfj3"
+            },
+            {
+              "display_url": "pic.x.com/g5uGDcOfj3",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/2103471825615454216/photo/1",
+              "media_key": "3_2103471786381971456",
+              "start": 7,
+              "url": "https://t.co/g5uGDcOfj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103471825615454216",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103471777192312832"
+          },
+          {
+            "media_key": "3_2103471778672922624"
+          },
+          {
+            "media_key": "3_2103471786377773056"
+          },
+          {
+            "media_key": "3_2103471786381971456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "饭来。。。！ https://t.co/g5uGDcOfj3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2103471825615454216",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17898,
+          "following_count": 1927,
+          "like_count": 55622,
+          "listed_count": 21,
+          "media_count": 7114,
+          "tweet_count": 24777
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2107552050804658176"
+      ]
+    },
+    "author_id": "1495662254544789506",
+    "conversation_id": "2107552102570734013",
+    "created_at": "2026-10-06T19:22:32.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T20:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107552102570734013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZtINeOdx5r",
+          "end": 39,
+          "expanded_url": "https://x.com/Aloevce/status/2107552102570734013/video/1",
+          "media_key": "7_2107552050804658176",
+          "start": 16,
+          "url": "https://t.co/ZtINeOdx5r"
+        },
+        {
+          "display_url": "x.com/Aloevce/status…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/Aloevce/status/2107338483962724468",
+          "start": 40,
+          "url": "https://t.co/oDFHcEvGGI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107552102570734013",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "7_2107552050804658176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107338483962724468",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "早餐：瑞幸咖啡\n晚餐：鸡的全家 https://t.co/ZtINeOdx5r https://t.co/oDFHcEvGGI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8725,
+        "height": 1280,
+        "media_key": "7_2107552050804658176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2107552050804658176/pu/img/vFUU8flwqjzOKrkI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2107552050804658176/pu/vid/avc1/320x568/ZhkuakilMMqXGsk6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2107552050804658176/pu/vid/avc1/480x852/G25LWF_H4Nxzj52z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2107552050804658176/pu/vid/avc1/720x1280/CyNDoKu8eQAhNY6j.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2107552050804658176/pu/pl/E2lgCMe1GtU8brKL.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107338478854008832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7FLm2a8AAN2tF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2107552050804658176"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2107552102570734013",
+        "created_at": "2026-10-06T19:22:32.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T20:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107552102570734013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtINeOdx5r",
+              "end": 39,
+              "expanded_url": "https://x.com/Aloevce/status/2107552102570734013/video/1",
+              "media_key": "7_2107552050804658176",
+              "start": 16,
+              "url": "https://t.co/ZtINeOdx5r"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Aloevce/status/2107338483962724468",
+              "start": 40,
+              "url": "https://t.co/oDFHcEvGGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107552102570734013",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_2107552050804658176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107338483962724468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早餐：瑞幸咖啡\n晚餐：鸡的全家 https://t.co/ZtINeOdx5r https://t.co/oDFHcEvGGI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107338478854008832"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2107338483962724468",
+        "created_at": "2026-10-06T05:13:41.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107338483962724468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xE2E5TTP6k",
+              "end": 45,
+              "expanded_url": "https://x.com/Aloevce/status/2107338483962724468/photo/1",
+              "media_key": "3_2107338478854008832",
+              "start": 22,
+              "url": "https://t.co/xE2E5TTP6k"
+            },
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Aloevce/status/2107279812792668309",
+              "start": 46,
+              "url": "https://t.co/fb9z6FIiXe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107338483962724468",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107338478854008832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 460,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107279812792668309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想要联名杯脑抽了点了个热饮与联名杯失之交臂 https://t.co/xE2E5TTP6k https://t.co/fb9z6FIiXe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2107552102570734013",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17881,
+          "following_count": 1919,
+          "like_count": 55618,
+          "listed_count": 21,
+          "media_count": 7138,
+          "tweet_count": 24821
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

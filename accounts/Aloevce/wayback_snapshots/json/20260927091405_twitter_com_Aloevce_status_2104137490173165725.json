@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2104137490173165725",
+    "created_at": "2026-09-27T09:14:05.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T10:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104137490173165725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xupaopaogm/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/xupaopaogm/status/2104058449990705553",
+          "start": 21,
+          "url": "https://t.co/VygeRVW3Kr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104137490173165725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104058449990705553",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我可以做你的朋友，但我现实没有经济来源。 https://t.co/VygeRVW3Kr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1803,
+        "media_key": "3_2104034177607933952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTMH79eaIAAI92u.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2104,
+        "media_key": "3_2104034177662537728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTMH79rbUAAha-2.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2104137490173165725",
+        "created_at": "2026-09-27T09:14:05.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104137490173165725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xupaopaogm/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/xupaopaogm/status/2104058449990705553",
+              "start": 21,
+              "url": "https://t.co/VygeRVW3Kr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104137490173165725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104058449990705553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可以做你的朋友，但我现实没有经济来源。 https://t.co/VygeRVW3Kr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104034177607933952",
+            "3_2104034177662537728"
+          ]
+        },
+        "author_id": "1844296703282925568",
+        "conversation_id": "2104058449990705553",
+        "created_at": "2026-09-27T04:00:00.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104058449990705553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKLuOy2Xnx",
+              "end": 56,
+              "expanded_url": "https://x.com/xupaopaogm/status/2104058449990705553/photo/1",
+              "media_key": "3_2104034177607933952",
+              "start": 33,
+              "url": "https://t.co/sKLuOy2Xnx"
+            },
+            {
+              "display_url": "pic.x.com/sKLuOy2Xnx",
+              "end": 56,
+              "expanded_url": "https://x.com/xupaopaogm/status/2104058449990705553/photo/1",
+              "media_key": "3_2104034177662537728",
+              "start": 33,
+              "url": "https://t.co/sKLuOy2Xnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104058449990705553",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104034177607933952"
+          },
+          {
+            "media_key": "3_2104034177662537728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 189425,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 78,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天在地铁碰到崩老头的了\n\n我只能说大爷还是大爷，真 JB 会玩 https://t.co/sKLuOy2Xnx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2104137490173165725",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17894,
+          "following_count": 1929,
+          "like_count": 55624,
+          "listed_count": 21,
+          "media_count": 7118,
+          "tweet_count": 24784
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1925123366492745729/NGDodCQg_bigger.jpg",
+          "description": "BiyaPay 中文",
+          "url": "https://twitter.com/BIYAPAYOFFICIAL",
+          "user_id": [
+            "1404674977866018816"
+          ]
+        },
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "AI 会员代充值：https://t.co/wwJBZlN21M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paocn.com",
+                "end": 32,
+                "expanded_url": "http://paocn.com/",
+                "start": 9,
+                "url": "https://t.co/wwJBZlN21M"
+              }
+            ]
+          }
+        },
+        "id": "1844296703282925568",
+        "is_identity_verified": false,
+        "location": "导航",
+        "most_recent_tweet_id": "2104133063433420849",
+        "name": "徐跑跑",
+        "pinned_tweet_id": "2103896128983101873",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844296703282925568/1788329744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087195072202981376/a5vvH7bW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61021,
+          "following_count": 7941,
+          "like_count": 46518,
+          "listed_count": 127,
+          "media_count": 1564,
+          "tweet_count": 44144
+        },
+        "url": "",
+        "username": "xupaopaogm",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

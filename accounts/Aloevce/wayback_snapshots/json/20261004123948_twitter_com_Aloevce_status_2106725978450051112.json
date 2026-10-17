@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1495662254544789506",
+    "conversation_id": "2106725978450051112",
+    "created_at": "2026-10-04T12:39:48.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T13:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106725978450051112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sama_ybp/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/sama_ybp/status/2106662692111200286",
+          "start": 4,
+          "url": "https://t.co/qVn8NO549q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106725978450051112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106662692111200286",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我身材 https://t.co/qVn8NO549q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15200,
+        "height": 720,
+        "media_key": "13_2106662652777005056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106662652777005056/img/NtM6Rwu0mhz-1idw.jpg",
+        "public_metrics": {
+          "view_count": 45787
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106662652777005056/vid/avc1/480x270/DXvOqn1m-4PoCd1J.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106662652777005056/vid/avc1/640x360/vArQ9ak_hnncBDXd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106662652777005056/vid/avc1/1280x720/6-3XtMz5kFOF-4T2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106662652777005056/pl/rWcOWzzcGmtl4stK.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2106725978450051112",
+        "created_at": "2026-10-04T12:39:48.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106725978450051112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sama_ybp/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/sama_ybp/status/2106662692111200286",
+              "start": 4,
+              "url": "https://t.co/qVn8NO549q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106725978450051112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106662692111200286",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我身材 https://t.co/qVn8NO549q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106662652777005056"
+          ]
+        },
+        "author_id": "1824369572558016516",
+        "conversation_id": "2106662692111200286",
+        "created_at": "2026-10-04T08:28:20.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T09:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106662692111200286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXI7rNLutg",
+              "end": 47,
+              "expanded_url": "https://x.com/sama_ybp/status/2106662692111200286/video/1",
+              "media_key": "13_2106662652777005056",
+              "start": 24,
+              "url": "https://t.co/zXI7rNLutg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106662692111200286",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2106662652777005056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 74193,
+          "like_count": 205,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "请给我一双没看过这个视频的眼睛😭😭😭\n😭😭😭😭 https://t.co/zXI7rNLutg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2106725978450051112",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2097375351215411589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17891,
+          "following_count": 1921,
+          "like_count": 55609,
+          "listed_count": 21,
+          "media_count": 7136,
+          "tweet_count": 24813
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-16T08:56:36.000Z",
+        "description": "🎓 08｜本科SWE在读\n社会观察·心理学·哲学·精神分析",
+        "id": "1824369572558016516",
+        "is_identity_verified": false,
+        "location": "0.1m",
+        "most_recent_tweet_id": "2106725379251847545",
+        "name": "Alice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824369572558016516/1781870848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103866108075974656/vMXdZbjy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 1327,
+          "like_count": 6550,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 4198
+        },
+        "url": "",
+        "username": "sama_ybp",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
